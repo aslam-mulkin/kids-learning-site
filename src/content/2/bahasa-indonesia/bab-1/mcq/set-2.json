@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bi2b1-11",
+    "q": "Nomina adalah kata yang ...",
+    "options": ["menunjukkan sifat", "menamai orang/benda/tempat", "menunjukkan jumlah", "menjelaskan cara"],
+    "answer": 1,
+    "explain": "Nomina menamai orang, benda, atau tempat; bukan sifat, jumlah, atau cara."
+  },
+  {
+    "id": "bi2b1-12",
+    "q": "Pilih pasangan yang benar",
+    "options": ["meja - pahit", "baju - kuning", "pasar - manis", "asam - rumah"],
+    "answer": 1,
+    "explain": "“Baju—kuning” tepat (warna sebagai sifat); pasangan lain tidak sesuai konteks."
+  },
+  {
+    "id": "bi2b1-13",
+    "q": "Kata sifat untuk ukuran adalah ...",
+    "options": ["besar", "buku", "pasar", "guru"],
+    "answer": 0,
+    "explain": "“Besar” adalah kata sifat ukuran; opsi lain adalah kata benda."
+  }
+]
+

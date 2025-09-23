@@ -1,0 +1,105 @@
+
+import React, { Suspense, useEffect, useMemo, useState } from 'react'
+import { listTopics, loadFlashcards, loadMCQ } from '@/content/registry'
+import type { TopicMeta, Flashcard, MCQ } from '@/types'
+import { Card, CardContent, CardTitle } from '@/components/ui/Card'
+import { Button } from '@/components/ui/Button'
+
+const FlashcardsView = React.lazy(() => import('./views/FlashcardsView'))
+const QuizView = React.lazy(() => import('./views/QuizView'))
+
+type Mode = 'flashcards' | 'quiz'
+
+export default function App() {
+  const topics = useMemo(() => listTopics(), [])
+  const grades = Array.from(new Set(topics.map(t => t.grade)))
+  const [grade, setGrade] = useState(grades[0])
+  const subjects = Array.from(new Set(topics.filter(t => t.grade===grade).map(t => t.subject)))
+  const [subject, setSubject] = useState(subjects[0])
+  const topicOptions = topics.filter(t => t.grade===grade && t.subject===subject)
+  const [topicId, setTopicId] = useState(topicOptions[0]?.topicId)
+  const [mode, setMode] = useState<Mode>('flashcards')
+  const [setId, setSetId] = useState<string | undefined>(topicOptions[0]?.mcqSets?.[0]?.setId)
+
+  useEffect(() => { setSubject(subjects[0]) }, [grade])
+  useEffect(() => { const opts = topics.filter(t => t.grade===grade && t.subject===subject); setTopicId(opts[0]?.topicId); setSetId(opts[0]?.mcqSets?.[0]?.setId) }, [grade, subject])
+
+  const current: TopicMeta | undefined = topics.find(t => t.grade===grade && t.subject===subject && t.topicId===topicId)
+
+  const [cards, setCards] = useState<Flashcard[] | null>(null)
+  const [mcq, setMcq] = useState<MCQ[] | null>(null)
+
+  async function load() {
+    if (!current) return
+    if (mode==='flashcards' && current.flashcardsPath) {
+      const data = await loadFlashcards(current); setCards(data); setMcq(null)
+    }
+    if (mode==='quiz' && current.mcqSets?.length && setId) {
+      const data = await loadMCQ(current, setId); setMcq(data); setCards(null)
+    }
+  }
+
+  useEffect(() => { load() }, [current?.grade, current?.subject, current?.topicId, mode, setId])
+
+  return (
+    <div className="max-w-5xl mx-auto p-4">
+      <header className="mb-4 flex items-center justify-between">
+        <h1 className="text-2xl font-bold">Belajar Seru</h1>
+      </header>
+
+      <Card className="mb-4">
+        <CardContent className="grid md:grid-cols-5 gap-2">
+          <div>
+            <label className="text-xs text-slate-600">Kelas</label>
+            <select className="w-full border rounded-xl p-2" value={grade} onChange={e=>setGrade(e.target.value)}>
+              {grades.map(g => <option key={g} value={g}>{g}</option>)}
+            </select>
+          </div>
+          <div>
+            <label className="text-xs text-slate-600">Mata Pelajaran</label>
+            <select className="w-full border rounded-xl p-2" value={subject} onChange={e=>setSubject(e.target.value)}>
+              {subjects.map(s => <option key={s} value={s}>{humanize(s)}</option>)}
+            </select>
+          </div>
+          <div className="md:col-span-2">
+            <label className="text-xs text-slate-600">Bab/Topik</label>
+            <select className="w-full border rounded-xl p-2" value={topicId} onChange={e=>setTopicId(e.target.value)}>
+              {topicOptions.map(t => <option key={t.topicId} value={t.topicId}>{t.title}</option>)}
+            </select>
+          </div>
+          <div>
+            <label className="text-xs text-slate-600">Mode</label>
+            <div className="flex gap-2">
+              <Button variant={mode==='flashcards'?'default':'outline'} onClick={()=>setMode('flashcards')}>Flashcards</Button>
+              <Button variant={mode==='quiz'?'default':'outline'} onClick={()=>setMode('quiz')}>Kuis</Button>
+            </div>
+          </div>
+
+          {mode==='quiz' && current?.mcqSets?.length ? (
+            <div className="md:col-span-5">
+              <label className="text-xs text-slate-600">Pilih Set Soal</label>
+              <select className="w-full border rounded-xl p-2" value={setId} onChange={e=>setSetId(e.target.value)}>
+                {current.mcqSets.map(s => <option key={s.setId} value={s.setId}>{s.title}</option>)}
+              </select>
+            </div>
+          ) : null}
+        </CardContent>
+      </Card>
+
+      <main className="mt-4">
+        <Suspense fallback={<p className="text-slate-500">Memuat…</p>}>
+          {mode==='flashcards' && cards && <FlashcardsView cards={cards} />}
+          {mode==='quiz' && mcq && <QuizView items={mcq} />}
+        </Suspense>
+        {!cards && mode==='flashcards' && <p className="text-slate-500">Tidak ada flashcards untuk topik ini.</p>}
+        {!mcq && mode==='quiz' && <p className="text-slate-500">Tidak ada set soal untuk topik ini.</p>}
+      </main>
+
+      <footer className="mt-10 text-xs text-slate-500">
+        Struktur konten: <code>src/content/&lt;kelas&gt;/&lt;mapel&gt;/&lt;bab-x&gt;/(flashcards.json|mcq/set-*.json)</code>
+      </footer>
+    </div>
+  )
+}
+
+function humanize(s: string) { return s.split('-').map(x => x[0].toUpperCase()+x.slice(1)).join(' ') }

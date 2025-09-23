@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bi2b1-01",
+    "q": "Yang termasuk kata benda adalah ...",
+    "options": ["manis", "rumah", "besar", "cepat"],
+    "answer": 1,
+    "explain": "Rumah adalah benda/tempat (nomina); opsi lain adalah sifat atau cara."
+  },
+  {
+    "id": "bi2b1-02",
+    "q": "Kata sifat di bawah ini adalah ...",
+    "options": ["pasar", "kucing", "cantik", "buku"],
+    "answer": 2,
+    "explain": "“Cantik” adalah kata sifat yang menjelaskan keadaan; lainnya adalah kata benda."
+  },
+  {
+    "id": "bi2b1-03",
+    "q": "\"Andi pergi ke ___\". Isian yang tepat sebagai kata benda tempat adalah ...",
+    "options": ["indah", "pasar", "manis", "tinggi"],
+    "answer": 1,
+    "explain": "“Pasar” adalah tempat (nomina) sehingga tepat melengkapi kalimat."
+  }
+]
+

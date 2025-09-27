@@ -1,18 +1,45 @@
 [
-  {
-    "q": "Kata yang menamai orang/benda/tempat disebut?",
-    "a": "Kata benda (nomina)"
-  },
-  {
-    "q": "Kata yang menjelaskan sifat/keadaan suatu benda disebut?",
-    "a": "Kata sifat (adjektiva)"
-  },
-  {
-    "q": "Contoh kata benda untuk tempat?",
-    "a": "Sekolah, pasar, rumah"
-  },
-  {
-    "q": "Contoh kata sifat untuk rasa?",
-    "a": "Manis, asam, pahit"
-  }
+{ "q": "Apa tema utama Bab 1?", "a": "Mengenal perasaan serta penggunaan huruf kapital dan tanda baca." },
+{ "q": "Kalimat yang baik untuk menyatakan perasaan diawali dengan...", "a": "Aku merasa..." },
+{ "q": "Lengkapi: Aku merasa ___ karena mendapat pujian.", "a": "Bangga." },
+{ "q": "Perasaan saat mainan favorit rusak adalah...", "a": "Sedih." },
+{ "q": "Perasaan saat gelap tiba-tiba adalah...", "a": "Takut." },
+{ "q": "Apa itu empati?", "a": "Mencoba merasakan apa yang orang lain rasakan." },
+{ "q": "Kalimat empati yang sopan adalah...", "a": "Aku ikut sedih. Boleh aku membantu?" },
+{ "q": "Cara menenangkan diri saat marah adalah...", "a": "Tarik napas dalam dan hitung 1–10." },
+{ "q": "Lawan kata 'marah' adalah...", "a": "Tenang." },
+{ "q": "Ekspresi wajah senang biasanya...", "a": "Tersenyum." },
+
+{ "q": "Aturan: Huruf kapital dipakai di...", "a": "Awal kalimat." },
+{ "q": "Pilih yang benar: (a) aku suka es krim. (b) Aku suka es krim.", "a": "B. Aku suka es krim." },
+{ "q": "Huruf kapital untuk nama orang. Pilih yang benar: (a) saya bertemu rina. (b) Saya bertemu Rina.", "a": "B. Saya bertemu Rina." },
+{ "q": "Huruf kapital untuk nama tempat. Lengkapi: Kami pergi ke ___ Bandung.", "a": "Kota Bandung." },
+{ "q": "Huruf kapital untuk sapaan. Pilih yang benar: (a) Terima kasih, bapak. (b) Terima kasih, Bapak.", "a": "B. Terima kasih, Bapak." },
+{ "q": "Huruf kapital untuk nama hari/bulan. Pilih yang benar: (a) senin, mei (b) Senin, Mei", "a": "B. Senin, Mei." },
+{ "q": "Perbaiki: kami belajar di sd merdeka.", "a": "Kami belajar di SD Merdeka." },
+{ "q": "Perbaiki: ibu guru lia masuk kelas.", "a": "Ibu Guru Lia masuk kelas." },
+{ "q": "Perbaiki: ayah bekerja di rumah sakit cendana.", "a": "Ayah bekerja di Rumah Sakit Cendana." },
+{ "q": "Huruf kapital pada judul buku dipakai di...", "a": "Huruf awal tiap kata penting, misalnya 'Petualangan Si Kancil'." },
+
+{ "q": "Tanda titik (.) dipakai untuk...", "a": "Mengakhiri kalimat pernyataan." },
+{ "q": "Pilih tanda baca: Aku merasa tenang__ ", "a": "Aku merasa tenang." },
+{ "q": "Tanda tanya (?) dipakai untuk...", "a": "Kalimat tanya." },
+{ "q": "Pilih tanda baca: Apa kamu baik__ ", "a": "Apa kamu baik?" },
+{ "q": "Tanda seru (!) dipakai untuk...", "a": "Kalimat perintah atau seruan kuat." },
+{ "q": "Pilih tanda baca: Hore kita menang__ ", "a": "Hore, kita menang!" },
+{ "q": "Tanda koma (,) untuk daftar sederhana. Pilih yang benar:", "a": "Aku membeli buku, penggaris, dan pensil." },
+{ "q": "Tanda petik (" ") untuk kalimat langsung. Lengkapi:", "a": "Ibu berkata, "Hati-hati di jalan."" },
+{ "q": "Perbaiki tanda baca: Aku sedih kenapa mainan hilang", "a": "Aku sedih. Kenapa mainan hilang?" },
+{ "q": "Perbaiki tanda baca: Ayo kita semangat", "a": "Ayo, kita semangat!" },
+
+{ "q": "Gabungkan aturan: kapital & titik. Pilih yang benar:", "a": "Aku senang bermain. Adik ikut juga." },
+{ "q": "Gabungkan aturan: kapital & tanya. Pilih yang benar:", "a": "Kamu sudah sarapan?" },
+{ "q": "Temukan kesalahan: kemarin, Aku pergi ke jakarta.", "a": "Kemarin, aku pergi ke Jakarta." },
+{ "q": "Temukan kesalahan: Siapa nama kamu.", "a": "Siapa nama kamu?" },
+{ "q": "Temukan kesalahan: Tolong ambilkan buku.", "a": "Tolong ambilkan buku!" },
+{ "q": "Lengkapi dengan kapital: ___ Dinda, bagaimana kabarmu?", "a": "Halo, Dinda, bagaimana kabarmu?" },
+{ "q": "Lengkapi: ___ Siti berkata, "Aku bangga padamu!"", "a": "Ibu Siti berkata, "Aku bangga padamu!"" },
+{ "q": "Kalimat perasaan + titik yang benar adalah...", "a": "Aku merasa lega setelah presentasi." },
+{ "q": "Kalimat ajakan + seru yang benar adalah...", "a": "Ayo, bermain bersama!" },
+{ "q": "Mengapa aturan kapital dan tanda baca itu penting?", "a": "Agar kalimat jelas, sopan, dan mudah dipahami." }
 ]

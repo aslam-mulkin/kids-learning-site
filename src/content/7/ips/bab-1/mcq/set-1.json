@@ -1,0 +1,178 @@
+[
+{
+"id": "ips7b1-s1-01",
+"q": "Apa yang dimaksud lokasi absolut?",
+"options": ["Letak berdasarkan koordinat", "Letak terhadap tempat lain", "Letak berdasarkan akses jalan", "Letak berdasar waktu tempuh"],
+"answer": 0,
+"explain": "Koordinat lintang-bujur menunjukkan letak absolut."
+},
+{
+"id": "ips7b1-s1-02",
+"q": "Contoh lokasi relatif rumah adalah...",
+"options": ["6° LS 106° BT", "Di utara alun-alun", "Ketinggian 250 mdpl", "Skala 1:50.000"],
+"answer": 1,
+"explain": "Lokasi relatif dibandingkan tempat sekitar."
+},
+{
+"id": "ips7b1-s1-03",
+"q": "Fungsi skala peta adalah...",
+"options": ["Menentukan arah angin", "Mengukur ketinggian", "Membandingkan jarak peta-nyata", "Menunjukkan simbol administrasi"],
+"answer": 2,
+"explain": "Skala menghubungkan jarak peta dengan nyata."
+},
+{
+"id": "ips7b1-s1-04",
+"q": "Arah utara pada peta biasanya ditunjukkan oleh...",
+"options": ["Legenda", "Garpu", "Panah kompas", "Garis kontur"],
+"answer": 2,
+"explain": "Simbol panah kompas mengarah ke utara."
+},
+{
+"id": "ips7b1-s1-05",
+"q": "Konektivitas antarruang berarti...",
+"options": ["Persaingan antarkota", "Keterhubungan wilayah", "Pemekaran daerah", "Pemindahan ibu kota"],
+"answer": 1,
+"explain": "Konektivitas menekankan hubungan antarwilayah."
+},
+{
+"id": "ips7b1-s1-06",
+"q": "Dampak jalan tol bagi distribusi barang adalah...",
+"options": ["Biaya logistik naik", "Waktu tempuh bertambah", "Distribusi lebih cepat", "Pasar menjadi sepi"],
+"answer": 2,
+"explain": "Tol mempercepat pengiriman barang."
+},
+{
+"id": "ips7b1-s1-07",
+"q": "Peran pelabuhan dalam konektivitas adalah...",
+"options": ["Pusat pajak", "Gerbang keluar masuk barang", "Tempat survei penduduk", "Museum maritim"],
+"answer": 1,
+"explain": "Pelabuhan menghubungkan arus barang antarpulau."
+},
+{
+"id": "ips7b1-s1-08",
+"q": "Internet meningkatkan konektivitas karena...",
+"options": ["Hanya untuk hiburan", "Membatasi informasi", "Memungkinkan transaksi jarak jauh", "Menghapus transportasi fisik"],
+"answer": 2,
+"explain": "Internet memungkinkan komunikasi dan transaksi jarak jauh."
+},
+{
+"id": "ips7b1-s1-09",
+"q": "Perubahan iklim adalah...",
+"options": ["Cuaca harian berubah", "Perubahan pola cuaca jangka panjang", "Musim hujan tahunan", "Arah angin lokal"],
+"answer": 1,
+"explain": "Terjadi pada skala waktu panjang."
+},
+{
+"id": "ips7b1-s1-10",
+"q": "Gas rumah kaca utama adalah...",
+"options": ["Oksigen", "CO₂", "Helium", "Nitrogen murni"],
+"answer": 1,
+"explain": "CO₂ berkontribusi besar menahan panas."
+},
+{
+"id": "ips7b1-s1-11",
+"q": "Contoh mitigasi perubahan iklim ialah...",
+"options": ["Menebang hutan", "Membakar sampah", "Menanam pohon", "Meningkatkan penggunaan batu bara"],
+"answer": 2,
+"explain": "Pohon menyerap CO₂ mengurangi emisi."
+},
+{
+"id": "ips7b1-s1-12",
+"q": "El Nino cenderung menyebabkan...",
+"options": ["Kekeringan di beberapa wilayah", "Gempa bumi", "Erupsi gunung", "Kenaikan permukaan tanah"],
+"answer": 0,
+"explain": "El Nino sering memicu kekeringan."
+},
+{
+"id": "ips7b1-s1-13",
+"q": "Indonesia rawan gempa karena...",
+"options": ["Padat penduduk", "Banyak sungai", "Di pertemuan lempeng tektonik", "Dekat kutub selatan"],
+"answer": 2,
+"explain": "Letak tektonik meningkatkan aktivitas seismik."
+},
+{
+"id": "ips7b1-s1-14",
+"q": "Tanda awal tsunami setelah gempa adalah...",
+"options": ["Air laut surut mendadak", "Hujan deras", "Pelangi muncul", "Angin sepoi-sepoi"],
+"answer": 0,
+"explain": "Surut ekstrem menandakan potensi tsunami."
+},
+{
+"id": "ips7b1-s1-15",
+"q": "Mitigasi banjir di kota yang tepat ialah...",
+"options": ["Menutup drainase", "Buang sampah ke sungai", "Membuat sumur resapan", "Menebang pohon kota"],
+"answer": 2,
+"explain": "Resapan air kurangi limpasan permukaan."
+},
+{
+"id": "ips7b1-s1-16",
+"q": "Produksi dalam kegiatan ekonomi berarti...",
+"options": ["Mengonsumsi barang", "Membuat barang/jasa", "Menyalurkan barang", "Menyimpan uang"],
+"answer": 1,
+"explain": "Produksi menghasilkan barang atau jasa."
+},
+{
+"id": "ips7b1-s1-17",
+"q": "Distribusi adalah kegiatan...",
+"options": ["Memakai barang", "Menyimpan barang", "Menyalurkan barang ke konsumen", "Menentukan harga"],
+"answer": 2,
+"explain": "Distribusi mengantar barang ke pengguna."
+},
+{
+"id": "ips7b1-s1-18",
+"q": "Harga naik ketika...",
+"options": ["Permintaan turun", "Penawaran naik", "Permintaan naik", "Produksi melimpah"],
+"answer": 2,
+"explain": "Permintaan tinggi mendorong harga naik."
+},
+{
+"id": "ips7b1-s1-19",
+"q": "Peran koperasi sekolah adalah...",
+"options": ["Menjual senjata", "Menjual kebutuhan siswa", "Mengurus perizinan sekolah", "Menarik pajak daerah"],
+"answer": 1,
+"explain": "Koperasi menyediakan kebutuhan murid."
+},
+{
+"id": "ips7b1-s1-20",
+"q": "Interaksi sosial adalah...",
+"options": ["Hubungan timbal balik antarmanusia", "Perubahan cuaca", "Kegiatan ekonomi", "Pindah tempat tinggal"],
+"answer": 0,
+"explain": "Interaksi terjadi saat saling memengaruhi."
+},
+{
+"id": "ips7b1-s1-21",
+"q": "Norma sosial berfungsi untuk...",
+"options": ["Menghapus aturan", "Membatasi pendidikan", "Menertibkan perilaku", "Memperbanyak konflik"],
+"answer": 2,
+"explain": "Norma mengarahkan perilaku agar tertib."
+},
+{
+"id": "ips7b1-s1-22",
+"q": "Contoh kerja sama di sekolah adalah...",
+"options": ["Bolos bersama", "Piket kelas bersama", "Mencontek ujian", "Mencemooh teman"],
+"answer": 1,
+"explain": "Piket bersama mencerminkan gotong royong."
+},
+{
+"id": "ips7b1-s1-23",
+"q": "Sumber primer dalam sejarah adalah...",
+"options": ["Buku pelajaran", "Artikel blog", "Wawancara pelaku", "Ringkasan guru"],
+"answer": 2,
+"explain": "Bersumber langsung dari pelaku peristiwa."
+},
+{
+"id": "ips7b1-s1-24",
+"q": "Kronologi dalam sejarah berarti...",
+"options": ["Pengelompokan wilayah", "Urutan waktu peristiwa", "Analisis biaya", "Peta tematik"],
+"answer": 1,
+"explain": "Kronologi menyusun peristiwa berdasarkan waktu."
+},
+{
+"id": "ips7b1-s1-25",
+"q": "Periodisasi bertujuan untuk...",
+"options": ["Membagi waktu sejarah", "Mencari koordinat", "Mengukur curah hujan", "Menentukan harga pasar"],
+"answer": 0,
+"explain": "Memudahkan kajian dengan pembagian masa."
+}
+]
+

@@ -1,0 +1,178 @@
+[
+{
+"id": "ips7b1-s2-01",
+"q": "Garis lintang menunjukkan informasi tentang...",
+"options": ["Jarak timur-barat", "Jarak utara-selatan", "Ketinggian tempat", "Kedalaman laut"],
+"answer": 1,
+"explain": "Lintang mengukur posisi utara–selatan Bumi."
+},
+{
+"id": "ips7b1-s2-02",
+"q": "Simbol rumah sakit pada peta dicari melalui...",
+"options": ["Legenda peta", "Skala angka", "Garis kontur", "Grid koordinat"],
+"answer": 0,
+"explain": "Legenda menjelaskan arti simbol peta."
+},
+{
+"id": "ips7b1-s2-03",
+"q": "Manfaat GPS untuk mengenali lokasi tinggal adalah...",
+"options": ["Memperbesar peta", "Memberi koordinat akurat", "Mengubah nama jalan", "Memprediksi cuaca"],
+"answer": 1,
+"explain": "GPS menampilkan koordinat posisi Anda."
+},
+{
+"id": "ips7b1-s2-04",
+"q": "Skala 1:25.000 berarti...",
+"options": ["1 cm = 25 km", "1 cm = 250 m", "1 cm = 2,5 km", "1 cm = 25 m"],
+"answer": 2,
+"explain": "25.000 cm sama dengan 250 meter."
+},
+{
+"id": "ips7b1-s2-05",
+"q": "Contoh lokasi relatif berbasis waktu tempuh adalah...",
+"options": ["110° BT", "Sebelah selatan pasar", "15 menit dari stasiun", "200 mdpl"],
+"answer": 2,
+"explain": "Waktu tempuh menunjukkan kedekatan relatif."
+},
+{
+"id": "ips7b1-s2-06",
+"q": "Bandara meningkatkan konektivitas karena...",
+"options": ["Menambah pajak daerah", "Mempercepat mobilitas jarak jauh", "Mengurangi wisatawan", "Menutup akses desa"],
+"answer": 1,
+"explain": "Penerbangan mempercepat perpindahan orang dan barang."
+},
+{
+"id": "ips7b1-s2-07",
+"q": "Konsep hinterland berkaitan dengan...",
+"options": ["Daerah belakang pelabuhan", "Gunung berapi aktif", "Lahan sawah utama", "Kawasan konservasi"],
+"answer": 0,
+"explain": "Hinterland memasok barang ke pelabuhan."
+},
+{
+"id": "ips7b1-s2-08",
+"q": "Jaringan logistik rantai dingin dibutuhkan untuk...",
+"options": ["Bahan bangunan", "Sayur dan buah beku", "Pakaian jadi", "Peralatan tulis"],
+"answer": 1,
+"explain": "Produk mudah rusak perlu suhu terjaga."
+},
+{
+"id": "ips7b1-s2-09",
+"q": "Dampak positif jembatan baru antarpulau ialah...",
+"options": ["Biaya transportasi naik", "Akses layanan publik membaik", "Isolasi wilayah bertambah", "Kemacetan merata"],
+"answer": 1,
+"explain": "Konektivitas membuka akses layanan vital."
+},
+{
+"id": "ips7b1-s2-10",
+"q": "Perbedaan cuaca dan iklim adalah...",
+"options": ["Skala waktu pengamatan", "Jenis awan", "Letak garis bujur", "Ketinggian tempat"],
+"answer": 0,
+"explain": "Iklim jangka panjang; cuaca harian."
+},
+{
+"id": "ips7b1-s2-11",
+"q": "Contoh adaptasi terhadap perubahan iklim ialah...",
+"options": ["Menaikkan emisi", "Membakar lahan", "Mengubah pola tanam", "Menebang mangrove"],
+"answer": 2,
+"explain": "Adaptasi menyesuaikan praktik agar tahan iklim."
+},
+{
+"id": "ips7b1-s2-12",
+"q": "La Nina cenderung membawa...",
+"options": ["Kekeringan luas", "Hujan di banyak wilayah Indonesia", "Gempa tektonik", "Letusan gunung"],
+"answer": 1,
+"explain": "La Nina meningkatkan curah hujan regional."
+},
+{
+"id": "ips7b1-s2-13",
+"q": "Sumber emisi metana yang umum berasal dari...",
+"options": ["Angin laut", "Peternakan dan sawah", "Batu granit", "Es kutub"],
+"answer": 1,
+"explain": "Fermentasi ternak dan sawah menghasilkan metana."
+},
+{
+"id": "ips7b1-s2-14",
+"q": "Tindakan mitigasi pribadi saat gempa adalah...",
+"options": ["Lari ke lift", "Berlindung bawah meja", "Menyalakan kompor", "Berdiri dekat jendela"],
+"answer": 1,
+"explain": "Drop, cover, hold melindungi dari runtuhan."
+},
+{
+"id": "ips7b1-s2-15",
+"q": "Penyebab utama longsor di lereng adalah kombinasi...",
+"options": ["Tanah gersang dan angin", "Kemiringan, hujan, dan vegetasi hilang", "Awan tebal", "Pasir pantai"],
+"answer": 1,
+"explain": "Lereng curam tanpa vegetasi mudah longsor."
+},
+{
+"id": "ips7b1-s2-16",
+"q": "Rambu jalur evakuasi bencana berfungsi untuk...",
+"options": ["Iklan wisata", "Arah menuju tempat aman", "Larangan parkir", "Penanda batas desa"],
+"answer": 1,
+"explain": "Menunjukkan rute ke titik kumpul aman."
+},
+{
+"id": "ips7b1-s2-17",
+"q": "Kegiatan konsumsi ditunjukkan oleh...",
+"options": ["Membeli dan memakai buku", "Menjual buku ke toko", "Mencetak buku di pabrik", "Mengirim buku ke gudang"],
+"answer": 0,
+"explain": "Konsumsi memakai barang/jasa untuk kebutuhan."
+},
+{
+"id": "ips7b1-s2-18",
+"q": "Pelaku ekonomi rumah tangga konsumen memperoleh pendapatan dari...",
+"options": ["Menjual faktor produksi", "Menetapkan tarif pajak", "Mencetak uang", "Menyusun undang-undang"],
+"answer": 0,
+"explain": "Menyewakan tenaga, tanah, atau modal."
+},
+{
+"id": "ips7b1-s2-19",
+"q": "Ciri pasar modern dibanding tradisional adalah...",
+"options": ["Tawar-menawar intens", "Harga tercantum dan kasir", "Lapak terbuka tanah", "Pembayaran barter"],
+"answer": 1,
+"explain": "Pasar modern pakai label harga dan kasir."
+},
+{
+"id": "ips7b1-s2-20",
+"q": "Ketika penawaran turun, ceteris paribus, harga cenderung...",
+"options": ["Turun", "Tetap", "Naik", "Hilang"],
+"answer": 2,
+"explain": "Barang langka membuat harga naik."
+},
+{
+"id": "ips7b1-s2-21",
+"q": "Sosialisasi primer umumnya terjadi di...",
+"options": ["Kantor kecamatan", "Keluarga", "Pasar malam", "Transportasi umum"],
+"answer": 1,
+"explain": "Keluarga membentuk nilai dasar anak."
+},
+{
+"id": "ips7b1-s2-22",
+"q": "Contoh sanksi sosial ringan di sekolah ialah...",
+"options": ["Skorsing setahun", "Teguran lisan", "Denda besar", "Pidana penjara"],
+"answer": 1,
+"explain": "Teguran lisan memperingatkan tanpa keras."
+},
+{
+"id": "ips7b1-s2-23",
+"q": "Akulturasi terjadi ketika...",
+"options": ["Budaya hilang total", "Dua budaya bertemu dan saling mempengaruhi", "Tidak ada perubahan", "Migrasi berhenti"],
+"answer": 1,
+"explain": "Akulturasi mencampurkan unsur budaya berbeda."
+},
+{
+"id": "ips7b1-s2-24",
+"q": "Tahap heuristik dalam penelitian sejarah adalah...",
+"options": ["Pengumpulan sumber", "Penulisan akhir", "Penafsiran makna", "Penyusunan periodisasi"],
+"answer": 0,
+"explain": "Heuristik berarti mencari dan mengumpulkan data."
+},
+{
+"id": "ips7b1-s2-25",
+"q": "Kritik sumber dilakukan untuk menilai...",
+"options": ["Keindahan naskah", "Keaslian dan kredibilitas sumber", "Jumlah halaman", "Harga buku sejarah"],
+"answer": 1,
+"explain": "Kritik menilai otentik dan kepercayaan sumber."
+}
+]
+

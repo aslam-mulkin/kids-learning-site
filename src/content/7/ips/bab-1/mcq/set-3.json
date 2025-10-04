@@ -1,0 +1,177 @@
+[
+{
+"id": "ips7b1-s3-01",
+"q": "Garis bujur digunakan untuk menentukan...",
+"options": ["Zona waktu", "Ketinggian tempat", "Jenis tanah", "Arah angin lokal"],
+"answer": 0,
+"explain": "Bujur berkaitan dengan pembagian zona waktu."
+},
+{
+"id": "ips7b1-s3-02",
+"q": "Peta tematik menampilkan...",
+"options": ["Semua informasi", "Satu tema tertentu", "Foto udara", "Relief 3D"],
+"answer": 1,
+"explain": "Peta tematik fokus pada satu topik."
+},
+{
+"id": "ips7b1-s3-03",
+"q": "Denah digunakan terutama untuk...",
+"options": ["Wilayah negara", "Lingkungan sempit", "Samudra luas", "Benua"],
+"answer": 1,
+"explain": "Denah menggambarkan area kecil detail."
+},
+{
+"id": "ips7b1-s3-04",
+"q": "SIG (GIS) bermanfaat untuk...",
+"options": ["Mengedit video", "Analisis spasial data", "Menyusun lagu", "Memprogram robot"],
+"answer": 1,
+"explain": "GIS mengolah data berkoordinat."
+},
+{
+"id": "ips7b1-s3-05",
+"q": "Garis kontur pada peta menunjukkan...",
+"options": ["Kedalaman laut", "Ketinggian tempat", "Arah arus", "Batas provinsi"],
+"answer": 1,
+"explain": "Kontur menghubungkan titik berketinggian sama."
+},
+{
+"id": "ips7b1-s3-06",
+"q": "Transportasi multimoda adalah...",
+"options": ["Satu moda saja", "Perpaduan beberapa moda", "Tanpa perpindahan barang", "Hanya jalur udara"],
+"answer": 1,
+"explain": "Multimoda menggabungkan moda darat, laut, udara."
+},
+{
+"id": "ips7b1-s3-07",
+"q": "Istilah "last mile" dalam logistik merujuk pada...",
+"options": ["Gudang pusat", "Pengiriman akhir ke konsumen", "Pelabuhan utama", "Pabrik produsen"],
+"answer": 1,
+"explain": "Last mile adalah tahap pengantaran terakhir."
+},
+{
+"id": "ips7b1-s3-08",
+"q": "Aglomerasi ekonomi terjadi ketika...",
+"options": ["Usaha terpencar", "Usaha saling mengelompok", "Usaha ditutup", "Usaha tanpa tenaga kerja"],
+"answer": 1,
+"explain": "Pengelompokan usaha menekan biaya bersama."
+},
+{
+"id": "ips7b1-s3-09",
+"q": "Dampak negatif konektivitas tanpa perencanaan adalah...",
+"options": ["Kemacetan meningkat", "Akses layanan naik", "Biaya logistik turun", "Investasi tumbuh merata"],
+"answer": 0,
+"explain": "Konektivitas buruk memicu kemacetan."
+},
+{
+"id": "ips7b1-s3-10",
+"q": "Perdagangan elektronik (e-commerce) membutuhkan dukungan utama berupa...",
+"options": ["Pertanian luas", "Jaringan internet dan kurir", "Kapal selam", "Pembangkit nuklir"],
+"answer": 1,
+"explain": "Transaksi online bergantung internet dan pengiriman."
+},
+{
+"id": "ips7b1-s3-11",
+"q": "Kenaikan permukaan laut dapat menyebabkan...",
+"options": ["Rob di pesisir", "Gempa tektonik", "Awan cumulonimbus", "Ombak berhenti"],
+"answer": 0,
+"explain": "Permukaan naik memicu banjir pasang."
+},
+{
+"id": "ips7b1-s3-12",
+"q": "Fungsi mangrove terkait iklim adalah...",
+"options": ["Melepas CO₂ besar", "Menyerap karbon dan lindungi pantai", "Memanaskan laut", "Menghilangkan ikan"],
+"answer": 1,
+"explain": "Mangrove menyerap karbon dan meredam gelombang."
+},
+{
+"id": "ips7b1-s3-13",
+"q": "Energi terbarukan yang umum di Indonesia ialah...",
+"options": ["Batu bara", "Panas bumi", "Minyak serpih", "Torium"],
+"answer": 1,
+"explain": "Indonesia kaya potensi panas bumi."
+},
+{
+"id": "ips7b1-s3-14",
+"q": "Adaptasi kota terhadap panas ekstrem yaitu...",
+"options": ["Kota tanpa pohon", "Atap hijau dan ruang teduh", "Aspal seluruh lahan", "Kurangi taman"],
+"answer": 1,
+"explain": "Ruang hijau menurunkan suhu perkotaan."
+},
+{
+"id": "ips7b1-s3-15",
+"q": "Lembaga berperan memberi peringatan cuaca di Indonesia adalah...",
+"options": ["BNPB", "BMKG", "KPU", "BPS"],
+"answer": 1,
+"explain": "BMKG memantau cuaca dan iklim."
+},
+{
+"id": "ips7b1-s3-16",
+"q": "Banjir bandang biasanya terjadi di...",
+"options": ["Dataran pantai tenang", "Lereng sungai sempit", "Gurun pasir", "Puncak gunung es"],
+"answer": 1,
+"explain": "Sungai sempit mempercepat aliran deras."
+},
+{
+"id": "ips7b1-s3-17",
+"q": "Evakuasi vertikal dilakukan saat...",
+"options": ["Erupsi gunung", "Tsunami di area datar", "Kekeringan", "Kabut asap"],
+"answer": 1,
+"explain": "Naik ke bangunan tinggi saat tsunami."
+},
+{
+"id": "ips7b1-s3-18",
+"q": "Asap kebakaran hutan berdampak pada...",
+"options": ["Kesuburan udara", "Kesehatan pernapasan", "Gempa susulan", "Gelombang radio laut"],
+"answer": 1,
+"explain": "Asap meningkatkan risiko ISPA."
+},
+{
+"id": "ips7b1-s3-19",
+"q": "Spesialisasi kerja meningkatkan...",
+"options": ["Waktu senggang", "Biaya produksi", "Produktivitas", "Kemiskinan"],
+"answer": 2,
+"explain": "Spesialisasi membuat pekerjaan lebih efisien."
+},
+{
+"id": "ips7b1-s3-20",
+"q": "Peran bank bagi kegiatan ekonomi ialah...",
+"options": ["Menjual sayur", "Menyalurkan kredit dan simpanan", "Mencetak undang-undang", "Menentukan cuaca"],
+"answer": 1,
+"explain": "Bank menghimpun dan menyalurkan dana."
+},
+{
+"id": "ips7b1-s3-21",
+"q": "Wirausaha dicirikan oleh...",
+"options": ["Takut risiko", "Menghindari inovasi", "Berani mengambil peluang", "Menolak perubahan"],
+"answer": 2,
+"explain": "Wirausaha melihat peluang dan bertindak."
+},
+{
+"id": "ips7b1-s3-22",
+"q": "Proses asosiatif dalam interaksi sosial meliputi...",
+"options": ["Konflik", "Persaingan", "Kerja sama", "Akomodasi keras"],
+"answer": 2,
+"explain": "Asosiatif cenderung mendekatkan pihak."
+},
+{
+"id": "ips7b1-s3-23",
+"q": "Contoh sosialisasi sekunder terjadi di...",
+"options": ["Keluarga inti", "Taman bermain rumah", "Sekolah dan organisasi", "Ruang pribadi"],
+"answer": 2,
+"explain": "Sekunder berlangsung di luar keluarga."
+},
+{
+"id": "ips7b1-s3-24",
+"q": "Artefak dalam kajian sejarah adalah...",
+"options": ["Tulang dinosaurus", "Benda buatan manusia", "Fosil ikan purba", "Batuan meteor"],
+"answer": 1,
+"explain": "Artefak merupakan produk budaya manusia."
+},
+{
+"id": "ips7b1-s3-25",
+"q": "Historiografi berarti...",
+"options": ["Penggalian situs", "Penulisan sejarah", "Pengujian laboratorium", "Pemetaan bencana"],
+"answer": 1,
+"explain": "Historiografi fokus pada penulisan sejarah."
+}
+]

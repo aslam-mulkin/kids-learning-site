@@ -1,0 +1,177 @@
+[
+{
+"id": "ips7b1-s4-01",
+"q": "Koordinat 7° LS 110° BT menunjukkan...",
+"options": ["Letak absolut", "Letak relatif", "Letak administratif", "Letak topografis"],
+"answer": 0,
+"explain": "Koordinat adalah penentu letak absolut."
+},
+{
+"id": "ips7b1-s4-02",
+"q": "Pernyataan lokasi relatif yang tepat adalah...",
+"options": ["8° LU 120° BT", "Di barat kantor kelurahan", "Skala 1:10.000", "Ketinggian 500 mdpl"],
+"answer": 1,
+"explain": "Membandingkan posisi terhadap obyek sekitar."
+},
+{
+"id": "ips7b1-s4-03",
+"q": "Legenda peta berfungsi untuk...",
+"options": ["Menentukan jarak", "Menjelaskan arti simbol", "Menentukan skala", "Menarik garis bujur"],
+"answer": 1,
+"explain": "Legenda menerangkan simbol pada peta."
+},
+{
+"id": "ips7b1-s4-04",
+"q": "Skala 1:100.000 artinya...",
+"options": ["1 cm = 1 km", "1 cm = 10 km", "1 cm = 100 m", "1 cm = 100 km"],
+"answer": 0,
+"explain": "100.000 cm sama dengan 1 km."
+},
+{
+"id": "ips7b1-s4-05",
+"q": "Grid peta (garis lintang–bujur) berguna untuk...",
+"options": ["Mewarnai peta", "Mencari koordinat lokasi", "Menghitung populasi", "Menentukan musim"],
+"answer": 1,
+"explain": "Grid membantu menemukan posisi tepat."
+},
+{
+"id": "ips7b1-s4-06",
+"q": "Konektivitas meningkat bila tersedia...",
+"options": ["Jalan rusak", "Jaringan transportasi terpadu", "Tarif tinggi", "Zona terlarang luas"],
+"answer": 1,
+"explain": "Jaringan terpadu mempermudah mobilitas."
+},
+{
+"id": "ips7b1-s4-07",
+"q": "Rel kereta logistik bermanfaat karena...",
+"options": ["Lebih lambat", "Mahal untuk semua", "Kapasitas besar efisien", "Hanya antar kota kecil"],
+"answer": 2,
+"explain": "Kereta angkut banyak dengan energi relatif hemat."
+},
+{
+"id": "ips7b1-s4-08",
+"q": "Konsep "hub" di bandara berarti...",
+"options": ["Bandara cadangan", "Pusat transit penghubung rute", "Gudang penyimpanan", "Sekolah penerbangan"],
+"answer": 1,
+"explain": "Hub menghubungkan banyak rute penerbangan."
+},
+{
+"id": "ips7b1-s4-09",
+"q": "Aplikasi peta digital membantu warga karena...",
+"options": ["Menghapus rambu jalan", "Memberi navigasi real-time", "Menutup jalan lokal", "Mengurangi data lokasi"],
+"answer": 1,
+"explain": "Navigasi real-time mempersingkat perjalanan."
+},
+{
+"id": "ips7b1-s4-10",
+"q": "Perubahan iklim berdampak pada pertanian melalui...",
+"options": ["Stok air stabil", "Pola hujan bergeser", "Tanah selalu subur", "Musim tetap sama"],
+"answer": 1,
+"explain": "Perubahan hujan mempengaruhi tanam-panen."
+},
+{
+"id": "ips7b1-s4-11",
+"q": "Salah satu penyebab efek rumah kaca meningkat adalah...",
+"options": ["Penghijauan luas", "Pembakaran bahan bakar fosil", "Penggunaan kompor listrik", "Hujan deras"],
+"answer": 1,
+"explain": "Fosil melepaskan gas rumah kaca."
+},
+{
+"id": "ips7b1-s4-12",
+"q": "Contoh aksi mitigasi di sekolah terkait iklim ialah...",
+"options": ["Nyala AC terus-menerus", "Program hemat listrik", "Bakar sampah bersama", "Tebang pohon halaman"],
+"answer": 1,
+"explain": "Hemat energi menurunkan emisi."
+},
+{
+"id": "ips7b1-s4-13",
+"q": "Indikator gelombang panas di kota antara lain...",
+"options": ["Suhu malam turun", "Kelembapan rendah ekstrem", "Suhu dan indeks panas tinggi", "Angin sepoi tetap"],
+"answer": 2,
+"explain": "Indeks panas tinggi menandakan gelombang panas."
+},
+{
+"id": "ips7b1-s4-14",
+"q": "Indonesia rawan tsunami karena banyak memiliki...",
+"options": ["Delta sungai", "Danau tektonik", "Zona subduksi", "Padang pasir"],
+"answer": 2,
+"explain": "Subduksi memicu gempa pemicu tsunami."
+},
+{
+"id": "ips7b1-s4-15",
+"q": "Langkah aman saat erupsi abu vulkanik adalah...",
+"options": ["Tanpa masker", "Mengemudi kencang", "Gunakan masker dan kacamata", "Tinggal di luar ruangan"],
+"answer": 2,
+"explain": "Pelindung mencegah iritasi pernapasan dan mata."
+},
+{
+"id": "ips7b1-s4-16",
+"q": "Peta rawan bencana digunakan untuk...",
+"options": ["Menaikkan risiko", "Mitigasi dan perencanaan", "Mencari harta karun", "Memprediksi harga"],
+"answer": 1,
+"explain": "Memandu penataan ruang aman."
+},
+{
+"id": "ips7b1-s4-17",
+"q": "Contoh kegiatan produksi rumah tangga pengrajin adalah...",
+"options": ["Membeli kerajinan", "Memasarkan barang jadi", "Membuat anyaman bambu", "Mengonsumsi produk jadi"],
+"answer": 2,
+"explain": "Produksi berarti membuat barang."
+},
+{
+"id": "ips7b1-s4-18",
+"q": "Kegiatan distribusi ditunjukkan oleh pernyataan...",
+"options": ["Makan roti", "Mengantar roti ke toko", "Membuat adonan roti", "Menabung hasil penjualan"],
+"answer": 1,
+"explain": "Distribusi menyalurkan barang ke pasar."
+},
+{
+"id": "ips7b1-s4-19",
+"q": "Permintaan turun, penawaran tetap. Harga cenderung...",
+"options": ["Naik", "Turun", "Tetap tinggi", "Tidak terpengaruh"],
+"answer": 1,
+"explain": "Permintaan rendah menekan harga."
+},
+{
+"id": "ips7b1-s4-20",
+"q": "Contoh pasar faktor produksi adalah...",
+"options": ["Pasar sayur", "Pasar tenaga kerja", "Supermarket", "Toko buku"],
+"answer": 1,
+"explain": "Tenaga kerja diperjualbelikan jasanya."
+},
+{
+"id": "ips7b1-s4-21",
+"q": "Interaksi sosial membutuhkan syarat utama...",
+"options": ["Kontak dan komunikasi", "Cuaca cerah", "Uang banyak", "Ruang tertutup"],
+"answer": 0,
+"explain": "Kontak dan komunikasi memicu interaksi."
+},
+{
+"id": "ips7b1-s4-22",
+"q": "Contoh disosiatif dalam interaksi yaitu...",
+"options": ["Kerja tim", "Mediasi damai", "Kompetisi kelas", "Gotong royong"],
+"answer": 2,
+"explain": "Disosiatif meliputi persaingan."
+},
+{
+"id": "ips7b1-s4-23",
+"q": "Toleransi beragama di sekolah tampak saat...",
+"options": ["Memaksa keyakinan", "Menghormati ibadah teman", "Mengejek perbedaan", "Melarang dialog"],
+"answer": 1,
+"explain": "Menghargai ibadah menunjukkan toleransi."
+},
+{
+"id": "ips7b1-s4-24",
+"q": "Verifikasi (kritik ekstern) sumber sejarah menilai...",
+"options": ["Gaya bahasa", "Keaslian fisik sumber", "Isi makna peristiwa", "Dampak ekonomi"],
+"answer": 1,
+"explain": "Ekstern fokus pada otentisitas."
+},
+{
+"id": "ips7b1-s4-25",
+"q": "Interpretasi dalam metode sejarah berarti...",
+"options": ["Menggali situs", "Menafsirkan fakta sejarah", "Mencetak peta", "Mengarsipkan foto"],
+"answer": 1,
+"explain": "Interpretasi memberi makna pada fakta."
+}
+]

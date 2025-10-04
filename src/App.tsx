@@ -13,48 +13,62 @@ export default function App() {
   const topics = useMemo(() => listTopics(), [])
   const grades = Array.from(new Set(topics.map(t => t.grade)))
   const [grade, setGrade] = useState(grades[0])
-  const subjects = Array.from(new Set(topics.filter(t => t.grade===grade).map(t => t.subject)))
+
+  const subjects = Array.from(new Set(topics.filter(t => t.grade === grade).map(t => t.subject)))
   const [subject, setSubject] = useState(subjects[0])
-  const topicOptions = topics.filter(t => t.grade===grade && t.subject===subject)
+
+  const topicOptions = topics.filter(t => t.grade === grade && t.subject === subject)
   const [topicId, setTopicId] = useState(topicOptions[0]?.topicId)
+
   const [mode, setMode] = useState<Mode>('flashcards')
 
-  // NEW: flashcards multi-set + MCQ multi-set selectors
+  // Multi-set selectors
   const [flashSetId, setFlashSetId] = useState<string | undefined>(topicOptions[0]?.flashcardSets?.[0]?.setId)
   const [setId, setSetId] = useState<string | undefined>(topicOptions[0]?.mcqSets?.[0]?.setId)
 
-  // When grade changes, reset subject; when subject changes, reset topic + sets
+  // When grade changes, pick the first subject of that grade
   useEffect(() => {
     setSubject(subjects[0])
-  }, [grade])
+  }, [grade]) // eslint-disable-line react-hooks/exhaustive-deps
 
+  // When grade OR subject changes, pick the first topic & reset both set pickers
   useEffect(() => {
-    const opts = topics.filter(t => t.grade===grade && t.subject===subject)
+    const opts = topics.filter(t => t.grade === grade && t.subject === subject)
     setTopicId(opts[0]?.topicId)
     setSetId(opts[0]?.mcqSets?.[0]?.setId)
     setFlashSetId(opts[0]?.flashcardSets?.[0]?.setId)
-  }, [grade, subject])
+  }, [grade, subject, topics])
 
-  const current: TopicMeta | undefined = topics.find(t => t.grade===grade && t.subject===subject && t.topicId===topicId)
+  // Also reset set pickers when topic changes directly (user selects another bab)
+  useEffect(() => {
+    const cur = topics.find(t => t.grade === grade && t.subject === subject && t.topicId === topicId)
+    setSetId(cur?.mcqSets?.[0]?.setId)
+    setFlashSetId(cur?.flashcardSets?.[0]?.setId)
+  }, [topicId, grade, subject, topics])
+
+  const current: TopicMeta | undefined = topics.find(t => t.grade === grade && t.subject === subject && t.topicId === topicId)
 
   const [cards, setCards] = useState<Flashcard[] | null>(null)
   const [mcq, setMcq] = useState<MCQ[] | null>(null)
 
   async function load() {
     if (!current) return
-    if (mode==='flashcards') {
+    if (mode === 'flashcards') {
       const data = await loadFlashcards(current, flashSetId)
       setCards(data)
       setMcq(null)
-    }
-    if (mode==='quiz' && current.mcqSets?.length && setId) {
+    } else if (mode === 'quiz' && current.mcqSets?.length && setId) {
       const data = await loadMCQ(current, setId)
       setMcq(data)
       setCards(null)
     }
   }
 
-  useEffect(() => { load() }, [current?.grade, current?.subject, current?.topicId, mode, setId, flashSetId])
+  // ✅ Watch the raw selectors so content refreshes immediately
+  useEffect(() => {
+    load()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [grade, subject, topicId, mode, setId, flashSetId])
 
   return (
     <div className="max-w-5xl mx-auto p-4">
@@ -66,21 +80,21 @@ export default function App() {
         <CardContent className="grid md:grid-cols-5 gap-2">
           <div>
             <label className="text-xs text-slate-600">Kelas</label>
-            <select className="w-full border rounded-xl p-2" value={grade} onChange={e=>setGrade(e.target.value)}>
+            <select className="w-full border rounded-xl p-2" value={grade} onChange={e => setGrade(e.target.value)}>
               {grades.map(g => <option key={g} value={g}>{g}</option>)}
             </select>
           </div>
 
           <div>
             <label className="text-xs text-slate-600">Mata Pelajaran</label>
-            <select className="w-full border rounded-xl p-2" value={subject} onChange={e=>setSubject(e.target.value)}>
+            <select className="w-full border rounded-xl p-2" value={subject} onChange={e => setSubject(e.target.value)}>
               {subjects.map(s => <option key={s} value={s}>{humanize(s)}</option>)}
             </select>
           </div>
 
           <div className="md:col-span-2">
             <label className="text-xs text-slate-600">Bab/Topik</label>
-            <select className="w-full border rounded-xl p-2" value={topicId} onChange={e=>setTopicId(e.target.value)}>
+            <select className="w-full border rounded-xl p-2" value={topicId} onChange={e => setTopicId(e.target.value)}>
               {topicOptions.map(t => <option key={t.topicId} value={t.topicId}>{t.title}</option>)}
             </select>
           </div>
@@ -88,33 +102,31 @@ export default function App() {
           <div>
             <label className="text-xs text-slate-600">Mode</label>
             <div className="flex gap-2">
-              <Button variant={mode==='flashcards'?'default':'outline'} onClick={()=>setMode('flashcards')}>Flashcards</Button>
-              <Button variant={mode==='quiz'?'default':'outline'} onClick={()=>setMode('quiz')}>Kuis</Button>
+              <Button variant={mode === 'flashcards' ? 'default' : 'outline'} onClick={() => setMode('flashcards')}>Flashcards</Button>
+              <Button variant={mode === 'quiz' ? 'default' : 'outline'} onClick={() => setMode('quiz')}>Kuis</Button>
             </div>
           </div>
 
-          {/* NEW: Flashcards set selector */}
-          {mode==='flashcards' && current?.flashcardSets?.length ? (
+          {mode === 'flashcards' && current?.flashcardSets?.length ? (
             <div className="md:col-span-5">
               <label className="text-xs text-slate-600">Pilih Set Flashcards</label>
               <select
                 className="w-full border rounded-xl p-2"
                 value={flashSetId}
-                onChange={e=>setFlashSetId(e.target.value)}
+                onChange={e => setFlashSetId(e.target.value)}
               >
                 {current.flashcardSets.map(s => <option key={s.setId} value={s.setId}>{s.title}</option>)}
               </select>
             </div>
           ) : null}
 
-          {/* Existing: MCQ set selector */}
-          {mode==='quiz' && current?.mcqSets?.length ? (
+          {mode === 'quiz' && current?.mcqSets?.length ? (
             <div className="md:col-span-5">
               <label className="text-xs text-slate-600">Pilih Set Soal</label>
               <select
                 className="w-full border rounded-xl p-2"
                 value={setId}
-                onChange={e=>setSetId(e.target.value)}
+                onChange={e => setSetId(e.target.value)}
               >
                 {current.mcqSets.map(s => <option key={s.setId} value={s.setId}>{s.title}</option>)}
               </select>
@@ -125,12 +137,12 @@ export default function App() {
 
       <main className="mt-4">
         <Suspense fallback={<p className="text-slate-500">Memuat…</p>}>
-          {mode==='flashcards' && cards && <FlashcardsView cards={cards} />}
-          {mode==='quiz' && mcq && <QuizView items={mcq} />}
+          {mode === 'flashcards' && cards && <FlashcardsView cards={cards} />}
+          {mode === 'quiz' && mcq && <QuizView items={mcq} />}
         </Suspense>
 
-        {!cards && mode==='flashcards' && <p className="text-slate-500">Tidak ada flashcards untuk topik ini.</p>}
-        {!mcq && mode==='quiz' && <p className="text-slate-500">Tidak ada set soal untuk topik ini.</p>}
+        {!cards && mode === 'flashcards' && <p className="text-slate-500">Tidak ada flashcards untuk topik ini.</p>}
+        {!mcq && mode === 'quiz' && <p className="text-slate-500">Tidak ada set soal untuk topik ini.</p>}
       </main>
 
       <footer className="mt-10 text-xs text-slate-500">
@@ -141,5 +153,5 @@ export default function App() {
 }
 
 function humanize(s: string) {
-  return s.split('-').map(x => x[0].toUpperCase()+x.slice(1)).join(' ')
+  return s.split('-').map(x => x[0].toUpperCase() + x.slice(1)).join(' ')
 }

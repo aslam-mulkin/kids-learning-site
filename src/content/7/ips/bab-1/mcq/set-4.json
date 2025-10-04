@@ -50,7 +50,7 @@
 },
 {
 "id": "ips7b1-s4-08",
-"q": "Konsep "hub" di bandara berarti...",
+"q": "Konsep \"hub\" di bandara berarti...",
 "options": ["Bandara cadangan", "Pusat transit penghubung rute", "Gudang penyimpanan", "Sekolah penerbangan"],
 "answer": 1,
 "explain": "Hub menghubungkan banyak rute penerbangan."

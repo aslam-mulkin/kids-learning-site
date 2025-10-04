@@ -137,8 +137,18 @@ export default function App() {
 
       <main className="mt-4">
         <Suspense fallback={<p className="text-slate-500">Memuat…</p>}>
-          {mode === 'flashcards' && cards && <FlashcardsView cards={cards} />}
-          {mode === 'quiz' && mcq && <QuizView items={mcq} />}
+          {mode==='flashcards' && cards && (
+            <FlashcardsView
+              key={`fc-${grade}-${subject}-${topicId}-${flashSetId}-${cards.length}`}
+              cards={cards}
+            />
+          )}
+          {mode==='quiz' && mcq && (
+            <QuizView
+            key={`mcq-${grade}-${subject}-${topicId}-${setId}-${mcq.length}`}
+            items={mcq}
+            />
+          )}
         </Suspense>
 
         {!cards && mode === 'flashcards' && <p className="text-slate-500">Tidak ada flashcards untuk topik ini.</p>}

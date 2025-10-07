@@ -1,0 +1,142 @@
+[
+{
+"id": "ip5b2-s3-01",
+"q": "Mana contoh ekosistem darat yang luas dan berumput pendek?",
+"options": ["Savana", "Laut", "Rawa pasang surut", "Terumbu karang"],
+"answer": 0,
+"explain": "Savana adalah ekosistem darat berumput luas."
+},
+{
+"id": "ip5b2-s3-02",
+"q": "Gambar menunjukkan rantai: rumput→belalang→burung pipit→elang. Ekosistem yang paling sesuai adalah…",
+"options": ["Padang rumput", "Laut dangkal", "Gua kapur", "Terumbu karang"],
+"answer": 0,
+"explain": "Organisme itu umum di padang rumput."
+},
+{
+"id": "ip5b2-s3-03",
+"q": "Bencana alam yang bisa merusak ekosistem hutan adalah…",
+"options": ["Kebakaran hutan alami", "Menanam pohon", "Penghijauan kota", "Panen biji"],
+"answer": 0,
+"explain": "Kebakaran alami merusak tumbuhan dan satwa."
+},
+{
+"id": "ip5b2-s3-04",
+"q": "Yang termasuk komponen abiotik pada kolam adalah…",
+"options": ["Cahaya matahari", "Kecebong", "Ikan nila", "Ganggang"],
+"answer": 0,
+"explain": "Cahaya bukan makhluk hidup, abiotik."
+},
+{
+"id": "ip5b2-s3-05",
+"q": "Yang termasuk komponen biotik pada gurun adalah…",
+"options": ["Kaktus", "Pasir", "Batu", "Angin"],
+"answer": 0,
+"explain": "Kaktus adalah makhluk hidup."
+},
+{
+"id": "ip5b2-s3-06",
+"q": "Pada gambar sawah, padi berperan sebagai…",
+"options": ["Produsen", "Konsumen I", "Konsumen II", "Dekomposer"],
+"answer": 0,
+"explain": "Padi membuat makanan melalui fotosintesis."
+},
+{
+"id": "ip5b2-s3-07",
+"q": "Burung jalak memakan kutu di tubuh kerbau. Jenis simbiosisnya…",
+"options": ["Mutualisme", "Parasitisme", "Komensalisme", "Amensalisme"],
+"answer": 0,
+"explain": "Keduanya mendapat keuntungan."
+},
+{
+"id": "ip5b2-s3-08",
+"q": "Anggrek menempel di batang pohon tanpa merugikan. Simbiosis ini adalah…",
+"options": ["Komensalisme", "Mutualisme", "Parasitisme", "Predasi"],
+"answer": 0,
+"explain": "Anggrek untung, pohon tidak rugi."
+},
+{
+"id": "ip5b2-s3-09",
+"q": "Kutu pada kucing menyedot darah kucing. Simbiosis yang tepat…",
+"options": ["Parasitisme", "Mutualisme", "Komensalisme", "Netralisme"],
+"answer": 0,
+"explain": "Parasit untung, inang dirugikan."
+},
+{
+"id": "ip5b2-s3-10",
+"q": "Rantai jagung→tikus→ular→elang. Jika populasi tikus berkurang, apa yang terjadi duluan?",
+"options": ["Ular menurun", "Jagung menurun", "Elang bertambah", "Ular meningkat"],
+"answer": 0,
+"explain": "Ular kekurangan makanan."
+},
+{
+"id": "ip5b2-s3-11",
+"q": "Piramida makanan: alga→zooplankton→ikan kecil→cakalang. Siapa paling banyak populasinya?",
+"options": ["Alga", "Zooplankton", "Ikan kecil", "Cakalang"],
+"answer": 0,
+"explain": "Produsen jumlahnya paling besar."
+},
+{
+"id": "ip5b2-s3-12",
+"q": "Mengapa tingkat trofik atas jumlah individunya sedikit?",
+"options": ["Energi berkurang di tiap transfer", "Lebih banyak beranak", "Makanan tak terbatas", "Produsen kurang fotosintesis"],
+"answer": 0,
+"explain": "Energi hilang sebagai panas."
+},
+{
+"id": "ip5b2-s3-13",
+"q": "Dalam rantai padi→tikus→ular→elang, jika elang punah, dampak awal pada ular adalah…",
+"options": ["Meningkat", "Menurun", "Tetap", "Berubah jadi herbivor"],
+"answer": 0,
+"explain": "Pemangsa ular hilang, ular meningkat."
+},
+{
+"id": "ip5b2-s3-14",
+"q": "Di pantai: pasir, air laut, karang, kepiting. Komponen biotiknya adalah…",
+"options": ["Kepiting", "Pasir", "Air laut", "Garam"],
+"answer": 0,
+"explain": "Kepiting makhluk hidup."
+},
+{
+"id": "ip5b2-s3-15",
+"q": "Faktor abiotik yang paling memengaruhi tumbuhan gurun adalah…",
+"options": ["Ketersediaan air", "Warna bunga", "Jumlah predator", "Jenis burung"],
+"answer": 0,
+"explain": "Air sangat terbatas di gurun."
+},
+{
+"id": "ip5b2-s3-16",
+"q": "Peran bakteri pengurai pada tumpukan sampah organik adalah…",
+"options": ["Dekomposer", "Produsen", "Konsumen puncak", "Parasit"],
+"answer": 0,
+"explain": "Menguraikan sisa menjadi nutrien."
+},
+{
+"id": "ip5b2-s3-17",
+"q": "Ciri: kelembapan tinggi, kanopi rapat, banyak epifit. Ini ekosistem…",
+"options": ["Hutan hujan tropis", "Gurun", "Tundra", "Sabana kering"],
+"answer": 0,
+"explain": "Ciri khas hutan hujan tropis."
+},
+{
+"id": "ip5b2-s3-18",
+"q": "Rantai rumput→belalang→katak→ular→elang. Jika belalang meningkat, apa dampak ke rumput?",
+"options": ["Menurun", "Meningkat", "Tetap", "Menjadi pengurai"],
+"answer": 0,
+"explain": "Rumput lebih banyak dimakan."
+},
+{
+"id": "ip5b2-s3-19",
+"q": "Urutan piramida makanan sawah yang benar adalah…",
+"options": ["Padi→Tikus→Ular→Elang", "Elang→Ular→Tikus→Padi", "Tikus→Padi→Ular→Elang", "Padi→Elang→Ular→Tikus"],
+"answer": 0,
+"explain": "Produsen di dasar, konsumen puncak di atas."
+},
+{
+"id": "ip5b2-s3-20",
+"q": "Di laut: fitoplankton→ikan kecil→tuna. Jika tuna hilang, akibat langsungnya…",
+"options": ["Ikan kecil meningkat", "Plankton hilang", "Ikan kecil punah", "Energi bertambah"],
+"answer": 0,
+"explain": "Pemangsa berkurang, mangsa bertambah."
+}
+]

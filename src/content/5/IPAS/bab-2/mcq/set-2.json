@@ -1,0 +1,142 @@
+[
+{
+"id": "ip5b2-s2-01",
+"q": "Apa contoh ekosistem darat selain hutan?",
+"options": ["Padang rumput", "Laut dalam", "Terumbu karang", "Rawa laut"],
+"answer": 0,
+"explain": "Padang rumput berada di darat."
+},
+{
+"id": "ip5b2-s2-02",
+"q": "Rantai pohon jati→ulat→burung→elang paling cocok di ekosistem…",
+"options": ["Hutan", "Danau", "Laut", "Terumbu karang"],
+"answer": 0,
+"explain": "Rantai itu khas ekosistem hutan."
+},
+{
+"id": "ip5b2-s2-03",
+"q": "Faktor alam yang dapat merusak ekosistem adalah…",
+"options": ["Letusan gunung api", "Menanam bakau", "Daur ulang", "Pemadaman listrik"],
+"answer": 0,
+"explain": "Letusan gunung api merusak habitat."
+},
+{
+"id": "ip5b2-s2-04",
+"q": "Manakah yang termasuk komponen abiotik?",
+"options": ["Cahaya matahari", "Paku", "Ikan", "Bakteri"],
+"answer": 0,
+"explain": "Cahaya adalah benda tak hidup."
+},
+{
+"id": "ip5b2-s2-05",
+"q": "Contoh komponen biotik adalah…",
+"options": ["Bakteri tanah", "Batu kapur", "Udara", "Air hujan"],
+"answer": 0,
+"explain": "Bakteri adalah makhluk hidup."
+},
+{
+"id": "ip5b2-s2-06",
+"q": "Peran fitoplankton di laut adalah…",
+"options": ["Produsen", "Konsumen puncak", "Dekomposer", "Parasit"],
+"answer": 0,
+"explain": "Fitoplankton membuat makanan sendiri."
+},
+{
+"id": "ip5b2-s2-07",
+"q": "Ikan remora menempel pada hiu tanpa merugikannya. Ini simbiosis…",
+"options": ["Komensalisme", "Mutualisme", "Parasitisme", "Amensalisme"],
+"answer": 0,
+"explain": "Remora untung, hiu tidak rugi."
+},
+{
+"id": "ip5b2-s2-08",
+"q": "Cacing pita hidup di usus manusia. Ini simbiosis…",
+"options": ["Parasitisme", "Mutualisme", "Komensalisme", "Netralisme"],
+"answer": 0,
+"explain": "Cacing pita merugikan inangnya."
+},
+{
+"id": "ip5b2-s2-09",
+"q": "Jamur dan akar pohon saling membantu menyerap nutrisi. Ini simbiosis…",
+"options": ["Mutualisme", "Parasitisme", "Komensalisme", "Predasi"],
+"answer": 0,
+"explain": "Keduanya saling menguntungkan."
+},
+{
+"id": "ip5b2-s2-10",
+"q": "Pada padi→tikus→ular→elang, jika tikus menurun, apa terjadi pada padi?",
+"options": ["Meningkat", "Menurun", "Tetap", "Hilang semua"],
+"answer": 0,
+"explain": "Pemakan padi berkurang, padi meningkat."
+},
+{
+"id": "ip5b2-s2-11",
+"q": "Di piramida makanan kolam: alga→kecebong→ular air→bangau. Siapa puncaknya?",
+"options": ["Bangau", "Ular air", "Kecebong", "Alga"],
+"answer": 0,
+"explain": "Bangau adalah konsumen tertinggi."
+},
+{
+"id": "ip5b2-s2-12",
+"q": "Bagaimana energi hilang saat berpindah tingkat trofik?",
+"options": ["Sebagai panas", "Menjadi massa produsen", "Bertambah di konsumen", "Tetap sama"],
+"answer": 0,
+"explain": "Energi banyak hilang sebagai panas."
+},
+{
+"id": "ip5b2-s2-13",
+"q": "Jika elang punah pada padi→tikus→ular→elang, apa terjadi pada tikus?",
+"options": ["Menurun", "Tetap", "Bertambah", "Berubah jadi produsen"],
+"answer": 0,
+"explain": "Ular meningkat memangsa lebih banyak tikus."
+},
+{
+"id": "ip5b2-s2-14",
+"q": "Di pantai ada pasir, angin, kepiting, air. Mana abiotik?",
+"options": ["Pasir", "Kepiting", "Rumput laut", "Kerang"],
+"answer": 0,
+"explain": "Pasir bukan makhluk hidup."
+},
+{
+"id": "ip5b2-s2-15",
+"q": "Faktor abiotik utama yang memengaruhi hutan mangrove adalah…",
+"options": ["Kadar garam", "Bentuk daun", "Jenis burung", "Warna batang"],
+"answer": 0,
+"explain": "Mangrove hidup di air payau asin."
+},
+{
+"id": "ip5b2-s2-16",
+"q": "Peran cacing tanah dalam ekosistem kebun adalah…",
+"options": ["Produsen", "Konsumen puncak", "Dekomposer", "Parasit"],
+"answer": 2,
+"explain": "Cacing menguraikan bahan organik."
+},
+{
+"id": "ip5b2-s2-17",
+"q": "Suhu sangat dingin, tanah beku, lumut kerak, rusa kutub. Ini ekosistem…",
+"options": ["Tundra", "Gurun", "Sawah", "Terumbu karang"],
+"answer": 0,
+"explain": "Ciri tersebut menunjukkan tundra."
+},
+{
+"id": "ip5b2-s2-18",
+"q": "Pada rumput→belalang→katak→ular→elang, jika belalang turun drastis, katak akan…",
+"options": ["Menurun", "Meningkat", "Tetap", "Pindah jadi produsen"],
+"answer": 0,
+"explain": "Katak kekurangan makanan."
+},
+{
+"id": "ip5b2-s2-19",
+"q": "Urutan piramida yang benar dari dasar untuk rumput, kelinci, rubah adalah…",
+"options": ["Rumput→Kelinci→Rubah", "Kelinci→Rubah→Rumput", "Rubah→Kelinci→Rumput", "Rumput→Rubah→Kelinci"],
+"answer": 0,
+"explain": "Produsen di dasar, lalu konsumen."
+},
+{
+"id": "ip5b2-s2-20",
+"q": "Plankton→ikan kecil→ikan sedang→ikan besar. Jika konsumen puncak punah, akibat langsung?",
+"options": ["Ikan sedang bertambah", "Plankton habis", "Ikan kecil punah", "Semua tingkat stabil"],
+"answer": 0,
+"explain": "Mangsa puncak bebas, populasinya naik."
+}
+]

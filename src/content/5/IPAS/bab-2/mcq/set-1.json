@@ -1,0 +1,142 @@
+[
+{
+"id": "ip5b2-s1-01",
+"q": "Apa salah satu contoh ekosistem darat?",
+"options": ["Hutan", "Terumbu karang", "Laut dalam", "Danau"],
+"answer": 0,
+"explain": "Hutan berada di darat sebagai ekosistem darat."
+},
+{
+"id": "ip5b2-s1-02",
+"q": "Rantai makanan rumput→belalang→katak→ular paling mungkin terdapat di ekosistem…",
+"options": ["Sawah", "Laut", "Terumbu karang", "Danau dalam"],
+"answer": 0,
+"explain": "Rantai itu umum di sawah atau lahan basah darat."
+},
+{
+"id": "ip5b2-s1-03",
+"q": "Manakah faktor alam yang dapat merusak ekosistem?",
+"options": ["Banjir", "Penebangan liar", "Daur ulang", "Menanam pohon"],
+"answer": 0,
+"explain": "Banjir adalah bencana alam yang merusak ekosistem."
+},
+{
+"id": "ip5b2-s1-04",
+"q": "Manakah contoh komponen abiotik?",
+"options": ["Air", "Pohon", "Ayam", "Jamur"],
+"answer": 0,
+"explain": "Air adalah benda mati, termasuk abiotik."
+},
+{
+"id": "ip5b2-s1-05",
+"q": "Manakah contoh komponen biotik?",
+"options": ["Lumut", "Batu", "Udara", "Cahaya"],
+"answer": 0,
+"explain": "Lumut makhluk hidup, termasuk biotik."
+},
+{
+"id": "ip5b2-s1-06",
+"q": "Apa peran produsen dalam ekosistem?",
+"options": ["Mengurai sisa", "Menghasilkan makanan", "Memangsa herbivora", "Mengubah cuaca"],
+"answer": 1,
+"explain": "Produsen membuat makanan melalui fotosintesis."
+},
+{
+"id": "ip5b2-s1-07",
+"q": "Kerbau dan burung jalak saling menguntungkan. Ini simbiosis…",
+"options": ["Mutualisme", "Parasitisme", "Komensalisme", "Predasi"],
+"answer": 0,
+"explain": "Keduanya untung, itu mutualisme."
+},
+{
+"id": "ip5b2-s1-08",
+"q": "Anggrek menempel pada pohon tanpa merugikannya. Ini simbiosis…",
+"options": ["Mutualisme", "Parasitisme", "Komensalisme", "Amensalisme"],
+"answer": 2,
+"explain": "Anggrek untung, pohon tidak rugi: komensalisme."
+},
+{
+"id": "ip5b2-s1-09",
+"q": "Benalu menyerap nutrisi dari pohon mangga. Ini simbiosis…",
+"options": ["Mutualisme", "Parasitisme", "Komensalisme", "Netralisme"],
+"answer": 1,
+"explain": "Benalu untung, mangga dirugikan: parasitisme."
+},
+{
+"id": "ip5b2-s1-10",
+"q": "Pada rantai padi→tikus→ular→elang, jika tikus berkurang, apa akibat pertama?",
+"options": ["Ular menurun", "Padi habis dimakan", "Elang jadi herbivor", "Tikus meningkat"],
+"answer": 0,
+"explain": "Ular kekurangan makanan sehingga menurun."
+},
+{
+"id": "ip5b2-s1-11",
+"q": "Urutan plankton→ikan kecil→ikan besar→hiu. Siapa di dasar piramida makanan?",
+"options": ["Plankton", "Ikan kecil", "Ikan besar", "Hiu"],
+"answer": 0,
+"explain": "Produsen berada di dasar piramida."
+},
+{
+"id": "ip5b2-s1-12",
+"q": "Bagaimana perubahan energi saat naik tingkat trofik?",
+"options": ["Bertambah", "Berkurang", "Tetap", "Hilang semua"],
+"answer": 1,
+"explain": "Energi berkurang tiap perpindahan tingkat."
+},
+{
+"id": "ip5b2-s1-13",
+"q": "Pada padi→tikus→ular→elang, jika elang punah, apa akibat awal?",
+"options": ["Tikus bertambah", "Padi bertambah", "Ular bertambah", "Matahari redup"],
+"answer": 2,
+"explain": "Pemangsa ular hilang, ular bertambah."
+},
+{
+"id": "ip5b2-s1-14",
+"q": "Di kolam ada air, batu, ikan, ganggang, cahaya. Mana biotik?",
+"options": ["Ikan", "Udara", "Batu", "Cahaya"],
+"answer": 0,
+"explain": "Ikan makhluk hidup, termasuk biotik."
+},
+{
+"id": "ip5b2-s1-15",
+"q": "Faktor abiotik yang sangat sedikit di padang pasir adalah…",
+"options": ["Air", "Tanah subur", "Cahaya", "Batu"],
+"answer": 0,
+"explain": "Padang pasir kekurangan air."
+},
+{
+"id": "ip5b2-s1-16",
+"q": "Jamur membusukkan daun kering. Peran jamur adalah…",
+"options": ["Produsen", "Konsumen I", "Dekomposer", "Predator"],
+"answer": 2,
+"explain": "Jamur menguraikan sisa makhluk hidup."
+},
+{
+"id": "ip5b2-s1-17",
+"q": "Kaktus, kadal, kalajengking, tanah berpasir. Ini ekosistem…",
+"options": ["Gurun", "Hutan hujan", "Kolam", "Laut"],
+"answer": 0,
+"explain": "Ciri-ciri itu khas ekosistem gurun."
+},
+{
+"id": "ip5b2-s1-18",
+"q": "Rantai rumput→kambing→harimau. Siapa konsumen tingkat I?",
+"options": ["Rumput", "Kambing", "Harimau", "Tanah"],
+"answer": 1,
+"explain": "Kambing memakan produsen, konsumen I."
+},
+{
+"id": "ip5b2-s1-19",
+"q": "Jika belalang meningkat pada rumput→belalang→burung→elang, apa terjadi pada rumput?",
+"options": ["Menurun", "Tetap", "Bertambah", "Berubah jadi hewan"],
+"answer": 0,
+"explain": "Belalang banyak, rumput lebih banyak dimakan."
+},
+{
+"id": "ip5b2-s1-20",
+"q": "Bagian terlebar piramida makanan menunjukkan…",
+"options": ["Produsen", "Konsumen I", "Konsumen II", "Konsumen puncak"],
+"answer": 0,
+"explain": "Produsen paling banyak, dasar piramida."
+}
+]

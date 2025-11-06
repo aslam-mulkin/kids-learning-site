@@ -1,0 +1,142 @@
+[
+{
+"id": "ma5b2-s3-01",
+"q": "Manakah kelipatan dari 11?",
+"options": ["22", "27", "33", "35"],
+"answer": 0,
+"explain": "22 = 11 x 2."
+},
+{
+"id": "ma5b2-s3-02",
+"q": "Yang merupakan kelipatan 12 adalah?",
+"options": ["26", "36", "44", "50"],
+"answer": 1,
+"explain": "36 = 12 x 3."
+},
+{
+"id": "ma5b2-s3-03",
+"q": "Bilangan berikut yang prima adalah?",
+"options": ["45", "47", "49", "51"],
+"answer": 1,
+"explain": "47 hanya faktor 1 dan 47."
+},
+{
+"id": "ma5b2-s3-04",
+"q": "Manakah yang bukan bilangan prima?",
+"options": ["67", "71", "87", "73"],
+"answer": 2,
+"explain": "87 = 3 x 29."
+},
+{
+"id": "ma5b2-s3-05",
+"q": "KPK dari 18 dan 30 adalah?",
+"options": ["60", "72", "90", "120"],
+"answer": 2,
+"explain": "KPK=2 x 3^2 x 5 = 90."
+},
+{
+"id": "ma5b2-s3-06",
+"q": "KPK dari 22 dan 55 adalah?",
+"options": ["55", "66", "88", "110"],
+"answer": 3,
+"explain": "22=2x11, 55=5x11; KPK=110."
+},
+{
+"id": "ma5b2-s3-07",
+"q": "Sirene berbunyi tiap 14 detik dan 21 detik. Bersamaan lagi setelah?",
+"options": ["28 detik", "35 detik", "42 detik", "63 detik"],
+"answer": 2,
+"explain": "KPK 14 dan 21 = 42 detik."
+},
+{
+"id": "ma5b2-s3-08",
+"q": "Manakah faktor dari 72?",
+"options": ["9", "11", "13", "25"],
+"answer": 0,
+"explain": "72 ÷ 9 = 8 tanpa sisa."
+},
+{
+"id": "ma5b2-s3-09",
+"q": "Yang bukan faktor dari 54 adalah?",
+"options": ["6", "9", "12", "27"],
+"answer": 2,
+"explain": "54 tidak habis dibagi 12."
+},
+{
+"id": "ma5b2-s3-10",
+"q": "Faktorisasi prima dari 98 adalah?",
+"options": ["2 x 7^2", "2^2 x 7", "2 x 5 x 7", "3 x 7^2"],
+"answer": 0,
+"explain": "98 = 2 x 7 x 7."
+},
+{
+"id": "ma5b2-s3-11",
+"q": "Faktorisasi prima dari 120 adalah?",
+"options": ["2^3 x 3 x 5", "2^2 x 3 x 5", "3 x 4 x 10", "2 x 3^2 x 5"],
+"answer": 0,
+"explain": "120 = 8 x 15 = 2^3 x 3 x 5."
+},
+{
+"id": "ma5b2-s3-12",
+"q": "FPB dari 48 dan 60 adalah?",
+"options": ["6", "12", "16", "24"],
+"answer": 1,
+"explain": "Faktor persekutuan terbesar keduanya 12."
+},
+{
+"id": "ma5b2-s3-13",
+"q": "FPB dari 63 dan 84 adalah?",
+"options": ["7", "9", "14", "21"],
+"answer": 3,
+"explain": "FPB=3 x 7 = 21."
+},
+{
+"id": "ma5b2-s3-14",
+"q": "Ada 42 pensil dan 28 penghapus. Paket sama banyak maksimal?",
+"options": ["6 paket", "7 paket", "14 paket", "21 paket"],
+"answer": 2,
+"explain": "Jumlah paket = FPB 42 dan 28."
+},
+{
+"id": "ma5b2-s3-15",
+"q": "Kegiatan A tiap 9 hari, B tiap 12 hari. Bersamaan lagi setelah?",
+"options": ["18 hari", "24 hari", "27 hari", "36 hari"],
+"answer": 3,
+"explain": "KPK 9 dan 12 = 36 hari."
+},
+{
+"id": "ma5b2-s3-16",
+"q": "Kelipatan persekutuan terkecil dari 8 dan 14 adalah?",
+"options": ["28", "42", "56", "70"],
+"answer": 2,
+"explain": "KPK 8 dan 14 = 56."
+},
+{
+"id": "ma5b2-s3-17",
+"q": "Bilangan prima berikut yang benar adalah?",
+"options": ["39", "41", "45", "51"],
+"answer": 1,
+"explain": "41 hanya habis dibagi 1 dan 41."
+},
+{
+"id": "ma5b2-s3-18",
+"q": "Jumlah faktor dari 30 adalah?",
+"options": ["6", "8", "10", "12"],
+"answer": 1,
+"explain": "Faktor 30 ada 8 bilangan."
+},
+{
+"id": "ma5b2-s3-19",
+"q": "Kelipatan 7 yang berada antara 45–55 adalah?",
+"options": ["46", "49", "51", "54"],
+"answer": 1,
+"explain": "49 = 7 x 7."
+},
+{
+"id": "ma5b2-s3-20",
+"q": "Rina punya 36 kue stroberi dan 24 cokelat. Kotak maksimal?",
+"options": ["6 kotak", "8 kotak", "10 kotak", "12 kotak"],
+"answer": 3,
+"explain": "Jumlah kotak maksimal = FPB 36 dan 24."
+}
+]

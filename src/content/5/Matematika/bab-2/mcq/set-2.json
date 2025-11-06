@@ -1,0 +1,142 @@
+[
+{
+"id": "ma5b2-s2-01",
+"q": "Manakah kelipatan dari 7?",
+"options": ["21", "22", "25", "28"],
+"answer": 0,
+"explain": "21 = 7 x 3."
+},
+{
+"id": "ma5b2-s2-02",
+"q": "Manakah yang bukan kelipatan 8?",
+"options": ["16", "24", "40", "30"],
+"answer": 3,
+"explain": "30 tidak habis dibagi 8."
+},
+{
+"id": "ma5b2-s2-03",
+"q": "Bilangan berikut yang merupakan bilangan prima adalah?",
+"options": ["53", "51", "57", "49"],
+"answer": 0,
+"explain": "53 hanya faktor 1 dan 53."
+},
+{
+"id": "ma5b2-s2-04",
+"q": "Yang bukan bilangan prima adalah?",
+"options": ["71", "73", "79", "91"],
+"answer": 3,
+"explain": "91 = 7 x 13."
+},
+{
+"id": "ma5b2-s2-05",
+"q": "KPK dari 16 dan 20 adalah?",
+"options": ["40", "60", "80", "100"],
+"answer": 2,
+"explain": "KPK = 2^4 x 5 = 80."
+},
+{
+"id": "ma5b2-s2-06",
+"q": "KPK dari 21 dan 28 adalah?",
+"options": ["42", "84", "126", "168"],
+"answer": 1,
+"explain": "KPK = 2^2 x 3 x 7 = 84."
+},
+{
+"id": "ma5b2-s2-07",
+"q": "Lonceng berdentang tiap 25 dtk dan 30 dtk. Bersamaan lagi setelah?",
+"options": ["50 detik", "75 detik", "100 detik", "150 detik"],
+"answer": 3,
+"explain": "KPK 25 dan 30 = 150 detik."
+},
+{
+"id": "ma5b2-s2-08",
+"q": "Manakah yang merupakan faktor dari 63?",
+"options": ["6", "7", "8", "10"],
+"answer": 1,
+"explain": "63 ÷ 7 = 9."
+},
+{
+"id": "ma5b2-s2-09",
+"q": "Bilangan berikut yang bukan faktor dari 50 adalah?",
+"options": ["2", "5", "10", "15"],
+"answer": 3,
+"explain": "50 tidak habis dibagi 15."
+},
+{
+"id": "ma5b2-s2-10",
+"q": "Faktorisasi prima dari 96 adalah?",
+"options": ["2^5 x 3", "2^4 x 3", "2^3 x 3^2", "2^3 x 5"],
+"answer": 0,
+"explain": "96 = 32 x 3 = 2^5 x 3."
+},
+{
+"id": "ma5b2-s2-11",
+"q": "Faktorisasi prima dari 75 adalah?",
+"options": ["3 x 5^2", "3^2 x 5", "5^3", "2 x 3 x 5"],
+"answer": 0,
+"explain": "75 = 3 x 25 = 3 x 5^2."
+},
+{
+"id": "ma5b2-s2-12",
+"q": "FPB dari 44 dan 66 adalah?",
+"options": ["11", "22", "33", "44"],
+"answer": 1,
+"explain": "Faktor sama terbesar 44 dan 66 = 22."
+},
+{
+"id": "ma5b2-s2-13",
+"q": "FPB dari 72 dan 90 adalah?",
+"options": ["9", "12", "18", "36"],
+"answer": 2,
+"explain": "FPB = 2 x 3^2 = 18."
+},
+{
+"id": "ma5b2-s2-14",
+"q": "Ada 48 kue dan 64 permen. Paket sama banyak maksimal?",
+"options": ["8 paket", "12 paket", "16 paket", "24 paket"],
+"answer": 2,
+"explain": "Jumlah paket = FPB 48 dan 64."
+},
+{
+"id": "ma5b2-s2-15",
+"q": "Kelipatan persekutuan terkecil dari 9 dan 12 adalah?",
+"options": ["18", "24", "36", "48"],
+"answer": 2,
+"explain": "KPK 9 dan 12 = 36."
+},
+{
+"id": "ma5b2-s2-16",
+"q": "Bilangan prima di bawah 30 yang benar adalah?",
+"options": ["21", "25", "29", "27"],
+"answer": 2,
+"explain": "29 hanya habis dibagi 1 dan 29."
+},
+{
+"id": "ma5b2-s2-17",
+"q": "Dua mesin bekerja tiap 18 dan 24 menit. Bersamaan lagi setelah?",
+"options": ["36 menit", "48 menit", "60 menit", "72 menit"],
+"answer": 3,
+"explain": "KPK 18 dan 24 = 72 menit."
+},
+{
+"id": "ma5b2-s2-18",
+"q": "Jumlah faktor dari 24 adalah?",
+"options": ["6", "7", "8", "9"],
+"answer": 2,
+"explain": "Faktor 24 ada 8 bilangan."
+},
+{
+"id": "ma5b2-s2-19",
+"q": "FPB dari 35 dan 50 adalah?",
+"options": ["5", "7", "10", "15"],
+"answer": 0,
+"explain": "Faktor sama terbesar hanya 5."
+},
+{
+"id": "ma5b2-s2-20",
+"q": "KPK dari 45 dan 60 adalah?",
+"options": ["90", "120", "180", "240"],
+"answer": 2,
+"explain": "KPK = 2^2 x 3^2 x 5 = 180."
+}
+]

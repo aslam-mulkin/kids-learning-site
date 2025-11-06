@@ -1,0 +1,142 @@
+[
+{
+"id": "ma5b2-s1-01",
+"q": "Manakah kelipatan dari 6?",
+"options": ["18", "20", "25", "17"],
+"answer": 0,
+"explain": "18 = 6 x 3."
+},
+{
+"id": "ma5b2-s1-02",
+"q": "Bilangan berikut yang merupakan kelipatan 9 adalah?",
+"options": ["27", "32", "40", "26"],
+"answer": 0,
+"explain": "27 = 9 x 3."
+},
+{
+"id": "ma5b2-s1-03",
+"q": "Bilangan prima berikut ini adalah?",
+"options": ["21", "29", "33", "35"],
+"answer": 1,
+"explain": "29 hanya memiliki faktor 1 dan 29."
+},
+{
+"id": "ma5b2-s1-04",
+"q": "Manakah yang bukan bilangan prima?",
+"options": ["37", "41", "51", "59"],
+"answer": 2,
+"explain": "51 = 3 x 17."
+},
+{
+"id": "ma5b2-s1-05",
+"q": "KPK dari 12 dan 15 adalah?",
+"options": ["30", "60", "90", "120"],
+"answer": 1,
+"explain": "12=2^2x3, 15=3x5; KPK=2^2x3x5=60."
+},
+{
+"id": "ma5b2-s1-06",
+"q": "KPK dari 18 dan 24 adalah?",
+"options": ["36", "48", "72", "96"],
+"answer": 2,
+"explain": "18=2x3^2, 24=2^3x3; KPK=2^3x3^2=72."
+},
+{
+"id": "ma5b2-s1-07",
+"q": "KPK dari 14 dan 20 adalah?",
+"options": ["70", "140", "210", "280"],
+"answer": 1,
+"explain": "14=2x7, 20=2^2x5; KPK=2^2x5x7=140."
+},
+{
+"id": "ma5b2-s1-08",
+"q": "Lampu A menyala tiap 12 detik, B tiap 18 detik. Bersamaan lagi setelah?",
+"options": ["24 detik", "30 detik", "36 detik", "48 detik"],
+"answer": 2,
+"explain": "KPK 12 dan 18 adalah 36 detik."
+},
+{
+"id": "ma5b2-s1-09",
+"q": "Manakah yang merupakan faktor dari 48?",
+"options": ["7", "8", "10", "14"],
+"answer": 1,
+"explain": "48 / 8 = 6 tanpa sisa."
+},
+{
+"id": "ma5b2-s1-10",
+"q": "Bilangan berikut yang bukan faktor dari 36 adalah?",
+"options": ["3", "4", "6", "5"],
+"answer": 3,
+"explain": "36 tidak habis dibagi 5."
+},
+{
+"id": "ma5b2-s1-11",
+"q": "Faktorisasi prima dari 84 adalah?",
+"options": ["2^2 x 3 x 7", "2 x 3 x 5 x 7", "2^3 x 7", "3^2 x 7"],
+"answer": 0,
+"explain": "84=2x2x3x7."
+},
+{
+"id": "ma5b2-s1-12",
+"q": "Faktorisasi prima dari 90 adalah?",
+"options": ["2 x 3^2 x 5", "2^2 x 3 x 5", "3^2 x 5^2", "2 x 3 x 7"],
+"answer": 0,
+"explain": "90=2x3x3x5."
+},
+{
+"id": "ma5b2-s1-13",
+"q": "FPB dari 24 dan 36 adalah?",
+"options": ["6", "8", "12", "18"],
+"answer": 2,
+"explain": "Faktor persekutuan terbesar 24 dan 36 adalah 12."
+},
+{
+"id": "ma5b2-s1-14",
+"q": "FPB dari 45 dan 60 adalah?",
+"options": ["10", "12", "15", "20"],
+"answer": 2,
+"explain": "45=3^2x5, 60=2^2x3x5; FPB=3x5=15."
+},
+{
+"id": "ma5b2-s1-15",
+"q": "FPB dari 56 dan 84 adalah?",
+"options": ["14", "21", "28", "42"],
+"answer": 2,
+"explain": "56=2^3x7, 84=2^2x3x7; FPB=2^2x7=28."
+},
+{
+"id": "ma5b2-s1-16",
+"q": "Tersedia 24 apel dan 36 jeruk. Paket sama banyak maksimal?",
+"options": ["6 paket", "9 paket", "12 paket", "18 paket"],
+"answer": 2,
+"explain": "Jumlah paket maksimal = FPB 24 dan 36."
+},
+{
+"id": "ma5b2-s1-17",
+"q": "Bus berangkat tiap 15 menit dan 20 menit. Bersamaan lagi setelah?",
+"options": ["40 menit", "50 menit", "60 menit", "80 menit"],
+"answer": 2,
+"explain": "KPK 15 dan 20 adalah 60 menit."
+},
+{
+"id": "ma5b2-s1-18",
+"q": "Kelipatan persekutuan terkecil dari 4 dan 6 adalah?",
+"options": ["12", "18", "24", "36"],
+"answer": 0,
+"explain": "KPK 4 dan 6 adalah 12."
+},
+{
+"id": "ma5b2-s1-19",
+"q": "Bilangan prima di bawah 20 yang benar adalah?",
+"options": ["9", "15", "17", "21"],
+"answer": 2,
+"explain": "17 hanya habis dibagi 1 dan 17."
+},
+{
+"id": "ma5b2-s1-20",
+"q": "Jumlah faktor dari 18 adalah?",
+"options": ["4", "6", "8", "9"],
+"answer": 1,
+"explain": "18 memiliki faktor: 1,2,3,6,9,18."
+}
+]

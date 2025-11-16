@@ -1,0 +1,22 @@
+[
+{ "id": "pj5b1-s1-01", "q": "Tujuan utama pemanasan sebelum gerak berirama adalah?", "options": ["Meningkatkan suhu otot", "Memperberat latihan", "Menghentikan keringat", "Menurunkan koordinasi"], "answer": 0, "explain": "Suhu otot naik sehingga siap bergerak." },
+{ "id": "pj5b1-s1-02", "q": "Irama pengiring gerak berirama umumnya berupa?", "options": ["Napas cepat", "Ketukan atau hitungan", "Diam total", "Sorakan penonton"], "answer": 1, "explain": "Ketukan atau hitungan menjaga tempo." },
+{ "id": "pj5b1-s1-03", "q": "Melangkah termasuk pola gerak?", "options": ["Lokomotor", "Non-lokomotor", "Manipulatif", "Akrobatik"], "answer": 0, "explain": "Melangkah memindahkan tempat." },
+{ "id": "pj5b1-s1-04", "q": "Membungkuk tanpa berpindah tempat adalah pola gerak?", "options": ["Lokomotor", "Non-lokomotor", "Manipulatif", "Kombinasi"], "answer": 1, "explain": "Non-lokomotor terjadi di tempat." },
+{ "id": "pj5b1-s1-05", "q": "Melempar dan menangkap termasuk pola gerak?", "options": ["Lokomotor", "Non-lokomotor", "Manipulatif", "Statis"], "answer": 2, "explain": "Manipulatif mengendalikan objek." },
+{ "id": "pj5b1-s1-06", "q": "Bagian SAIH yang memuat peregangan penutup adalah?", "options": ["Pemanasan", "Inti", "Pendinginan", "Transisi"], "answer": 2, "explain": "Pendinginan menurunkan intensitas perlahan." },
+{ "id": "pj5b1-s1-07", "q": "Kapan waktu tepat melompat saat lompat tali?", "options": ["Saat tali di kepala", "Saat tali menyentuh lantai", "Saat tali hampir menyentuh kaki", "Sesudah tali lewat jauh"], "answer": 2, "explain": "Timing tepat menghindari tersangkut." },
+{ "id": "pj5b1-s1-08", "q": "Sikap mendarat dari lompatan yang benar adalah?", "options": ["Lutut terkunci", "Lutut ditekuk", "Tumit diangkat tinggi", "Punggung membungkuk"], "answer": 1, "explain": "Lutut ditekuk meredam benturan." },
+{ "id": "pj5b1-s1-09", "q": "Pertolongan pertama keseleo ringan yang tepat ialah?", "options": ["Dipijat keras", "Tetap dipakai bermain", "RICE", "Dipanasin segera"], "answer": 2, "explain": "RICE mengurangi bengkak dan nyeri." },
+{ "id": "pj5b1-s1-10", "q": "Ciri intensitas latihan sedang adalah?", "options": ["Tidak bisa bicara", "Harus berteriak", "Bisa bernyanyi", "Masih bisa bicara"], "answer": 3, "explain": "Talk test: masih bisa bicara." },
+{ "id": "pj5b1-s1-11", "q": "Start yang umum pada lari jarak pendek ialah?", "options": ["Start jongkok", "Start melayang", "Start berdiri", "Start menyamping"], "answer": 0, "explain": "Lari pendek memakai start jongkok." },
+{ "id": "pj5b1-s1-12", "q": "Bagian kaki yang mendarat saat lari cepat adalah?", "options": ["Tumit penuh", "Bola kaki", "Ujung jari", "Sisi luar telapak"], "answer": 1, "explain": "Bola kaki membantu akselerasi." },
+{ "id": "pj5b1-s1-13", "q": "Dribble dua tangan sekaligus merupakan pelanggaran?", "options": ["Traveling", "Lay-up", "Double dribble", "Screen"], "answer": 2, "explain": "Memantul dua tangan disebut double." },
+{ "id": "pj5b1-s1-14", "q": "Sikap fair play berarti?", "options": ["Menang dengan curang", "Menghina lawan", "Jujur dan menghormati lawan", "Tak mau diatur wasit"], "answer": 2, "explain": "Fair play menekankan kejujuran dan hormat." },
+{ "id": "pj5b1-s1-15", "q": "Formasi berbaris memanjang ke samping disebut?", "options": ["Berbanjar", "Bersaf", "Berkelompok", "Bersilang"], "answer": 1, "explain": "Bersaf melebar ke samping." },
+{ "id": "pj5b1-s1-16", "q": "Kapan sebaiknya minum saat berolahraga?", "options": ["Sebelum saja", "Sesudah saja", "Saat saja", "Sebelum, saat, dan sesudah"], "answer": 3, "explain": "Hidrasi berkelanjutan mencegah dehidrasi." },
+{ "id": "pj5b1-s1-17", "q": "Sepatu olahraga yang pas membantu mencegah?", "options": ["Lecet dan cedera", "Keringat hilang", "Cepat mengantuk", "Keseleo bertambah"], "answer": 0, "explain": "Sepatu pas menstabilkan dan nyaman." },
+{ "id": "pj5b1-s1-18", "q": "Mencatat denyut nadi latihan bermanfaat untuk?", "options": ["Gaya saja", "Memantau beban", "Mengukur tinggi badan", "Menentukan warna baju"], "answer": 1, "explain": "Nadi mencerminkan intensitas kerja." },
+{ "id": "pj5b1-s1-19", "q": "Fokus utama bagian inti SAIH adalah?", "options": ["Istirahat total", "Kerja sama dan langkah serentak", "Latihan napas saja", "Berlari bebas"], "answer": 1, "explain": "Inti menekankan sinkron dan kerja sama." },
+{ "id": "pj5b1-s1-20", "q": "Apa yang sebaiknya dilakukan saat teman terjatuh?", "options": ["Tertawa", "Lanjut permainan", "Hentikan dan bantu", "Biarkan sendiri"], "answer": 2, "explain": "Keselamatan teman diutamakan." }
+]

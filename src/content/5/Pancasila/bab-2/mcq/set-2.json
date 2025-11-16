@@ -1,0 +1,142 @@
+[
+{
+"id": "pa5b2-s1-01",
+"q": "Rudi mencontek saat ulangan. Ia melanggar norma apa?",
+"options": ["Kesusilaan", "Agama", "Hukum", "Kesopanan"],
+"answer": 0,
+"explain": "Mencontek melanggar kejujuran, termasuk norma kesusilaan."
+},
+{
+"id": "pa5b2-s1-02",
+"q": "Sinta membuang sampah di jalan. Ia melanggar norma?",
+"options": ["Agama", "Kesopanan", "Hukum", "Adat istiadat"],
+"answer": 1,
+"explain": "Membuang sampah sembarangan melanggar kesopanan/ketertiban."
+},
+{
+"id": "pa5b2-s1-03",
+"q": "Tidak melaksanakan ibadah sesuai ajaran disebut melanggar norma?",
+"options": ["Hukum", "Kesusilaan", "Agama", "Kesopanan"],
+"answer": 2,
+"explain": "Ibadah diatur oleh norma agama."
+},
+{
+"id": "pa5b2-s1-04",
+"q": "Doni menerobos lampu merah. Ia melanggar norma?",
+"options": ["Kesopanan", "Hukum", "Agama", "Kesusilaan"],
+"answer": 1,
+"explain": "Lalu lintas diatur oleh norma hukum."
+},
+{
+"id": "pa5b2-s1-05",
+"q": "Memposting foto teman tanpa izin di media sosial melanggar norma?",
+"options": ["Kesusilaan", "Agama", "Kesopanan", "Hukum pidana"],
+"answer": 2,
+"explain": "Itu tidak sopan dan melanggar privasi."
+},
+{
+"id": "pa5b2-s1-06",
+"q": "Menyebarkan hoaks yang merugikan orang lain berpotensi melanggar norma?",
+"options": ["Hukum", "Adat", "Olahraga", "Permainan"],
+"answer": 0,
+"explain": "Hoaks bisa terkena sanksi hukum ITE."
+},
+{
+"id": "pa5b2-s1-07",
+"q": "Memberi komentar kasar di media sosial melanggar norma?",
+"options": ["Kesopanan", "Agama", "Hukum internasional", "Adat"],
+"answer": 0,
+"explain": "Komentar kasar tidak sopan dalam pergaulan."
+},
+{
+"id": "pa5b2-s1-08",
+"q": "Manakah pernyataan benar tentang sumber norma?",
+"options": ["Hukum dari kitab suci", "Agama dari pemerintah", "Hukum dari peraturan negara", "Kesusilaan dari polisi"],
+"answer": 2,
+"explain": "Norma hukum bersumber dari peraturan negara."
+},
+{
+"id": "pa5b2-s1-09",
+"q": "Sifat norma hukum dibanding kesopanan adalah lebih...",
+"options": ["Fleksibel", "Memaksa dan tegas", "Tidak tertulis", "Hanya di rumah"],
+"answer": 1,
+"explain": "Norma hukum bersifat memaksa dan tegas."
+},
+{
+"id": "pa5b2-s1-10",
+"q": "Sanksi norma kesusilaan umumnya berupa...",
+"options": ["Denda", "Penjara", "Rasa bersalah", "Skorsing sekolah"],
+"answer": 2,
+"explain": "Sanksi kesusilaan bersifat batiniah."
+},
+{
+"id": "pa5b2-s1-11",
+"q": "Manakah contoh dampak positif teknologi?",
+"options": ["Kecanduan game", "Akses belajar online mudah", "Kurang tidur", "Plagiat tugas"],
+"answer": 1,
+"explain": "Belajar online memudahkan akses informasi."
+},
+{
+"id": "pa5b2-s1-12",
+"q": "Manakah contoh dampak negatif teknologi?",
+"options": ["Video edukasi", "Aplikasi kamus", "Kecanduan game online", "Kelas virtual"],
+"answer": 2,
+"explain": "Kecanduan game mengganggu belajar dan kesehatan."
+},
+{
+"id": "pa5b2-s1-13",
+"q": "Aturan gadget di rumah yang tepat adalah...",
+"options": ["Main saat belajar", "Gadget disimpan saat belajar", "Main sampai larut", "Bawa gadget ke kamar mandi"],
+"answer": 1,
+"explain": "Menyimpan gadget membantu fokus belajar."
+},
+{
+"id": "pa5b2-s1-14",
+"q": "Aturan keluarga saat makan bersama yang baik...",
+"options": ["Balas chat segera", "Foto makanan dulu", "Tidak membawa gadget ke meja makan", "Nonton video bersama"],
+"answer": 2,
+"explain": "Tanpa gadget membuat makan lebih berkualitas."
+},
+{
+"id": "pa5b2-s1-15",
+"q": "Menggunakan akun palsu untuk menipu di media sosial berakibat sanksi...",
+"options": ["Pujian", "Hukum pidana/denda", "Nilai tambah", "Libur sekolah"],
+"answer": 1,
+"explain": "Penipuan dapat dikenai pidana atau denda."
+},
+{
+"id": "pa5b2-s1-16",
+"q": "Manakah yang termasuk sanksi norma hukum?",
+"options": ["Dicibir tetangga", "Rasa menyesal", "Penjara atau denda", "Ditegur hati nurani"],
+"answer": 2,
+"explain": "Sanksi hukum bersifat nyata: penjara atau denda."
+},
+{
+"id": "pa5b2-s1-17",
+"q": "Pasangan dampak teknologi yang benar adalah...",
+"options": ["Positif: hoaks", "Negatif: literasi digital", "Positif: kelas daring; Negatif: kecanduan", "Positif: begadang"],
+"answer": 2,
+"explain": "Kelas daring positif; kecanduan adalah negatif."
+},
+{
+"id": "pa5b2-s1-18",
+"q": "Jika menerima pesan tidak pantas, tindakan tepat adalah...",
+"options": ["Balas dengan marah", "Simpan diam-diam", "Lapor orang tua/guru", "Sebarkan ke teman"],
+"answer": 2,
+"explain": "Melapor membantu penanganan yang aman."
+},
+{
+"id": "pa5b2-s1-19",
+"q": "Saat membaca rumor tentang teman di media sosial, sebaiknya...",
+"options": ["Langsung bagikan", "Edit jadi lucu", "Verifikasi kebenaran dulu", "Tambahkan gosip baru"],
+"answer": 2,
+"explain": "Verifikasi mencegah penyebaran berita palsu."
+},
+{
+"id": "pa5b2-s1-20",
+"q": "Untuk menjaga privasi di media sosial, kita sebaiknya...",
+"options": ["Akun selalu publik", "Bagikan alamat rumah", "Mengatur akun privat", "Unggah semua foto harian"],
+"answer": 2,
+"explain": "Akun privat melindungi data pribadi."
+}
+]

@@ -1,0 +1,142 @@
+[
+{
+"id": "pa5b2-s4-01",
+"q": "Sari memotong antrean di kantin. Ia melanggar norma?",
+"options": ["Kesopanan", "Hukum", "Agama", "Adat"],
+"answer": 0,
+"explain": "Mendahului antrean tidak sopan pada orang lain."
+},
+{
+"id": "pa5b2-s4-02",
+"q": "Reno membawa motor tanpa helm. Pelanggaran norma?",
+"options": ["Kesusilaan", "Hukum lalu lintas", "Adat", "Agama"],
+"answer": 1,
+"explain": "Helm wajib menurut aturan hukum lalu lintas."
+},
+{
+"id": "pa5b2-s4-03",
+"q": "Lia menuduh teman mencuri tanpa bukti di grup. Ia melanggar…",
+"options": ["Kesopanan digital", "Adat", "Olahraga", "Geografi"],
+"answer": 0,
+"explain": "Fitnah online melanggar etika berkomunikasi."
+},
+{
+"id": "pa5b2-s4-04",
+"q": "Tidak menghormati tamu sesuai budaya setempat melanggar norma…",
+"options": ["Agama", "Adat", "Hukum", "Kesusilaan"],
+"answer": 1,
+"explain": "Tamu dihormati menurut kebiasaan daerah."
+},
+{
+"id": "pa5b2-s4-05",
+"q": "Perbedaan sumber: kesopanan vs adat adalah…",
+"options": ["Negara vs kitab suci", "Kebiasaan umum vs kebiasaan lokal", "Polisi vs orang tua", "Guru vs teman"],
+"answer": 1,
+"explain": "Kesopanan umum; adat bergantung daerah."
+},
+{
+"id": "pa5b2-s4-06",
+"q": "Sifat norma agama dibanding kesopanan ialah lebih…",
+"options": ["Relatif", "Tertulis dalam ajaran", "Tidak mengikat", "Hanya di sekolah"],
+"answer": 1,
+"explain": "Ajaran agama bersumber teks suci."
+},
+{
+"id": "pa5b2-s4-07",
+"q": "Sanksi utama pelanggaran norma adat biasanya…",
+"options": ["Dosa batin", "Sanksi sosial adat", "Skors universitas", "Pengurangan nilai ujian"],
+"answer": 1,
+"explain": "Adat memberi teguran/ritual sosial."
+},
+{
+"id": "pa5b2-s4-08",
+"q": "Mengunci akun dan menyaring pengikut adalah contoh menjaga…",
+"options": ["Kepemilikan", "Privasi di media sosial", "Kesehatan gigi", "Iklim sekolah"],
+"answer": 1,
+"explain": "Privasi melindungi data pribadi."
+},
+{
+"id": "pa5b2-s4-09",
+"q": "Membagikan tautan phishing bisa kena sanksi…",
+"options": ["Hukum ITE", "Adat panen", "Kesusilaan saja", "Tidak ada sanksi"],
+"answer": 0,
+"explain": "Phishing melanggar undang-undang ITE."
+},
+{
+"id": "pa5b2-s4-10",
+"q": "Dampak positif teknologi pada ekonomi keluarga adalah…",
+"options": ["Toko online menambah peluang", "Biaya kuota membengkak", "Penipuan meningkat", "Waktu kerja berkurang paksa"],
+"answer": 0,
+"explain": "Platform digital membuka usaha baru."
+},
+{
+"id": "pa5b2-s4-11",
+"q": "Dampak negatif teknologi pada belajar adalah…",
+"options": ["Akses e-book", "Distraksi notifikasi", "Kelas virtual", "Video pembelajaran"],
+"answer": 1,
+"explain": "Notifikasi mengganggu fokus belajar."
+},
+{
+"id": "pa5b2-s4-12",
+"q": "Aturan rumah sehat: perangkat diisi daya…",
+"options": ["Di kamar tidur", "Di ruang keluarga", "Di kelas", "Di luar rumah"],
+"answer": 1,
+"explain": "Ruang bersama memudahkan pengawasan."
+},
+{
+"id": "pa5b2-s4-13",
+"q": "Posting ulang foto teman setelah minta izin termasuk…",
+"options": ["Menghormati kesopanan dan privasi", "Pelanggaran hukum", "Melanggar adat", "Tindak kriminal"],
+"answer": 0,
+"explain": "Izin menghargai hak dan sopan santun."
+},
+{
+"id": "pa5b2-s4-14",
+"q": "Perbandingan sanksi: hukum vs kesopanan adalah…",
+"options": ["Hukum batin; sopan denda", "Hukum nyata; sopan sosial", "Keduanya batin", "Keduanya penjara"],
+"answer": 1,
+"explain": "Hukum tegas tertulis; sopan sosial."
+},
+{
+"id": "pa5b2-s4-15",
+"q": "Raka menghapus sumber saat menyalin tugas. Ia melanggar…",
+"options": ["Hak cipta dan kejujuran", "Adat bertamu", "Etika makan", "Peraturan olahraga"],
+"answer": 0,
+"explain": "Plagiasi melanggar hak dan kejujuran."
+},
+{
+"id": "pa5b2-s4-16",
+"q": "Sumber norma hukum yang benar adalah…",
+"options": ["Kebiasaan teman", "Peraturan perundang-undangan", "Cerita rakyat", "Komentar warganet"],
+"answer": 1,
+"explain": "Hukum berasal dari peraturan negara."
+},
+{
+"id": "pa5b2-s4-17",
+"q": "Menjawab pesan tak dikenal dengan membagikan OTP melanggar…",
+"options": ["Keamanan digital", "Olahraga", "Adat", "Geografi"],
+"answer": 0,
+"explain": "Membahayakan akun dan data pribadi."
+},
+{
+"id": "pa5b2-s4-18",
+"q": "Aturan penggunaan gadget: waktu layar harian ditetapkan melalui…",
+"options": ["Pemaksaan teman", "Kesepakatan keluarga", "Kuis kelas", "Iklan televisi"],
+"answer": 1,
+"explain": "Kesepakatan membuat disiplin jelas."
+},
+{
+"id": "pa5b2-s4-19",
+"q": "Arman bercanda kasar di komentar publik. Sanksi yang mungkin…",
+"options": ["Dipuji pembaca", "Teguran/suspend akun", "Naik kelas otomatis", "Hadiah kuota"],
+"answer": 1,
+"explain": "Platform dapat memberi peringatan/suspend."
+},
+{
+"id": "pa5b2-s4-20",
+"q": "Membaca Al-Qur'an/kitab suci rutin adalah contoh mematuhi norma…",
+"options": ["Hukum", "Agama", "Adat", "Kesopanan"],
+"answer": 1,
+"explain": "Ibadah sesuai ajaran agama."
+}
+]

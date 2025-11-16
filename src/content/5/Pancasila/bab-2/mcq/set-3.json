@@ -1,0 +1,142 @@
+[
+{
+"id": "pa5b2-s3-01",
+"q": "Rara memalsukan tanda tangan orang tua di buku tugas. Ia melanggar norma apa?",
+"options": ["Kesusilaan", "Agama", "Adat", "Hukum pidana"],
+"answer": 0,
+"explain": "Memalsukan tanda tangan melanggar kejujuran."
+},
+{
+"id": "pa5b2-s3-02",
+"q": "Dandi menyalakan petasan di jalan hingga membahayakan. Pelanggaran norma apa?",
+"options": ["Hukum", "Kesopanan", "Agama", "Adat"],
+"answer": 0,
+"explain": "Mengganggu ketertiban umum diatur hukum."
+},
+{
+"id": "pa5b2-s3-03",
+"q": "Mengejek ibadah agama lain di media sosial melanggar norma…",
+"options": ["Agama", "Kesopanan", "Adat", "Olahraga"],
+"answer": 1,
+"explain": "Menghina keyakinan orang lain tidak sopan."
+},
+{
+"id": "pa5b2-s3-04",
+"q": "Memakai sepatu ke dalam rumah adat tertentu termasuk melanggar norma…",
+"options": ["Adat", "Hukum", "Kesusilaan", "Agama"],
+"answer": 0,
+"explain": "Aturan khusus sesuai budaya setempat."
+},
+{
+"id": "pa5b2-s3-05",
+"q": "Perbedaan sumber: norma agama vs norma hukum adalah…",
+"options": ["Kebiasaan vs perintah guru", "Kitab suci vs peraturan negara", "Media sosial vs pasar", "Sekolah vs keluarga"],
+"answer": 1,
+"explain": "Agama: kitab suci; hukum: negara."
+},
+{
+"id": "pa5b2-s3-06",
+"q": "Sifat norma kesopanan dibanding hukum adalah lebih...",
+"options": ["Memaksa tegas", "Tidak tertulis dan relatif", "Hanya di pengadilan", "Berlaku global wajib"],
+"answer": 1,
+"explain": "Kesopanan umumnya kebiasaan tak tertulis."
+},
+{
+"id": "pa5b2-s3-07",
+"q": "Sanksi pelanggaran norma adat biasanya berupa…",
+"options": ["Hukuman penjara", "Teguran/penyucian adat", "Skors akademik", "Pengurangan gaji"],
+"answer": 1,
+"explain": "Adat memberi sanksi sosial budaya."
+},
+{
+"id": "pa5b2-s3-08",
+"q": "Mem-posting lokasi rumah secara publik berisiko melanggar norma…",
+"options": ["Kesopanan digital", "Hukum pajak", "Adat panen", "Olahraga sekolah"],
+"answer": 0,
+"explain": "Membahayakan privasi dan keamanan."
+},
+{
+"id": "pa5b2-s3-09",
+"q": "Menyebar ulang karya teman tanpa mencantumkan sumber melanggar…",
+"options": ["Hukum hak cipta", "Adat", "Agama saja", "Tidak melanggar apapun"],
+"answer": 0,
+"explain": "Itu pelanggaran hak cipta."
+},
+{
+"id": "pa5b2-s3-10",
+"q": "Pernyataan benar tentang sanksi: kesusilaan vs hukum…",
+"options": ["Keduanya batin", "Kesusilaan batin; hukum denda/penjara", "Keduanya denda", "Hukum batin; kesusilaan nyata"],
+"answer": 1,
+"explain": "Hukum memiliki sanksi nyata."
+},
+{
+"id": "pa5b2-s3-11",
+"q": "Contoh dampak positif teknologi bagi keluarga adalah…",
+"options": ["Panggilan video dengan saudara", "Begadang main game", "Pengeluaran data boros", "Kurang interaksi nyata"],
+"answer": 0,
+"explain": "Video call mempererat silaturahmi."
+},
+{
+"id": "pa5b2-s3-12",
+"q": "Contoh dampak negatif teknologi bagi kesehatan adalah…",
+"options": ["Postur membaik", "Mata lelah karena layar", "Tidur lebih berkualitas", "Disiplin waktu meningkat"],
+"answer": 1,
+"explain": "Layar lama membuat mata lelah."
+},
+{
+"id": "pa5b2-s3-13",
+"q": "Aturan gadget keluarga yang baik terkait waktu tidur adalah…",
+"options": ["Boleh sampai tengah malam", "Matikan satu jam sebelum tidur", "Bawa ke tempat tidur", "Notifikasi tetap aktif"],
+"answer": 1,
+"explain": "Mengurangi cahaya layar sebelum tidur."
+},
+{
+"id": "pa5b2-s3-14",
+"q": "Jika melihat ujaran kebencian online, tindakan tepat…",
+"options": ["Ikut membalas", "Laporkan fitur platform", "Sebarkan agar viral", "Diamkan dan simpan"],
+"answer": 1,
+"explain": "Gunakan laporan untuk penindakan."
+},
+{
+"id": "pa5b2-s3-15",
+"q": "Riko tidak mengembalikan barang pinjaman dan berbohong. Ia melanggar…",
+"options": ["Kesusilaan", "Hukum lalu lintas", "Adat panen", "Olahraga"],
+"answer": 0,
+"explain": "Berbohong melanggar nilai kejujuran."
+},
+{
+"id": "pa5b2-s3-16",
+"q": "Membandingkan: norma adat vs kesopanan terkait cakupan…",
+"options": ["Adat lokal; kesopanan umum", "Adat global; kesopanan lokal", "Keduanya global", "Keduanya privat keluarga"],
+"answer": 0,
+"explain": "Adat spesifik daerah; kesopanan luas."
+},
+{
+"id": "pa5b2-s3-17",
+"q": "Mengaktifkan kontrol orang tua di perangkat merupakan contoh…",
+"options": ["Pelanggaran hukum", "Aturan penggunaan gadget di rumah", "Adat desa", "Kesusilaan batin"],
+"answer": 1,
+"explain": "Bagian dari kesepakatan keluarga."
+},
+{
+"id": "pa5b2-s3-18",
+"q": "Merekam dan mengunggah orang tanpa izin di tempat umum melanggar…",
+"options": ["Privasi/kesopanan", "Hukum pajak", "Adat perkebunan", "Ibadah wajib"],
+"answer": 0,
+"explain": "Mengabaikan izin dan etika."
+},
+{
+"id": "pa5b2-s3-19",
+"q": "Pernyataan yang benar tentang etika berkomentar online…",
+"options": ["Gunakan kata kasar", "Saring informasi sebelum kirim", "Sebar identitas pribadi teman", "Komentar tanpa baca isi"],
+"answer": 1,
+"explain": "Pikirkan dampak sebelum mengirim."
+},
+{
+"id": "pa5b2-s3-20",
+"q": "Kebijakan rumah: layar hanya di ruang keluarga. Tujuannya…",
+"options": ["Mengurangi biaya listrik", "Memudahkan pengawasan dan interaksi", "Menambah tugas rumah", "Melarang belajar digital"],
+"answer": 1,
+"explain": "Pengawasan mudah dan komunikasi terjaga."
+}
+]

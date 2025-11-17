@@ -1,0 +1,142 @@
+[
+{
+"id": "mt7b1-s5-01",
+"q": "Nilai |−4| + |−7| sama dengan?",
+"options": ["−11", "3", "7", "11"],
+"answer": 3,
+"explain": "Nilai mutlak menghilangkan tanda; 4 + 7 = 11."
+},
+{
+"id": "mt7b1-s5-02",
+"q": "Hasil (−3) × (−5) + 2 adalah?",
+"options": ["−17", "13", "−13", "17"],
+"answer": 1,
+"explain": "Negatif kali negatif positif: 15 + 2 = 17."
+},
+{
+"id": "mt7b1-s5-03",
+"q": "7/9 − 2/3 sama dengan?",
+"options": ["1/9", "5/9", "4/9", "1/3"],
+"answer": 0,
+"explain": "Samakan penyebut 9: 7/9 − 6/9 = 1/9."
+},
+{
+"id": "mt7b1-s5-04",
+"q": "4/5 ÷ 2 bernilai?",
+"options": ["8/5", "2/5", "4/10", "5/4"],
+"answer": 1,
+"explain": "Bagi dengan 2 sama dengan kali 1/2: 4/5×1/2=2/5."
+},
+{
+"id": "mt7b1-s5-05",
+"q": "2,75 dalam pecahan paling sederhana adalah?",
+"options": ["11/4", "2/75", "27/10", "5/2"],
+"answer": 0,
+"explain": "2,75 = 275/100 = 11/4."
+},
+{
+"id": "mt7b1-s5-06",
+"q": "Perbandingan A:B = 5:3, jumlah 64. Nilai A?",
+"options": ["35", "40", "45", "50"],
+"answer": 1,
+"explain": "Total bagian 8; A = 5/8 × 64 = 40."
+},
+{
+"id": "mt7b1-s5-07",
+"q": "Skala 1:250.000, jarak peta 2,5 cm setara?",
+"options": ["0,625 km", "6,25 km", "62,5 km", "0,0625 km"],
+"answer": 0,
+"explain": "2,5×250.000=625.000 cm=6.250 m=0,625 km."
+},
+{
+"id": "mt7b1-s5-08",
+"q": "Bentuk desimal dari 13/25 adalah?",
+"options": ["0,26", "0,52", "0,58", "0,62"],
+"answer": 1,
+"explain": "13 ÷ 25 = 0,52."
+},
+{
+"id": "mt7b1-s5-09",
+"q": "Urutan menaik: −4, −6, 2, 0 adalah?",
+"options": ["−6, −4, 0, 2", "−4, −6, 0, 2", "0, −6, −4, 2", "2, 0, −4, −6"],
+"answer": 0,
+"explain": "Paling kiri lebih kecil: −6 < −4 < 0 < 2."
+},
+{
+"id": "mt7b1-s5-10",
+"q": "Nilai 5^3 − 2^4 adalah?",
+"options": ["91", "109", "121", "141"],
+"answer": 1,
+"explain": "125 − 16 = 109."
+},
+{
+"id": "mt7b1-s5-11",
+"q": "(3^2)^3 sama dengan?",
+"options": ["3^5", "3^6", "6^3", "9^3"],
+"answer": 1,
+"explain": "Aturan pangkat: (a^m)^n = a^(m×n) = 3^6."
+},
+{
+"id": "mt7b1-s5-12",
+"q": "Nilai √196 adalah?",
+"options": ["12", "13", "14", "15"],
+"answer": 2,
+"explain": "14×14 = 196."
+},
+{
+"id": "mt7b1-s5-13",
+"q": "Sederhanakan √32.",
+"options": ["8√2", "4√2", "2√8", "√16"],
+"answer": 1,
+"explain": "32=16×2; √32=√16×√2=4√2."
+},
+{
+"id": "mt7b1-s5-14",
+"q": "0,00021 dalam notasi ilmiah adalah?",
+"options": ["2,1×10^−3", "2,1×10^−4", "21×10^−6", "0,21×10^−3"],
+"answer": 1,
+"explain": "Geser koma 4 tempat: 2,1×10^−4."
+},
+{
+"id": "mt7b1-s5-15",
+"q": "9,6×10^−1 sama dengan bentuk desimal?",
+"options": ["0,96", "9,6", "0,096", "96"],
+"answer": 0,
+"explain": "Pangkat −1 geser koma satu ke kiri."
+},
+{
+"id": "mt7b1-s5-16",
+"q": "4,8×10^2 bernilai?",
+"options": ["4800", "480", "48", "4,8"],
+"answer": 1,
+"explain": "Kali 100 menggeser koma dua ke kanan."
+},
+{
+"id": "mt7b1-s5-17",
+"q": "0,84 ÷ 0,07 sama dengan?",
+"options": ["0,12", "1,2", "12", "120"],
+"answer": 2,
+"explain": "Ubah ke pecahan: 84/100 ÷ 7/100 = 12."
+},
+{
+"id": "mt7b1-s5-18",
+"q": "3/8 dari 2/3 sama dengan?",
+"options": ["1/4", "1/6", "1/8", "1/12"],
+"answer": 0,
+"explain": "Kali pecahan: 3/8 × 2/3 = 1/4."
+},
+{
+"id": "mt7b1-s5-19",
+"q": "Jika 5x = 2,5 maka x bernilai?",
+"options": ["0,25", "0,4", "0,5", "2"],
+"answer": 2,
+"explain": "Bagi kedua sisi 5: x = 0,5."
+},
+{
+"id": "mt7b1-s5-20",
+"q": "Sederhanakan 42/56.",
+"options": ["3/4", "2/3", "5/7", "6/7"],
+"answer": 0,
+"explain": "Bagi pembilang dan penyebut dengan 14."
+}
+]

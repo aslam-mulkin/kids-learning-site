@@ -1,0 +1,142 @@
+[
+{
+"id": "mt7b1-s3-01",
+"q": "Hasil dari −18 + (−7) adalah?",
+"options": ["−25", "−11", "11", "25"],
+"answer": 0,
+"explain": "Jumlah dua negatif: −18 + −7 = −25."
+},
+{
+"id": "mt7b1-s3-02",
+"q": "Nilai (−20) − 13 sama dengan?",
+"options": ["−7", "33", "−33", "7"],
+"answer": 2,
+"explain": "Mengurangi 13 dari −20 menghasilkan −33."
+},
+{
+"id": "mt7b1-s3-03",
+"q": "5/12 + 1/3 sama dengan?",
+"options": ["2/3", "3/4", "5/6", "7/12"],
+"answer": 1,
+"explain": "Samakan penyebut 12: 5/12 + 4/12 = 3/4."
+},
+{
+"id": "mt7b1-s3-04",
+"q": "7/8 − 1/16 sama dengan?",
+"options": ["1/2", "13/16", "3/4", "7/16"],
+"answer": 1,
+"explain": "Ubah ke penyebut 16: 14/16 − 1/16 = 13/16."
+},
+{
+"id": "mt7b1-s3-05",
+"q": "0,125 setara dengan pecahan paling sederhana?",
+"options": ["1/5", "1/8", "1/4", "3/8"],
+"answer": 1,
+"explain": "0,125 = 125/1000 = 1/8."
+},
+{
+"id": "mt7b1-s3-06",
+"q": "Ubah 2 3/5 ke bentuk desimal.",
+"options": ["2,3", "2,5", "2,6", "2,8"],
+"answer": 2,
+"explain": "3/5 = 0,6; jadi 2 + 0,6 = 2,6."
+},
+{
+"id": "mt7b1-s3-07",
+"q": "Perbandingan setara dari 14:21 adalah?",
+"options": ["2:3", "3:5", "4:7", "1:2"],
+"answer": 0,
+"explain": "Bagi keduanya dengan 7: 14:21 = 2:3."
+},
+{
+"id": "mt7b1-s3-08",
+"q": "A:B = 4:5 dan A+B = 36. Nilai A?",
+"options": ["12", "14", "16", "18"],
+"answer": 2,
+"explain": "Bagian total 9; A = 4/9 × 36 = 16."
+},
+{
+"id": "mt7b1-s3-09",
+"q": "Manakah yang lebih besar: 5/12 atau 0,4?",
+"options": ["5/12", "0,4", "Sama besar", "Tidak dapat ditentukan"],
+"answer": 0,
+"explain": "5/12 ≈ 0,4167 lebih besar dari 0,4."
+},
+{
+"id": "mt7b1-s3-10",
+"q": "0,9 × 0,07 bernilai?",
+"options": ["0,63", "0,063", "0,0063", "0,007"],
+"answer": 1,
+"explain": "Kalikan 9/10 dengan 7/100 = 63/1000 = 0,063."
+},
+{
+"id": "mt7b1-s3-11",
+"q": "4,2 ÷ 0,06 sama dengan?",
+"options": ["0,7", "7", "70", "700"],
+"answer": 2,
+"explain": "Setarakan: 4,2 ÷ 0,06 = 420 ÷ 6 = 70."
+},
+{
+"id": "mt7b1-s3-12",
+"q": "3^4 × 3 bernilai?",
+"options": ["3^3", "3^4", "3^5", "3^6"],
+"answer": 2,
+"explain": "Pangkat dijumlah: 4 + 1 = 5."
+},
+{
+"id": "mt7b1-s3-13",
+"q": "2^5 ÷ 2^2 sama dengan?",
+"options": ["2^10", "2^7", "2^3", "8^2"],
+"answer": 2,
+"explain": "Kurangi pangkat: 5 − 2 = 3."
+},
+{
+"id": "mt7b1-s3-14",
+"q": "Sederhanakan √50.",
+"options": ["25", "5√2", "10√5", "√25"],
+"answer": 1,
+"explain": "Faktorkan 50=25×2; √50=√25×√2=5√2."
+},
+{
+"id": "mt7b1-s3-15",
+"q": "Nilai √121 − √81 adalah?",
+"options": ["20", "2", "10", "−2"],
+"answer": 1,
+"explain": "√121=11 dan √81=9; selisih 2."
+},
+{
+"id": "mt7b1-s3-16",
+"q": "6,3×10^−2 dalam bentuk desimal adalah?",
+"options": ["0,63", "0,063", "0,0063", "6,3"],
+"answer": 1,
+"explain": "Pangkat −2 geser koma dua ke kiri."
+},
+{
+"id": "mt7b1-s3-17",
+"q": "9,1×10^3 sama dengan bilangan biasa?",
+"options": ["910", "9.100", "91.000", "0,0091"],
+"answer": 1,
+"explain": "Kalikan 9,1 dengan 1000 menjadi 9.100."
+},
+{
+"id": "mt7b1-s3-18",
+"q": "0,0004 ditulis dalam notasi ilmiah?",
+"options": ["4×10^−3", "4×10^−4", "0,4×10^−3", "40×10^−6"],
+"answer": 1,
+"explain": "Geser koma 4 tempat: 4×10^−4."
+},
+{
+"id": "mt7b1-s3-19",
+"q": "Urutan menurun: 2/5, 0,38, 41%, 0,4?",
+"options": ["41%, 2/5, 0,4, 0,38", "41%, 0,4, 2/5, 0,38", "2/5, 41%, 0,4, 0,38", "0,4, 41%, 2/5, 0,38"],
+"answer": 0,
+"explain": "0,41 > 0,40 > 0,38; ikuti urutan itu."
+},
+{
+"id": "mt7b1-s3-20",
+"q": "Jika 3^x = 27, maka nilai x?",
+"options": ["2", "3", "9", "27"],
+"answer": 1,
+"explain": "27 = 3^3, jadi x = 3."
+}
+]

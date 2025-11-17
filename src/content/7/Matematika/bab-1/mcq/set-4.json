@@ -1,0 +1,142 @@
+[
+{
+"id": "mt7b1-s4-01",
+"q": "Hasil 3 − (−2 + 5) adalah?",
+"options": ["−4", "0", "3", "4"],
+"answer": 1,
+"explain": "Hitung dalam kurung: −2+5=3; 3−3=0."
+},
+{
+"id": "mt7b1-s4-02",
+"q": "Nilai (−9) − (−4) sama dengan?",
+"options": ["−13", "−5", "5", "13"],
+"answer": 1,
+"explain": "Kurang negatif berarti menambah: −9 + 4 = −5."
+},
+{
+"id": "mt7b1-s4-03",
+"q": "Hasil (−6) × 7 adalah?",
+"options": ["−42", "42", "−13", "13"],
+"answer": 0,
+"explain": "Negatif kali positif hasilnya negatif."
+},
+{
+"id": "mt7b1-s4-04",
+"q": "Bilangan terkecil berikut adalah?",
+"options": ["−12", "−5", "0", "3"],
+"answer": 0,
+"explain": "Pada garis bilangan, paling kiri paling kecil."
+},
+{
+"id": "mt7b1-s4-05",
+"q": "2/3 + 3/10 sama dengan?",
+"options": ["29/30", "11/13", "7/10", "19/30"],
+"answer": 0,
+"explain": "KPK 30: 20/30 + 9/30 = 29/30."
+},
+{
+"id": "mt7b1-s4-06",
+"q": "5/6 × 3/5 bernilai?",
+"options": ["1/2", "3/6", "3/5", "5/18"],
+"answer": 0,
+"explain": "Sederhanakan, hasilnya 3/6 = 1/2."
+},
+{
+"id": "mt7b1-s4-07",
+"q": "4/9 ÷ 2/3 sama dengan?",
+"options": ["2/3", "4/27", "6/11", "8/27"],
+"answer": 0,
+"explain": "Kali kebalikan: 4/9 × 3/2 = 2/3."
+},
+{
+"id": "mt7b1-s4-08",
+"q": "Ubah 1 3/4 ke pecahan biasa.",
+"options": ["5/4", "7/4", "3/7", "4/7"],
+"answer": 1,
+"explain": "1×4+3=7, penyebut 4; jadi 7/4."
+},
+{
+"id": "mt7b1-s4-09",
+"q": "0,45 setara dengan pecahan sederhana?",
+"options": ["9/20", "45/100", "18/40", "4/9"],
+"answer": 0,
+"explain": "45/100 disederhanakan menjadi 9/20."
+},
+{
+"id": "mt7b1-s4-10",
+"q": "72% ditulis dalam bentuk desimal adalah?",
+"options": ["0,072", "0,72", "7,2", "72,0"],
+"answer": 1,
+"explain": "Bagi 72 dengan 100 menjadi 0,72."
+},
+{
+"id": "mt7b1-s4-11",
+"q": "Perbandingan minuman:sirup = 2:5. Jika sirup 350 mL, minuman?",
+"options": ["120 mL", "140 mL", "175 mL", "210 mL"],
+"answer": 1,
+"explain": "Minuman = 2/5 × 350 = 140 mL."
+},
+{
+"id": "mt7b1-s4-12",
+"q": "x/18 = 2/3. Nilai x adalah?",
+"options": ["9", "10", "12", "24"],
+"answer": 2,
+"explain": "Kalikan silang: x = 18×2/3 = 12."
+},
+{
+"id": "mt7b1-s4-13",
+"q": "Nilai a^0 untuk a ≠ 0 adalah?",
+"options": ["0", "1", "a", "a^1"],
+"answer": 1,
+"explain": "Pangkat nol selalu bernilai satu."
+},
+{
+"id": "mt7b1-s4-14",
+"q": "10^−3 setara dengan?",
+"options": ["0,003", "0,03", "0,0003", "0,001"],
+"answer": 3,
+"explain": "10^−3 = 1/1000 = 0,001."
+},
+{
+"id": "mt7b1-s4-15",
+"q": "Nilai √144 adalah?",
+"options": ["10", "11", "12", "14"],
+"answer": 2,
+"explain": "12×12 = 144, jadi 12."
+},
+{
+"id": "mt7b1-s4-16",
+"q": "Sederhanakan √72.",
+"options": ["6√2", "3√8", "12√2", "√36"],
+"answer": 0,
+"explain": "72=36×2; √72=√36×√2=6√2."
+},
+{
+"id": "mt7b1-s4-17",
+"q": "0,00056 dalam notasi ilmiah adalah?",
+"options": ["5,6×10^−5", "5,6×10^−4", "56×10^−6", "0,56×10^−4"],
+"answer": 1,
+"explain": "Geser koma 4 tempat ke kanan."
+},
+{
+"id": "mt7b1-s4-18",
+"q": "Bilangan biasa dari 8,2×10^5 adalah?",
+"options": ["82.000", "820.000", "8.200.000", "820"],
+"answer": 1,
+"explain": "Kalikan 8,2 dengan 100.000 = 820.000."
+},
+{
+"id": "mt7b1-s4-19",
+"q": "Urutan menaik: 0,48; 1/2; 47%?",
+"options": ["1/2, 0,48, 47%", "47%, 0,48, 1/2", "0,48, 47%, 1/2", "47%, 1/2, 0,48"],
+"answer": 1,
+"explain": "0,47 < 0,48 < 0,5."
+},
+{
+"id": "mt7b1-s4-20",
+"q": "Skala 1:50.000, jarak peta 8 cm setara?",
+"options": ["0,4 km", "4 km", "40 km", "400 m"],
+"answer": 1,
+"explain": "8×50.000=400.000 cm = 4 km."
+}
+]

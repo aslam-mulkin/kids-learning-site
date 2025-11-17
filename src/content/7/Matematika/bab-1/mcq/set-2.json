@@ -1,0 +1,142 @@
+[
+{
+"id": "mt7b1-s2-01",
+"q": "Nilai |−15| adalah?",
+"options": ["−15", "0", "15", "1,5"],
+"answer": 2,
+"explain": "Nilai mutlak selalu bernilai positif."
+},
+{
+"id": "mt7b1-s2-02",
+"q": "Hasil dari (−7) − (−12) adalah?",
+"options": ["−19", "5", "−5", "12"],
+"answer": 1,
+"explain": "Kurang negatif berarti menambah: −7 + 12 = 5."
+},
+{
+"id": "mt7b1-s2-03",
+"q": "3/7 + 2/7 sama dengan?",
+"options": ["5/14", "1/7", "5/7", "6/7"],
+"answer": 2,
+"explain": "Penyebut sama, jumlah pembilang: 3+2."
+},
+{
+"id": "mt7b1-s2-04",
+"q": "5/6 − 1/4 sama dengan?",
+"options": ["7/12", "1/3", "3/8", "11/12"],
+"answer": 0,
+"explain": "Samakan penyebut 12: 10/12 − 3/12."
+},
+{
+"id": "mt7b1-s2-05",
+"q": "0,375 setara dengan pecahan paling sederhana?",
+"options": ["3/8", "37/50", "15/40", "75/200"],
+"answer": 0,
+"explain": "0,375 = 375/1000 disederhanakan menjadi 3/8."
+},
+{
+"id": "mt7b1-s2-06",
+"q": "45% sama dengan pecahan paling sederhana?",
+"options": ["45/100", "9/20", "4/9", "5/9"],
+"answer": 1,
+"explain": "45/100 dibagi 5 menjadi 9/20."
+},
+{
+"id": "mt7b1-s2-07",
+"q": "Sederhanakan perbandingan 12:18.",
+"options": ["2:3", "3:4", "4:6", "6:12"],
+"answer": 0,
+"explain": "Bagi keduanya dengan 6, jadi 2:3."
+},
+{
+"id": "mt7b1-s2-08",
+"q": "x:20 = 3:5. Nilai x adalah?",
+"options": ["9", "12", "15", "25"],
+"answer": 1,
+"explain": "x/20 = 3/5, jadi x = 12."
+},
+{
+"id": "mt7b1-s2-09",
+"q": "Manakah yang terbesar?",
+"options": ["0,72", "7/10", "71%", "0,705"],
+"answer": 0,
+"explain": "0,72 = 72%, terbesar dibanding lainnya."
+},
+{
+"id": "mt7b1-s2-10",
+"q": "2^3 × 2^4 bernilai?",
+"options": ["2^12", "2^7", "8^4", "2^1"],
+"answer": 1,
+"explain": "Pangkat dijumlah: 3 + 4 = 7."
+},
+{
+"id": "mt7b1-s2-11",
+"q": "10^6 ÷ 10^2 sama dengan?",
+"options": ["10^8", "10^4", "10^3", "10^2"],
+"answer": 1,
+"explain": "Pembagian pangkat basis sama: 6−2=4."
+},
+{
+"id": "mt7b1-s2-12",
+"q": "Nilai √64 adalah?",
+"options": ["6", "7", "8", "9"],
+"answer": 2,
+"explain": "8 × 8 = 64."
+},
+{
+"id": "mt7b1-s2-13",
+"q": "Nilai √36 + √16 adalah?",
+"options": ["8", "9", "10", "12"],
+"answer": 2,
+"explain": "√36=6 dan √16=4, jumlah 10."
+},
+{
+"id": "mt7b1-s2-14",
+"q": "0,04 × 0,5 sama dengan?",
+"options": ["0,2", "0,02", "0,004", "0,05"],
+"answer": 1,
+"explain": "Empat per seratus dikali setengah jadi dua per seratus."
+},
+{
+"id": "mt7b1-s2-15",
+"q": "3,2 ÷ 0,8 sama dengan?",
+"options": ["0,4", "4", "2,4", "0,08"],
+"answer": 1,
+"explain": "Kalikan pembagi 10: 32 ÷ 8 = 4."
+},
+{
+"id": "mt7b1-s2-16",
+"q": "0,00092 dalam notasi ilmiah adalah?",
+"options": ["9,2×10^−5", "9,2×10^−4", "92×10^−6", "0,92×10^−3"],
+"answer": 1,
+"explain": "Geser koma 4 ke kanan: 9,2×10^−4."
+},
+{
+"id": "mt7b1-s2-17",
+"q": "3,5×10^3 sama dengan bilangan biasa?",
+"options": ["350", "3.500", "35.000", "0,0035"],
+"answer": 1,
+"explain": "Kalikan 3,5 dengan 1000 menjadi 3500."
+},
+{
+"id": "mt7b1-s2-18",
+"q": "Urutan menaik yang benar: −5, −2, −8, 3?",
+"options": ["−8, −5, −2, 3", "−8, −2, −5, 3", "3, −2, −5, −8", "−5, −8, −2, 3"],
+"answer": 0,
+"explain": "Lebih kiri lebih kecil pada garis bilangan."
+},
+{
+"id": "mt7b1-s2-19",
+"q": "Perbandingan gula:tepung 2:5. Jika gula 300 g, tepung?",
+"options": ["500 g", "600 g", "700 g", "750 g"],
+"answer": 3,
+"explain": "Tepung = 300 × 5/2 = 750 g."
+},
+{
+"id": "mt7b1-s2-20",
+"q": "Luas persegi 121 cm^2. Panjang sisi?",
+"options": ["10 cm", "11 cm", "12 cm", "13 cm"],
+"answer": 1,
+"explain": "Sisi = √121 = 11 cm."
+}
+]

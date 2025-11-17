@@ -1,22 +1,34 @@
 
-import React, { useMemo, useState } from 'react'
+import React, { useMemo, useRef, useEffect, useState } from 'react'
 import { Button } from '@/components/ui/Button'
 import { Card, CardContent, CardTitle } from '@/components/ui/Card'
 import type { MCQ } from '@/types'
+import { recordQuizAttempt } from '@/lib/progress'
 
-type Props = { items: MCQ[] }
+type Props = { items: MCQ[]; topicKey: string; setId: string; onProgress?: () => void }
 
-export default function QuizView({ items }: Props) {
+export default function QuizView({ items, topicKey, setId, onProgress }: Props) {
   const [idx, setIdx] = useState(0)
   const [answers, setAnswers] = useState<number[]>(Array(items.length).fill(-1))
   const [finished, setFinished] = useState(false)
   const [reviewMode, setReviewMode] = useState(false)
+  const recordedRef = useRef(false)
 
   const allAnswered = useMemo(() => answers.every(a => a !== -1), [answers])
   const score = useMemo(
     () => answers.reduce((acc, a, i) => acc + (a === items[i].answer ? 1 : 0), 0),
     [answers, items]
   )
+
+  // Save progress locally once per completed attempt
+  useEffect(() => {
+    if (finished && !recordedRef.current) {
+      recordQuizAttempt(topicKey, setId, score, items.length)
+      recordedRef.current = true
+      onProgress?.()
+    }
+    if (!finished) recordedRef.current = false
+  }, [finished, score, topicKey, setId, items.length, onProgress])
 
   function choose(o: number) {
     if (finished) return

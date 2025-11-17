@@ -3,6 +3,7 @@ import { listTopics, loadFlashcards, loadMCQ } from '@/content/registry'
 import type { TopicMeta, Flashcard, MCQ } from '@/types'
 import { Card, CardContent, CardTitle } from '@/components/ui/Card'
 import { Button } from '@/components/ui/Button'
+import { getQuizProgress } from '@/lib/progress'
 
 const FlashcardsView = React.lazy(() => import('./views/FlashcardsView'))
 const QuizView = React.lazy(() => import('./views/QuizView'))
@@ -21,6 +22,7 @@ export default function App() {
   const [topicId, setTopicId] = useState(topicOptions[0]?.topicId)
 
   const [mode, setMode] = useState<Mode>('flashcards')
+  const [, setProgressTick] = useState(0) // bump to refresh labels after attempting a quiz
 
   // Multi-set selectors
   const [flashSetId, setFlashSetId] = useState<string | undefined>(topicOptions[0]?.flashcardSets?.[0]?.setId)
@@ -47,6 +49,7 @@ export default function App() {
   }, [topicId, grade, subject, topics])
 
   const current: TopicMeta | undefined = topics.find(t => t.grade === grade && t.subject === subject && t.topicId === topicId)
+  const topicKey = current ? `${current.grade}/${current.subject}/${current.topicId}` : ''
 
   const [cards, setCards] = useState<Flashcard[] | null>(null)
   const [mcq, setMcq] = useState<MCQ[] | null>(null)
@@ -128,7 +131,13 @@ export default function App() {
                 value={setId}
                 onChange={e => setSetId(e.target.value)}
               >
-                {current.mcqSets.map(s => <option key={s.setId} value={s.setId}>{s.title}</option>)}
+                {current.mcqSets.map(s => {
+                  const progress = topicKey ? getQuizProgress(topicKey, s.setId) : null
+                  const badge = progress
+                    ? ` (terbaik ${progress.bestScore}/${progress.total}${progress.completed ? ' ✅' : ''})`
+                    : ''
+                  return <option key={s.setId} value={s.setId}>{s.title}{badge}</option>
+                })}
               </select>
             </div>
           ) : null}
@@ -147,6 +156,9 @@ export default function App() {
             <QuizView
             key={`mcq-${grade}-${subject}-${topicId}-${setId}-${mcq.length}`}
             items={mcq}
+            topicKey={topicKey}
+            setId={setId!}
+            onProgress={() => setProgressTick(x => x+1)}
             />
           )}
         </Suspense>

@@ -1,0 +1,142 @@
+[
+{
+"id": "mt7b2-s3-01",
+"q": "Dalam 8m - 5n, konstanta yang ada adalah?",
+"options": ["8", "-5", "m", "n"],
+"answer": 1,
+"explain": "Konstanta tidak memuat variabel."
+},
+{
+"id": "mt7b2-s3-02",
+"q": "Koefisien dari -7p adalah?",
+"options": ["-7", "7", "p", "-1"],
+"answer": 0,
+"explain": "Koefisien angka yang mengalikan variabel."
+},
+{
+"id": "mt7b2-s3-03",
+"q": "Suku sejenis dari 5x^2y adalah …",
+"options": ["-2x^2y", "5xy^2", "x^2", "5y^2"],
+"answer": 0,
+"explain": "Pangkat variabel sama persis."
+},
+{
+"id": "mt7b2-s3-04",
+"q": "Bentuk aljabar yang termasuk binomial adalah?",
+"options": ["9", "3k - 4", "5a^2b", "7pqr"],
+"answer": 1,
+"explain": "Binomial terdiri dua suku."
+},
+{
+"id": "mt7b2-s3-05",
+"q": "Sederhanakan 6x + 4x - 9.",
+"options": ["10x - 9", "2x - 9", "10x + 9", "6x - 5"],
+"answer": 0,
+"explain": "Jumlahkan koefisien x."
+},
+{
+"id": "mt7b2-s3-06",
+"q": "Hasil (3a - 2b) + (5a + b) adalah?",
+"options": ["8a - b", "2a - b", "8a + b", "3a + 3b"],
+"answer": 0,
+"explain": "Gabung suku a dan b."
+},
+{
+"id": "mt7b2-s3-07",
+"q": "Hasil 4(2x + 1) adalah?",
+"options": ["8x + 4", "8x + 1", "2x + 4", "8x - 4"],
+"answer": 0,
+"explain": "Distribusi 4 ke tiap suku."
+},
+{
+"id": "mt7b2-s3-08",
+"q": "Nilai (−3y)(2z) adalah?",
+"options": ["-6yz", "6yz", "-5yz", "-3y + 2z"],
+"answer": 0,
+"explain": "Kalikan koefisien, gabung variabel."
+},
+{
+"id": "mt7b2-s3-09",
+"q": "12a^2b : 3a adalah?",
+"options": ["4ab", "4a^2b", "9ab", "3ab"],
+"answer": 0,
+"explain": "Bagi koefisien, kurangi pangkat a."
+},
+{
+"id": "mt7b2-s3-10",
+"q": "Jika x=3, nilai 2x + 7?",
+"options": ["13", "12", "8", "9"],
+"answer": 0,
+"explain": "Substitusi x lalu hitung."
+},
+{
+"id": "mt7b2-s3-11",
+"q": "x - 5 = 11, nilai x?",
+"options": ["16", "6", "5", "11"],
+"answer": 0,
+"explain": "Tambahkan 5 ke kedua sisi."
+},
+{
+"id": "mt7b2-s3-12",
+"q": "4x + 3 = 19, nilai x?",
+"options": ["4", "5", "6", "7"],
+"answer": 2,
+"explain": "Kurangi 3, bagi 4."
+},
+{
+"id": "mt7b2-s3-13",
+"q": "2x - 7 = -1, nilai x?",
+"options": ["3", "4", "-3", "-4"],
+"answer": 1,
+"explain": "Tambah 7, bagi 2."
+},
+{
+"id": "mt7b2-s3-14",
+"q": "x/4 + 2 = 9, nilai x?",
+"options": ["28", "7", "14", "36"],
+"answer": 0,
+"explain": "Kurangi 2, kalikan 4."
+},
+{
+"id": "mt7b2-s3-15",
+"q": "5(x - 2) = 3x + 10, nilai x?",
+"options": ["10", "5", "-5", "0"],
+"answer": 3,
+"explain": "Sederhanakan, pindah ruas."
+},
+{
+"id": "mt7b2-s3-16",
+"q": "0,25x + 1 = 5, nilai x?",
+"options": ["16", "20", "12", "4"],
+"answer": 0,
+"explain": "Kurangi 1, bagi 0,25."
+},
+{
+"id": "mt7b2-s3-17",
+"q": "SPLDV: x + y = 9 dan x - y = 1. Nilai x?",
+"options": ["5", "4", "6", "8"],
+"answer": 0,
+"explain": "Jumlahkan persamaan, 2x=10."
+},
+{
+"id": "mt7b2-s3-18",
+"q": "SPLDV: 2x + y = 14 dan x + y = 11. Nilai y?",
+"options": ["3", "5", "6", "2"],
+"answer": 0,
+"explain": "Kurangi persamaan, dapat y=3."
+},
+{
+"id": "mt7b2-s3-19",
+"q": "SPLDV: x + 3y = 18 dan y = 4. Nilai x?",
+"options": ["6", "14", "10", "4"],
+"answer": 0,
+"explain": "Substitusi y, lalu kurangi."
+},
+{
+"id": "mt7b2-s3-20",
+"q": "Dua bilangan berjumlah 30 dan selisih 6. Bilangan kecil?",
+"options": ["12", "18", "24", "6"],
+"answer": 0,
+"explain": "Gunakan total dan selisih."
+}
+]

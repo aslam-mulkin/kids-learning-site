@@ -1,22 +1,242 @@
 [
-  {"id":"ip5b5-s4-01","q":"Istilah bunyi pantul lengkap terdengar sesaat …","options":["Gema","Gaung","Reverb","Resonansi"],"answer":0,"explain":"Pantulan utuh agak terlambat."},
-  {"id":"ip5b5-s4-02","q":"Bunyi pantul bercampur bunyi asli disebut …","options":["Gaung","Gema","Resonansi","Interferensi"],"answer":0,"explain":"Pantulan datang terlalu cepat."},
-  {"id":"ip5b5-s4-03","q":"Sifat bunyi yang terlihat pada pantulan tebing …","options":["Dapat dipantulkan","Tidak perlu medium","Tak merambat","Tidak dibelokkan"],"answer":0,"explain":"Permukaan keras memantul."},
-  {"id":"ip5b5-s4-04","q":"Bunyi berasal dari …","options":["Getaran","Panas","Cahaya","Listrik"],"answer":0,"explain":"Getaran benda menimbulkan suara."},
-  {"id":"ip5b5-s4-05","q":"Agar bunyi terdengar, telinga harus …","options":["Menerima gelombang via medium","Sejajar sumber","Di ruang hampa","Lebih tinggi"],"answer":0,"explain":"Medium menghantarkan ke telinga."},
-  {"id":"ip5b5-s4-06","q":"Media perantara bunyi terbaik …","options":["Padat","Gas","Cair","Vakum"],"answer":0,"explain":"Padat partikel rapat."},
-  {"id":"ip5b5-s4-07","q":"Benda lunak peredam bunyi …","options":["Kain wol","Logam","Kaca","Beton"],"answer":0,"explain":"Kain menyerap bunyi."},
-  {"id":"ip5b5-s4-08","q":"Bagian telinga luar yang terlihat …","options":["Daun telinga","Sanggurdi","Koklea","Gendang"],"answer":0,"explain":"Penangkap gelombang awal."},
-  {"id":"ip5b5-s4-09","q":"Fungsi saluran telinga luar …","options":["Salurkan getaran ke gendang","Seimbangkan tekanan","Ubah ke impuls saraf","Saring bau"],"answer":0,"explain":"Gelombang menuju membran timpani."},
-  {"id":"ip5b5-s4-10","q":"Saluran Eustachius menghubungkan telinga tengah ke …","options":["Rongga mulut/hidung","Koklea","Daun telinga","Tulang pipi"],"answer":0,"explain":"Menyeimbangkan tekanan."},
-  {"id":"ip5b5-s4-11","q":"Pemanfaatan bunyi di kedokteran …","options":["USG", "Lampu UV", "X-ray", "CT-scan"],"answer":0,"explain":"USG pakai gelombang ultrasonik."},
-  {"id":"ip5b5-s4-12","q":"Sifat bunyi: dapat …","options":["Dibiaskan", "Memantul cahaya", "Menghasilkan listrik", "Memancarkan foton"],"answer":0,"explain":"Gelombang bunyi bisa dibiaskan."},
-  {"id":"ip5b5-s4-13","q":"Resonansi terjadi saat …","options":["Frekuensi sama", "Medium hilang", "Tekanan nol", "Amplitudo kecil"],"answer":0,"explain":"Frekuensi cocok memperkuat getaran."},
-  {"id":"ip5b5-s4-14","q":"Kuat bunyi dipengaruhi …","options":["Amplitudo", "Warna", "Aroma", "Massa"],"answer":0,"explain":"Amplitudo besar bunyi keras."},
-  {"id":"ip5b5-s4-15","q":"Tinggi nada dipengaruhi …","options":["Frekuensi", "Amplitudo", "Intensitas", "Energi panas"],"answer":0,"explain":"Frekuensi naik nada tinggi."},
-  {"id":"ip5b5-s4-16","q":"Bahan penyerap suara di bioskop …","options":["Karpet", "Baja", "Granit", "Keramik"],"answer":0,"explain":"Karpet mengurangi pantulan."},
-  {"id":"ip5b5-s4-17","q":"Bagian telinga tengah yang bergetar pertama …","options":["Gendang telinga", "Koklea", "Daun telinga", "Saluran telinga"],"answer":0,"explain":"Membran timpani menerima gelombang."},
-  {"id":"ip5b5-s4-18","q":"Koklea berfungsi …","options":["Mengubah getaran ke impuls", "Menyeimbangkan tekanan", "Menangkap kotoran", "Mengalirkan udara"],"answer":0,"explain":"Sel rambut ubah sinyal."},
-  {"id":"ip5b5-s4-19","q":"Alat bantu dengar menolong dengan …","options":["Memperkuat suara", "Menghentikan gelombang", "Menghilangkan medium", "Memantulkan cahaya"],"answer":0,"explain":"Amplifikasi gelombang bunyi."},
-  {"id":"ip5b5-s4-20","q":"Bahan peredam di dinding studio …","options":["Busapiramida", "Stainless steel", "Kaca", "Batu pualam"],"answer":0,"explain":"Busa menyerap pantulan."}
+  {
+    "id": "ip5b5-s4-01",
+    "q": "Istilah bunyi pantul lengkap terdengar sesaat …",
+    "options": [
+      "Gaung",
+      "Gema",
+      "Reverb",
+      "Resonansi"
+    ],
+    "answer": 1,
+    "explain": "Pantulan utuh agak terlambat."
+  },
+  {
+    "id": "ip5b5-s4-02",
+    "q": "Bunyi pantul bercampur bunyi asli disebut …",
+    "options": [
+      "Gaung",
+      "Gema",
+      "Resonansi",
+      "Interferensi"
+    ],
+    "answer": 0,
+    "explain": "Pantulan datang terlalu cepat."
+  },
+  {
+    "id": "ip5b5-s4-03",
+    "q": "Sifat bunyi yang terlihat pada pantulan tebing …",
+    "options": [
+      "Tidak dibelokkan",
+      "Tak merambat",
+      "Dapat dipantulkan",
+      "Tidak perlu medium"
+    ],
+    "answer": 2,
+    "explain": "Permukaan keras memantul."
+  },
+  {
+    "id": "ip5b5-s4-04",
+    "q": "Bunyi berasal dari …",
+    "options": [
+      "Cahaya",
+      "Getaran",
+      "Panas",
+      "Listrik"
+    ],
+    "answer": 1,
+    "explain": "Getaran benda menimbulkan suara."
+  },
+  {
+    "id": "ip5b5-s4-05",
+    "q": "Agar bunyi terdengar, telinga harus …",
+    "options": [
+      "Di ruang hampa",
+      "Menerima gelombang via medium",
+      "Lebih tinggi",
+      "Sejajar sumber"
+    ],
+    "answer": 1,
+    "explain": "Medium menghantarkan ke telinga."
+  },
+  {
+    "id": "ip5b5-s4-06",
+    "q": "Media perantara bunyi terbaik …",
+    "options": [
+      "Gas",
+      "Vakum",
+      "Padat",
+      "Cair"
+    ],
+    "answer": 2,
+    "explain": "Padat partikel rapat."
+  },
+  {
+    "id": "ip5b5-s4-07",
+    "q": "Benda lunak peredam bunyi …",
+    "options": [
+      "Kain wol",
+      "Beton",
+      "Logam",
+      "Kaca"
+    ],
+    "answer": 0,
+    "explain": "Kain menyerap bunyi."
+  },
+  {
+    "id": "ip5b5-s4-08",
+    "q": "Bagian telinga luar yang terlihat …",
+    "options": [
+      "Koklea",
+      "Gendang",
+      "Daun telinga",
+      "Sanggurdi"
+    ],
+    "answer": 2,
+    "explain": "Penangkap gelombang awal."
+  },
+  {
+    "id": "ip5b5-s4-09",
+    "q": "Fungsi saluran telinga luar …",
+    "options": [
+      "Seimbangkan tekanan",
+      "Saring bau",
+      "Salurkan getaran ke gendang",
+      "Ubah ke impuls saraf"
+    ],
+    "answer": 2,
+    "explain": "Gelombang menuju membran timpani."
+  },
+  {
+    "id": "ip5b5-s4-10",
+    "q": "Saluran Eustachius menghubungkan telinga tengah ke …",
+    "options": [
+      "Daun telinga",
+      "Tulang pipi",
+      "Koklea",
+      "Rongga mulut/hidung"
+    ],
+    "answer": 3,
+    "explain": "Menyeimbangkan tekanan."
+  },
+  {
+    "id": "ip5b5-s4-11",
+    "q": "Pemanfaatan bunyi di kedokteran …",
+    "options": [
+      "CT-scan",
+      "USG",
+      "X-ray",
+      "Lampu UV"
+    ],
+    "answer": 1,
+    "explain": "USG pakai gelombang ultrasonik."
+  },
+  {
+    "id": "ip5b5-s4-12",
+    "q": "Sifat bunyi: dapat …",
+    "options": [
+      "Memancarkan foton",
+      "Menghasilkan listrik",
+      "Dibiaskan",
+      "Memantul cahaya"
+    ],
+    "answer": 2,
+    "explain": "Gelombang bunyi bisa dibiaskan."
+  },
+  {
+    "id": "ip5b5-s4-13",
+    "q": "Resonansi terjadi saat …",
+    "options": [
+      "Medium hilang",
+      "Frekuensi sama",
+      "Amplitudo kecil",
+      "Tekanan nol"
+    ],
+    "answer": 1,
+    "explain": "Frekuensi cocok memperkuat getaran."
+  },
+  {
+    "id": "ip5b5-s4-14",
+    "q": "Kuat bunyi dipengaruhi …",
+    "options": [
+      "Aroma",
+      "Amplitudo",
+      "Warna",
+      "Massa"
+    ],
+    "answer": 1,
+    "explain": "Amplitudo besar bunyi keras."
+  },
+  {
+    "id": "ip5b5-s4-15",
+    "q": "Tinggi nada dipengaruhi …",
+    "options": [
+      "Frekuensi",
+      "Amplitudo",
+      "Energi panas",
+      "Intensitas"
+    ],
+    "answer": 0,
+    "explain": "Frekuensi naik nada tinggi."
+  },
+  {
+    "id": "ip5b5-s4-16",
+    "q": "Bahan penyerap suara di bioskop …",
+    "options": [
+      "Granit",
+      "Karpet",
+      "Baja",
+      "Keramik"
+    ],
+    "answer": 1,
+    "explain": "Karpet mengurangi pantulan."
+  },
+  {
+    "id": "ip5b5-s4-17",
+    "q": "Bagian telinga tengah yang bergetar pertama …",
+    "options": [
+      "Koklea",
+      "Saluran telinga",
+      "Gendang telinga",
+      "Daun telinga"
+    ],
+    "answer": 2,
+    "explain": "Membran timpani menerima gelombang."
+  },
+  {
+    "id": "ip5b5-s4-18",
+    "q": "Koklea berfungsi …",
+    "options": [
+      "Mengubah getaran ke impuls",
+      "Menyeimbangkan tekanan",
+      "Menangkap kotoran",
+      "Mengalirkan udara"
+    ],
+    "answer": 0,
+    "explain": "Sel rambut ubah sinyal."
+  },
+  {
+    "id": "ip5b5-s4-19",
+    "q": "Alat bantu dengar menolong dengan …",
+    "options": [
+      "Menghilangkan medium",
+      "Menghentikan gelombang",
+      "Memperkuat suara",
+      "Memantulkan cahaya"
+    ],
+    "answer": 2,
+    "explain": "Amplifikasi gelombang bunyi."
+  },
+  {
+    "id": "ip5b5-s4-20",
+    "q": "Bahan peredam di dinding studio …",
+    "options": [
+      "Batu pualam",
+      "Stainless steel",
+      "Busapiramida",
+      "Kaca"
+    ],
+    "answer": 2,
+    "explain": "Busa menyerap pantulan."
+  }
 ]

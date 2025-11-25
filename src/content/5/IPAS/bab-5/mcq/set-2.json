@@ -1,22 +1,242 @@
 [
-  {"id":"ip5b5-s2-01","q":"Amplitudo berhubungan dengan …","options":["Kuat lemahnya bunyi","Tinggi nada","Kecepatan bunyi","Jenis medium"],"answer":0,"explain":"Amplitudo menentukan keras pelan."},
-  {"id":"ip5b5-s2-02","q":"Getaran 1 kali bolak-balik disebut …","options":["Satu periode","Satu frekuensi","Satu intensitas","Satu desibel"],"answer":0,"explain":"Satu periode adalah satu siklus."},
-  {"id":"ip5b5-s2-03","q":"Supaya bunyi terdengar, sumber dan telinga harus …","options":["Terhubung medium","Sejajar","Berjarak 1 m","Sama tinggi"],"answer":0,"explain":"Medium menghantarkan gelombang."},
-  {"id":"ip5b5-s2-04","q":"Sifat bunyi pada percobaan garpu tala dan meja menunjukkan …","options":["Dapat merambat di padat","Tak bisa dipantul","Tak butuh medium","Berjalan melintang"],"answer":0,"explain":"Meja padat menghantarkan bunyi."},
-  {"id":"ip5b5-s2-05","q":"Suara bergema di lorong panjang menunjukkan …","options":["Bunyi dipantulkan","Bunyi diuraikan","Bunyi diserap semua","Bunyi berhenti"],"answer":0,"explain":"Pantulan kembali ke telinga."},
-  {"id":"ip5b5-s2-06","q":"Bahan peredam yang lunak …","options":["Busa telur","Aluminium","Kaca","Besi"],"answer":0,"explain":"Busa menyerap energi bunyi."},
-  {"id":"ip5b5-s2-07","q":"Daun telinga berfungsi …","options":["Mengumpulkan bunyi","Menghasilkan getah","Menyeimbangkan tekanan","Mengolah suara"],"answer":0,"explain":"Menangkap dan arahkan suara."},
-  {"id":"ip5b5-s2-08","q":"Saluran Eustachius terhubung ke …","options":["Rongga mulut/hidung","Koklea","Daun telinga","Tulang martil"],"answer":0,"explain":"Menyamakan tekanan dengan luar."},
-  {"id":"ip5b5-s2-09","q":"Koklea berisi cairan dan …","options":["Sel rambut","Sel darah","Sel otot","Sel kulit"],"answer":0,"explain":"Sel rambut menangkap getaran."},
-  {"id":"ip5b5-s2-10","q":"Pemanfaatan sifat bunyi di medis selain USG …","options":["CTG detak janin","Foto rontgen","MRI","CT-scan"],"answer":0,"explain":"CTG pakai sensor suara."},
-  {"id":"ip5b5-s2-11","q":"Bunyi pantulan yang tidak sempurna disebut …","options":["Gaung","Gema","Resonansi","Interferensi"],"answer":0,"explain":"Gaung bercampur bunyi asli."},
-  {"id":"ip5b5-s2-12","q":"Penyebab bunyi adalah …","options":["Getaran benda","Suhu rendah","Tekanan tinggi","Arus listrik"],"answer":0,"explain":"Getaran menghasilkan gelombang."},
-  {"id":"ip5b5-s2-13","q":"Medium perambat terbaik untuk bunyi …","options":["Besi","Udara","Uap","Vacuum"],"answer":0,"explain":"Padat paling cepat menghantar."},
-  {"id":"ip5b5-s2-14","q":"Alat bantu dengar bekerja dengan …","options":["Menguatkan gelombang","Memecah gelombang","Menghambat bunyi","Mengubah jadi cahaya"],"answer":0,"explain":"Amplifikasi suara ke telinga."},
-  {"id":"ip5b5-s2-15","q":"Bagian telinga luar selain daun telinga …","options":["Saluran telinga","Koklea","Sanggurdi","Martil"],"answer":0,"explain":"Saluran bawa gelombang ke gendang."},
-  {"id":"ip5b5-s2-16","q":"Suhu mempengaruhi bunyi karena …","options":["Kecepatan di udara naik","Frekuensi hilang","Medium menghilang","Resonansi nol"],"answer":0,"explain":"Udara hangat mempercepat rambat."},
-  {"id":"ip5b5-s2-17","q":"Benda yang meredam bunyi di bioskop …","options":["Karpet tebal","Lantai marmer","Dinding keramik","Kaca"],"answer":0,"explain":"Karpet menyerap pantulan."},
-  {"id":"ip5b5-s2-18","q":"Contoh sifat bunyi: dapat …","options":["Dipantulkan","Dilihat","Difoto","Dibengkokkan seperti cahaya"],"answer":0,"explain":"Permukaan keras memantulkan."},
-  {"id":"ip5b5-s2-19","q":"Manfaat bunyi pantul di laut …","options":["Sonar kapal","Cat dinding","Lampu mercusuar","Radar cuaca"],"answer":0,"explain":"Sonar pakai pantulan suara."},
-  {"id":"ip5b5-s2-20","q":"Supaya bunyi terdengar nyaring perlu …","options":["Amplitudo besar","Frekuensi kecil","Medium vakum","Tidak ada pantulan"],"answer":0,"explain":"Amplitudo besar suara keras."}
+  {
+    "id": "ip5b5-s2-01",
+    "q": "Amplitudo berhubungan dengan …",
+    "options": [
+      "Jenis medium",
+      "Tinggi nada",
+      "Kuat lemahnya bunyi",
+      "Kecepatan bunyi"
+    ],
+    "answer": 2,
+    "explain": "Amplitudo menentukan keras pelan."
+  },
+  {
+    "id": "ip5b5-s2-02",
+    "q": "Getaran 1 kali bolak-balik disebut …",
+    "options": [
+      "Satu periode",
+      "Satu frekuensi",
+      "Satu desibel",
+      "Satu intensitas"
+    ],
+    "answer": 0,
+    "explain": "Satu periode adalah satu siklus."
+  },
+  {
+    "id": "ip5b5-s2-03",
+    "q": "Supaya bunyi terdengar, sumber dan telinga harus …",
+    "options": [
+      "Sejajar",
+      "Sama tinggi",
+      "Terhubung medium",
+      "Berjarak 1 m"
+    ],
+    "answer": 2,
+    "explain": "Medium menghantarkan gelombang."
+  },
+  {
+    "id": "ip5b5-s2-04",
+    "q": "Sifat bunyi pada percobaan garpu tala dan meja menunjukkan …",
+    "options": [
+      "Tak bisa dipantul",
+      "Dapat merambat di padat",
+      "Berjalan melintang",
+      "Tak butuh medium"
+    ],
+    "answer": 1,
+    "explain": "Meja padat menghantarkan bunyi."
+  },
+  {
+    "id": "ip5b5-s2-05",
+    "q": "Suara bergema di lorong panjang menunjukkan …",
+    "options": [
+      "Bunyi dipantulkan",
+      "Bunyi diserap semua",
+      "Bunyi berhenti",
+      "Bunyi diuraikan"
+    ],
+    "answer": 0,
+    "explain": "Pantulan kembali ke telinga."
+  },
+  {
+    "id": "ip5b5-s2-06",
+    "q": "Bahan peredam yang lunak …",
+    "options": [
+      "Aluminium",
+      "Kaca",
+      "Busa telur",
+      "Besi"
+    ],
+    "answer": 2,
+    "explain": "Busa menyerap energi bunyi."
+  },
+  {
+    "id": "ip5b5-s2-07",
+    "q": "Daun telinga berfungsi …",
+    "options": [
+      "Mengolah suara",
+      "Mengumpulkan bunyi",
+      "Menyeimbangkan tekanan",
+      "Menghasilkan getah"
+    ],
+    "answer": 1,
+    "explain": "Menangkap dan arahkan suara."
+  },
+  {
+    "id": "ip5b5-s2-08",
+    "q": "Saluran Eustachius terhubung ke …",
+    "options": [
+      "Rongga mulut/hidung",
+      "Koklea",
+      "Daun telinga",
+      "Tulang martil"
+    ],
+    "answer": 0,
+    "explain": "Menyamakan tekanan dengan luar."
+  },
+  {
+    "id": "ip5b5-s2-09",
+    "q": "Koklea berisi cairan dan …",
+    "options": [
+      "Sel rambut",
+      "Sel darah",
+      "Sel otot",
+      "Sel kulit"
+    ],
+    "answer": 0,
+    "explain": "Sel rambut menangkap getaran."
+  },
+  {
+    "id": "ip5b5-s2-10",
+    "q": "Pemanfaatan sifat bunyi di medis selain USG …",
+    "options": [
+      "CTG detak janin",
+      "Foto rontgen",
+      "CT-scan",
+      "MRI"
+    ],
+    "answer": 0,
+    "explain": "CTG pakai sensor suara."
+  },
+  {
+    "id": "ip5b5-s2-11",
+    "q": "Bunyi pantulan yang tidak sempurna disebut …",
+    "options": [
+      "Gema",
+      "Gaung",
+      "Resonansi",
+      "Interferensi"
+    ],
+    "answer": 1,
+    "explain": "Gaung bercampur bunyi asli."
+  },
+  {
+    "id": "ip5b5-s2-12",
+    "q": "Penyebab bunyi adalah …",
+    "options": [
+      "Arus listrik",
+      "Getaran benda",
+      "Tekanan tinggi",
+      "Suhu rendah"
+    ],
+    "answer": 1,
+    "explain": "Getaran menghasilkan gelombang."
+  },
+  {
+    "id": "ip5b5-s2-13",
+    "q": "Medium perambat terbaik untuk bunyi …",
+    "options": [
+      "Udara",
+      "Besi",
+      "Vacuum",
+      "Uap"
+    ],
+    "answer": 1,
+    "explain": "Padat paling cepat menghantar."
+  },
+  {
+    "id": "ip5b5-s2-14",
+    "q": "Alat bantu dengar bekerja dengan …",
+    "options": [
+      "Mengubah jadi cahaya",
+      "Memecah gelombang",
+      "Menghambat bunyi",
+      "Menguatkan gelombang"
+    ],
+    "answer": 3,
+    "explain": "Amplifikasi suara ke telinga."
+  },
+  {
+    "id": "ip5b5-s2-15",
+    "q": "Bagian telinga luar selain daun telinga …",
+    "options": [
+      "Saluran telinga",
+      "Koklea",
+      "Sanggurdi",
+      "Martil"
+    ],
+    "answer": 0,
+    "explain": "Saluran bawa gelombang ke gendang."
+  },
+  {
+    "id": "ip5b5-s2-16",
+    "q": "Suhu mempengaruhi bunyi karena …",
+    "options": [
+      "Resonansi nol",
+      "Frekuensi hilang",
+      "Kecepatan di udara naik",
+      "Medium menghilang"
+    ],
+    "answer": 2,
+    "explain": "Udara hangat mempercepat rambat."
+  },
+  {
+    "id": "ip5b5-s2-17",
+    "q": "Benda yang meredam bunyi di bioskop …",
+    "options": [
+      "Kaca",
+      "Karpet tebal",
+      "Dinding keramik",
+      "Lantai marmer"
+    ],
+    "answer": 1,
+    "explain": "Karpet menyerap pantulan."
+  },
+  {
+    "id": "ip5b5-s2-18",
+    "q": "Contoh sifat bunyi: dapat …",
+    "options": [
+      "Difoto",
+      "Dibengkokkan seperti cahaya",
+      "Dipantulkan",
+      "Dilihat"
+    ],
+    "answer": 2,
+    "explain": "Permukaan keras memantulkan."
+  },
+  {
+    "id": "ip5b5-s2-19",
+    "q": "Manfaat bunyi pantul di laut …",
+    "options": [
+      "Lampu mercusuar",
+      "Radar cuaca",
+      "Cat dinding",
+      "Sonar kapal"
+    ],
+    "answer": 3,
+    "explain": "Sonar pakai pantulan suara."
+  },
+  {
+    "id": "ip5b5-s2-20",
+    "q": "Supaya bunyi terdengar nyaring perlu …",
+    "options": [
+      "Frekuensi kecil",
+      "Medium vakum",
+      "Tidak ada pantulan",
+      "Amplitudo besar"
+    ],
+    "answer": 3,
+    "explain": "Amplitudo besar suara keras."
+  }
 ]

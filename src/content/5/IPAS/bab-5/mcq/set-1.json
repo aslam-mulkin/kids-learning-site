@@ -1,22 +1,242 @@
 [
-  {"id":"ip5b5-s1-01","q":"Istilah untuk tinggi rendahnya bunyi adalah …","options":["Frekuensi","Amplitudo","Resonansi","Intensitas"],"answer":0,"explain":"Frekuensi menentukan tinggi nada."},
-  {"id":"ip5b5-s1-02","q":"Bunyi terjadi karena benda …","options":["Bergetar","Berputar","Berjalan","Berpindah"],"answer":0,"explain":"Getaran menghasilkan gelombang bunyi."},
-  {"id":"ip5b5-s1-03","q":"Agar bunyi terdengar harus ada sumber, pendengar, dan …","options":["Medium","Cahaya","Listrik","Panas"],"answer":0,"explain":"Bunyi perlu medium perambat."},
-  {"id":"ip5b5-s1-04","q":"Bunyi tidak dapat merambat melalui …","options":["Ruang hampa","Udara","Air","Logam"],"answer":0,"explain":"Butuh medium berpartikel."},
-  {"id":"ip5b5-s1-05","q":"Sifat bunyi pada gambar gelombang rapat renggang disebut …","options":["Longitudinal","Transversal","Stasioner","Difraksi"],"answer":0,"explain":"Bunyi merambat longitudinal."},
-  {"id":"ip5b5-s1-06","q":"Bunyi memerlukan medium berarti bunyi bersifat …","options":["Mekanik","Elektromagnetik","Nuklir","Kimia"],"answer":0,"explain":"Gelombang mekanik butuh medium."},
-  {"id":"ip5b5-s1-07","q":"Bunyi pantulan yang terdengar jelas sesaat disebut …","options":["Gema","Gaung","Resonansi","Desibel"],"answer":0,"explain":"Gema adalah pantulan utuh."},
-  {"id":"ip5b5-s1-08","q":"Lapisan peredam bunyi di studio menggunakan …","options":["Busa","Besi","Kaca","Keramik"],"answer":0,"explain":"Busa menyerap getaran bunyi."},
-  {"id":"ip5b5-s1-09","q":"Bagian telinga luar yang tampak disebut …","options":["Daun telinga","Koklea","Gendang telinga","Saluran Eustachius"],"answer":0,"explain":"Daun telinga menangkap bunyi."},
-  {"id":"ip5b5-s1-10","q":"Gendang telinga terletak pada …","options":["Telinga tengah","Telinga luar","Telinga dalam","Eustachius"],"answer":0,"explain":"Membran di bagian tengah."},
-  {"id":"ip5b5-s1-11","q":"Fungsi saluran Eustachius …","options":["Menyeimbangkan tekanan","Memproduksi getah bening","Menguatkan suara","Menyaring kotoran"],"answer":0,"explain":"Samakan tekanan telinga dan luar."},
-  {"id":"ip5b5-s1-12","q":"Organ pendengar di telinga dalam adalah …","options":["Koklea","Martil","Sanggurdi","Gendang"],"answer":0,"explain":"Koklea berisi sel rambut."},
-  {"id":"ip5b5-s1-13","q":"Sumber getaran di gendang alat musik disebut …","options":["Membran","Senar","Pipa","Kayu"],"answer":0,"explain":"Membran bergetar hasilkan bunyi."},
-  {"id":"ip5b5-s1-14","q":"Bunyi dapat dipantulkan, contoh pemanfaatan …","options":["Ekolokasi","Difraksi","Interferensi","Dispersi"],"answer":0,"explain":"Pantulan membantu navigasi."},
-  {"id":"ip5b5-s1-15","q":"Ultrasonografi (USG) memanfaatkan …","options":["Gelombang ultrasonik","Gelombang radio","Gelombang cahaya","Gelombang listrik"],"answer":0,"explain":"USG gunakan bunyi frekuensi tinggi."},
-  {"id":"ip5b5-s1-16","q":"Bagian telinga luar terdiri atas daun telinga dan …","options":["Saluran telinga","Koklea","Tulang sanggurdi","Saluran Eustachius"],"answer":0,"explain":"Saluran telinga menyalur getaran."},
-  {"id":"ip5b5-s1-17","q":"Media perambat bunyi tercepat pada …","options":["Padat","Cair","Gas","Hampa"],"answer":0,"explain":"Partikel padat rapat."},
-  {"id":"ip5b5-s1-18","q":"Penyebab utama bunyi …","options":["Getaran","Tegangan","Tekanan statis","Suhu rendah"],"answer":0,"explain":"Benda bergetar menghasilkan suara."},
-  {"id":"ip5b5-s1-19","q":"Salah satu sifat bunyi berdasarkan gambar pantulan …","options":["Dapat dipantulkan","Tidak merambat","Tak perlu medium","Tak bisa dibelokkan"],"answer":0,"explain":"Bunyi memantul pada permukaan keras."},
-  {"id":"ip5b5-s1-20","q":"Lapisan peredam dinding aula biasanya …","options":["Karpet","Baja","Kaca","Keramik"],"answer":0,"explain":"Karpet menyerap energi bunyi."}
+  {
+    "id": "ip5b5-s1-01",
+    "q": "Istilah untuk tinggi rendahnya bunyi adalah …",
+    "options": [
+      "Frekuensi",
+      "Intensitas",
+      "Resonansi",
+      "Amplitudo"
+    ],
+    "answer": 0,
+    "explain": "Frekuensi menentukan tinggi nada."
+  },
+  {
+    "id": "ip5b5-s1-02",
+    "q": "Bunyi terjadi karena benda …",
+    "options": [
+      "Berjalan",
+      "Berpindah",
+      "Bergetar",
+      "Berputar"
+    ],
+    "answer": 2,
+    "explain": "Getaran menghasilkan gelombang bunyi."
+  },
+  {
+    "id": "ip5b5-s1-03",
+    "q": "Agar bunyi terdengar harus ada sumber, pendengar, dan …",
+    "options": [
+      "Panas",
+      "Listrik",
+      "Medium",
+      "Cahaya"
+    ],
+    "answer": 2,
+    "explain": "Bunyi perlu medium perambat."
+  },
+  {
+    "id": "ip5b5-s1-04",
+    "q": "Bunyi tidak dapat merambat melalui …",
+    "options": [
+      "Air",
+      "Ruang hampa",
+      "Logam",
+      "Udara"
+    ],
+    "answer": 1,
+    "explain": "Butuh medium berpartikel."
+  },
+  {
+    "id": "ip5b5-s1-05",
+    "q": "Sifat bunyi pada gambar gelombang rapat renggang disebut …",
+    "options": [
+      "Difraksi",
+      "Transversal",
+      "Stasioner",
+      "Longitudinal"
+    ],
+    "answer": 3,
+    "explain": "Bunyi merambat longitudinal."
+  },
+  {
+    "id": "ip5b5-s1-06",
+    "q": "Bunyi memerlukan medium berarti bunyi bersifat …",
+    "options": [
+      "Elektromagnetik",
+      "Mekanik",
+      "Kimia",
+      "Nuklir"
+    ],
+    "answer": 1,
+    "explain": "Gelombang mekanik butuh medium."
+  },
+  {
+    "id": "ip5b5-s1-07",
+    "q": "Bunyi pantulan yang terdengar jelas sesaat disebut …",
+    "options": [
+      "Desibel",
+      "Gaung",
+      "Gema",
+      "Resonansi"
+    ],
+    "answer": 2,
+    "explain": "Gema adalah pantulan utuh."
+  },
+  {
+    "id": "ip5b5-s1-08",
+    "q": "Lapisan peredam bunyi di studio menggunakan …",
+    "options": [
+      "Kaca",
+      "Besi",
+      "Busa",
+      "Keramik"
+    ],
+    "answer": 2,
+    "explain": "Busa menyerap getaran bunyi."
+  },
+  {
+    "id": "ip5b5-s1-09",
+    "q": "Bagian telinga luar yang tampak disebut …",
+    "options": [
+      "Saluran Eustachius",
+      "Gendang telinga",
+      "Daun telinga",
+      "Koklea"
+    ],
+    "answer": 2,
+    "explain": "Daun telinga menangkap bunyi."
+  },
+  {
+    "id": "ip5b5-s1-10",
+    "q": "Gendang telinga terletak pada …",
+    "options": [
+      "Telinga tengah",
+      "Telinga dalam",
+      "Telinga luar",
+      "Eustachius"
+    ],
+    "answer": 0,
+    "explain": "Membran di bagian tengah."
+  },
+  {
+    "id": "ip5b5-s1-11",
+    "q": "Fungsi saluran Eustachius …",
+    "options": [
+      "Menguatkan suara",
+      "Menyaring kotoran",
+      "Menghasilkan getah",
+      "Menyeimbangkan tekanan"
+    ],
+    "answer": 3,
+    "explain": "Samakan tekanan telinga dan luar."
+  },
+  {
+    "id": "ip5b5-s1-12",
+    "q": "Organ pendengar di telinga dalam adalah …",
+    "options": [
+      "Martil",
+      "Koklea",
+      "Sanggurdi",
+      "Daun telinga"
+    ],
+    "answer": 1,
+    "explain": "Koklea berisi sel rambut."
+  },
+  {
+    "id": "ip5b5-s1-13",
+    "q": "Sumber getaran di gendang alat musik disebut …",
+    "options": [
+      "Senar",
+      "Kayu",
+      "Pipa",
+      "Membran"
+    ],
+    "answer": 3,
+    "explain": "Membran bergetar hasilkan bunyi."
+  },
+  {
+    "id": "ip5b5-s1-14",
+    "q": "Bunyi dapat dipantulkan, contoh pemanfaatan …",
+    "options": [
+      "Difraksi",
+      "Dispersi",
+      "Ekolokasi",
+      "Interferensi"
+    ],
+    "answer": 2,
+    "explain": "Pantulan membantu navigasi."
+  },
+  {
+    "id": "ip5b5-s1-15",
+    "q": "Ultrasonografi (USG) memanfaatkan …",
+    "options": [
+      "Gelombang ultrasonik",
+      "Gelombang listrik",
+      "Gelombang cahaya",
+      "Gelombang radio"
+    ],
+    "answer": 0,
+    "explain": "USG gunakan bunyi frekuensi tinggi."
+  },
+  {
+    "id": "ip5b5-s1-16",
+    "q": "Bagian telinga luar terdiri atas daun telinga dan …",
+    "options": [
+      "Tulang sanggurdi",
+      "Koklea",
+      "Saluran Eustachius",
+      "Saluran telinga"
+    ],
+    "answer": 3,
+    "explain": "Saluran telinga menyalur getaran."
+  },
+  {
+    "id": "ip5b5-s1-17",
+    "q": "Media perambat bunyi tercepat pada …",
+    "options": [
+      "Gas",
+      "Padat",
+      "Hampa",
+      "Cair"
+    ],
+    "answer": 1,
+    "explain": "Partikel padat rapat."
+  },
+  {
+    "id": "ip5b5-s1-18",
+    "q": "Penyebab utama bunyi …",
+    "options": [
+      "Gaya",
+      "Getaran",
+      "Suhu rendah",
+      "Tekanan statis"
+    ],
+    "answer": 1,
+    "explain": "Benda bergetar menghasilkan suara."
+  },
+  {
+    "id": "ip5b5-s1-19",
+    "q": "Salah satu sifat bunyi berdasarkan gambar pantulan …",
+    "options": [
+      "Tak perlu medium",
+      "Tak merambat",
+      "Tak bisa dibelokkan",
+      "Dapat dipantulkan"
+    ],
+    "answer": 3,
+    "explain": "Bunyi memantul pada permukaan keras."
+  },
+  {
+    "id": "ip5b5-s1-20",
+    "q": "Lapisan peredam dinding aula biasanya …",
+    "options": [
+      "Keramik",
+      "Kaca",
+      "Karpet",
+      "Baja"
+    ],
+    "answer": 2,
+    "explain": "Karpet menyerap energi bunyi."
+  }
 ]

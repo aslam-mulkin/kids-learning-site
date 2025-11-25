@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu kapasitas kalor?","a":"Kalor total untuk naikkan suhu benda 1°C."},
+  {"q":"Hubungan kapasitas kalor?","a":"C = m c."},
+  {"q":"Apa itu kalor laten?","a":"Kalor untuk ubah wujud tanpa ubah suhu."},
+  {"q":"Kalor laten lebur?","a":"Energi untuk padat menjadi cair."},
+  {"q":"Kalor laten uap?","a":"Energi untuk cair menjadi gas."},
+  {"q":"Melebur adalah …","a":"Padat ke cair."},
+  {"q":"Membeku adalah …","a":"Cair ke padat."},
+  {"q":"Mendidih adalah …","a":"Cair ke gas di seluruh bagian."},
+  {"q":"Mengembun adalah …","a":"Gas ke cair."},
+  {"q":"Menyublim adalah …","a":"Padat langsung ke gas."}
+]

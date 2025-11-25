@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu radiasi?","a":"Perpindahan kalor lewat gelombang EM tanpa medium."},
+  {"q":"Apa itu konveksi?","a":"Perpindahan kalor bersama aliran fluida."},
+  {"q":"Apa itu konduksi?","a":"Perpindahan kalor melalui kontak langsung."},
+  {"q":"Mengapa ΔT=0 saat mendidih?","a":"Kalor dipakai mengubah fase, bukan menaikkan suhu."},
+  {"q":"Kalor jenis besar artinya …","a":"Perlu banyak energi untuk menaikkan suhu."},
+  {"q":"Mengapa es menyerap panas tangan?","a":"Kalor berpindah dari suhu tinggi ke rendah."},
+  {"q":"Mengapa logam cepat panas?","a":"Logam konduktor kalor baik."},
+  {"q":"Mengapa busa jadi isolator?","a":"Banyak udara terperangkap hambat konduksi."},
+  {"q":"Kalor laten uap dipakai untuk …","a":"Mengubah cair jadi gas tanpa ubah suhu."},
+  {"q":"Kalor laten lebur dipakai untuk …","a":"Mengubah padat jadi cair tanpa ubah suhu."}
+]

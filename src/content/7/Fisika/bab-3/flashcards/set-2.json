@@ -1,0 +1,12 @@
+[
+  {"q":"Tiga cara perpindahan kalor?","a":"Konduksi, konveksi, radiasi."},
+  {"q":"Apa itu konduksi?","a":"Perpindahan kalor lewat sentuhan tanpa perpindahan zat."},
+  {"q":"Apa itu konveksi?","a":"Perpindahan kalor bersama aliran fluida."},
+  {"q":"Apa itu radiasi?","a":"Perpindahan kalor lewat gelombang tanpa medium."},
+  {"q":"Contoh konduksi?","a":"Sendok logam panas di panci."},
+  {"q":"Contoh konveksi?","a":"Air mendidih berputar, angin laut."},
+  {"q":"Contoh radiasi?","a":"Panas matahari sampai ke bumi."},
+  {"q":"Apa itu kalor jenis?","a":"Kalor per kg untuk naik 1°C."},
+  {"q":"Rumus kalor jenis?","a":"Q = m c ΔT."},
+  {"q":"Kalor jenis air?","a":"≈4200 J/kg°C."}
+]

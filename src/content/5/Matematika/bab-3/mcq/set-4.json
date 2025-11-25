@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mt5b3-s4-01",
+    "q": "Pecahan tak wajar yang benar adalah …",
+    "options": ["31/8", "7/11", "5/12", "3/10"],
+    "answer": 0,
+    "explain": "Pembilang lebih besar dari penyebut."
+  },
+  {
+    "id": "mt5b3-s4-02",
+    "q": "31/8 jika diubah ke pecahan campuran menjadi …",
+    "options": ["3 7/8", "4 7/8", "3 1/8", "4 1/8"],
+    "answer": 0,
+    "explain": "31 ÷ 8 = 3 sisa 7."
+  },
+  {
+    "id": "mt5b3-s4-03",
+    "q": "19/4 setara dengan …",
+    "options": ["4 3/4", "4 1/4", "3 3/4", "5 1/4"],
+    "answer": 0,
+    "explain": "19 ÷ 4 = 4 sisa 3."
+  },
+  {
+    "id": "mt5b3-s4-04",
+    "q": "7 2/3 dalam pecahan biasa …",
+    "options": ["23/3", "21/3", "22/3", "24/3"],
+    "answer": 0,
+    "explain": "7×3 + 2 = 23."
+  },
+  {
+    "id": "mt5b3-s4-05",
+    "q": "4 5/6 dalam pecahan biasa …",
+    "options": ["29/6", "28/6", "27/6", "30/6"],
+    "answer": 0,
+    "explain": "4×6 + 5 = 29."
+  },
+  {
+    "id": "mt5b3-s4-06",
+    "q": "Nilai desimal 13/20 adalah …",
+    "options": ["0,65", "0,13", "0,75", "0,52"],
+    "answer": 0,
+    "explain": "13 ÷ 20 = 0,65."
+  },
+  {
+    "id": "mt5b3-s4-07",
+    "q": "Nilai desimal 2/25 adalah …",
+    "options": ["0,08", "0,2", "0,25", "0,12"],
+    "answer": 0,
+    "explain": "2 ÷ 25 = 0,08."
+  },
+  {
+    "id": "mt5b3-s4-08",
+    "q": "Lebih besar mana: 3/7 atau 4/9?",
+    "options": ["4/9", "3/7", "Sama", "Tidak tahu"],
+    "answer": 0,
+    "explain": "0,44 lebih besar dari 0,43."
+  },
+  {
+    "id": "mt5b3-s4-09",
+    "q": "Lebih besar mana: 11/15 atau 7/10?",
+    "options": ["11/15", "7/10", "Sama", "Tidak bisa dibandingkan"],
+    "answer": 0,
+    "explain": "0,73… lebih besar dari 0,7."
+  },
+  {
+    "id": "mt5b3-s4-10",
+    "q": "Urutkan kecil ke besar: 6/13, 1/13, 9/13.",
+    "options": ["1/13, 6/13, 9/13", "6/13, 1/13, 9/13", "9/13, 6/13, 1/13", "1/13, 9/13, 6/13"],
+    "answer": 0,
+    "explain": "Penyebut sama, bandingkan pembilang."
+  },
+  {
+    "id": "mt5b3-s4-11",
+    "q": "Urutkan besar ke kecil: 7/8, 4/5, 5/6.",
+    "options": ["7/8, 5/6, 4/5", "7/8, 4/5, 5/6", "5/6, 7/8, 4/5", "4/5, 5/6, 7/8"],
+    "answer": 0,
+    "explain": "0,875 > 0,83 > 0,8."
+  },
+  {
+    "id": "mt5b3-s4-12",
+    "q": "13/18 − 5/18 sama dengan …",
+    "options": ["4/9", "8/18", "5/18", "9/18"],
+    "answer": 0,
+    "explain": "13−5=8; 8/18 jadi 4/9."
+  },
+  {
+    "id": "mt5b3-s4-13",
+    "q": "22/25 − 7/25 sama dengan …",
+    "options": ["3/5", "15/25", "2/5", "5/25"],
+    "answer": 0,
+    "explain": "15/25 disederhanakan jadi 3/5."
+  },
+  {
+    "id": "mt5b3-s4-14",
+    "q": "Model menunjukkan 3/12 + 5/12 bagian. Hasil …",
+    "options": ["2/3", "8/12", "1/2", "3/4"],
+    "answer": 0,
+    "explain": "8/12 disederhanakan menjadi 2/3."
+  },
+  {
+    "id": "mt5b3-s4-15",
+    "q": "Pada gambar 1/6 dan 4/6 bagian diarsir. Total …",
+    "options": ["5/6", "1/6", "2/6", "4/6"],
+    "answer": 0,
+    "explain": "1/6 + 4/6 = 5/6."
+  },
+  {
+    "id": "mt5b3-s4-16",
+    "q": "Botol berisi 5/8 liter, tumpah 1/8 liter. Sisa …",
+    "options": ["1/2 liter", "4/8 liter", "5/8 liter", "3/4 liter"],
+    "answer": 0,
+    "explain": "5/8 − 1/8 = 4/8 = 1/2."
+  },
+  {
+    "id": "mt5b3-s4-17",
+    "q": "Jarak 3 1/2 km, sudah ditempuh 2 1/4 km. Sisa …",
+    "options": ["1 1/4 km", "1 1/2 km", "1/4 km", "2 km"],
+    "answer": 0,
+    "explain": "3,5 − 2,25 = 1,25 km."
+  },
+  {
+    "id": "mt5b3-s4-18",
+    "q": "50/9 dalam bentuk campuran …",
+    "options": ["5 5/9", "6 5/9", "5 4/9", "4 5/9"],
+    "answer": 0,
+    "explain": "50 ÷ 9 = 5 sisa 5."
+  },
+  {
+    "id": "mt5b3-s4-19",
+    "q": "8 1/2 dalam pecahan biasa …",
+    "options": ["17/2", "16/2", "15/2", "18/2"],
+    "answer": 0,
+    "explain": "8×2 + 1 = 17."
+  },
+  {
+    "id": "mt5b3-s4-20",
+    "q": "Pecahan biasa yang setara 5 2/5 adalah …",
+    "options": ["27/5", "22/5", "25/5", "28/5"],
+    "answer": 0,
+    "explain": "5×5 + 2 = 27."
+  }
+]

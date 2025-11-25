@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mt5b3-s2-01",
+    "q": "Pecahan mana yang pasti pecahan biasa tak wajar?",
+    "options": ["18/5", "4/9", "5/12", "7/13"],
+    "answer": 0,
+    "explain": "Pembilang lebih besar dari penyebut."
+  },
+  {
+    "id": "mt5b3-s2-02",
+    "q": "18/5 diubah ke pecahan campuran menjadi …",
+    "options": ["3 3/5", "3 2/5", "4 1/5", "2 3/5"],
+    "answer": 0,
+    "explain": "18 ÷ 5 = 3 sisa 3."
+  },
+  {
+    "id": "mt5b3-s2-03",
+    "q": "25/6 sama dengan …",
+    "options": ["4 1/6", "4 2/6", "3 1/6", "5 1/6"],
+    "answer": 0,
+    "explain": "25 ÷ 6 = 4 sisa 1."
+  },
+  {
+    "id": "mt5b3-s2-04",
+    "q": "Ubah 6 1/2 ke pecahan biasa.",
+    "options": ["13/2", "12/2", "11/2", "14/2"],
+    "answer": 0,
+    "explain": "6×2 + 1 = 13."
+  },
+  {
+    "id": "mt5b3-s2-05",
+    "q": "Ubah 3 4/7 ke pecahan biasa.",
+    "options": ["25/7", "24/7", "22/7", "27/7"],
+    "answer": 0,
+    "explain": "3×7 + 4 = 25."
+  },
+  {
+    "id": "mt5b3-s2-06",
+    "q": "Nilai desimal 5/8 adalah …",
+    "options": ["0,625", "0,58", "0,85", "0,52"],
+    "answer": 0,
+    "explain": "5 ÷ 8 = 0,625."
+  },
+  {
+    "id": "mt5b3-s2-07",
+    "q": "Nilai desimal 9/20 adalah …",
+    "options": ["0,45", "0,9", "0,18", "0,72"],
+    "answer": 0,
+    "explain": "9 ÷ 20 = 0,45."
+  },
+  {
+    "id": "mt5b3-s2-08",
+    "q": "Pecahan lebih besar: 11/12 atau 7/8?",
+    "options": ["11/12", "7/8", "Sama", "Tidak tahu"],
+    "answer": 0,
+    "explain": "0,92 lebih besar dari 0,875."
+  },
+  {
+    "id": "mt5b3-s2-09",
+    "q": "Pecahan lebih besar: 4/9 atau 5/12?",
+    "options": ["4/9", "5/12", "Sama", "Tidak bisa dibandingkan"],
+    "answer": 0,
+    "explain": "4/9 ≈ 0,44 lebih besar."
+  },
+  {
+    "id": "mt5b3-s2-10",
+    "q": "Urutkan terkecil ke terbesar: 2/11, 7/11, 5/11.",
+    "options": ["2/11, 5/11, 7/11", "7/11, 5/11, 2/11", "5/11, 2/11, 7/11", "2/11, 7/11, 5/11"],
+    "answer": 0,
+    "explain": "Penyebut sama, bandingkan pembilang."
+  },
+  {
+    "id": "mt5b3-s2-11",
+    "q": "Urutkan terbesar ke terkecil: 3/4, 5/8, 2/5.",
+    "options": ["3/4, 5/8, 2/5", "5/8, 3/4, 2/5", "3/4, 2/5, 5/8", "5/8, 2/5, 3/4"],
+    "answer": 0,
+    "explain": "0,75 > 0,625 > 0,4."
+  },
+  {
+    "id": "mt5b3-s2-12",
+    "q": "15/16 − 3/16 sama dengan …",
+    "options": ["12/16", "3/16", "15/16", "9/16"],
+    "answer": 0,
+    "explain": "Kurangi pembilang 15−3."
+  },
+  {
+    "id": "mt5b3-s2-13",
+    "q": "7/8 − 1/8 sama dengan …",
+    "options": ["6/8", "7/16", "5/8", "1/8"],
+    "answer": 0,
+    "explain": "Penyebut sama, 7−1."
+  },
+  {
+    "id": "mt5b3-s2-14",
+    "q": "Jika gambar menunjukkan 1/5 + 3/5 bagian, hasilnya …",
+    "options": ["4/5", "3/5", "2/5", "5/5"],
+    "answer": 0,
+    "explain": "Jumlahkan pembilang."
+  },
+  {
+    "id": "mt5b3-s2-15",
+    "q": "Pada model persegi, 2/10 dan 5/10 terarsir. Total …",
+    "options": ["7/10", "3/10", "1/2", "9/10"],
+    "answer": 0,
+    "explain": "2/10 + 5/10 = 7/10."
+  },
+  {
+    "id": "mt5b3-s2-16",
+    "q": "1 1/2 liter jus diminum 2/3 liter. Sisa …",
+    "options": ["5/6 liter", "2/3 liter", "1/3 liter", "3/4 liter"],
+    "answer": 0,
+    "explain": "1,5−0,66… ≈ 0,83…"
+  },
+  {
+    "id": "mt5b3-s2-17",
+    "q": "Tali 3/4 m dipotong 1/4 m. Sisa tali …",
+    "options": ["1/2 m", "1/4 m", "3/4 m", "2/3 m"],
+    "answer": 0,
+    "explain": "3/4 − 1/4 = 2/4."
+  },
+  {
+    "id": "mt5b3-s2-18",
+    "q": "29/8 diubah ke pecahan campuran menjadi …",
+    "options": ["3 5/8", "4 5/8", "3 4/8", "2 5/8"],
+    "answer": 0,
+    "explain": "29 ÷ 8 = 3 sisa 5."
+  },
+  {
+    "id": "mt5b3-s2-19",
+    "q": "7 3/10 setara pecahan biasa …",
+    "options": ["73/10", "70/3", "33/10", "71/10"],
+    "answer": 0,
+    "explain": "7×10 + 3 = 73."
+  },
+  {
+    "id": "mt5b3-s2-20",
+    "q": "Pecahan biasa yang sama dengan 2 4/9 adalah …",
+    "options": ["22/9", "20/9", "18/9", "23/9"],
+    "answer": 0,
+    "explain": "2×9 + 4 = 22."
+  }
+]

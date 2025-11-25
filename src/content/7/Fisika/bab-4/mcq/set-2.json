@@ -1,0 +1,242 @@
+[
+  {
+    "id": "fs7b4-s2-01",
+    "q": "Gerak relatif berarti …",
+    "options": [
+      "Tergantung acuan",
+      "Selalu absolut",
+      "Tidak tergantung pengamat",
+      "Hanya pada Bumi"
+    ],
+    "answer": 0,
+    "explain": "Posisi dibanding acuan tertentu."
+  },
+  {
+    "id": "fs7b4-s2-02",
+    "q": "Benda diam di kereta, bagi pengamat luar …",
+    "options": [
+      "Mengembang",
+      "Diam",
+      "Bergerak",
+      "Berputar"
+    ],
+    "answer": 2,
+    "explain": "Relatif ke tanah kereta bergerak."
+  },
+  {
+    "id": "fs7b4-s2-03",
+    "q": "Gerak lurus beraturan punya percepatan …",
+    "options": [
+      "Negatif tetap",
+      "Nol",
+      "Berubah-ubah",
+      "Positif tetap"
+    ],
+    "answer": 1,
+    "explain": "Kecepatan konstan."
+  },
+  {
+    "id": "fs7b4-s2-04",
+    "q": "GLBB memiliki percepatan …",
+    "options": [
+      "Tetap",
+      "Tak terhingga",
+      "Nol",
+      "Acak"
+    ],
+    "answer": 0,
+    "explain": "Percepatan konstan."
+  },
+  {
+    "id": "fs7b4-s2-05",
+    "q": "Perpindahan tidak tergantung …",
+    "options": [
+      "Arah",
+      "Vektor",
+      "Lintasan detail",
+      "Posisi awal-akhir"
+    ],
+    "answer": 2,
+    "explain": "Hanya titik awal dan akhir."
+  },
+  {
+    "id": "fs7b4-s2-06",
+    "q": "Jarak selalu …",
+    "options": [
+      "Skalar positif",
+      "Bisa negatif",
+      "Vektor",
+      "0 jika kembali"
+    ],
+    "answer": 0,
+    "explain": "Panjang lintasan skalar."
+  },
+  {
+    "id": "fs7b4-s2-07",
+    "q": "Kecepatan rata-rata dihitung dari …",
+    "options": [
+      "Perpindahan/waktu",
+      "Percepatan×waktu",
+      "Jarak/waktu",
+      "Waktu/jarak"
+    ],
+    "answer": 0,
+    "explain": "V rata-rata pakai perpindahan."
+  },
+  {
+    "id": "fs7b4-s2-08",
+    "q": "Kelajuan rata-rata dihitung dari …",
+    "options": [
+      "Perpindahan/waktu",
+      "Percepatan/waktu",
+      "Waktu/perpindahan",
+      "Jarak/waktu"
+    ],
+    "answer": 3,
+    "explain": "Kelajuan gunakan jarak."
+  },
+  {
+    "id": "fs7b4-s2-09",
+    "q": "Grafik v-t GLBB percepatan konstan berupa …",
+    "options": [
+      "Garis horizontal",
+      "Kurva eksponensial",
+      "Garis vertikal",
+      "Garis miring"
+    ],
+    "answer": 3,
+    "explain": "Percepatan konstan, v linier terhadap t."
+  },
+  {
+    "id": "fs7b4-s2-10",
+    "q": "Satuan SI kecepatan …",
+    "options": [
+      "m",
+      "m/s",
+      "km/jam",
+      "s"
+    ],
+    "answer": 1,
+    "explain": "Kecepatan turunan jarak/waktu."
+  },
+  {
+    "id": "fs7b4-s2-11",
+    "q": "Satuan percepatan …",
+    "options": [
+      "m",
+      "s^2",
+      "m/s^2",
+      "m/s"
+    ],
+    "answer": 2,
+    "explain": "Perubahan kecepatan tiap detik."
+  },
+  {
+    "id": "fs7b4-s2-12",
+    "q": "Contoh gerak lurus berubah beraturan …",
+    "options": [
+      "Jam dinding",
+      "Lampu menyala",
+      "Mobil dipercepat konstan",
+      "Mobil kecepatan konstan"
+    ],
+    "answer": 2,
+    "explain": "Percepatan konstan ubah kecepatan."
+  },
+  {
+    "id": "fs7b4-s2-13",
+    "q": "Jika perpindahan nol, kelajuan …",
+    "options": [
+      "Bisa tidak nol",
+      "Tak terhingga",
+      "Pasti nol",
+      "Negatif"
+    ],
+    "answer": 0,
+    "explain": "Jarak bisa ada meski kembali awal."
+  },
+  {
+    "id": "fs7b4-s2-14",
+    "q": "Kecepatan sesaat GLBB pada t tertentu dapat dari …",
+    "options": [
+      "Kemiringan grafik x-t",
+      "Warna grafik",
+      "Kemiringan grafik a-t",
+      "Luas grafik v-t"
+    ],
+    "answer": 0,
+    "explain": "Turunan posisi."
+  },
+  {
+    "id": "fs7b4-s2-15",
+    "q": "Pengamat di kereta melihat penumpang lain …",
+    "options": [
+      "Melayang",
+      "Cepat sekali",
+      "Berputar",
+      "Diam"
+    ],
+    "answer": 3,
+    "explain": "Acuan kereta sama."
+  },
+  {
+    "id": "fs7b4-s2-16",
+    "q": "Jarak 120 km ditempuh 2 jam. Kelajuan rata-rata …",
+    "options": [
+      "60 km/jam",
+      "240 km/jam",
+      "120 km/jam",
+      "30 km/jam"
+    ],
+    "answer": 0,
+    "explain": "120/2."
+  },
+  {
+    "id": "fs7b4-s2-17",
+    "q": "Perpindahan 50 m ke timur dan 30 m ke barat total …",
+    "options": [
+      "80 m",
+      "50 m",
+      "20 m timur",
+      "20 m barat"
+    ],
+    "answer": 2,
+    "explain": "Vektor selisih timur-barat."
+  },
+  {
+    "id": "fs7b4-s2-18",
+    "q": "Gerak melingkar tidak dibahas karena …",
+    "options": [
+      "Tidak ada gravitasi",
+      "Tak punya percepatan",
+      "Tidak ada acuan",
+      "Fokus gerak lurus"
+    ],
+    "answer": 3,
+    "explain": "Bab ini gerak lurus dasar."
+  },
+  {
+    "id": "fs7b4-s2-19",
+    "q": "Kecepatan konstan artinya …",
+    "options": [
+      "Percepatan konstan",
+      "Waktu nol",
+      "Jarak berbanding waktu tetap",
+      "Posisi tetap"
+    ],
+    "answer": 2,
+    "explain": "v tidak berubah terhadap t."
+  },
+  {
+    "id": "fs7b4-s2-20",
+    "q": "Gerak dianggap relatif karena …",
+    "options": [
+      "Tidak perlu acuan",
+      "Hanya di air",
+      "Selalu absolut",
+      "Tergantung pengamat"
+    ],
+    "answer": 3,
+    "explain": "Acuan beda hasil beda."
+  }
+]

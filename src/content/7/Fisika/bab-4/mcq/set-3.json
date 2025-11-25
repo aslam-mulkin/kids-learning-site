@@ -1,0 +1,242 @@
+[
+  {
+    "id": "fs7b4-s3-01",
+    "q": "Titik acuan dipilih untuk …",
+    "options": [
+      "Menentukan posisi",
+      "Mengubah massa",
+      "Mengukur suhu",
+      "Menghitung gaya"
+    ],
+    "answer": 0,
+    "explain": "Posisi relatif ke acuan."
+  },
+  {
+    "id": "fs7b4-s3-02",
+    "q": "Benda dianggap bergerak jika …",
+    "options": [
+      "Posisi berubah terhadap acuan",
+      "Warnanya berubah",
+      "Bentunya berubah",
+      "Massanya berubah"
+    ],
+    "answer": 0,
+    "explain": "Gerak = perubahan posisi."
+  },
+  {
+    "id": "fs7b4-s3-03",
+    "q": "Kelajuan skalar berarti …",
+    "options": [
+      "Ada arah",
+      "Negatif",
+      "Tak terukur",
+      "Tidak mempertimbangkan arah"
+    ],
+    "answer": 3,
+    "explain": "Kelajuan hanya besar."
+  },
+  {
+    "id": "fs7b4-s3-04",
+    "q": "Kecepatan vektor berarti …",
+    "options": [
+      "Skalar",
+      "Selalu positif",
+      "Tak berdimensi",
+      "Ada arah"
+    ],
+    "answer": 3,
+    "explain": "Kecepatan butuh arah."
+  },
+  {
+    "id": "fs7b4-s3-05",
+    "q": "Perbedaan jarak dan perpindahan …",
+    "options": [
+      "Keduanya skalar",
+      "Jarak vektor, perpindahan skalar",
+      "Keduanya vektor",
+      "Jarak skalar, perpindahan vektor"
+    ],
+    "answer": 3,
+    "explain": "Perpindahan punya arah."
+  },
+  {
+    "id": "fs7b4-s3-06",
+    "q": "Lintasan paling pendek antara dua titik disebut …",
+    "options": [
+      "Perpindahan",
+      "Jarak",
+      "Waktu",
+      "Kelajuan"
+    ],
+    "answer": 0,
+    "explain": "Perpindahan garis lurus."
+  },
+  {
+    "id": "fs7b4-s3-07",
+    "q": "Grafik x-t GLB kemiringan menunjukkan …",
+    "options": [
+      "Jarak",
+      "Percepatan",
+      "Waktu",
+      "Kecepatan"
+    ],
+    "answer": 3,
+    "explain": "Slope posisi-waktu = v."
+  },
+  {
+    "id": "fs7b4-s3-08",
+    "q": "Grafik v-t GLBB luas di bawah kurva = …",
+    "options": [
+      "Perpindahan",
+      "Jarak",
+      "Percepatan",
+      "Waktu"
+    ],
+    "answer": 0,
+    "explain": "Integrasi kecepatan."
+  },
+  {
+    "id": "fs7b4-s3-09",
+    "q": "Kecepatan negatif berarti …",
+    "options": [
+      "Arah berlawanan acuan positif",
+      "Kelajuan negatif",
+      "Waktu mundur",
+      "Benda berhenti"
+    ],
+    "answer": 0,
+    "explain": "Tanda menunjukkan arah."
+  },
+  {
+    "id": "fs7b4-s3-10",
+    "q": "Contoh gerak relatif: kapal ke utara 10 m/s, arus ke timur 2 m/s. Kecepatan relatif darat …",
+    "options": [
+      "2 m/s timur",
+      "Resultan vektor",
+      "10 m/s utara",
+      "0 m/s"
+    ],
+    "answer": 1,
+    "explain": "Gabungan dua vektor."
+  },
+  {
+    "id": "fs7b4-s3-11",
+    "q": "Gerak dipercepat artinya …",
+    "options": [
+      "Tanpa percepatan",
+      "Gerak melingkar",
+      "Percepatan searah kecepatan",
+      "Percepatan berlawanan"
+    ],
+    "answer": 2,
+    "explain": "v bertambah searah a."
+  },
+  {
+    "id": "fs7b4-s3-12",
+    "q": "Gerak diperlambat artinya …",
+    "options": [
+      "Percepatan nol",
+      "Percepatan searah",
+      "Tanpa percepatan",
+      "Percepatan berlawanan kecepatan"
+    ],
+    "answer": 3,
+    "explain": "a lawan v."
+  },
+  {
+    "id": "fs7b4-s3-13",
+    "q": "Rumus percepatan rata-rata …",
+    "options": [
+      "v t",
+      "Δv/Δt",
+      "m g",
+      "s/t"
+    ],
+    "answer": 1,
+    "explain": "Perubahan v per waktu."
+  },
+  {
+    "id": "fs7b4-s3-14",
+    "q": "Satuan percepatan rata-rata …",
+    "options": [
+      "s",
+      "m/s^2",
+      "m/s",
+      "m"
+    ],
+    "answer": 1,
+    "explain": "Kecepatan per detik."
+  },
+  {
+    "id": "fs7b4-s3-15",
+    "q": "Bus berhenti setelah rem, jarak berbeda dari perpindahan karena …",
+    "options": [
+      "Lintasan lurus",
+      "Massa berubah",
+      "Tidak bergerak",
+      "Lintasan melengkung"
+    ],
+    "answer": 3,
+    "explain": "Jarak mengikuti jalan berkelok."
+  },
+  {
+    "id": "fs7b4-s3-16",
+    "q": "Dalam GLB, grafik v-t dan a-t …",
+    "options": [
+      "v-t miring, a-t miring",
+      "v-t horizontal, a-t di nol",
+      "a-t acak",
+      "v-t kurva"
+    ],
+    "answer": 1,
+    "explain": "v konstan, a nol."
+  },
+  {
+    "id": "fs7b4-s3-17",
+    "q": "Dalam GLBB percepatan konstan, grafik a-t …",
+    "options": [
+      "Vertikal",
+      "Kurva",
+      "Horizontal",
+      "Miring"
+    ],
+    "answer": 2,
+    "explain": "a tetap terhadap waktu."
+  },
+  {
+    "id": "fs7b4-s3-18",
+    "q": "Kembali ke titik awal berarti perpindahan …",
+    "options": [
+      "Jarak nol",
+      "Nol",
+      "Negatif",
+      "Tak terhingga"
+    ],
+    "answer": 1,
+    "explain": "Posisi awal=akhir."
+  },
+  {
+    "id": "fs7b4-s3-19",
+    "q": "Kecepatan rata-rata total perjalanan harus memakai …",
+    "options": [
+      "Total perpindahan dan waktu total",
+      "Waktu tiap segmen tanpa jarak",
+      "Waktu awal saja",
+      "Per segmen saja"
+    ],
+    "answer": 0,
+    "explain": "Gunakan perpindahan/neto."
+  },
+  {
+    "id": "fs7b4-s3-20",
+    "q": "Kecepatan = 72 km/jam setara …",
+    "options": [
+      "15 m/s",
+      "25 m/s",
+      "20 m/s",
+      "18 m/s"
+    ],
+    "answer": 2,
+    "explain": "72 ÷ 3,6 = 20 m/s."
+  }
+]

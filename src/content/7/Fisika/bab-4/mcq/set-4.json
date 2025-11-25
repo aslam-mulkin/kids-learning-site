@@ -1,0 +1,242 @@
+[
+  {
+    "id": "fs7b4-s4-01",
+    "q": "Gerak dinyatakan terhadap …",
+    "options": [
+      "Warna",
+      "Massa",
+      "Suhu",
+      "Titik acuan"
+    ],
+    "answer": 3,
+    "explain": "Harus ada acuan."
+  },
+  {
+    "id": "fs7b4-s4-02",
+    "q": "Jarak 0,5 km setara …",
+    "options": [
+      "50 m",
+      "5 m",
+      "5 km",
+      "500 m"
+    ],
+    "answer": 3,
+    "explain": "1 km =1000 m."
+  },
+  {
+    "id": "fs7b4-s4-03",
+    "q": "Perpindahan 10 m timur dan 10 m barat hasilnya …",
+    "options": [
+      "20 m",
+      "10 m",
+      "5 m",
+      "0 m"
+    ],
+    "answer": 3,
+    "explain": "Vektor saling meniadakan."
+  },
+  {
+    "id": "fs7b4-s4-04",
+    "q": "Kelajuan skalar tidak memuat …",
+    "options": [
+      "Arah",
+      "Satuan",
+      "Besar",
+      "Waktu"
+    ],
+    "answer": 0,
+    "explain": "Kelajuan hanya besar."
+  },
+  {
+    "id": "fs7b4-s4-05",
+    "q": "Kecepatan 15 m/s selama 4 s. Jarak?",
+    "options": [
+      "60 m",
+      "45 m",
+      "30 m",
+      "20 m"
+    ],
+    "answer": 0,
+    "explain": "s = v×t."
+  },
+  {
+    "id": "fs7b4-s4-06",
+    "q": "GLBB percepatan 2 m/s², berarti …",
+    "options": [
+      "Kecepatan naik 2 m/s tiap detik",
+      "Kecepatan tetap 2 m/s",
+      "Kecepatan turun 2 m/s",
+      "Jarak 2 m"
+    ],
+    "answer": 0,
+    "explain": "Δv tiap detik 2 m/s."
+  },
+  {
+    "id": "fs7b4-s4-07",
+    "q": "Gerak dianggap lurus jika …",
+    "options": [
+      "Lintasan melengkung",
+      "Lintasan acak",
+      "Lintasan garis lurus",
+      "Lingkaran"
+    ],
+    "answer": 2,
+    "explain": "Posisi sepanjang garis lurus."
+  },
+  {
+    "id": "fs7b4-s4-08",
+    "q": "Grafik x-t datar berarti …",
+    "options": [
+      "Percepatan konstan",
+      "Gerak melingkar",
+      "Kecepatan konstan",
+      "Tidak bergerak"
+    ],
+    "answer": 3,
+    "explain": "Posisi tidak berubah."
+  },
+  {
+    "id": "fs7b4-s4-09",
+    "q": "Grafik x-t miring tajam berarti …",
+    "options": [
+      "Gerak melambat",
+      "Kecepatan kecil",
+      "Percepatan nol",
+      "Kecepatan lebih besar"
+    ],
+    "answer": 3,
+    "explain": "Slope lebih besar."
+  },
+  {
+    "id": "fs7b4-s4-10",
+    "q": "Kecepatan rata-rata berbeda kelajuan rata-rata saat …",
+    "options": [
+      "Lintasan lurus searah",
+      "Lintasan pulang-pergi",
+      "Waktu nol",
+      "Gerak diam"
+    ],
+    "answer": 1,
+    "explain": "Perpindahan bisa nol."
+  },
+  {
+    "id": "fs7b4-s4-11",
+    "q": "Grafik v-t horizontal di atas nol …",
+    "options": [
+      "Perlambatan",
+      "Percepatan konstan",
+      "Kecepatan konstan",
+      "Diam"
+    ],
+    "answer": 2,
+    "explain": "v tidak berubah."
+  },
+  {
+    "id": "fs7b4-s4-12",
+    "q": "Resultan dua kecepatan vektor dihitung dengan …",
+    "options": [
+      "Penjumlahan vektor",
+      "Perkalian",
+      "Penjumlahan skalar",
+      "Pembagian"
+    ],
+    "answer": 0,
+    "explain": "Gunakan aturan vektor."
+  },
+  {
+    "id": "fs7b4-s4-13",
+    "q": "Jarak total berbeda dari perpindahan ketika …",
+    "options": [
+      "Gerak satu dimensi satu arah",
+      "Lintasan lurus searah",
+      "Lintasan berbelok",
+      "Gerak berhenti"
+    ],
+    "answer": 2,
+    "explain": "Belokan menambah jarak."
+  },
+  {
+    "id": "fs7b4-s4-14",
+    "q": "Kecepatan negatif menyatakan …",
+    "options": [
+      "Kelajuan negatif",
+      "Salah hitung",
+      "Arah berlawanan acuan positif",
+      "Waktu negatif"
+    ],
+    "answer": 2,
+    "explain": "Tanda arah."
+  },
+  {
+    "id": "fs7b4-s4-15",
+    "q": "Percepatan rata-rata nol artinya …",
+    "options": [
+      "Suhu konstan",
+      "Waktu nol",
+      "Jarak nol",
+      "Kecepatan akhir sama awal"
+    ],
+    "answer": 3,
+    "explain": "Δv = 0."
+  },
+  {
+    "id": "fs7b4-s4-16",
+    "q": "GLB jarak sebanding …",
+    "options": [
+      "Massa",
+      "Waktu²",
+      "Suhu",
+      "Waktu"
+    ],
+    "answer": 3,
+    "explain": "s ∝ t."
+  },
+  {
+    "id": "fs7b4-s4-17",
+    "q": "GLBB jarak terhadap waktu …",
+    "options": [
+      "Fungsi kuadrat t",
+      "Eksponensial",
+      "Linear t",
+      "Konstan"
+    ],
+    "answer": 0,
+    "explain": "s = s0 + v0 t + 1/2 a t²."
+  },
+  {
+    "id": "fs7b4-s4-18",
+    "q": "Jika a negatif pada GLBB …",
+    "options": [
+      "Tidak bergerak",
+      "Perlambatan",
+      "Percepatan searah v",
+      "Arah hilang"
+    ],
+    "answer": 1,
+    "explain": "Arah berlawanan kecepatan."
+  },
+  {
+    "id": "fs7b4-s4-19",
+    "q": "Kecepatan = 10 m/s berarti …",
+    "options": [
+      "Menempuh 1 m tiap 10 s",
+      "Menempuh 5 m tiap 10 s",
+      "Menempuh 10 m tiap detik",
+      "Menempuh 10 m tiap menit"
+    ],
+    "answer": 2,
+    "explain": "Definisi satuan."
+  },
+  {
+    "id": "fs7b4-s4-20",
+    "q": "Perpindahan juga disebut …",
+    "options": [
+      "Speed",
+      "Velocity",
+      "Displacement",
+      "Distance"
+    ],
+    "answer": 2,
+    "explain": "Istilah Inggris perpindahan."
+  }
+]

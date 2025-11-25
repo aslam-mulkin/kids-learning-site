@@ -2,141 +2,241 @@
   {
     "id": "ip5b4-s1-01",
     "q": "Tahap awal siklus air ketika laut memanas adalah …",
-    "options": ["Evaporasi", "Kondensasi", "Presipitasi", "Infiltrasi"],
-    "answer": 0,
+    "options": [
+      "Kondensasi",
+      "Evaporasi",
+      "Infiltrasi",
+      "Presipitasi"
+    ],
+    "answer": 1,
     "explain": "Panas mengubah air jadi uap."
   },
   {
     "id": "ip5b4-s1-02",
     "q": "Uap air berkumpul jadi awan disebut …",
-    "options": ["Kondensasi", "Evaporasi", "Runoff", "Transpirasi"],
-    "answer": 0,
+    "options": [
+      "Runoff",
+      "Transpirasi",
+      "Evaporasi",
+      "Kondensasi"
+    ],
+    "answer": 3,
     "explain": "Uap mendingin jadi titik air."
   },
   {
     "id": "ip5b4-s1-03",
     "q": "Hujan adalah contoh …",
-    "options": ["Presipitasi", "Infiltrasi", "Sublimasi", "Runoff"],
-    "answer": 0,
+    "options": [
+      "Infiltrasi",
+      "Presipitasi",
+      "Sublimasi",
+      "Runoff"
+    ],
+    "answer": 1,
     "explain": "Air jatuh ke permukaan."
   },
   {
     "id": "ip5b4-s1-04",
     "q": "Air meresap ke tanah disebut …",
-    "options": ["Infiltrasi", "Evaporasi", "Kondensasi", "Sublimasi"],
+    "options": [
+      "Infiltrasi",
+      "Sublimasi",
+      "Kondensasi",
+      "Evaporasi"
+    ],
     "answer": 0,
     "explain": "Meresap masuk pori tanah."
   },
   {
     "id": "ip5b4-s1-05",
     "q": "Air mengalir di permukaan menuju sungai disebut …",
-    "options": ["Runoff", "Infiltrasi", "Presipitasi", "Evaporasi"],
-    "answer": 0,
+    "options": [
+      "Presipitasi",
+      "Evaporasi",
+      "Runoff",
+      "Infiltrasi"
+    ],
+    "answer": 2,
     "explain": "Aliran di atas tanah."
   },
   {
     "id": "ip5b4-s1-06",
     "q": "Penguapan dari daun tumbuhan disebut …",
-    "options": ["Transpirasi", "Evaporasi", "Kondensasi", "Sublimasi"],
-    "answer": 0,
+    "options": [
+      "Kondensasi",
+      "Evaporasi",
+      "Transpirasi",
+      "Sublimasi"
+    ],
+    "answer": 2,
     "explain": "Daun melepas uap air."
   },
   {
     "id": "ip5b4-s1-07",
     "q": "Dampak positif siklus air adalah …",
-    "options": ["Mengisi air tanah", "Mencemari air", "Menyebabkan banjir", "Mengeringkan tanah"],
+    "options": [
+      "Mengisi air tanah",
+      "Mengeringkan tanah",
+      "Menyebabkan banjir",
+      "Mencemari air"
+    ],
     "answer": 0,
     "explain": "Air hujan menambah cadangan."
   },
   {
     "id": "ip5b4-s1-08",
     "q": "Dampak negatif siklus air jika curah tinggi …",
-    "options": ["Banjir", "Mengisi waduk", "Menambah air tanah", "Menyuburkan tanaman"],
-    "answer": 0,
+    "options": [
+      "Mengisi waduk",
+      "Menambah air tanah",
+      "Banjir",
+      "Menyuburkan tanaman"
+    ],
+    "answer": 2,
     "explain": "Debit berlebih menimbulkan banjir."
   },
   {
     "id": "ip5b4-s1-09",
     "q": "Cara menjaga ketersediaan air: …",
-    "options": ["Menanam pohon", "Menebang hutan", "Membuang sampah sembarangan", "Mengaspal seluruh lahan"],
-    "answer": 0,
+    "options": [
+      "Menebang hutan",
+      "Menanam pohon",
+      "Mengaspal seluruh lahan",
+      "Membuang sampah sembarangan"
+    ],
+    "answer": 1,
     "explain": "Pohon bantu resapan air."
   },
   {
     "id": "ip5b4-s1-10",
     "q": "Contoh menghemat air di rumah …",
-    "options": ["Mematikan keran saat sikat gigi", "Mandi berjam-jam", "Menyiram jalan", "Mencuci mobil tiap hari"],
-    "answer": 0,
+    "options": [
+      "Mandi berjam-jam",
+      "Mencuci mobil tiap hari",
+      "Menyiram jalan",
+      "Mematikan keran saat sikat gigi"
+    ],
+    "answer": 3,
     "explain": "Tutup keran kurangi pemborosan."
   },
   {
     "id": "ip5b4-s1-11",
     "q": "Bahan utama penjernih air sederhana …",
-    "options": ["Pasir dan kerikil", "Bensin", "Garam", "Belerang"],
-    "answer": 0,
+    "options": [
+      "Belerang",
+      "Garam",
+      "Bensin",
+      "Pasir dan kerikil"
+    ],
+    "answer": 3,
     "explain": "Pasir-kerikil menyaring kotoran."
   },
   {
     "id": "ip5b4-s1-12",
     "q": "Lapisan karbon aktif pada saringan berguna untuk …",
-    "options": ["Menyerap bau", "Memanaskan air", "Menambah rasa asin", "Menghilangkan oksigen"],
-    "answer": 0,
+    "options": [
+      "Menghilangkan oksigen",
+      "Memanaskan air",
+      "Menyerap bau",
+      "Menambah rasa asin"
+    ],
+    "answer": 2,
     "explain": "Karbon menyerap bau dan warna."
   },
   {
     "id": "ip5b4-s1-13",
     "q": "Air tanah bertambah saat …",
-    "options": ["Infiltrasi", "Runoff", "Evaporasi", "Transpirasi"],
-    "answer": 0,
+    "options": [
+      "Transpirasi",
+      "Evaporasi",
+      "Infiltrasi",
+      "Runoff"
+    ],
+    "answer": 2,
     "explain": "Air meresap isi aquifer."
   },
   {
     "id": "ip5b4-s1-14",
     "q": "Awan terbentuk karena …",
-    "options": ["Kondensasi uap air", "Infiltrasi air", "Runoff", "Filtrasi"],
-    "answer": 0,
+    "options": [
+      "Infiltrasi air",
+      "Filtrasi",
+      "Kondensasi uap air",
+      "Runoff"
+    ],
+    "answer": 2,
     "explain": "Uap mendingin jadi titik air."
   },
   {
     "id": "ip5b4-s1-15",
     "q": "Contoh dampak positif hujan …",
-    "options": ["Mengisi waduk", "Merusak tanggul", "Menggerus tanah berlebihan", "Menghambat tanam"],
-    "answer": 0,
+    "options": [
+      "Menggerus tanah berlebihan",
+      "Merusak tanggul",
+      "Mengisi waduk",
+      "Menghambat tanam"
+    ],
+    "answer": 2,
     "explain": "Waduk terisi untuk irigasi."
   },
   {
     "id": "ip5b4-s1-16",
     "q": "Contoh dampak negatif hujan lebat …",
-    "options": ["Longsor", "Irigasi lancar", "Reservoir penuh terkendali", "Tanaman segar"],
-    "answer": 0,
+    "options": [
+      "Reservoir penuh terkendali",
+      "Tanaman segar",
+      "Irigasi lancar",
+      "Longsor"
+    ],
+    "answer": 3,
     "explain": "Air berlebih bisa longsor."
   },
   {
     "id": "ip5b4-s1-17",
     "q": "Menampung air hujan di toren termasuk …",
-    "options": ["Panen air", "Transpirasi", "Evaporasi", "Presipitasi"],
-    "answer": 0,
+    "options": [
+      "Presipitasi",
+      "Panen air",
+      "Transpirasi",
+      "Evaporasi"
+    ],
+    "answer": 1,
     "explain": "Menangkap hujan untuk dipakai."
   },
   {
     "id": "ip5b4-s1-18",
     "q": "Biopori membantu …",
-    "options": ["Infiltrasi", "Presipitasi", "Kondensasi", "Transpirasi"],
-    "answer": 0,
+    "options": [
+      "Transpirasi",
+      "Kondensasi",
+      "Infiltrasi",
+      "Presipitasi"
+    ],
+    "answer": 2,
     "explain": "Lubang biopori mempercepat resap."
   },
   {
     "id": "ip5b4-s1-19",
     "q": "Menghemat air di kamar mandi …",
-    "options": ["Gunakan shower sebentar", "Mengisi bak penuh", "Mandi berendam lama", "Membiarkan keran bocor"],
+    "options": [
+      "Gunakan shower sebentar",
+      "Mandi berendam lama",
+      "Mengisi bak penuh",
+      "Membiarkan keran bocor"
+    ],
     "answer": 0,
     "explain": "Durasi singkat hemat air."
   },
   {
     "id": "ip5b4-s1-20",
     "q": "Alat untuk menyaring lumpur di saringan sederhana …",
-    "options": ["Kain kasa", "Kertas koran", "Plastik", "Seng"],
-    "answer": 0,
+    "options": [
+      "Kertas koran",
+      "Seng",
+      "Kain kasa",
+      "Plastik"
+    ],
+    "answer": 2,
     "explain": "Kain menahan partikel halus."
   }
 ]

@@ -2,141 +2,241 @@
   {
     "id": "ip5b4-s4-01",
     "q": "Tahap siklus air saat air menguap ke atmosfer …",
-    "options": ["Evaporasi", "Kondensasi", "Presipitasi", "Infiltrasi"],
-    "answer": 0,
+    "options": [
+      "Infiltrasi",
+      "Kondensasi",
+      "Evaporasi",
+      "Presipitasi"
+    ],
+    "answer": 2,
     "explain": "Air cair berubah uap."
   },
   {
     "id": "ip5b4-s4-02",
     "q": "Uap jadi awan disebut …",
-    "options": ["Kondensasi", "Evaporasi", "Runoff", "Filtrasi"],
-    "answer": 0,
+    "options": [
+      "Runoff",
+      "Filtrasi",
+      "Kondensasi",
+      "Evaporasi"
+    ],
+    "answer": 2,
     "explain": "Pendinginan uap membentuk awan."
   },
   {
     "id": "ip5b4-s4-03",
     "q": "Salju jatuh ke bumi termasuk …",
-    "options": ["Presipitasi", "Transpirasi", "Infiltrasi", "Evaporasi"],
-    "answer": 0,
+    "options": [
+      "Transpirasi",
+      "Evaporasi",
+      "Infiltrasi",
+      "Presipitasi"
+    ],
+    "answer": 3,
     "explain": "Air turun dari atmosfer."
   },
   {
     "id": "ip5b4-s4-04",
     "q": "Air meresap ke tanah dinamakan …",
-    "options": ["Infiltrasi", "Runoff", "Kondensasi", "Evaporasi"],
-    "answer": 0,
+    "options": [
+      "Runoff",
+      "Infiltrasi",
+      "Kondensasi",
+      "Evaporasi"
+    ],
+    "answer": 1,
     "explain": "Air masuk pori tanah."
   },
   {
     "id": "ip5b4-s4-05",
     "q": "Air mengalir di permukaan menuju sungai adalah …",
-    "options": ["Runoff", "Presipitasi", "Transpirasi", "Infiltrasi"],
+    "options": [
+      "Runoff",
+      "Infiltrasi",
+      "Transpirasi",
+      "Presipitasi"
+    ],
     "answer": 0,
     "explain": "Aliran permukaan."
   },
   {
     "id": "ip5b4-s4-06",
     "q": "Transpirasi terjadi pada …",
-    "options": ["Daun tumbuhan", "Batu", "Logam", "Plastik"],
+    "options": [
+      "Daun tumbuhan",
+      "Plastik",
+      "Batu",
+      "Logam"
+    ],
     "answer": 0,
     "explain": "Daun melepas uap air."
   },
   {
     "id": "ip5b4-s4-07",
     "q": "Dampak positif siklus air bagi manusia …",
-    "options": ["Ketersediaan air bersih", "Tanah kering", "Udara makin kotor", "Air tanah habis"],
-    "answer": 0,
+    "options": [
+      "Air tanah habis",
+      "Ketersediaan air bersih",
+      "Tanah kering",
+      "Udara makin kotor"
+    ],
+    "answer": 1,
     "explain": "Mengisi sumber air."
   },
   {
     "id": "ip5b4-s4-08",
     "q": "Dampak negatif curah hujan ekstrem …",
-    "options": ["Banjir", "Air tanah bertambah terkontrol", "Waduk aman", "Lahan kering"],
-    "answer": 0,
+    "options": [
+      "Lahan kering",
+      "Waduk aman",
+      "Banjir",
+      "Air tanah bertambah terkontrol"
+    ],
+    "answer": 2,
     "explain": "Debit berlebih meluap."
   },
   {
     "id": "ip5b4-s4-09",
     "q": "Upaya menjaga air: …",
-    "options": ["Membuat sumur resapan", "Menutup resapan beton", "Buang limbah ke sungai", "Menebang hutan"],
-    "answer": 0,
+    "options": [
+      "Menutup resapan beton",
+      "Menebang hutan",
+      "Buang limbah ke sungai",
+      "Membuat sumur resapan"
+    ],
+    "answer": 3,
     "explain": "Resapan menambah air tanah."
   },
   {
     "id": "ip5b4-s4-10",
     "q": "Hemat air di rumah dapat dilakukan dengan …",
-    "options": ["Memperbaiki keran bocor", "Mencuci mobil tiap hari", "Mandi lama", "Menampung air lalu buang"],
-    "answer": 0,
+    "options": [
+      "Mencuci mobil tiap hari",
+      "Mandi lama",
+      "Memperbaiki keran bocor",
+      "Menampung air lalu buang"
+    ],
+    "answer": 2,
     "explain": "Kebocoran boros air."
   },
   {
     "id": "ip5b4-s4-11",
     "q": "Bahan pertama filter sederhana …",
-    "options": ["Kerikil", "Garam", "Minyak", "Gula"],
-    "answer": 0,
+    "options": [
+      "Garam",
+      "Gula",
+      "Minyak",
+      "Kerikil"
+    ],
+    "answer": 3,
     "explain": "Kerikil tahan kotoran besar."
   },
   {
     "id": "ip5b4-s4-12",
     "q": "Pasir pada filter berfungsi …",
-    "options": ["Menyaring halus", "Mengubah rasa", "Memanaskan air", "Memperbanyak bakteri"],
+    "options": [
+      "Menyaring halus",
+      "Memanaskan air",
+      "Memperbanyak bakteri",
+      "Mengubah rasa"
+    ],
     "answer": 0,
     "explain": "Pasir halus menahan debu."
   },
   {
     "id": "ip5b4-s4-13",
     "q": "Arang aktif berguna untuk …",
-    "options": ["Menghilangkan bau", "Menambah warna", "Menambah garam", "Mengurangi volume"],
-    "answer": 0,
+    "options": [
+      "Mengurangi volume",
+      "Menambah garam",
+      "Menghilangkan bau",
+      "Menambah warna"
+    ],
+    "answer": 2,
     "explain": "Menyerap bau dan warna."
   },
   {
     "id": "ip5b4-s4-14",
     "q": "Mengumpulkan air hujan termasuk …",
-    "options": ["Panen air", "Evaporasi", "Presipitasi", "Transpirasi"],
+    "options": [
+      "Panen air",
+      "Transpirasi",
+      "Presipitasi",
+      "Evaporasi"
+    ],
     "answer": 0,
     "explain": "Menampung air untuk pakai."
   },
   {
     "id": "ip5b4-s4-15",
     "q": "Biopori dibuat untuk …",
-    "options": ["Mempercepat resapan", "Menahan air di permukaan", "Menutup tanah", "Menambah polusi"],
-    "answer": 0,
+    "options": [
+      "Menahan air di permukaan",
+      "Mempercepat resapan",
+      "Menutup tanah",
+      "Menambah polusi"
+    ],
+    "answer": 1,
     "explain": "Lubang bantu air meresap."
   },
   {
     "id": "ip5b4-s4-16",
     "q": "Siklus air membantu udara bersih karena …",
-    "options": ["Hujan menurunkan debu", "Uap menambah debu", "Awan simpan polusi", "Evaporasi kotor"],
+    "options": [
+      "Hujan menurunkan debu",
+      "Evaporasi kotor",
+      "Uap menambah debu",
+      "Awan simpan polusi"
+    ],
     "answer": 0,
     "explain": "Presipitasi membawa debu turun."
   },
   {
     "id": "ip5b4-s4-17",
     "q": "Contoh dampak negatif siklus air …",
-    "options": ["Longsor", "Air tanah terisi", "Tanaman tumbuh", "Udara bersih"],
+    "options": [
+      "Longsor",
+      "Air tanah terisi",
+      "Tanaman tumbuh",
+      "Udara bersih"
+    ],
     "answer": 0,
     "explain": "Curah tinggi bisa longsor."
   },
   {
     "id": "ip5b4-s4-18",
     "q": "Hemat air di kebun bisa dengan …",
-    "options": ["Menyiram pagi/sore", "Menyiram siang terik", "Membanjiri tanah", "Membuang air bekas"],
-    "answer": 0,
+    "options": [
+      "Menyiram siang terik",
+      "Menyiram pagi/sore",
+      "Membuang air bekas",
+      "Membanjiri tanah"
+    ],
+    "answer": 1,
     "explain": "Waktu sejuk kurangi penguapan."
   },
   {
     "id": "ip5b4-s4-19",
     "q": "Media saring paling halus pada filter …",
-    "options": ["Kain", "Kerikil", "Batu bata", "Keramik"],
+    "options": [
+      "Kain",
+      "Keramik",
+      "Batu bata",
+      "Kerikil"
+    ],
     "answer": 0,
     "explain": "Kain menahan partikel kecil."
   },
   {
     "id": "ip5b4-s4-20",
     "q": "Menutup keran saat sikat gigi termasuk …",
-    "options": ["Menghemat air", "Membuang air", "Mengotori air", "Mengeringkan air"],
-    "answer": 0,
+    "options": [
+      "Mengeringkan air",
+      "Membuang air",
+      "Menghemat air",
+      "Mengotori air"
+    ],
+    "answer": 2,
     "explain": "Hemat air saat tidak dipakai."
   }
 ]

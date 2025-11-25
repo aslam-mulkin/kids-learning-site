@@ -1,0 +1,12 @@
+[
+  {"q":"Contoh pemuaian padat di kehidupan?","a":"Paku keling dipasang panas agar mengencang saat dingin."},
+  {"q":"Pemuaian volume gas mengikuti …","a":"Volume ∝ suhu mutlak (K)."},
+  {"q":"Mengapa termometer alkohol peka?","a":"Alkohol koefisien muai volume besar."},
+  {"q":"Mengapa merkuri tidak dipakai suhu sangat rendah?","a":"Merkuri membeku di sekitar -39°C."},
+  {"q":"Apa itu titik tetap termometer?","a":"Referensi kalibrasi seperti beku/didih air."},
+  {"q":"Cara konversi F ke R?","a":"R = 4/9 (F-32)."},
+  {"q":"Cara konversi R ke F?","a":"F = 9/4 R + 32."},
+  {"q":"Cara konversi R ke C?","a":"C = 5/4 R."},
+  {"q":"Cara konversi C ke R?","a":"R = 4/5 C."},
+  {"q":"Cara konversi K ke F?","a":"F = 9/5 (K-273) + 32."}
+]

@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b2-s2-01","q":"Skala Celsius ke Kelvin: K = …","options":["C + 273","C + 100","C + 32","4/5 C"],"answer":0,"explain":"Tambahkan 273."},
+  {"id":"fs7b2-s2-02","q":"Skala Fahrenheit ke Celsius: C = …","options":["5/9 (F-32)","9/5 (F-32)","4/5 F","F-273"],"answer":0,"explain":"Kurangi 32 lalu 5/9."},
+  {"id":"fs7b2-s2-03","q":"C ke Reamur: R = …","options":["4/5 C","5/4 C","9/5 C +32","C+273"],"answer":0,"explain":"Reamur 4/5 Celsius."},
+  {"id":"fs7b2-s2-04","q":"F ke Reamur: R = …","options":["4/9 (F-32)","5/9 (F-32)","9/5 (F-32)","F+32"],"answer":0,"explain":"Turunkan ke C lalu ke R."},
+  {"id":"fs7b2-s2-05","q":"Termometer zat cair bekerja karena …","options":["Pemuaian cairan","Pemuaian padat","Tekanan udara","Gaya magnet"],"answer":0,"explain":"Volume cairan berubah oleh suhu."},
+  {"id":"fs7b2-s2-06","q":"Pemuaian panjang padat dipengaruhi …","options":["α, panjang awal, ΔT","Warna, suhu","Beban, warna","Arus listrik"],"answer":0,"explain":"ΔL = α L0 ΔT."},
+  {"id":"fs7b2-s2-07","q":"Pemuaian luas rumus …","options":["ΔA = β A0 ΔT","ΔL = α L0 ΔT","ΔV = γ V0 ΔT","F = m a"],"answer":0,"explain":"Koefisien luas β."},
+  {"id":"fs7b2-s2-08","q":"Pemuaian volume rumus …","options":["ΔV = γ V0 ΔT","ΔA = β A0 ΔT","ΔL = α L0 ΔT","V = s/t"],"answer":0,"explain":"Koefisien volume γ."},
+  {"id":"fs7b2-s2-09","q":"Pada zat cair, pemuaian nyata = …","options":["Pemuaian zat cair - pemuaian wadah","Pemuaian wadah","Pemuaian gas","Pemuaian padat"],"answer":0,"explain":"Koreksi wadah padat."},
+  {"id":"fs7b2-s2-10","q":"Pemuaian gas mengikuti hukum …","options":["Gay-Lussac/Charles","Hooke","Ohm","Pascal"],"answer":0,"explain":"Volume gas ∝ suhu mutlak."},
+  {"id":"fs7b2-s2-11","q":"Rel kereta diberi celah untuk …","options":["Ruang muai","Estetika","Rem","Lubang baut"],"answer":0,"explain":"Muai tak mendesak rel lain."},
+  {"id":"fs7b2-s2-12","q":"Bimetal pada setrika memutus arus saat …","options":["Melengkung kena panas","Didinginkan","Ditekan tangan","Disetrum"],"answer":0,"explain":"Muai beda melengkung."},
+  {"id":"fs7b2-s2-13","q":"Kawat listrik kendur saat siang karena …","options":["Muai panjang","Menyusut","Mencair","Terbakar"],"answer":0,"explain":"Panas menambah panjang."},
+  {"id":"fs7b2-s2-14","q":"Pemuaian zat padat dipakai pada …","options":["Rivet pemasangan rel","Mendinginkan air","Membekukan es","Menurunkan tekanan"],"answer":0,"explain":"Rel dipasang longgar untuk muai."},
+  {"id":"fs7b2-s2-15","q":"Termometer ruang menggunakan …","options":["Alkohol","Air","Minyak","Pasir"],"answer":0,"explain":"Alkohol lebih peka dari air."},
+  {"id":"fs7b2-s2-16","q":"Termometer klinis ada segmen penyempitan untuk …","options":["Menahan kolom saat dibaca","Mempercepat alir","Menambah volume","Mendinginkan cepat"],"answer":0,"explain":"Agar kolom tidak turun cepat."},
+  {"id":"fs7b2-s2-17","q":"Konversi 50°C ke F …","options":["122°F","100°F","90°F","32°F"],"answer":0,"explain":"9/5×50+32=122."},
+  {"id":"fs7b2-s2-18","q":"Konversi 40°C ke R …","options":["32°R","20°R","40°R","72°R"],"answer":0,"explain":"4/5×40=32."},
+  {"id":"fs7b2-s2-19","q":"Konversi 104°F ke C …","options":["40°C","32°C","20°C","60°C"],"answer":0,"explain":"(104-32)×5/9=40."},
+  {"id":"fs7b2-s2-20","q":"Konversi 300 K ke C …","options":["27°C","32°C","40°C","100°C"],"answer":0,"explain":"K-273=27."}
+]

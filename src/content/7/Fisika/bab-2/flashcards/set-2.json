@@ -1,0 +1,12 @@
+[
+  {"q":"Konversi F ke C?","a":"C = 5/9 (F-32)."},
+  {"q":"Konversi K ke C?","a":"C = K - 273."},
+  {"q":"Konversi C ke K?","a":"K = C + 273."},
+  {"q":"Apa itu pemuaian?","a":"Perubahan ukuran karena suhu naik."},
+  {"q":"Koefisien muai panjang simbol?","a":"α (alpha)."},
+  {"q":"Koefisien muai luas simbol?","a":"β (beta)."},
+  {"q":"Koefisien muai volume simbol?","a":"γ (gamma)."},
+  {"q":"Pemuaian panjang rumus?","a":"ΔL = α L0 ΔT."},
+  {"q":"Pemuaian luas rumus?","a":"ΔA = β A0 ΔT."},
+  {"q":"Pemuaian volume rumus?","a":"ΔV = γ V0 ΔT."}
+]

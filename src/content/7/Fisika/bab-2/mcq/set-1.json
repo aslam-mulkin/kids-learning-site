@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b2-s1-01","q":"Suhu adalah ukuran …","options":["Derajat panas dingin","Jumlah energi total","Massa jenis","Volume zat"],"answer":0,"explain":"Suhu menunjukkan tingkat panas."},
+  {"id":"fs7b2-s1-02","q":"Alat ukur suhu yang umum …","options":["Termometer","Neraca","Stopwatch","Mistar"],"answer":0,"explain":"Termometer mengukur suhu."},
+  {"id":"fs7b2-s1-03","q":"Skala Celsius titik beku air …","options":["0°C","32°C","273°C","100°C"],"answer":0,"explain":"Beku air di 0°C."},
+  {"id":"fs7b2-s1-04","q":"Skala Celsius titik didih air …","options":["100°C","212°C","80°C","0°C"],"answer":0,"explain":"Didih air di 100°C."},
+  {"id":"fs7b2-s1-05","q":"Skala Reamur titik beku air …","options":["0°R","32°R","80°R","100°R"],"answer":0,"explain":"Beku di 0°R."},
+  {"id":"fs7b2-s1-06","q":"Skala Reamur titik didih air …","options":["80°R","100°R","212°R","32°R"],"answer":0,"explain":"Didih di 80°R."},
+  {"id":"fs7b2-s1-07","q":"Skala Fahrenheit titik beku air …","options":["32°F","0°F","100°F","212°F"],"answer":0,"explain":"Beku air 32°F."},
+  {"id":"fs7b2-s1-08","q":"Skala Fahrenheit titik didih air …","options":["212°F","100°F","180°F","32°F"],"answer":0,"explain":"Didih air 212°F."},
+  {"id":"fs7b2-s1-09","q":"Konversi C ke R: R = …","options":["4/5 C","5/4 C","9/5 C","C+32"],"answer":0,"explain":"Reamur 4/5 Celsius."},
+  {"id":"fs7b2-s1-10","q":"Konversi C ke F: F = …","options":["9/5 C + 32","5/9 C + 32","4/5 C","C + 273"],"answer":0,"explain":"Rumus Fahrenheit."},
+  {"id":"fs7b2-s1-11","q":"Termometer klinis memakai …","options":["Pipa kapiler kecil","Logam tebal","Besi padat","Kayu"],"answer":0,"explain":"Kapiler kecil peka suhu tubuh."},
+  {"id":"fs7b2-s1-12","q":"Termometer bimetal memanfaatkan …","options":["Pemuaian beda logam","Pemuaian sama","Reaksi kimia","Cahaya"],"answer":0,"explain":"Dua logam muai beda melengkung."},
+  {"id":"fs7b2-s1-13","q":"Pemuaian zat padat bergantung pada …","options":["Jenis bahan dan suhu","Tekanan udara saja","Warna benda","Bentuk wadah"],"answer":0,"explain":"Koefisien muai berbeda tiap bahan."},
+  {"id":"fs7b2-s1-14","q":"Koefisien muai panjang dilambangkan …","options":["α","β","γ","λ"],"answer":0,"explain":"Simbol umum alpha."},
+  {"id":"fs7b2-s1-15","q":"Pemuaian volume zat cair dipengaruhi …","options":["Jenis zat dan suhu","Gaya berat","Muatan listrik","Gelombang suara"],"answer":0,"explain":"Koefisien muai volume berbeda."},
+  {"id":"fs7b2-s1-16","q":"Gas memuai paling besar karena …","options":["Jarak partikel jauh","Partikel rapat","Mengikat kuat","Tidak bergerak"],"answer":0,"explain":"Partikel renggang mudah bergerak."},
+  {"id":"fs7b2-s1-17","q":"Celah rel kereta dibuat karena …","options":["Antisipasi muai panjang","Hiasan","Memudahkan baut","Mengurangi biaya"],"answer":0,"explain":"Rel memuai saat panas."},
+  {"id":"fs7b2-s1-18","q":"Kawat listrik kendur saat panas karena …","options":["Memuai turun","Menyusut naik","Patah","Tidak dipasang"],"answer":0,"explain":"Panjang bertambah menurun."},
+  {"id":"fs7b2-s1-19","q":"Bimetal pada termostat bekerja karena …","options":["Muai beda melengkung","Tekanan berubah","Gravitasi","Gaya magnet"],"answer":0,"explain":"Lengkungan memutus/menyambung arus."},
+  {"id":"fs7b2-s1-20","q":"Termometer digital mengukur suhu dengan …","options":["Sensor elektronik","Kolom merkuri","Strip plastik","Pita kertas"],"answer":0,"explain":"Sensor elektronik memberi data digital."}
+]

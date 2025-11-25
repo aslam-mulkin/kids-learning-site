@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu suhu?","a":"Derajat panas atau dingin suatu benda."},
+  {"q":"Alat ukur suhu?","a":"Termometer."},
+  {"q":"Titik tetap bawah Celsius?","a":"0°C (air membeku)."},
+  {"q":"Titik tetap atas Celsius?","a":"100°C (air mendidih)."},
+  {"q":"Titik tetap bawah Fahrenheit?","a":"32°F."},
+  {"q":"Titik tetap atas Fahrenheit?","a":"212°F."},
+  {"q":"Titik tetap bawah Reamur?","a":"0°R."},
+  {"q":"Titik tetap atas Reamur?","a":"80°R."},
+  {"q":"Konversi C ke F?","a":"F = 9/5 C + 32."},
+  {"q":"Konversi C ke R?","a":"R = 4/5 C."}
+]

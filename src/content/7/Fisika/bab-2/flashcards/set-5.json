@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu suhu mutlak?","a":"Skala Kelvin dimulai dari 0 K (nol mutlak)."},
+  {"q":"Mengapa menuliskan satuan suhu penting?","a":"Agar tidak keliru skala (C, R, F, K)."},
+  {"q":"Apa itu pemuaian linear?","a":"Pertambahan panjang benda saat dipanaskan."},
+  {"q":"Apa itu pemuaian luas?","a":"Pertambahan luas permukaan saat dipanaskan."},
+  {"q":"Apa itu pemuaian volume?","a":"Pertambahan volume zat saat dipanaskan."},
+  {"q":"Mengapa pipa logam diberi sambungan fleksibel?","a":"Agar pemuaian tidak merusak pipa."},
+  {"q":"Sensor panas pada setrika memakai …","a":"Lempeng bimetal."},
+  {"q":"Alasan kabel telepon tidak ditarik kencang?","a":"Memberi ruang pemuaian saat panas."},
+  {"q":"Apa itu anomali air?","a":"Air memuai lagi setelah 4°C."},
+  {"q":"Cara umum kurangi kesalahan baca suhu?","a":"Hindari paralaks, baca sejajar skala."}
+]

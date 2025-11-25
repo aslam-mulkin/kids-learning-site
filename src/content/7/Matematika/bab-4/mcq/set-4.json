@@ -1,22 +1,242 @@
 [
-  {"id":"mt7b4-s4-01","q":"Sudut antara dua garis sejajar adalah …","options":["0 atau 180","Selalu 90","Selalu 60","Tidak terdefinisi"],"answer":0,"explain":"Paralel tidak berpotongan, berpelurus jika diperpanjang."},
-  {"id":"mt7b4-s4-02","q":"Jika sudut sehadap 95, sudut bersebrangan luar terkait …","options":["95","85","180","90"],"answer":0,"explain":"Alternate exterior kongruen."},
-  {"id":"mt7b4-s4-03","q":"Sudut sepihak dalam 120, pasangan …","options":["60","120","30","90"],"answer":0,"explain":"Suplementer 180."},
-  {"id":"mt7b4-s4-04","q":"Sudut sehadap dan bersebrangan dalam pada garis sejajar …","options":["Sama besar","Jumlah 180","Selalu 90","Selalu 120"],"answer":0,"explain":"Keduanya kongruen."},
-  {"id":"mt7b4-s4-05","q":"Sudut sepihak luar jumlahnya …","options":["180","90","120","60"],"answer":0,"explain":"Konsekutif luar suplementer."},
-  {"id":"mt7b4-s4-06","q":"Jika transversal tegak lurus garis sejajar, sudut sehadap …","options":["90","180","60","30"],"answer":0,"explain":"Semua sudut siku-siku."},
-  {"id":"mt7b4-s4-07","q":"Sudut 15 derajat termasuk …","options":["Lancip","Siku-siku","Tumpul","Refleks"],"answer":0,"explain":"Kurang dari 90."},
-  {"id":"mt7b4-s4-08","q":"Sudut 95 derajat termasuk …","options":["Tumpul","Lancip","Refleks","Siku"],"answer":0,"explain":"Di atas 90 sampai 180."},
-  {"id":"mt7b4-s4-09","q":"Sudut berpelurus terjadi pada …","options":["Dua sudut membentuk garis lurus","Dua garis sejajar","Dua sudut siku","Dua sudut lancip"],"answer":0,"explain":"Jumlah 180 pada garis."},
-  {"id":"mt7b4-s4-10","q":"Sudut bertolak belakang terbentuk karena …","options":["Dua garis berpotongan","Dua garis sejajar","Garis sejajar dan transversal","Garis berimpit"],"answer":0,"explain":"Perpotongan dua garis."},
-  {"id":"mt7b4-s4-11","q":"Untuk mengukur sudut kecil, busur derajat ditempatkan …","options":["Pusat di titik sudut","Pusat di sembarang titik","Di tengah sisi panjang","Di luar kertas"],"answer":0,"explain":"Poros di puncak sudut."},
-  {"id":"mt7b4-s4-12","q":"Melengkapi sudut hilang pada segitiga gunakan fakta …","options":["Jumlah 180","Jumlah 360","Jumlah 90","Jumlah 270"],"answer":0,"explain":"Sudut segitiga 180."},
-  {"id":"mt7b4-s4-13","q":"Jika sudut luar segitiga 120, sudut dalam tak bersebelahan jumlah …","options":["120","60","180","90"],"answer":0,"explain":"Sudut luar = jumlah dua sudut dalam tak bersebelahan."},
-  {"id":"mt7b4-s4-14","q":"Sudut 225 derajat termasuk …","options":["Refleks","Tumpul","Lancip","Lurus"],"answer":0,"explain":"Di atas 180."},
-  {"id":"mt7b4-s4-15","q":"Sudut lurus adalah …","options":["180 derajat","90 derajat","0 derajat","360 derajat"],"answer":0,"explain":"Garis lurus 180."},
-  {"id":"mt7b4-s4-16","q":"Jika sudut sehadap 70, maka sudut sepihak dalam terkait …","options":["110","70","90","50"],"answer":0,"explain":"Sepihak dalam suplementer."},
-  {"id":"mt7b4-s4-17","q":"Garis berimpit memiliki …","options":["Titik sama","Jarak konstan namun beda titik","Tak bertemu","Selalu tegak"],"answer":0,"explain":"Semua titik berkoinsiden."},
-  {"id":"mt7b4-s4-18","q":"Sudut 89 derajat termasuk …","options":["Lancip","Siku-siku","Tumpul","Refleks"],"answer":0,"explain":"Di bawah 90."},
-  {"id":"mt7b4-s4-19","q":"Sudut 181 derajat termasuk …","options":["Refleks","Tumpul","Lancip","Siku"],"answer":0,"explain":"Sedikit di atas 180."},
-  {"id":"mt7b4-s4-20","q":"Jika dua sudut berpelurus salah satunya tumpul, lainnya …","options":["Lancip","Tumpul juga","Refleks","Tidak ada"],"answer":0,"explain":"Suplementer dari tumpul adalah lancip."}
+  {
+    "id": "mt7b4-s4-01",
+    "q": "Sudut antara dua garis sejajar adalah …",
+    "options": [
+      "0 atau 180",
+      "Selalu 90",
+      "Tidak terdefinisi",
+      "Selalu 60"
+    ],
+    "answer": 0,
+    "explain": "Paralel tidak berpotongan, berpelurus jika diperpanjang."
+  },
+  {
+    "id": "mt7b4-s4-02",
+    "q": "Jika sudut sehadap 95, sudut bersebrangan luar terkait …",
+    "options": [
+      "85",
+      "180",
+      "90",
+      "95"
+    ],
+    "answer": 3,
+    "explain": "Alternate exterior kongruen."
+  },
+  {
+    "id": "mt7b4-s4-03",
+    "q": "Sudut sepihak dalam 120, pasangan …",
+    "options": [
+      "60",
+      "30",
+      "120",
+      "90"
+    ],
+    "answer": 0,
+    "explain": "Suplementer 180."
+  },
+  {
+    "id": "mt7b4-s4-04",
+    "q": "Sudut sehadap dan bersebrangan dalam pada garis sejajar …",
+    "options": [
+      "Jumlah 180",
+      "Selalu 120",
+      "Selalu 90",
+      "Sama besar"
+    ],
+    "answer": 3,
+    "explain": "Keduanya kongruen."
+  },
+  {
+    "id": "mt7b4-s4-05",
+    "q": "Sudut sepihak luar jumlahnya …",
+    "options": [
+      "120",
+      "180",
+      "90",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "Konsekutif luar suplementer."
+  },
+  {
+    "id": "mt7b4-s4-06",
+    "q": "Jika transversal tegak lurus garis sejajar, sudut sehadap …",
+    "options": [
+      "180",
+      "60",
+      "30",
+      "90"
+    ],
+    "answer": 3,
+    "explain": "Semua sudut siku-siku."
+  },
+  {
+    "id": "mt7b4-s4-07",
+    "q": "Sudut 15 derajat termasuk …",
+    "options": [
+      "Refleks",
+      "Tumpul",
+      "Lancip",
+      "Siku-siku"
+    ],
+    "answer": 2,
+    "explain": "Kurang dari 90."
+  },
+  {
+    "id": "mt7b4-s4-08",
+    "q": "Sudut 95 derajat termasuk …",
+    "options": [
+      "Siku",
+      "Lancip",
+      "Refleks",
+      "Tumpul"
+    ],
+    "answer": 3,
+    "explain": "Di atas 90 sampai 180."
+  },
+  {
+    "id": "mt7b4-s4-09",
+    "q": "Sudut berpelurus terjadi pada …",
+    "options": [
+      "Dua sudut siku",
+      "Dua sudut lancip",
+      "Dua garis sejajar",
+      "Dua sudut membentuk garis lurus"
+    ],
+    "answer": 3,
+    "explain": "Jumlah 180 pada garis."
+  },
+  {
+    "id": "mt7b4-s4-10",
+    "q": "Sudut bertolak belakang terbentuk karena …",
+    "options": [
+      "Dua garis sejajar",
+      "Dua garis berpotongan",
+      "Garis berimpit",
+      "Garis sejajar dan transversal"
+    ],
+    "answer": 1,
+    "explain": "Perpotongan dua garis."
+  },
+  {
+    "id": "mt7b4-s4-11",
+    "q": "Untuk mengukur sudut kecil, busur derajat ditempatkan …",
+    "options": [
+      "Pusat di sembarang titik",
+      "Pusat di titik sudut",
+      "Di luar kertas",
+      "Di tengah sisi panjang"
+    ],
+    "answer": 1,
+    "explain": "Poros di puncak sudut."
+  },
+  {
+    "id": "mt7b4-s4-12",
+    "q": "Melengkapi sudut hilang pada segitiga gunakan fakta …",
+    "options": [
+      "Jumlah 90",
+      "Jumlah 360",
+      "Jumlah 270",
+      "Jumlah 180"
+    ],
+    "answer": 3,
+    "explain": "Sudut segitiga 180."
+  },
+  {
+    "id": "mt7b4-s4-13",
+    "q": "Jika sudut luar segitiga 120, sudut dalam tak bersebelahan jumlah …",
+    "options": [
+      "90",
+      "120",
+      "60",
+      "180"
+    ],
+    "answer": 1,
+    "explain": "Sudut luar = jumlah dua sudut dalam tak bersebelahan."
+  },
+  {
+    "id": "mt7b4-s4-14",
+    "q": "Sudut 225 derajat termasuk …",
+    "options": [
+      "Lurus",
+      "Lancip",
+      "Refleks",
+      "Tumpul"
+    ],
+    "answer": 2,
+    "explain": "Di atas 180."
+  },
+  {
+    "id": "mt7b4-s4-15",
+    "q": "Sudut lurus adalah …",
+    "options": [
+      "90 derajat",
+      "0 derajat",
+      "360 derajat",
+      "180 derajat"
+    ],
+    "answer": 3,
+    "explain": "Garis lurus 180."
+  },
+  {
+    "id": "mt7b4-s4-16",
+    "q": "Jika sudut sehadap 70, maka sudut sepihak dalam terkait …",
+    "options": [
+      "110",
+      "90",
+      "50",
+      "70"
+    ],
+    "answer": 0,
+    "explain": "Sepihak dalam suplementer."
+  },
+  {
+    "id": "mt7b4-s4-17",
+    "q": "Garis berimpit memiliki …",
+    "options": [
+      "Titik sama",
+      "Jarak konstan namun beda titik",
+      "Selalu tegak",
+      "Tak bertemu"
+    ],
+    "answer": 0,
+    "explain": "Semua titik berkoinsiden."
+  },
+  {
+    "id": "mt7b4-s4-18",
+    "q": "Sudut 89 derajat termasuk …",
+    "options": [
+      "Tumpul",
+      "Lancip",
+      "Refleks",
+      "Siku-siku"
+    ],
+    "answer": 1,
+    "explain": "Di bawah 90."
+  },
+  {
+    "id": "mt7b4-s4-19",
+    "q": "Sudut 181 derajat termasuk …",
+    "options": [
+      "Siku",
+      "Tumpul",
+      "Refleks",
+      "Lancip"
+    ],
+    "answer": 2,
+    "explain": "Sedikit di atas 180."
+  },
+  {
+    "id": "mt7b4-s4-20",
+    "q": "Jika dua sudut berpelurus salah satunya tumpul, lainnya …",
+    "options": [
+      "Tidak ada",
+      "Lancip",
+      "Refleks",
+      "Tumpul juga"
+    ],
+    "answer": 1,
+    "explain": "Suplementer dari tumpul adalah lancip."
+  }
 ]

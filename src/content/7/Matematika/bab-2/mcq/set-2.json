@@ -1,142 +1,242 @@
 [
-{
-"id": "mt7b2-s2-01",
-"q": "Manakah yang bukan variabel?",
-"options": ["x", "y", "7", "p"],
-"answer": 2,
-"explain": "Bilangan 7 nilainya tetap."
-},
-{
-"id": "mt7b2-s2-02",
-"q": "Koefisien dari 9ab adalah?",
-"options": ["9", "a", "b", "ab"],
-"answer": 0,
-"explain": "Bilangan yang mengalikan variabel ab."
-},
-{
-"id": "mt7b2-s2-03",
-"q": "Konstanta pada 6k - 12 adalah?",
-"options": ["6k", "6", "-12", "k"],
-"answer": 2,
-"explain": "Konstanta tidak memuat variabel."
-},
-{
-"id": "mt7b2-s2-04",
-"q": "Bentuk aljabar disebut juga …",
-"options": ["ekspresi", "persen", "perbandingan", "skala"],
-"answer": 0,
-"explain": "Ekspresi memuat variabel dan koefisien."
-},
-{
-"id": "mt7b2-s2-05",
-"q": "Sederhanakan 7p + 4 - 3p - 1.",
-"options": ["4p + 3", "4p + 5", "10p - 3", "4p - 3"],
-"answer": 0,
-"explain": "Gabung p dan konstanta."
-},
-{
-"id": "mt7b2-s2-06",
-"q": "Hasil (5x + 2y) - (2x - y) adalah?",
-"options": ["3x + 3y", "7x + y", "3x - 3y", "2x + 3y"],
-"answer": 0,
-"explain": "Kurangi suku sejenis dengan tanda tepat."
-},
-{
-"id": "mt7b2-s2-07",
-"q": "Hasil 3(2a + 5) adalah?",
-"options": ["6a + 15", "6a + 5", "5a + 15", "6a - 15"],
-"answer": 0,
-"explain": "Kalikan 3 ke tiap suku."
-},
-{
-"id": "mt7b2-s2-08",
-"q": "Nilai 12x^2 : 4x adalah?",
-"options": ["3x", "3x^2", "8x", "3"],
-"answer": 0,
-"explain": "Bagi koefisien, turunkan pangkat x."
-},
-{
-"id": "mt7b2-s2-09",
-"q": "Jika a=2, b=1, nilai 4a - 3b?",
-"options": ["5", "11", "1", "7"],
-"answer": 0,
-"explain": "Substitusi angka ke variabel."
-},
-{
-"id": "mt7b2-s2-10",
-"q": "3x - 4 = 2x + 5, nilai x?",
-"options": ["9", "-9", "1", "-1"],
-"answer": 0,
-"explain": "Pindah ruas: x=9."
-},
-{
-"id": "mt7b2-s2-11",
-"q": "2x + 7 = 19, nilai x?",
-"options": ["6", "7", "12", "5"],
-"answer": 0,
-"explain": "Kurangi 7, bagi 2."
-},
-{
-"id": "mt7b2-s2-12",
-"q": "x/5 - 3 = 1, nilai x?",
-"options": ["20", "5", "15", "10"],
-"answer": 0,
-"explain": "Tambah 3 lalu kalikan 5."
-},
-{
-"id": "mt7b2-s2-13",
-"q": "4 - 3x = -5, nilai x?",
-"options": ["3", "-3", "1", "-1"],
-"answer": 0,
-"explain": "Pindah 4, bagi -3."
-},
-{
-"id": "mt7b2-s2-14",
-"q": "SPLDV: x + y = 15 dan x - y = 3. Nilai y?",
-"options": ["6", "9", "3", "12"],
-"answer": 0,
-"explain": "Kurangi persamaan, 2y=12."
-},
-{
-"id": "mt7b2-s2-15",
-"q": "SPLDV: 2x + y = 10 dan y = 4. Nilai x?",
-"options": ["3", "4", "6", "2"],
-"answer": 0,
-"explain": "Substitusi y ke persamaan pertama."
-},
-{
-"id": "mt7b2-s2-16",
-"q": "SPLDV: x + 2y = 18 dan x + y = 12. Nilai y?",
-"options": ["6", "12", "18", "3"],
-"answer": 0,
-"explain": "Kurangi persamaan, dapat y=6."
-},
-{
-"id": "mt7b2-s2-17",
-"q": "SPLDV: 3x + y = 20 dan x + y = 12. Nilai x?",
-"options": ["4", "8", "6", "2"],
-"answer": 0,
-"explain": "Kurangi persamaan, 2x=8."
-},
-{
-"id": "mt7b2-s2-18",
-"q": "Dua angka berjumlah 25, selisih 7. Angka terbesar?",
-"options": ["16", "9", "18", "14"],
-"answer": 0,
-"explain": "Gunakan total dan selisih."
-},
-{
-"id": "mt7b2-s2-19",
-"q": "Harga dua pensil dan satu buku 17 ribu. Satu pensil 4 ribu. Buku?",
-"options": ["9 ribu", "4 ribu", "13 ribu", "8 ribu"],
-"answer": 0,
-"explain": "Buku = 17 - 2×4."
-},
-{
-"id": "mt7b2-s2-20",
-"q": "Bentangkan: -2(3x - 5) + 4.",
-"options": ["-6x + 14", "-6x - 6", "6x - 14", "-6x + 6"],
-"answer": 0,
-"explain": "Distribusi lalu tambah 4."
-}
+  {
+    "id": "mt7b2-s2-01",
+    "q": "Manakah yang bukan variabel?",
+    "options": [
+      "y",
+      "x",
+      "7",
+      "p"
+    ],
+    "answer": 2,
+    "explain": "Bilangan 7 nilainya tetap."
+  },
+  {
+    "id": "mt7b2-s2-02",
+    "q": "Koefisien dari 9ab adalah?",
+    "options": [
+      "ab",
+      "9",
+      "a",
+      "b"
+    ],
+    "answer": 1,
+    "explain": "Bilangan yang mengalikan variabel ab."
+  },
+  {
+    "id": "mt7b2-s2-03",
+    "q": "Konstanta pada 6k - 12 adalah?",
+    "options": [
+      "-12",
+      "k",
+      "6k",
+      "6"
+    ],
+    "answer": 0,
+    "explain": "Konstanta tidak memuat variabel."
+  },
+  {
+    "id": "mt7b2-s2-04",
+    "q": "Bentuk aljabar disebut juga …",
+    "options": [
+      "skala",
+      "ekspresi",
+      "perbandingan",
+      "persen"
+    ],
+    "answer": 1,
+    "explain": "Ekspresi memuat variabel dan koefisien."
+  },
+  {
+    "id": "mt7b2-s2-05",
+    "q": "Sederhanakan 7p + 4 - 3p - 1.",
+    "options": [
+      "10p - 3",
+      "4p + 3",
+      "4p + 5",
+      "4p - 3"
+    ],
+    "answer": 1,
+    "explain": "Gabung p dan konstanta."
+  },
+  {
+    "id": "mt7b2-s2-06",
+    "q": "Hasil (5x + 2y) - (2x - y) adalah?",
+    "options": [
+      "7x + y",
+      "3x - 3y",
+      "2x + 3y",
+      "3x + 3y"
+    ],
+    "answer": 3,
+    "explain": "Kurangi suku sejenis dengan tanda tepat."
+  },
+  {
+    "id": "mt7b2-s2-07",
+    "q": "Hasil 3(2a + 5) adalah?",
+    "options": [
+      "6a + 5",
+      "6a - 15",
+      "6a + 15",
+      "5a + 15"
+    ],
+    "answer": 2,
+    "explain": "Kalikan 3 ke tiap suku."
+  },
+  {
+    "id": "mt7b2-s2-08",
+    "q": "Nilai 12x^2 : 4x adalah?",
+    "options": [
+      "3",
+      "3x^2",
+      "8x",
+      "3x"
+    ],
+    "answer": 3,
+    "explain": "Bagi koefisien, turunkan pangkat x."
+  },
+  {
+    "id": "mt7b2-s2-09",
+    "q": "Jika a=2, b=1, nilai 4a - 3b?",
+    "options": [
+      "1",
+      "11",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explain": "Substitusi angka ke variabel."
+  },
+  {
+    "id": "mt7b2-s2-10",
+    "q": "3x - 4 = 2x + 5, nilai x?",
+    "options": [
+      "9",
+      "1",
+      "-1",
+      "-9"
+    ],
+    "answer": 0,
+    "explain": "Pindah ruas: x=9."
+  },
+  {
+    "id": "mt7b2-s2-11",
+    "q": "2x + 7 = 19, nilai x?",
+    "options": [
+      "7",
+      "6",
+      "12",
+      "5"
+    ],
+    "answer": 1,
+    "explain": "Kurangi 7, bagi 2."
+  },
+  {
+    "id": "mt7b2-s2-12",
+    "q": "x/5 - 3 = 1, nilai x?",
+    "options": [
+      "20",
+      "10",
+      "15",
+      "5"
+    ],
+    "answer": 0,
+    "explain": "Tambah 3 lalu kalikan 5."
+  },
+  {
+    "id": "mt7b2-s2-13",
+    "q": "4 - 3x = -5, nilai x?",
+    "options": [
+      "3",
+      "-1",
+      "1",
+      "-3"
+    ],
+    "answer": 0,
+    "explain": "Pindah 4, bagi -3."
+  },
+  {
+    "id": "mt7b2-s2-14",
+    "q": "SPLDV: x + y = 15 dan x - y = 3. Nilai y?",
+    "options": [
+      "12",
+      "3",
+      "9",
+      "6"
+    ],
+    "answer": 3,
+    "explain": "Kurangi persamaan, 2y=12."
+  },
+  {
+    "id": "mt7b2-s2-15",
+    "q": "SPLDV: 2x + y = 10 dan y = 4. Nilai x?",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": 3,
+    "explain": "Substitusi y ke persamaan pertama."
+  },
+  {
+    "id": "mt7b2-s2-16",
+    "q": "SPLDV: x + 2y = 18 dan x + y = 12. Nilai y?",
+    "options": [
+      "6",
+      "12",
+      "3",
+      "18"
+    ],
+    "answer": 0,
+    "explain": "Kurangi persamaan, dapat y=6."
+  },
+  {
+    "id": "mt7b2-s2-17",
+    "q": "SPLDV: 3x + y = 20 dan x + y = 12. Nilai x?",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "explain": "Kurangi persamaan, 2x=8."
+  },
+  {
+    "id": "mt7b2-s2-18",
+    "q": "Dua angka berjumlah 25, selisih 7. Angka terbesar?",
+    "options": [
+      "16",
+      "14",
+      "18",
+      "9"
+    ],
+    "answer": 0,
+    "explain": "Gunakan total dan selisih."
+  },
+  {
+    "id": "mt7b2-s2-19",
+    "q": "Harga dua pensil dan satu buku 17 ribu. Satu pensil 4 ribu. Buku?",
+    "options": [
+      "13 ribu",
+      "4 ribu",
+      "8 ribu",
+      "9 ribu"
+    ],
+    "answer": 3,
+    "explain": "Buku = 17 - 2×4."
+  },
+  {
+    "id": "mt7b2-s2-20",
+    "q": "Bentangkan: -2(3x - 5) + 4.",
+    "options": [
+      "6x - 14",
+      "-6x - 6",
+      "-6x + 6",
+      "-6x + 14"
+    ],
+    "answer": 3,
+    "explain": "Distribusi lalu tambah 4."
+  }
 ]

@@ -1,22 +1,242 @@
 [
-  {"id":"mt7b3-s1-01","q":"Himpunan adalah …","options":["Kumpulan terdefinisi jelas","Daftar acak","Urutan tak terhingga","Bilangan prima"],"answer":0,"explain":"Anggotanya dapat dibedakan jelas."},
-  {"id":"mt7b3-s1-02","q":"Notasi himpunan biasanya ditulis dengan …","options":["Huruf kapital","Huruf kecil","Angka Romawi","Simbol ∞"],"answer":0,"explain":"Nama himpunan pakai huruf besar."},
-  {"id":"mt7b3-s1-03","q":"Anggota himpunan A ditulis dengan …","options":["∈","∉","∪","∩"],"answer":0,"explain":"Simbol keanggotaan adalah ∈."},
-  {"id":"mt7b3-s1-04","q":"Jika x bukan anggota A, ditulis …","options":["x ∉ A","x ∈ A","x = A","A ∈ x"],"answer":0,"explain":"Simbol bukan anggota ∉."},
-  {"id":"mt7b3-s1-05","q":"A = {1,2,3}. Elemen 2?","options":["Anggota","Bukan anggota","Himpunan kosong","Komplemen"],"answer":0,"explain":"2 tercantum di A."},
-  {"id":"mt7b3-s1-06","q":"B = {bilangan genap <6}. 7 adalah …","options":["Bukan anggota","Anggota","Himpunan bagian","Irisan"],"answer":0,"explain":"7 tidak genap <6."},
-  {"id":"mt7b3-s1-07","q":"C = {a,e,i,o,u}. Huruf i …","options":["∈ C","∉ C","Komplemen C","Irisan C"],"answer":0,"explain":"i adalah vokal di C."},
-  {"id":"mt7b3-s1-08","q":"Himpunan bagian ditulis dengan …","options":["⊂","∪","∩","⊄"],"answer":0,"explain":"Simbol subset ⊂."},
-  {"id":"mt7b3-s1-09","q":"Jika A ⊂ B, maka …","options":["Semua anggota A ada di B","Anggota B ada di A","A dan B tak beririsan","A sama dengan kosong"],"answer":0,"explain":"Subset berarti elemen A ada di B."},
-  {"id":"mt7b3-s1-10","q":"Gabungan himpunan dilambangkan …","options":["∪","∩","⊂","∈"],"answer":0,"explain":"Union memakai ∪."},
-  {"id":"mt7b3-s1-11","q":"Irisan himpunan dilambangkan …","options":["∩","∪","⊄","∉"],"answer":0,"explain":"Intersection memakai ∩."},
-  {"id":"mt7b3-s1-12","q":"A ∪ B memuat …","options":["Anggota A atau B","Hanya anggota A","Hanya anggota B","Anggota luar A,B"],"answer":0,"explain":"Union: salah satu atau keduanya."},
-  {"id":"mt7b3-s1-13","q":"A ∩ B memuat …","options":["Anggota keduanya","Anggota A saja","Anggota B saja","Anggota luar"],"answer":0,"explain":"Irisan: elemen bersama."},
-  {"id":"mt7b3-s1-14","q":"Komplemen A terhadap semesta S adalah …","options":["S \\ A","A \\ S","A ∩ S","A ∪ S"],"answer":0,"explain":"Anggota di S tapi bukan A."},
-  {"id":"mt7b3-s1-15","q":"Diagram Venn digunakan untuk …","options":["Memvisualkan himpunan","Mengukur sudut","Menghitung limit","Menggambar grafik"],"answer":0,"explain":"Venn memetakan relasi himpunan."},
-  {"id":"mt7b3-s1-16","q":"Himpunan kosong dilambangkan …","options":["∅","∩","∪","⊂"],"answer":0,"explain":"Simbol kosong ∅."},
-  {"id":"mt7b3-s1-17","q":"Jika n(A)=5, n(B)=3, dan A∩B kosong, maka n(A∪B)= …","options":["8","5","3","2"],"answer":0,"explain":"Disjoint, jumlah 5+3."},
-  {"id":"mt7b3-s1-18","q":"Masalah dua himpunan: siswa suka teh (20), kopi (15), keduanya (5). Total suka minimal …","options":["30","25","35","20"],"answer":0,"explain":"20+15−5=30."},
-  {"id":"mt7b3-s1-19","q":"Himpunan semesta U berisi huruf alfabet. Komplemen vokal adalah …","options":["Konsonan","Vokal","Alfabet","Himpunan kosong"],"answer":0,"explain":"Semesta minus vokal = konsonan."},
-  {"id":"mt7b3-s1-20","q":"Diagram Venn tiga himpunan digunakan untuk …","options":["Menunjukkan irisan tiga","Menggambar fungsi","Menghitung luas","Mengurutkan data"],"answer":0,"explain":"Venn tiga set tunjuk irisan bertiga."}
+  {
+    "id": "mt7b3-s1-01",
+    "q": "Himpunan adalah …",
+    "options": [
+      "Bilangan prima",
+      "Kumpulan terdefinisi jelas",
+      "Daftar acak",
+      "Urutan tak terhingga"
+    ],
+    "answer": 1,
+    "explain": "Anggotanya dapat dibedakan jelas."
+  },
+  {
+    "id": "mt7b3-s1-02",
+    "q": "Notasi himpunan biasanya ditulis dengan …",
+    "options": [
+      "Huruf kapital",
+      "Angka Romawi",
+      "Huruf kecil",
+      "Simbol ∞"
+    ],
+    "answer": 0,
+    "explain": "Nama himpunan pakai huruf besar."
+  },
+  {
+    "id": "mt7b3-s1-03",
+    "q": "Anggota himpunan A ditulis dengan …",
+    "options": [
+      "∪",
+      "∩",
+      "∉",
+      "∈"
+    ],
+    "answer": 3,
+    "explain": "Simbol keanggotaan adalah ∈."
+  },
+  {
+    "id": "mt7b3-s1-04",
+    "q": "Jika x bukan anggota A, ditulis …",
+    "options": [
+      "x ∈ A",
+      "x ∉ A",
+      "x = A",
+      "A ∈ x"
+    ],
+    "answer": 1,
+    "explain": "Simbol bukan anggota ∉."
+  },
+  {
+    "id": "mt7b3-s1-05",
+    "q": "A = {1,2,3}. Elemen 2?",
+    "options": [
+      "Komplemen",
+      "Bukan anggota",
+      "Anggota",
+      "Himpunan kosong"
+    ],
+    "answer": 2,
+    "explain": "2 tercantum di A."
+  },
+  {
+    "id": "mt7b3-s1-06",
+    "q": "B = {bilangan genap <6}. 7 adalah …",
+    "options": [
+      "Himpunan bagian",
+      "Bukan anggota",
+      "Irisan",
+      "Anggota"
+    ],
+    "answer": 1,
+    "explain": "7 tidak genap <6."
+  },
+  {
+    "id": "mt7b3-s1-07",
+    "q": "C = {a,e,i,o,u}. Huruf i …",
+    "options": [
+      "Irisan C",
+      "Komplemen C",
+      "∈ C",
+      "∉ C"
+    ],
+    "answer": 2,
+    "explain": "i adalah vokal di C."
+  },
+  {
+    "id": "mt7b3-s1-08",
+    "q": "Himpunan bagian ditulis dengan …",
+    "options": [
+      "∩",
+      "∪",
+      "⊂",
+      "⊄"
+    ],
+    "answer": 2,
+    "explain": "Simbol subset ⊂."
+  },
+  {
+    "id": "mt7b3-s1-09",
+    "q": "Jika A ⊂ B, maka …",
+    "options": [
+      "A sama dengan kosong",
+      "Semua anggota A ada di B",
+      "Anggota B ada di A",
+      "A dan B tak beririsan"
+    ],
+    "answer": 1,
+    "explain": "Subset berarti elemen A ada di B."
+  },
+  {
+    "id": "mt7b3-s1-10",
+    "q": "Gabungan himpunan dilambangkan …",
+    "options": [
+      "∩",
+      "⊂",
+      "∪",
+      "∈"
+    ],
+    "answer": 2,
+    "explain": "Union memakai ∪."
+  },
+  {
+    "id": "mt7b3-s1-11",
+    "q": "Irisan himpunan dilambangkan …",
+    "options": [
+      "∉",
+      "∪",
+      "⊄",
+      "∩"
+    ],
+    "answer": 3,
+    "explain": "Intersection memakai ∩."
+  },
+  {
+    "id": "mt7b3-s1-12",
+    "q": "A ∪ B memuat …",
+    "options": [
+      "Hanya anggota B",
+      "Anggota A atau B",
+      "Anggota luar A,B",
+      "Hanya anggota A"
+    ],
+    "answer": 1,
+    "explain": "Union: salah satu atau keduanya."
+  },
+  {
+    "id": "mt7b3-s1-13",
+    "q": "A ∩ B memuat …",
+    "options": [
+      "Anggota keduanya",
+      "Anggota luar",
+      "Anggota B saja",
+      "Anggota A saja"
+    ],
+    "answer": 0,
+    "explain": "Irisan: elemen bersama."
+  },
+  {
+    "id": "mt7b3-s1-14",
+    "q": "Komplemen A terhadap semesta S adalah …",
+    "options": [
+      "A \\ S",
+      "S \\ A",
+      "A ∪ S",
+      "A ∩ S"
+    ],
+    "answer": 1,
+    "explain": "Anggota di S tapi bukan A."
+  },
+  {
+    "id": "mt7b3-s1-15",
+    "q": "Diagram Venn digunakan untuk …",
+    "options": [
+      "Menggambar grafik",
+      "Menghitung limit",
+      "Memvisualkan himpunan",
+      "Mengukur sudut"
+    ],
+    "answer": 2,
+    "explain": "Venn memetakan relasi himpunan."
+  },
+  {
+    "id": "mt7b3-s1-16",
+    "q": "Himpunan kosong dilambangkan …",
+    "options": [
+      "⊂",
+      "∪",
+      "∅",
+      "∩"
+    ],
+    "answer": 2,
+    "explain": "Simbol kosong ∅."
+  },
+  {
+    "id": "mt7b3-s1-17",
+    "q": "Jika n(A)=5, n(B)=3, dan A∩B kosong, maka n(A∪B)= …",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "8"
+    ],
+    "answer": 3,
+    "explain": "Disjoint, jumlah 5+3."
+  },
+  {
+    "id": "mt7b3-s1-18",
+    "q": "Masalah dua himpunan: siswa suka teh (20), kopi (15), keduanya (5). Total suka minimal …",
+    "options": [
+      "25",
+      "35",
+      "30",
+      "20"
+    ],
+    "answer": 2,
+    "explain": "20+15−5=30."
+  },
+  {
+    "id": "mt7b3-s1-19",
+    "q": "Himpunan semesta U berisi huruf alfabet. Komplemen vokal adalah …",
+    "options": [
+      "Konsonan",
+      "Alfabet",
+      "Himpunan kosong",
+      "Vokal"
+    ],
+    "answer": 0,
+    "explain": "Semesta minus vokal = konsonan."
+  },
+  {
+    "id": "mt7b3-s1-20",
+    "q": "Diagram Venn tiga himpunan digunakan untuk …",
+    "options": [
+      "Menunjukkan irisan tiga",
+      "Menghitung luas",
+      "Mengurutkan data",
+      "Menggambar fungsi"
+    ],
+    "answer": 0,
+    "explain": "Venn tiga set tunjuk irisan bertiga."
+  }
 ]

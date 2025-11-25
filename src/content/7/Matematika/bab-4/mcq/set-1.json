@@ -1,22 +1,242 @@
 [
-  {"id":"mt7b4-s1-01","q":"Dua garis sejajar adalah …","options":["Tidak berpotongan","Berpotongan di satu titik","Selalu tegak lurus","Berimpit"],"answer":0,"explain":"Sejajar tidak pernah bertemu."},
-  {"id":"mt7b4-s1-02","q":"Garis yang berpotongan tepat satu titik disebut …","options":["Berpotongan","Sejajar","Berimpit","Transversal"],"answer":0,"explain":"Dua garis bertemu satu titik."},
-  {"id":"mt7b4-s1-03","q":"Garis yang menutup tepat di atas garis lain disebut …","options":["Berimpit","Sejajar","Transversal","Berpotongan"],"answer":0,"explain":"Semua titiknya sama."},
-  {"id":"mt7b4-s1-04","q":"Garis transversal memotong …","options":["Dua garis lain","Satu sudut","Satu titik tengah","Satu lingkaran"],"answer":0,"explain":"Memotong dua garis berbeda."},
-  {"id":"mt7b4-s1-05","q":"Sudut kurang dari 90 derajat adalah …","options":["Lancip","Siku-siku","Tumpul","Refleks"],"answer":0,"explain":"Sudut lancip <90."},
-  {"id":"mt7b4-s1-06","q":"Sudut tepat 90 derajat disebut …","options":["Siku-siku","Lancip","Tumpul","Refleks"],"answer":0,"explain":"Sudut siku-siku =90."},
-  {"id":"mt7b4-s1-07","q":"Sudut antara 90 dan 180 derajat …","options":["Tumpul","Lancip","Refleks","Siku-siku"],"answer":0,"explain":"Tumpul berada di 90-180."},
-  {"id":"mt7b4-s1-08","q":"Sudut lebih dari 180 sampai 360 derajat …","options":["Refleks","Tumpul","Lancip","Siku-siku"],"answer":0,"explain":"Refleks >180."},
-  {"id":"mt7b4-s1-09","q":"Sudut berpelurus jumlahnya …","options":["180 derajat","90 derajat","360 derajat","270 derajat"],"answer":0,"explain":"Berpelurus membentuk garis lurus."},
-  {"id":"mt7b4-s1-10","q":"Sudut bertolak belakang pada dua garis berpotongan selalu …","options":["Sama besar","Berpelurus","Lancip","Refleks"],"answer":0,"explain":"Bertolak belakang kongruen."},
-  {"id":"mt7b4-s1-11","q":"Pada dua garis sejajar dan transversal, sudut sehadap besarnya …","options":["Sama","Berbeda jauh","Selalu 90","Selalu 180"],"answer":0,"explain":"Sehadap kongruen."},
-  {"id":"mt7b4-s1-12","q":"Sudut bersebrangan dalam pada garis sejajar …","options":["Sama besar","Berpelurus","Selalu 90","Lebih kecil"],"answer":0,"explain":"Alternate interior kongruen."},
-  {"id":"mt7b4-s1-13","q":"Sudut bersebrangan luar pada garis sejajar …","options":["Sama besar","Selalu tumpul","Selalu lancip","Berjumlah 90"],"answer":0,"explain":"Alternate exterior kongruen."},
-  {"id":"mt7b4-s1-14","q":"Sudut sepihak dalam pada garis sejajar …","options":["Jumlah 180","Sama besar","Jumlah 90","Selalu lancip"],"answer":0,"explain":"Consecutive interior suplementer."},
-  {"id":"mt7b4-s1-15","q":"Sudut sepihak luar pada garis sejajar …","options":["Jumlah 180","Sama besar","Jumlah 90","Berpelurus"],"answer":0,"explain":"Consecutive exterior suplementer."},
-  {"id":"mt7b4-s1-16","q":"Mengukur sudut pakai …","options":["Busur derajat","Penggaris","Jangka sorong","Neraca"],"answer":0,"explain":"Busur derajat untuk sudut."},
-  {"id":"mt7b4-s1-17","q":"Jika sudut sehadap 120, maka sudut sehadap pasangannya …","options":["120","60","90","30"],"answer":0,"explain":"Sehadap kongruen."},
-  {"id":"mt7b4-s1-18","q":"Sudut berpelurus 110 berarti sudut pasangannya …","options":["70","110","90","60"],"answer":0,"explain":"180−110=70."},
-  {"id":"mt7b4-s1-19","q":"Sudut bertolak belakang salah satu 45 derajat, maka lainnya …","options":["45","135","90","60"],"answer":0,"explain":"Bertolak belakang sama besar."},
-  {"id":"mt7b4-s1-20","q":"Dua garis sejajar dipotong transversal membentuk 8 sudut disebut …","options":["Sudut-sudut sejenis","Sudut pusat","Sudut keliling","Sudut siku"],"answer":0,"explain":"Terbentuk pasangan sudut sejenis."}
+  {
+    "id": "mt7b4-s1-01",
+    "q": "Dua garis sejajar adalah …",
+    "options": [
+      "Berimpit",
+      "Selalu tegak lurus",
+      "Berpotongan di satu titik",
+      "Tidak berpotongan"
+    ],
+    "answer": 3,
+    "explain": "Sejajar tidak pernah bertemu."
+  },
+  {
+    "id": "mt7b4-s1-02",
+    "q": "Garis yang berpotongan tepat satu titik disebut …",
+    "options": [
+      "Sejajar",
+      "Transversal",
+      "Berimpit",
+      "Berpotongan"
+    ],
+    "answer": 3,
+    "explain": "Dua garis bertemu satu titik."
+  },
+  {
+    "id": "mt7b4-s1-03",
+    "q": "Garis yang menutup tepat di atas garis lain disebut …",
+    "options": [
+      "Sejajar",
+      "Transversal",
+      "Berpotongan",
+      "Berimpit"
+    ],
+    "answer": 3,
+    "explain": "Semua titiknya sama."
+  },
+  {
+    "id": "mt7b4-s1-04",
+    "q": "Garis transversal memotong …",
+    "options": [
+      "Dua garis lain",
+      "Satu titik tengah",
+      "Satu sudut",
+      "Satu lingkaran"
+    ],
+    "answer": 0,
+    "explain": "Memotong dua garis berbeda."
+  },
+  {
+    "id": "mt7b4-s1-05",
+    "q": "Sudut kurang dari 90 derajat adalah …",
+    "options": [
+      "Refleks",
+      "Siku-siku",
+      "Tumpul",
+      "Lancip"
+    ],
+    "answer": 3,
+    "explain": "Sudut lancip <90."
+  },
+  {
+    "id": "mt7b4-s1-06",
+    "q": "Sudut tepat 90 derajat disebut …",
+    "options": [
+      "Lancip",
+      "Tumpul",
+      "Siku-siku",
+      "Refleks"
+    ],
+    "answer": 2,
+    "explain": "Sudut siku-siku =90."
+  },
+  {
+    "id": "mt7b4-s1-07",
+    "q": "Sudut antara 90 dan 180 derajat …",
+    "options": [
+      "Lancip",
+      "Siku-siku",
+      "Refleks",
+      "Tumpul"
+    ],
+    "answer": 3,
+    "explain": "Tumpul berada di 90-180."
+  },
+  {
+    "id": "mt7b4-s1-08",
+    "q": "Sudut lebih dari 180 sampai 360 derajat …",
+    "options": [
+      "Refleks",
+      "Lancip",
+      "Tumpul",
+      "Siku-siku"
+    ],
+    "answer": 0,
+    "explain": "Refleks >180."
+  },
+  {
+    "id": "mt7b4-s1-09",
+    "q": "Sudut berpelurus jumlahnya …",
+    "options": [
+      "180 derajat",
+      "360 derajat",
+      "270 derajat",
+      "90 derajat"
+    ],
+    "answer": 0,
+    "explain": "Berpelurus membentuk garis lurus."
+  },
+  {
+    "id": "mt7b4-s1-10",
+    "q": "Sudut bertolak belakang pada dua garis berpotongan selalu …",
+    "options": [
+      "Refleks",
+      "Sama besar",
+      "Berpelurus",
+      "Lancip"
+    ],
+    "answer": 1,
+    "explain": "Bertolak belakang kongruen."
+  },
+  {
+    "id": "mt7b4-s1-11",
+    "q": "Pada dua garis sejajar dan transversal, sudut sehadap besarnya …",
+    "options": [
+      "Sama",
+      "Selalu 180",
+      "Berbeda jauh",
+      "Selalu 90"
+    ],
+    "answer": 0,
+    "explain": "Sehadap kongruen."
+  },
+  {
+    "id": "mt7b4-s1-12",
+    "q": "Sudut bersebrangan dalam pada garis sejajar …",
+    "options": [
+      "Selalu 90",
+      "Berpelurus",
+      "Lebih kecil",
+      "Sama besar"
+    ],
+    "answer": 3,
+    "explain": "Alternate interior kongruen."
+  },
+  {
+    "id": "mt7b4-s1-13",
+    "q": "Sudut bersebrangan luar pada garis sejajar …",
+    "options": [
+      "Berjumlah 90",
+      "Selalu tumpul",
+      "Selalu lancip",
+      "Sama besar"
+    ],
+    "answer": 3,
+    "explain": "Alternate exterior kongruen."
+  },
+  {
+    "id": "mt7b4-s1-14",
+    "q": "Sudut sepihak dalam pada garis sejajar …",
+    "options": [
+      "Sama besar",
+      "Selalu lancip",
+      "Jumlah 90",
+      "Jumlah 180"
+    ],
+    "answer": 3,
+    "explain": "Consecutive interior suplementer."
+  },
+  {
+    "id": "mt7b4-s1-15",
+    "q": "Sudut sepihak luar pada garis sejajar …",
+    "options": [
+      "Jumlah 180",
+      "Berpelurus",
+      "Jumlah 90",
+      "Sama besar"
+    ],
+    "answer": 0,
+    "explain": "Consecutive exterior suplementer."
+  },
+  {
+    "id": "mt7b4-s1-16",
+    "q": "Mengukur sudut pakai …",
+    "options": [
+      "Penggaris",
+      "Jangka sorong",
+      "Neraca",
+      "Busur derajat"
+    ],
+    "answer": 3,
+    "explain": "Busur derajat untuk sudut."
+  },
+  {
+    "id": "mt7b4-s1-17",
+    "q": "Jika sudut sehadap 120, maka sudut sehadap pasangannya …",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "30"
+    ],
+    "answer": 2,
+    "explain": "Sehadap kongruen."
+  },
+  {
+    "id": "mt7b4-s1-18",
+    "q": "Sudut berpelurus 110 berarti sudut pasangannya …",
+    "options": [
+      "110",
+      "70",
+      "90",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "180−110=70."
+  },
+  {
+    "id": "mt7b4-s1-19",
+    "q": "Sudut bertolak belakang salah satu 45 derajat, maka lainnya …",
+    "options": [
+      "45",
+      "60",
+      "90",
+      "135"
+    ],
+    "answer": 0,
+    "explain": "Bertolak belakang sama besar."
+  },
+  {
+    "id": "mt7b4-s1-20",
+    "q": "Dua garis sejajar dipotong transversal membentuk 8 sudut disebut …",
+    "options": [
+      "Sudut keliling",
+      "Sudut pusat",
+      "Sudut-sudut sejenis",
+      "Sudut siku"
+    ],
+    "answer": 2,
+    "explain": "Terbentuk pasangan sudut sejenis."
+  }
 ]

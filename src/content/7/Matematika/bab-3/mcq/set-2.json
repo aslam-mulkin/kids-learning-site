@@ -1,22 +1,242 @@
 [
-  {"id":"mt7b3-s2-01","q":"Himpunan A = {2,4,6}. 5 adalah …","options":["∉ A","∈ A","⊂ A","A ⊂ 5"],"answer":0,"explain":"5 tidak tercantum di A."},
-  {"id":"mt7b3-s2-02","q":"Notasi roster menuliskan …","options":["Daftar anggota","Syarat keanggotaan","Diagram grafis","Panjang sisi"],"answer":0,"explain":"Roster mencantumkan elemen satu-satu."},
-  {"id":"mt7b3-s2-03","q":"Notasi pembentuk menyatakan …","options":["Syarat elemen","Diagram","Daftar urut","Frekuensi"],"answer":0,"explain":"Gunakan syarat/aturan anggota."},
-  {"id":"mt7b3-s2-04","q":"A = {x|x bilangan prima < 10}. Anggota A …","options":["2,3,5,7","2,4,6,8","3,6,9","1,2,3"],"answer":0,"explain":"Prima <10: 2,3,5,7."},
-  {"id":"mt7b3-s2-05","q":"B = {1,2,3}. C = {1,2}. Maka C adalah …","options":["Subset B","Superset B","Disjoint","Komplemen"],"answer":0,"explain":"Semua elemen C ada di B."},
-  {"id":"mt7b3-s2-06","q":"Himpunan semesta S berisi bilangan bulat. Komplemen genap adalah …","options":["Bilangan ganjil","Bilangan prima","Bilangan real","Bilangan nol"],"answer":0,"explain":"Sisa elemen: ganjil."},
-  {"id":"mt7b3-s2-07","q":"A ∩ B kosong berarti …","options":["A dan B tak beririsan","A bagian dari B","B bagian A","A=B"],"answer":0,"explain":"Tidak ada elemen bersama."},
-  {"id":"mt7b3-s2-08","q":"Jika n(A)=12, n(B)=10, n(A∩B)=4, n(A∪B)= …","options":["18","22","16","6"],"answer":0,"explain":"12+10−4=18."},
-  {"id":"mt7b3-s2-09","q":"Masalah dua hobi: 30 suka basket, 25 voli, 10 keduanya. Total minimal …","options":["45","55","35","15"],"answer":0,"explain":"30+25−10=45."},
-  {"id":"mt7b3-s2-10","q":"Diagram Venn dua himpunan berbentuk …","options":["Dua lingkaran","Segitiga","Persegi","Garis"],"answer":0,"explain":"Umumnya dua lingkaran beririsan."},
-  {"id":"mt7b3-s2-11","q":"Himpunan kosong merupakan subset …","options":["Semua himpunan","Himpunan semesta saja","Himpunan tak hingga","Himpunan singleton"],"answer":0,"explain":"∅ subset setiap himpunan."},
-  {"id":"mt7b3-s2-12","q":"Komplemen U adalah …","options":["∅","U","U ∩ ∅","U ∪ ∅"],"answer":0,"explain":"Komplemen semesta adalah kosong."},
-  {"id":"mt7b3-s2-13","q":"Jika A⊂B dan B⊂C, maka A …","options":["⊂ C","=C","∩C=∅","⊄C"],"answer":0,"explain":"Subset transitif."},
-  {"id":"mt7b3-s2-14","q":"Himpunan pasangan terurut {(1,2),(1,3)} bukan fungsi karena …","options":["Input 1 dua output","Kurang anggota","Domain kosong","Range sama"],"answer":0,"explain":"Fungsi butuh output tunggal tiap input."},
-  {"id":"mt7b3-s2-15","q":"A={x|x kelipatan 3 ≤12}. Anggota …","options":["3,6,9,12","1,2,3","6,12,18","3,9,15"],"answer":0,"explain":"Kelipatan 3 sampai 12."},
-  {"id":"mt7b3-s2-16","q":"B={bilangan ganjil <10}. Maka B∩A sebelumnya …","options":["3,9","3,6","6,9","3,12"],"answer":0,"explain":"Irisan kelipatan 3 dan ganjil."},
-  {"id":"mt7b3-s2-17","q":"Dalam Venn tiga himpunan, area tengah menunjukkan …","options":["Irisan ketiganya","Union ketiganya","Komplemen semua","Himpunan kosong"],"answer":0,"explain":"Bagian bersama tiga set."},
-  {"id":"mt7b3-s2-18","q":"Pernyataan benar untuk A∪(B∩C)","options":["Termasuk elemen di B∩C","Hanya B","Hanya C","Tak mengandung A"],"answer":0,"explain":"Union A dengan irisan B,C."},
-  {"id":"mt7b3-s2-19","q":"Masalah tiga klub: gunakan diagram Venn untuk …","options":["Hitung anggota tiap irisan","Mengukur panjang","Mengurutkan waktu","Mencari median"],"answer":0,"explain":"Venn memetakan irisan multikelompok."},
-  {"id":"mt7b3-s2-20","q":"A={1,2}, B={2,3}. A∪B = …","options":["{1,2,3}","{2}","{1}","{1,3}"],"answer":0,"explain":"Gabungan semua elemen unik."}
+  {
+    "id": "mt7b3-s2-01",
+    "q": "Himpunan A = {2,4,6}. 5 adalah …",
+    "options": [
+      "⊂ A",
+      "A ⊂ 5",
+      "∈ A",
+      "∉ A"
+    ],
+    "answer": 3,
+    "explain": "5 tidak tercantum di A."
+  },
+  {
+    "id": "mt7b3-s2-02",
+    "q": "Notasi roster menuliskan …",
+    "options": [
+      "Syarat keanggotaan",
+      "Panjang sisi",
+      "Diagram grafis",
+      "Daftar anggota"
+    ],
+    "answer": 3,
+    "explain": "Roster mencantumkan elemen satu-satu."
+  },
+  {
+    "id": "mt7b3-s2-03",
+    "q": "Notasi pembentuk menyatakan …",
+    "options": [
+      "Diagram",
+      "Daftar urut",
+      "Syarat elemen",
+      "Frekuensi"
+    ],
+    "answer": 2,
+    "explain": "Gunakan syarat/aturan anggota."
+  },
+  {
+    "id": "mt7b3-s2-04",
+    "q": "A = {x|x bilangan prima < 10}. Anggota A …",
+    "options": [
+      "3,6,9",
+      "2,3,5,7",
+      "1,2,3",
+      "2,4,6,8"
+    ],
+    "answer": 1,
+    "explain": "Prima <10: 2,3,5,7."
+  },
+  {
+    "id": "mt7b3-s2-05",
+    "q": "B = {1,2,3}. C = {1,2}. Maka C adalah …",
+    "options": [
+      "Subset B",
+      "Komplemen",
+      "Disjoint",
+      "Superset B"
+    ],
+    "answer": 0,
+    "explain": "Semua elemen C ada di B."
+  },
+  {
+    "id": "mt7b3-s2-06",
+    "q": "Himpunan semesta S berisi bilangan bulat. Komplemen genap adalah …",
+    "options": [
+      "Bilangan ganjil",
+      "Bilangan nol",
+      "Bilangan prima",
+      "Bilangan real"
+    ],
+    "answer": 0,
+    "explain": "Sisa elemen: ganjil."
+  },
+  {
+    "id": "mt7b3-s2-07",
+    "q": "A ∩ B kosong berarti …",
+    "options": [
+      "B bagian A",
+      "A bagian dari B",
+      "A=B",
+      "A dan B tak beririsan"
+    ],
+    "answer": 3,
+    "explain": "Tidak ada elemen bersama."
+  },
+  {
+    "id": "mt7b3-s2-08",
+    "q": "Jika n(A)=12, n(B)=10, n(A∩B)=4, n(A∪B)= …",
+    "options": [
+      "18",
+      "22",
+      "6",
+      "16"
+    ],
+    "answer": 0,
+    "explain": "12+10−4=18."
+  },
+  {
+    "id": "mt7b3-s2-09",
+    "q": "Masalah dua hobi: 30 suka basket, 25 voli, 10 keduanya. Total minimal …",
+    "options": [
+      "55",
+      "15",
+      "45",
+      "35"
+    ],
+    "answer": 2,
+    "explain": "30+25−10=45."
+  },
+  {
+    "id": "mt7b3-s2-10",
+    "q": "Diagram Venn dua himpunan berbentuk …",
+    "options": [
+      "Dua lingkaran",
+      "Segitiga",
+      "Garis",
+      "Persegi"
+    ],
+    "answer": 0,
+    "explain": "Umumnya dua lingkaran beririsan."
+  },
+  {
+    "id": "mt7b3-s2-11",
+    "q": "Himpunan kosong merupakan subset …",
+    "options": [
+      "Himpunan semesta saja",
+      "Semua himpunan",
+      "Himpunan singleton",
+      "Himpunan tak hingga"
+    ],
+    "answer": 1,
+    "explain": "∅ subset setiap himpunan."
+  },
+  {
+    "id": "mt7b3-s2-12",
+    "q": "Komplemen U adalah …",
+    "options": [
+      "U ∪ ∅",
+      "∅",
+      "U ∩ ∅",
+      "U"
+    ],
+    "answer": 1,
+    "explain": "Komplemen semesta adalah kosong."
+  },
+  {
+    "id": "mt7b3-s2-13",
+    "q": "Jika A⊂B dan B⊂C, maka A …",
+    "options": [
+      "⊂ C",
+      "⊄C",
+      "∩C=∅",
+      "=C"
+    ],
+    "answer": 0,
+    "explain": "Subset transitif."
+  },
+  {
+    "id": "mt7b3-s2-14",
+    "q": "Himpunan pasangan terurut {(1,2),(1,3)} bukan fungsi karena …",
+    "options": [
+      "Range sama",
+      "Domain kosong",
+      "Input 1 dua output",
+      "Kurang anggota"
+    ],
+    "answer": 2,
+    "explain": "Fungsi butuh output tunggal tiap input."
+  },
+  {
+    "id": "mt7b3-s2-15",
+    "q": "A={x|x kelipatan 3 ≤12}. Anggota …",
+    "options": [
+      "6,12,18",
+      "1,2,3",
+      "3,6,9,12",
+      "3,9,15"
+    ],
+    "answer": 2,
+    "explain": "Kelipatan 3 sampai 12."
+  },
+  {
+    "id": "mt7b3-s2-16",
+    "q": "B={bilangan ganjil <10}. Maka B∩A sebelumnya …",
+    "options": [
+      "6,9",
+      "3,12",
+      "3,9",
+      "3,6"
+    ],
+    "answer": 2,
+    "explain": "Irisan kelipatan 3 dan ganjil."
+  },
+  {
+    "id": "mt7b3-s2-17",
+    "q": "Dalam Venn tiga himpunan, area tengah menunjukkan …",
+    "options": [
+      "Union ketiganya",
+      "Irisan ketiganya",
+      "Himpunan kosong",
+      "Komplemen semua"
+    ],
+    "answer": 1,
+    "explain": "Bagian bersama tiga set."
+  },
+  {
+    "id": "mt7b3-s2-18",
+    "q": "Pernyataan benar untuk A∪(B∩C)",
+    "options": [
+      "Termasuk elemen di B∩C",
+      "Hanya C",
+      "Tak mengandung A",
+      "Hanya B"
+    ],
+    "answer": 0,
+    "explain": "Union A dengan irisan B,C."
+  },
+  {
+    "id": "mt7b3-s2-19",
+    "q": "Masalah tiga klub: gunakan diagram Venn untuk …",
+    "options": [
+      "Mengukur panjang",
+      "Mengurutkan waktu",
+      "Hitung anggota tiap irisan",
+      "Mencari median"
+    ],
+    "answer": 2,
+    "explain": "Venn memetakan irisan multikelompok."
+  },
+  {
+    "id": "mt7b3-s2-20",
+    "q": "A={1,2}, B={2,3}. A∪B = …",
+    "options": [
+      "{1,2,3}",
+      "{1,3}",
+      "{1}",
+      "{2}"
+    ],
+    "answer": 0,
+    "explain": "Gabungan semua elemen unik."
+  }
 ]

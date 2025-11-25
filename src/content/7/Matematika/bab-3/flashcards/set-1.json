@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu himpunan?","a":"Kumpulan objek terdefinisi jelas."},
+  {"q":"Simbol keanggotaan?","a":"∈ untuk anggota, ∉ untuk bukan."},
+  {"q":"Nama himpunan ditulis dengan …","a":"Huruf kapital, contoh A, B, C."},
+  {"q":"Himpunan kosong disimbolkan …","a":"∅ atau {}."},
+  {"q":"Himpunan bagian ditulis …","a":"A ⊂ B berarti A subset B."},
+  {"q":"Union (gabungan) dilambangkan …","a":"∪, memuat elemen A atau B."},
+  {"q":"Irisan dilambangkan …","a":"∩, memuat elemen di kedua himpunan."},
+  {"q":"Komplemen A terhadap semesta S?","a":"S\A, elemen S yang bukan A."},
+  {"q":"Cardinality n(A) artinya …","a":"Banyaknya anggota himpunan A."},
+  {"q":"∅ adalah subset dari …","a":"Setiap himpunan, termasuk dirinya."}
+]

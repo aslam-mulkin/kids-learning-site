@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu himpunan semesta?","a":"Himpunan semua elemen yang dibahas, biasanya U."},
+  {"q":"Notasi roster adalah …","a":"Menuliskan elemen satu per satu dalam kurung kurawal."},
+  {"q":"Notasi pembentuk adalah …","a":"Menuliskan syarat/aturan keanggotaan."},
+  {"q":"Dua himpunan disjoint?","a":"Irisannya kosong (∩ = ∅)."},
+  {"q":"Hukum De Morgan union?","a":"(A∪B)^c = A^c ∩ B^c."},
+  {"q":"Hukum De Morgan irisan?","a":"(A∩B)^c = A^c ∪ B^c."},
+  {"q":"Power set P(A) berisi …","a":"Semua subset A, jumlah 2^n jika n anggota."},
+  {"q":"Cardinality A∪B?","a":"n(A)+n(B)-n(A∩B)."},
+  {"q":"Contoh subset vokal alfabet?","a":"{a,e,i,o,u}."},
+  {"q":"Diagram Venn dipakai untuk …","a":"Memvisualkan relasi, irisan, union, komplemen."}
+]

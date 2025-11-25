@@ -1,0 +1,22 @@
+[
+  {"id":"mt7b3-s4-01","q":"Himpunan kuasa P(A) berisi …","options":["Semua subset A","Elemen A","Komplemen A","Irisan A"],"answer":0,"explain":"Power set kumpulan subset."},
+  {"id":"mt7b3-s4-02","q":"Jika A ada 3 anggota, banyak anggota P(A) …","options":["8","3","6","9"],"answer":0,"explain":"Jumlah subset 2^3."},
+  {"id":"mt7b3-s4-03","q":"A={a,b}. Subset tepat adalah …","options":["{a},{b},{a,b},∅","{a,b,c}","{a,b,b}","{b,c}"],"answer":0,"explain":"Semua kombinasi elemen."},
+  {"id":"mt7b3-s4-04","q":"Himpunan {x|x huruf vokal kata SEKOLAH}","options":["{e,o,a}","{e,o,a,h}","{e,o}","{s,e,o,a}"],"answer":0,"explain":"Vokal di kata: e,o,a."},
+  {"id":"mt7b3-s4-05","q":"Union dua himpunan identik hasilnya …","options":["Sama dengan himpunan itu","Himpunan kosong","Semesta","Irisan"],"answer":0,"explain":"A∪A = A."},
+  {"id":"mt7b3-s4-06","q":"Irisan dua himpunan disjoint adalah …","options":["∅","A","B","U"],"answer":0,"explain":"Tak ada elemen sama."},
+  {"id":"mt7b3-s4-07","q":"Komplemen dari komplemen A …","options":["A","∅","U","A∩U"],"answer":0,"explain":"(A^c)^c = A."},
+  {"id":"mt7b3-s4-08","q":"Identitas: A∩U = …","options":["A","U","∅","A^c"],"answer":0,"explain":"Irisan dengan semesta tak ubah A."},
+  {"id":"mt7b3-s4-09","q":"Identitas: A∪∅ = …","options":["A","∅","U","A^c"],"answer":0,"explain":"Union dengan kosong = A."},
+  {"id":"mt7b3-s4-10","q":"Jika n(A)=4, n(B)=5, n(A∩B)=2, n(A∪B)= …","options":["7","9","6","4"],"answer":0,"explain":"4+5−2=7."},
+  {"id":"mt7b3-s4-11","q":"Masalah dua klub: 40 suka musik, 25 drama, 10 keduanya. Total?","options":["55","65","75","50"],"answer":0,"explain":"40+25−10=55."},
+  {"id":"mt7b3-s4-12","q":"Area luar semua lingkaran pada Venn menunjukkan …","options":["Komplemen union","Union","Irisan","Subset"],"answer":0,"explain":"Bagian bukan anggota set."},
+  {"id":"mt7b3-s4-13","q":"A={1,2,3}, B={3,4}. A\B = …","options":["{1,2}","{3}","{4}","{2,3,4}"],"answer":0,"explain":"Selisih A yang bukan di B."},
+  {"id":"mt7b3-s4-14","q":"B\A dari soal sebelumnya …","options":["{4}","{1,2}","{3}","{1,2,4}"],"answer":0,"explain":"Elemen B tidak di A."},
+  {"id":"mt7b3-s4-15","q":"A⊂B artinya …","options":["B mungkin lebih besar","A lebih besar","A dan B sama","B kosong"],"answer":0,"explain":"Boleh sama/lebih banyak elemen."},
+  {"id":"mt7b3-s4-16","q":"A = ∅, B ≠ ∅. A∩B …","options":["∅","B","A","U"],"answer":0,"explain":"Kosong beririsan dengan apa pun = ∅."},
+  {"id":"mt7b3-s4-17","q":"Tiga himpunan: isi irisan tiga dulu karena …","options":["Paling spesifik","Paling luas","Termudah digambar","Selalu nol"],"answer":0,"explain":"Mulai dari area terspesifik."},
+  {"id":"mt7b3-s4-18","q":"Gambar Venn tiga lingkaran memecah semesta menjadi …","options":["8 region","4 region","6 region","3 region"],"answer":0,"explain":"Tiga lingkaran buat 8 bagian."},
+  {"id":"mt7b3-s4-19","q":"A∪(B∪C) setara dengan …","options":["(A∪B)∪C","A∩B","A\B","B∩C"],"answer":0,"explain":"Sifat asosiatif union."},
+  {"id":"mt7b3-s4-20","q":"(A∩B)^c setara dengan …","options":["A^c ∪ B^c","A^c ∩ B^c","A ∪ B","A ⊂ B"],"answer":0,"explain":"Hukum De Morgan."}
+]

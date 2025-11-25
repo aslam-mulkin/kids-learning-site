@@ -1,22 +1,242 @@
 [
-  {"id":"fs7b2-s4-01","q":"Pemuaian zat cair ditentukan oleh …","options":["Jenis cair dan ΔT","Warna air","Tekanan angin","Rasa"],"answer":0,"explain":"Koefisien muai dan perubahan suhu."},
-  {"id":"fs7b2-s4-02","q":"Pemuaian gas dijelaskan oleh …","options":["Hukum Charles/Gay-Lussac","Hukum Ohm","Hukum Hooke","Hukum Coulomb"],"answer":0,"explain":"Volume gas ∝ suhu mutlak."},
-  {"id":"fs7b2-s4-03","q":"Termometer alkohol dipakai untuk …","options":["Suhu rendah","Suhu tinggi","Massa","Waktu"],"answer":0,"explain":"Alkohol tidak cepat membeku."},
-  {"id":"fs7b2-s4-04","q":"Termometer merkuri tidak boleh …","options":["Dijatuhkan","Dipakai di suhu sangat rendah","Dibawa ke dokter","Ditutup"],"answer":0,"explain":"Jika pecah merkuri berbahaya."},
-  {"id":"fs7b2-s4-05","q":"Bimetal terdiri dari …","options":["Dua logam beda muai","Satu logam","Tiga logam","Plastik"],"answer":0,"explain":"Koefisien muai berbeda."},
-  {"id":"fs7b2-s4-06","q":"Saat dipanaskan, bimetal melengkung ke …","options":["Logam muai kecil","Logam muai besar","Sembarang arah","Tidak melengkung"],"answer":0,"explain":"Bagian muai kecil menahan."},
-  {"id":"fs7b2-s4-07","q":"Konversi 68°F ke R …","options":["16°R","20°R","25°R","32°R"],"answer":0,"explain":"(68-32)×4/9=16."},
-  {"id":"fs7b2-s4-08","q":"Konversi 86°F ke C …","options":["30°C","25°C","32°C","20°C"],"answer":0,"explain":"(86-32)×5/9=30."},
-  {"id":"fs7b2-s4-09","q":"Konversi 25°C ke K …","options":["298 K","273 K","250 K","300 K"],"answer":0,"explain":"Tambahkan 273."},
-  {"id":"fs7b2-s4-10","q":"Pemuaian volume air tidak teratur di …","options":["0-4°C","20-30°C","50-60°C","80-90°C"],"answer":0,"explain":"Anomali air sekitar 4°C."},
-  {"id":"fs7b2-s4-11","q":"Bimetal pada alarm kebakaran …","options":["Menutup rangkaian saat panas","Mendingin rangkaian","Menyerap asap","Mengeluarkan air"],"answer":0,"explain":"Lengkung menghubung kontak."},
-  {"id":"fs7b2-s4-12","q":"Kawat listrik dikendurkan karena …","options":["Muai saat panas","Suka angin","Estetika","Menghemat kabel"],"answer":0,"explain":"Panas menambah panjang."},
-  {"id":"fs7b2-s4-13","q":"Rel kereta tanpa celah dapat …","options":["Melengkung saat panas","Tetap lurus","Memendek","Menguap"],"answer":0,"explain":"Muai menekan sambungan."},
-  {"id":"fs7b2-s4-14","q":"Pengukuran suhu ruangan pakai …","options":["Termometer ruangan","Stopwatch","Neraca","Meteran"],"answer":0,"explain":"Alat khusus suhu ruang."},
-  {"id":"fs7b2-s4-15","q":"Rentang termometer badan …","options":["35-42°C","0-20°C","-20-0°C","80-120°C"],"answer":0,"explain":"Untuk suhu tubuh manusia."},
-  {"id":"fs7b2-s4-16","q":"Fahrenheit ke Kelvin langkah …","options":["F→C→K","F→R","F langsung","F→Joule"],"answer":0,"explain":"Ubah ke Celsius lalu tambah 273."},
-  {"id":"fs7b2-s4-17","q":"Konversi 0°C ke F …","options":["32°F","0°F","100°F","212°F"],"answer":0,"explain":"Beku air 32°F."},
-  {"id":"fs7b2-s4-18","q":"Konversi 20°R ke F …","options":["77°F","68°F","104°F","32°F"],"answer":0,"explain":"20°R=25°C, jadi 77°F."},
-  {"id":"fs7b2-s4-19","q":"Koefisien muai panjang simbol …","options":["α","β","γ","δ"],"answer":0,"explain":"Simbol umum alpha."},
-  {"id":"fs7b2-s4-20","q":"Pemuaian dipakai pada pemasangan paku keling karena …","options":["Memuai mengencang saat dingin","Memuai melonggar","Tidak berubah","Menyusut memutus"],"answer":0,"explain":"Dipanas pasang, dingin mengencang."}
+  {
+    "id": "fs7b2-s4-01",
+    "q": "Pemuaian zat cair ditentukan oleh …",
+    "options": [
+      "Tekanan angin",
+      "Rasa",
+      "Warna air",
+      "Jenis cair dan ΔT"
+    ],
+    "answer": 3,
+    "explain": "Koefisien muai dan perubahan suhu."
+  },
+  {
+    "id": "fs7b2-s4-02",
+    "q": "Pemuaian gas dijelaskan oleh …",
+    "options": [
+      "Hukum Charles/Gay-Lussac",
+      "Hukum Coulomb",
+      "Hukum Hooke",
+      "Hukum Ohm"
+    ],
+    "answer": 0,
+    "explain": "Volume gas ∝ suhu mutlak."
+  },
+  {
+    "id": "fs7b2-s4-03",
+    "q": "Termometer alkohol dipakai untuk …",
+    "options": [
+      "Suhu tinggi",
+      "Massa",
+      "Waktu",
+      "Suhu rendah"
+    ],
+    "answer": 3,
+    "explain": "Alkohol tidak cepat membeku."
+  },
+  {
+    "id": "fs7b2-s4-04",
+    "q": "Termometer merkuri tidak boleh …",
+    "options": [
+      "Dipakai di suhu sangat rendah",
+      "Ditutup",
+      "Dijatuhkan",
+      "Dibawa ke dokter"
+    ],
+    "answer": 2,
+    "explain": "Jika pecah merkuri berbahaya."
+  },
+  {
+    "id": "fs7b2-s4-05",
+    "q": "Bimetal terdiri dari …",
+    "options": [
+      "Tiga logam",
+      "Plastik",
+      "Dua logam beda muai",
+      "Satu logam"
+    ],
+    "answer": 2,
+    "explain": "Koefisien muai berbeda."
+  },
+  {
+    "id": "fs7b2-s4-06",
+    "q": "Saat dipanaskan, bimetal melengkung ke …",
+    "options": [
+      "Tidak melengkung",
+      "Logam muai besar",
+      "Logam muai kecil",
+      "Sembarang arah"
+    ],
+    "answer": 2,
+    "explain": "Bagian muai kecil menahan."
+  },
+  {
+    "id": "fs7b2-s4-07",
+    "q": "Konversi 68°F ke R …",
+    "options": [
+      "32°R",
+      "25°R",
+      "16°R",
+      "20°R"
+    ],
+    "answer": 2,
+    "explain": "(68-32)×4/9=16."
+  },
+  {
+    "id": "fs7b2-s4-08",
+    "q": "Konversi 86°F ke C …",
+    "options": [
+      "20°C",
+      "25°C",
+      "30°C",
+      "32°C"
+    ],
+    "answer": 2,
+    "explain": "(86-32)×5/9=30."
+  },
+  {
+    "id": "fs7b2-s4-09",
+    "q": "Konversi 25°C ke K …",
+    "options": [
+      "300 K",
+      "250 K",
+      "273 K",
+      "298 K"
+    ],
+    "answer": 3,
+    "explain": "Tambahkan 273."
+  },
+  {
+    "id": "fs7b2-s4-10",
+    "q": "Pemuaian volume air tidak teratur di …",
+    "options": [
+      "20-30°C",
+      "50-60°C",
+      "0-4°C",
+      "80-90°C"
+    ],
+    "answer": 2,
+    "explain": "Anomali air sekitar 4°C."
+  },
+  {
+    "id": "fs7b2-s4-11",
+    "q": "Bimetal pada alarm kebakaran …",
+    "options": [
+      "Menutup rangkaian saat panas",
+      "Mengeluarkan air",
+      "Mendingin rangkaian",
+      "Menyerap asap"
+    ],
+    "answer": 0,
+    "explain": "Lengkung menghubung kontak."
+  },
+  {
+    "id": "fs7b2-s4-12",
+    "q": "Kawat listrik dikendurkan karena …",
+    "options": [
+      "Estetika",
+      "Menghemat kabel",
+      "Muai saat panas",
+      "Suka angin"
+    ],
+    "answer": 2,
+    "explain": "Panas menambah panjang."
+  },
+  {
+    "id": "fs7b2-s4-13",
+    "q": "Rel kereta tanpa celah dapat …",
+    "options": [
+      "Melengkung saat panas",
+      "Menguap",
+      "Tetap lurus",
+      "Memendek"
+    ],
+    "answer": 0,
+    "explain": "Muai menekan sambungan."
+  },
+  {
+    "id": "fs7b2-s4-14",
+    "q": "Pengukuran suhu ruangan pakai …",
+    "options": [
+      "Stopwatch",
+      "Termometer ruangan",
+      "Neraca",
+      "Meteran"
+    ],
+    "answer": 1,
+    "explain": "Alat khusus suhu ruang."
+  },
+  {
+    "id": "fs7b2-s4-15",
+    "q": "Rentang termometer badan …",
+    "options": [
+      "80-120°C",
+      "0-20°C",
+      "-20-0°C",
+      "35-42°C"
+    ],
+    "answer": 3,
+    "explain": "Untuk suhu tubuh manusia."
+  },
+  {
+    "id": "fs7b2-s4-16",
+    "q": "Fahrenheit ke Kelvin langkah …",
+    "options": [
+      "F→R",
+      "F langsung",
+      "F→C→K",
+      "F→Joule"
+    ],
+    "answer": 2,
+    "explain": "Ubah ke Celsius lalu tambah 273."
+  },
+  {
+    "id": "fs7b2-s4-17",
+    "q": "Konversi 0°C ke F …",
+    "options": [
+      "100°F",
+      "212°F",
+      "0°F",
+      "32°F"
+    ],
+    "answer": 3,
+    "explain": "Beku air 32°F."
+  },
+  {
+    "id": "fs7b2-s4-18",
+    "q": "Konversi 20°R ke F …",
+    "options": [
+      "32°F",
+      "104°F",
+      "68°F",
+      "77°F"
+    ],
+    "answer": 3,
+    "explain": "20°R=25°C, jadi 77°F."
+  },
+  {
+    "id": "fs7b2-s4-19",
+    "q": "Koefisien muai panjang simbol …",
+    "options": [
+      "δ",
+      "β",
+      "α",
+      "γ"
+    ],
+    "answer": 2,
+    "explain": "Simbol umum alpha."
+  },
+  {
+    "id": "fs7b2-s4-20",
+    "q": "Pemuaian dipakai pada pemasangan paku keling karena …",
+    "options": [
+      "Menyusut memutus",
+      "Memuai mengencang saat dingin",
+      "Memuai melonggar",
+      "Tidak berubah"
+    ],
+    "answer": 1,
+    "explain": "Dipanas pasang, dingin mengencang."
+  }
 ]

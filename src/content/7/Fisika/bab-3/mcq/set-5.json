@@ -1,22 +1,242 @@
 [
-  {"id":"fs7b3-s5-01","q":"Panas matahari sampai bumi lewat …","options":["Radiasi","Konduksi","Konveksi","Konduksi udara"],"answer":0,"explain":"Radiasi tak butuh medium."},
-  {"id":"fs7b3-s5-02","q":"Kalor jenis menunjukkan …","options":["Kalor per kg per °C","Kalor total","Energi listrik","Energi potensial"],"answer":0,"explain":"Energi per massa per derajat."},
-  {"id":"fs7b3-s5-03","q":"Kapasitas kalor besar artinya …","options":["Butuh banyak energi naikkan suhu","Mudah panas","Tidak menyimpan energi","Tak bisa diukur"],"answer":0,"explain":"C besar tahan perubahan suhu."},
-  {"id":"fs7b3-s5-04","q":"Menyublim contoh …","options":["Kapoor lenyap","Air mendidih","Uap mengembun","Logam meleleh"],"answer":0,"explain":"Padat langsung gas."},
-  {"id":"fs7b3-s5-05","q":"Mengembun terjadi karena …","options":["Gas melepas kalor","Gas menyerap kalor","Cair menyerap kalor","Padat menyerap kalor"],"answer":0,"explain":"Gas ke cair lepaskan panas."},
-  {"id":"fs7b3-s5-06","q":"Membeku memerlukan …","options":["Pelepasan kalor","Penyerapan kalor","Radiasi matahari","Konveksi kuat"],"answer":0,"explain":"Cair ke padat melepas kalor."},
-  {"id":"fs7b3-s5-07","q":"Kalor laten uap digunakan saat …","options":["Mendidih","Membeku","Mengembun","Menyublim"],"answer":0,"explain":"Cair ke gas butuh laten uap."},
-  {"id":"fs7b3-s5-08","q":"ΔT = 0 pada mendidih karena …","options":["Kalor dipakai ubah fase","Tidak ada energi","Energi hilang","Massa berubah"],"answer":0,"explain":"Kalor ubah fase tanpa ubah suhu."},
-  {"id":"fs7b3-s5-09","q":"Q makin besar jika …","options":["m besar, ΔT besar","m kecil, ΔT kecil","c nol","c kecil"],"answer":0,"explain":"Kalor sebanding massa dan ΔT."},
-  {"id":"fs7b3-s5-10","q":"Konduksi minim pada …","options":["Busa","Logam","Air","Besi"],"answer":0,"explain":"Busa isolator baik."},
-  {"id":"fs7b3-s5-11","q":"Konveksi terjadi di …","options":["Fluida","Logam padat","Vakum","Inti besi"],"answer":0,"explain":"Butuh fluida mengalir."},
-  {"id":"fs7b3-s5-12","q":"Radiasi dipengaruhi …","options":["Warna permukaan","Volume","Massa","Tekanan"],"answer":0,"explain":"Hitam serap lebih baik."},
-  {"id":"fs7b3-s5-13","q":"Panci hitam memanas cepat karena …","options":["Menyerap radiasi lebih banyak","Memantul cahaya","Konduksi nol","Konveksi kuat"],"answer":0,"explain":"Permukaan gelap serap panas."},
-  {"id":"fs7b3-s5-14","q":"Lapisan perak termos untuk …","options":["Memantulkan radiasi","Mempercepat konduksi","Memperbesar konveksi","Memanaskan air"],"answer":0,"explain":"Kurangi hilang radiasi."},
-  {"id":"fs7b3-s5-15","q":"Vakum termos untuk …","options":["Menghambat konduksi/konveksi","Memperbesar radiasi","Mendinginkan cepat","Menambah massa"],"answer":0,"explain":"Tak ada medium perpindahan."},
-  {"id":"fs7b3-s5-16","q":"Rumus kalor jenis air 200 g naik 10°C, c=4200. Q = …","options":["8,4 kJ","84 kJ","4,2 kJ","420 J"],"answer":0,"explain":"0,2×4200×10=8400 J."},
-  {"id":"fs7b3-s5-17","q":"Q negatif berarti …","options":["Benda melepas kalor","Benda menyerap kalor","Tidak berubah","Suhu naik"],"answer":0,"explain":"Kalor keluar dari benda."},
-  {"id":"fs7b3-s5-18","q":"Isolasi rumah dengan lapisan udara menahan …","options":["Konduksi/konveksi","Radiasi saja","Listrik","Magnet"],"answer":0,"explain":"Udara jebak panas."},
-  {"id":"fs7b3-s5-19","q":"Mendidih terjadi pada …","options":["Suhu titik didih","Suhu sembarang","Suhu beku","Suhu nol"],"answer":0,"explain":"Di titik didih zat."},
-  {"id":"fs7b3-s5-20","q":"Mengapa angin laut siang hari?","options":["Daratan panas lebih cepat, udara naik","Laut lebih panas","Bumi tanpa matahari","Konduksi tanah tinggi"],"answer":0,"explain":"Konveksi beda pemanasan darat-laut."}
+  {
+    "id": "fs7b3-s5-01",
+    "q": "Panas matahari sampai bumi lewat …",
+    "options": [
+      "Konveksi",
+      "Radiasi",
+      "Konduksi udara",
+      "Konduksi"
+    ],
+    "answer": 1,
+    "explain": "Radiasi tak butuh medium."
+  },
+  {
+    "id": "fs7b3-s5-02",
+    "q": "Kalor jenis menunjukkan …",
+    "options": [
+      "Kalor per kg per °C",
+      "Kalor total",
+      "Energi listrik",
+      "Energi potensial"
+    ],
+    "answer": 0,
+    "explain": "Energi per massa per derajat."
+  },
+  {
+    "id": "fs7b3-s5-03",
+    "q": "Kapasitas kalor besar artinya …",
+    "options": [
+      "Tak bisa diukur",
+      "Mudah panas",
+      "Tidak menyimpan energi",
+      "Butuh banyak energi naikkan suhu"
+    ],
+    "answer": 3,
+    "explain": "C besar tahan perubahan suhu."
+  },
+  {
+    "id": "fs7b3-s5-04",
+    "q": "Menyublim contoh …",
+    "options": [
+      "Kapoor lenyap",
+      "Air mendidih",
+      "Logam meleleh",
+      "Uap mengembun"
+    ],
+    "answer": 0,
+    "explain": "Padat langsung gas."
+  },
+  {
+    "id": "fs7b3-s5-05",
+    "q": "Mengembun terjadi karena …",
+    "options": [
+      "Gas melepas kalor",
+      "Cair menyerap kalor",
+      "Gas menyerap kalor",
+      "Padat menyerap kalor"
+    ],
+    "answer": 0,
+    "explain": "Gas ke cair lepaskan panas."
+  },
+  {
+    "id": "fs7b3-s5-06",
+    "q": "Membeku memerlukan …",
+    "options": [
+      "Pelepasan kalor",
+      "Radiasi matahari",
+      "Penyerapan kalor",
+      "Konveksi kuat"
+    ],
+    "answer": 0,
+    "explain": "Cair ke padat melepas kalor."
+  },
+  {
+    "id": "fs7b3-s5-07",
+    "q": "Kalor laten uap digunakan saat …",
+    "options": [
+      "Menyublim",
+      "Mengembun",
+      "Membeku",
+      "Mendidih"
+    ],
+    "answer": 3,
+    "explain": "Cair ke gas butuh laten uap."
+  },
+  {
+    "id": "fs7b3-s5-08",
+    "q": "ΔT = 0 pada mendidih karena …",
+    "options": [
+      "Massa berubah",
+      "Kalor dipakai ubah fase",
+      "Energi hilang",
+      "Tidak ada energi"
+    ],
+    "answer": 1,
+    "explain": "Kalor ubah fase tanpa ubah suhu."
+  },
+  {
+    "id": "fs7b3-s5-09",
+    "q": "Q makin besar jika …",
+    "options": [
+      "m kecil, ΔT kecil",
+      "c kecil",
+      "m besar, ΔT besar",
+      "c nol"
+    ],
+    "answer": 2,
+    "explain": "Kalor sebanding massa dan ΔT."
+  },
+  {
+    "id": "fs7b3-s5-10",
+    "q": "Konduksi minim pada …",
+    "options": [
+      "Logam",
+      "Busa",
+      "Besi",
+      "Air"
+    ],
+    "answer": 1,
+    "explain": "Busa isolator baik."
+  },
+  {
+    "id": "fs7b3-s5-11",
+    "q": "Konveksi terjadi di …",
+    "options": [
+      "Logam padat",
+      "Fluida",
+      "Inti besi",
+      "Vakum"
+    ],
+    "answer": 1,
+    "explain": "Butuh fluida mengalir."
+  },
+  {
+    "id": "fs7b3-s5-12",
+    "q": "Radiasi dipengaruhi …",
+    "options": [
+      "Tekanan",
+      "Massa",
+      "Warna permukaan",
+      "Volume"
+    ],
+    "answer": 2,
+    "explain": "Hitam serap lebih baik."
+  },
+  {
+    "id": "fs7b3-s5-13",
+    "q": "Panci hitam memanas cepat karena …",
+    "options": [
+      "Konveksi kuat",
+      "Menyerap radiasi lebih banyak",
+      "Konduksi nol",
+      "Memantul cahaya"
+    ],
+    "answer": 1,
+    "explain": "Permukaan gelap serap panas."
+  },
+  {
+    "id": "fs7b3-s5-14",
+    "q": "Lapisan perak termos untuk …",
+    "options": [
+      "Mempercepat konduksi",
+      "Memantulkan radiasi",
+      "Memperbesar konveksi",
+      "Memanaskan air"
+    ],
+    "answer": 1,
+    "explain": "Kurangi hilang radiasi."
+  },
+  {
+    "id": "fs7b3-s5-15",
+    "q": "Vakum termos untuk …",
+    "options": [
+      "Mendinginkan cepat",
+      "Menghambat konduksi/konveksi",
+      "Memperbesar radiasi",
+      "Menambah massa"
+    ],
+    "answer": 1,
+    "explain": "Tak ada medium perpindahan."
+  },
+  {
+    "id": "fs7b3-s5-16",
+    "q": "Rumus kalor jenis air 200 g naik 10°C, c=4200. Q = …",
+    "options": [
+      "84 kJ",
+      "420 J",
+      "8,4 kJ",
+      "4,2 kJ"
+    ],
+    "answer": 2,
+    "explain": "0,2×4200×10=8400 J."
+  },
+  {
+    "id": "fs7b3-s5-17",
+    "q": "Q negatif berarti …",
+    "options": [
+      "Tidak berubah",
+      "Suhu naik",
+      "Benda menyerap kalor",
+      "Benda melepas kalor"
+    ],
+    "answer": 3,
+    "explain": "Kalor keluar dari benda."
+  },
+  {
+    "id": "fs7b3-s5-18",
+    "q": "Isolasi rumah dengan lapisan udara menahan …",
+    "options": [
+      "Radiasi saja",
+      "Listrik",
+      "Konduksi/konveksi",
+      "Magnet"
+    ],
+    "answer": 2,
+    "explain": "Udara jebak panas."
+  },
+  {
+    "id": "fs7b3-s5-19",
+    "q": "Mendidih terjadi pada …",
+    "options": [
+      "Suhu titik didih",
+      "Suhu beku",
+      "Suhu nol",
+      "Suhu sembarang"
+    ],
+    "answer": 0,
+    "explain": "Di titik didih zat."
+  },
+  {
+    "id": "fs7b3-s5-20",
+    "q": "Mengapa angin laut siang hari?",
+    "options": [
+      "Daratan panas lebih cepat, udara naik",
+      "Konduksi tanah tinggi",
+      "Laut lebih panas",
+      "Bumi tanpa matahari"
+    ],
+    "answer": 0,
+    "explain": "Konveksi beda pemanasan darat-laut."
+  }
 ]

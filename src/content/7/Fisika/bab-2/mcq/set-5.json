@@ -1,22 +1,242 @@
 [
-  {"id":"fs7b2-s5-01","q":"Suhu 37°C setara …","options":["98,6°F","100°F","80°F","60°F"],"answer":0,"explain":"9/5×37+32=98,6."},
-  {"id":"fs7b2-s5-02","q":"300 K setara …","options":["27°C","0°C","50°C","100°C"],"answer":0,"explain":"300-273=27."},
-  {"id":"fs7b2-s5-03","q":"40°C setara …","options":["32°R","36°R","72°R","80°R"],"answer":0,"explain":"4/5×40=32°R."},
-  {"id":"fs7b2-s5-04","q":"20°C setara …","options":["68°F","72°F","86°F","50°F"],"answer":0,"explain":"(20×9/5)+32."},
-  {"id":"fs7b2-s5-05","q":"Alat ukur suhu badan yang aman …","options":["Termometer digital","Termometer merkuri pecah","Termometer gas terbuka","Logam panas"],"answer":0,"explain":"Digital tidak berbahaya."},
-  {"id":"fs7b2-s5-06","q":"Pemuaian padat dipakai pada …","options":["Termostat bimetal","Balon gas","Termometer alkohol","Photogate"],"answer":0,"explain":"Bimetal dua logam muai beda."},
-  {"id":"fs7b2-s5-07","q":"Pemuaian volume gas dipakai pada …","options":["Balon udara","Rel kereta","Jangka sorong","Mistar"],"answer":0,"explain":"Balon mengembang saat dipanaskan."},
-  {"id":"fs7b2-s5-08","q":"Koefisien muai volume dilambangkan …","options":["γ","α","β","δ"],"answer":0,"explain":"Gamma untuk volume."},
-  {"id":"fs7b2-s5-09","q":"Koefisien muai luas dilambangkan …","options":["β","α","γ","λ"],"answer":0,"explain":"Beta untuk luas."},
-  {"id":"fs7b2-s5-10","q":"Pemuaian panjang dilambangkan …","options":["α","β","γ","Δ"],"answer":0,"explain":"Alpha untuk linear."},
-  {"id":"fs7b2-s5-11","q":"Pemuaian zat cair nyata = muai cairan dikurangi …","options":["Muai wadah","Muai gas","Muai udara","Muai air"],"answer":0,"explain":"Koreksi wadah padat."},
-  {"id":"fs7b2-s5-12","q":"Proses pemuaian rel kereta diatasi dengan …","options":["Celah sambungan","Melempar air","Mengencangkan baut","Menyiram minyak"],"answer":0,"explain":"Ruang muai mencegah melengkung."},
-  {"id":"fs7b2-s5-13","q":"Termostat bekerja dengan prinsip …","options":["Muai beda logam","Gaya magnet","Cahaya","Tekanan angin"],"answer":0,"explain":"Bimetal melengkung."},
-  {"id":"fs7b2-s5-14","q":"Pemuaian zat gas sesuai …","options":["Suhu mutlak","Suhu relatif","Massa jenis","Warna"],"answer":0,"explain":"Volume gas ∝ K."},
-  {"id":"fs7b2-s5-15","q":"Anomali air terjadi pada …","options":["0-4°C","10-20°C","50-60°C","100°C"],"answer":0,"explain":"Air menyusut dulu hingga 4°C."},
-  {"id":"fs7b2-s5-16","q":"Suhu 273 K setara …","options":["0°C","100°C","32°C","-10°C"],"answer":0,"explain":"273-273=0."},
-  {"id":"fs7b2-s5-17","q":"Suhu 500 K setara …","options":["227°C","200°C","100°C","327°C"],"answer":0,"explain":"Kurangi 273."},
-  {"id":"fs7b2-s5-18","q":"68°F setara …","options":["20°C","10°C","30°C","25°C"],"answer":0,"explain":"(68-32)×5/9."},
-  {"id":"fs7b2-s5-19","q":"Kesalahan bacaan termometer dapat dari …","options":["Paralaks","Warna merkuri","Jenis meja","Ukuran ruangan"],"answer":0,"explain":"Mata miring salah baca."},
-  {"id":"fs7b2-s5-20","q":"Termometer udara luar sebaiknya …","options":["Ditaruh teduh","Di bawah sinar langsung","Dekat kompor","Dekat AC"],"answer":0,"explain":"Hindari radiasi langsung."}
+  {
+    "id": "fs7b2-s5-01",
+    "q": "Suhu 37°C setara …",
+    "options": [
+      "80°F",
+      "98,6°F",
+      "100°F",
+      "60°F"
+    ],
+    "answer": 1,
+    "explain": "9/5×37+32=98,6."
+  },
+  {
+    "id": "fs7b2-s5-02",
+    "q": "300 K setara …",
+    "options": [
+      "0°C",
+      "50°C",
+      "100°C",
+      "27°C"
+    ],
+    "answer": 3,
+    "explain": "300-273=27."
+  },
+  {
+    "id": "fs7b2-s5-03",
+    "q": "40°C setara …",
+    "options": [
+      "36°R",
+      "80°R",
+      "32°R",
+      "72°R"
+    ],
+    "answer": 2,
+    "explain": "4/5×40=32°R."
+  },
+  {
+    "id": "fs7b2-s5-04",
+    "q": "20°C setara …",
+    "options": [
+      "68°F",
+      "72°F",
+      "86°F",
+      "50°F"
+    ],
+    "answer": 0,
+    "explain": "(20×9/5)+32."
+  },
+  {
+    "id": "fs7b2-s5-05",
+    "q": "Alat ukur suhu badan yang aman …",
+    "options": [
+      "Termometer digital",
+      "Termometer merkuri pecah",
+      "Logam panas",
+      "Termometer gas terbuka"
+    ],
+    "answer": 0,
+    "explain": "Digital tidak berbahaya."
+  },
+  {
+    "id": "fs7b2-s5-06",
+    "q": "Pemuaian padat dipakai pada …",
+    "options": [
+      "Termometer alkohol",
+      "Photogate",
+      "Termostat bimetal",
+      "Balon gas"
+    ],
+    "answer": 2,
+    "explain": "Bimetal dua logam muai beda."
+  },
+  {
+    "id": "fs7b2-s5-07",
+    "q": "Pemuaian volume gas dipakai pada …",
+    "options": [
+      "Jangka sorong",
+      "Rel kereta",
+      "Mistar",
+      "Balon udara"
+    ],
+    "answer": 3,
+    "explain": "Balon mengembang saat dipanaskan."
+  },
+  {
+    "id": "fs7b2-s5-08",
+    "q": "Koefisien muai volume dilambangkan …",
+    "options": [
+      "γ",
+      "δ",
+      "α",
+      "β"
+    ],
+    "answer": 0,
+    "explain": "Gamma untuk volume."
+  },
+  {
+    "id": "fs7b2-s5-09",
+    "q": "Koefisien muai luas dilambangkan …",
+    "options": [
+      "λ",
+      "α",
+      "β",
+      "γ"
+    ],
+    "answer": 2,
+    "explain": "Beta untuk luas."
+  },
+  {
+    "id": "fs7b2-s5-10",
+    "q": "Pemuaian panjang dilambangkan …",
+    "options": [
+      "γ",
+      "α",
+      "Δ",
+      "β"
+    ],
+    "answer": 1,
+    "explain": "Alpha untuk linear."
+  },
+  {
+    "id": "fs7b2-s5-11",
+    "q": "Pemuaian zat cair nyata = muai cairan dikurangi …",
+    "options": [
+      "Muai wadah",
+      "Muai udara",
+      "Muai air",
+      "Muai gas"
+    ],
+    "answer": 0,
+    "explain": "Koreksi wadah padat."
+  },
+  {
+    "id": "fs7b2-s5-12",
+    "q": "Proses pemuaian rel kereta diatasi dengan …",
+    "options": [
+      "Menyiram minyak",
+      "Celah sambungan",
+      "Mengencangkan baut",
+      "Melempar air"
+    ],
+    "answer": 1,
+    "explain": "Ruang muai mencegah melengkung."
+  },
+  {
+    "id": "fs7b2-s5-13",
+    "q": "Termostat bekerja dengan prinsip …",
+    "options": [
+      "Gaya magnet",
+      "Muai beda logam",
+      "Tekanan angin",
+      "Cahaya"
+    ],
+    "answer": 1,
+    "explain": "Bimetal melengkung."
+  },
+  {
+    "id": "fs7b2-s5-14",
+    "q": "Pemuaian zat gas sesuai …",
+    "options": [
+      "Suhu mutlak",
+      "Suhu relatif",
+      "Massa jenis",
+      "Warna"
+    ],
+    "answer": 0,
+    "explain": "Volume gas ∝ K."
+  },
+  {
+    "id": "fs7b2-s5-15",
+    "q": "Anomali air terjadi pada …",
+    "options": [
+      "100°C",
+      "0-4°C",
+      "10-20°C",
+      "50-60°C"
+    ],
+    "answer": 1,
+    "explain": "Air menyusut dulu hingga 4°C."
+  },
+  {
+    "id": "fs7b2-s5-16",
+    "q": "Suhu 273 K setara …",
+    "options": [
+      "-10°C",
+      "0°C",
+      "100°C",
+      "32°C"
+    ],
+    "answer": 1,
+    "explain": "273-273=0."
+  },
+  {
+    "id": "fs7b2-s5-17",
+    "q": "Suhu 500 K setara …",
+    "options": [
+      "227°C",
+      "200°C",
+      "100°C",
+      "327°C"
+    ],
+    "answer": 0,
+    "explain": "Kurangi 273."
+  },
+  {
+    "id": "fs7b2-s5-18",
+    "q": "68°F setara …",
+    "options": [
+      "20°C",
+      "10°C",
+      "30°C",
+      "25°C"
+    ],
+    "answer": 0,
+    "explain": "(68-32)×5/9."
+  },
+  {
+    "id": "fs7b2-s5-19",
+    "q": "Kesalahan bacaan termometer dapat dari …",
+    "options": [
+      "Paralaks",
+      "Jenis meja",
+      "Ukuran ruangan",
+      "Warna merkuri"
+    ],
+    "answer": 0,
+    "explain": "Mata miring salah baca."
+  },
+  {
+    "id": "fs7b2-s5-20",
+    "q": "Termometer udara luar sebaiknya …",
+    "options": [
+      "Dekat AC",
+      "Dekat kompor",
+      "Di bawah sinar langsung",
+      "Ditaruh teduh"
+    ],
+    "answer": 3,
+    "explain": "Hindari radiasi langsung."
+  }
 ]

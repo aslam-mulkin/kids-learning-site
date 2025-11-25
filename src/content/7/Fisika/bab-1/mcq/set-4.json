@@ -1,22 +1,242 @@
 [
-  {"id":"fs7b1-s4-01","q":"Besaran pokok arus listrik satuannya …","options":["Ampere","Volt","Ohm","Coulomb"],"answer":0,"explain":"Arus dasar ampere."},
-  {"id":"fs7b1-s4-02","q":"Besaran pokok suhu satuannya …","options":["Kelvin","Celcius","Fahrenheit","Reamur"],"answer":0,"explain":"SI memakai Kelvin."},
-  {"id":"fs7b1-s4-03","q":"Besaran pokok jumlah zat satuannya …","options":["Mol","Kg","Liter","Newton"],"answer":0,"explain":"Jumlah zat dasar mol."},
-  {"id":"fs7b1-s4-04","q":"Satuan intensitas cahaya …","options":["Candela","Lumen","Lux","Watt"],"answer":0,"explain":"Candela satuan pokok."},
-  {"id":"fs7b1-s4-05","q":"Volume termasuk besaran …","options":["Turunan","Pokok","Skalar pokok","Tidak terukur"],"answer":0,"explain":"Gabungan panjang."},
-  {"id":"fs7b1-s4-06","q":"Tekanan termasuk besaran …","options":["Turunan","Pokok","Tidak SI","Vektor"],"answer":0,"explain":"Tekanan turunan dari gaya/luas."},
-  {"id":"fs7b1-s4-07","q":"Satuan tekanan SI …","options":["Pascal","Newton","Joule","Watt"],"answer":0,"explain":"1 Pa = 1 N/m^2."},
-  {"id":"fs7b1-s4-08","q":"Alat ukur paling teliti untuk lebar rambut …","options":["Mikrometer sekrup","Jangka sorong","Mistar","Meteran kain"],"answer":0,"explain":"Ketelitian 0,01 mm."},
-  {"id":"fs7b1-s4-09","q":"Saat membaca jangka sorong perhatikan …","options":["Skala utama dan nonius sejajar","Hanya skala utama","Hanya nonius","Warna alat"],"answer":0,"explain":"Keduanya menentukan nilai."},
-  {"id":"fs7b1-s4-10","q":"Neraca tiga lengan dibaca dengan …","options":["Jumlah seluruh lengan","Satu lengan saja","Lengan kecil saja","Jarum penunjuk"],"answer":0,"explain":"Total tiga skala dijumlah."},
-  {"id":"fs7b1-s4-11","q":"Kesalahan sistematis contoh lain …","options":["Skala geser","Data acak","Rerata banyak","Ulangi ukur"],"answer":0,"explain":"Skala tidak nol."},
-  {"id":"fs7b1-s4-12","q":"Pengulangan pengukuran bertujuan …","options":["Kurangi acak","Perbesar sistematis","Tambah nol","Kurangi satuan"],"answer":0,"explain":"Rata-rata menekan acak."},
-  {"id":"fs7b1-s4-13","q":"Besaran pokok panjang simbol …","options":["L","T","M","I"],"answer":0,"explain":"Sering dilambangkan L."},
-  {"id":"fs7b1-s4-14","q":"Massa jenis besaran turunan karena …","options":["Massa/volume","Panjang saja","Waktu saja","Arus"],"answer":0,"explain":"Kombinasi dua besaran pokok."},
-  {"id":"fs7b1-s4-15","q":"Pembacaan paralaks dapat dihindari dengan …","options":["Mata tegak lurus skala","Memiringkan skala","Melihat dari samping","Menambah cahaya"],"answer":0,"explain":"Posisi mata tegak lurus."},
-  {"id":"fs7b1-s4-16","q":"Stopwatch digital mengurangi kesalahan …","options":["Paralaks","Sistematis nol","Kalibrasi","Zero error"],"answer":0,"explain":"Angka langsung tanpa skala manual."},
-  {"id":"fs7b1-s4-17","q":"Ketelitian alat ukur adalah …","options":["Skala terkecil","Harga alat","Gaya pakai","Massa"],"answer":0,"explain":"Ditentukan oleh skala terkecil."},
-  {"id":"fs7b1-s4-18","q":"Satuan luas SI …","options":["m^2","m","m^3","cm"],"answer":0,"explain":"Turunan dua panjang."},
-  {"id":"fs7b1-s4-19","q":"Satuan kecepatan SI …","options":["m/s","m/s^2","m","N"],"answer":0,"explain":"Panjang per waktu."},
-  {"id":"fs7b1-s4-20","q":"Cara umum minimalkan sistematis …","options":["Kalibrasi dan nolkan alat","Lihat samping","Kurangi pengulangan","Tambahkan beban"],"answer":0,"explain":"Setel nol dan cek kalibrasi."}
+  {
+    "id": "fs7b1-s4-01",
+    "q": "Besaran pokok arus listrik satuannya …",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Coulomb",
+      "Ohm"
+    ],
+    "answer": 1,
+    "explain": "Arus dasar ampere."
+  },
+  {
+    "id": "fs7b1-s4-02",
+    "q": "Besaran pokok suhu satuannya …",
+    "options": [
+      "Kelvin",
+      "Reamur",
+      "Celcius",
+      "Fahrenheit"
+    ],
+    "answer": 0,
+    "explain": "SI memakai Kelvin."
+  },
+  {
+    "id": "fs7b1-s4-03",
+    "q": "Besaran pokok jumlah zat satuannya …",
+    "options": [
+      "Newton",
+      "Liter",
+      "Mol",
+      "Kg"
+    ],
+    "answer": 2,
+    "explain": "Jumlah zat dasar mol."
+  },
+  {
+    "id": "fs7b1-s4-04",
+    "q": "Satuan intensitas cahaya …",
+    "options": [
+      "Lumen",
+      "Watt",
+      "Lux",
+      "Candela"
+    ],
+    "answer": 3,
+    "explain": "Candela satuan pokok."
+  },
+  {
+    "id": "fs7b1-s4-05",
+    "q": "Volume termasuk besaran …",
+    "options": [
+      "Skalar pokok",
+      "Pokok",
+      "Turunan",
+      "Tidak terukur"
+    ],
+    "answer": 2,
+    "explain": "Gabungan panjang."
+  },
+  {
+    "id": "fs7b1-s4-06",
+    "q": "Tekanan termasuk besaran …",
+    "options": [
+      "Vektor",
+      "Tidak SI",
+      "Turunan",
+      "Pokok"
+    ],
+    "answer": 2,
+    "explain": "Tekanan turunan dari gaya/luas."
+  },
+  {
+    "id": "fs7b1-s4-07",
+    "q": "Satuan tekanan SI …",
+    "options": [
+      "Newton",
+      "Pascal",
+      "Joule",
+      "Watt"
+    ],
+    "answer": 1,
+    "explain": "1 Pa = 1 N/m^2."
+  },
+  {
+    "id": "fs7b1-s4-08",
+    "q": "Alat ukur paling teliti untuk lebar rambut …",
+    "options": [
+      "Mistar",
+      "Jangka sorong",
+      "Meteran kain",
+      "Mikrometer sekrup"
+    ],
+    "answer": 3,
+    "explain": "Ketelitian 0,01 mm."
+  },
+  {
+    "id": "fs7b1-s4-09",
+    "q": "Saat membaca jangka sorong perhatikan …",
+    "options": [
+      "Skala utama dan nonius sejajar",
+      "Warna alat",
+      "Hanya skala utama",
+      "Hanya nonius"
+    ],
+    "answer": 0,
+    "explain": "Keduanya menentukan nilai."
+  },
+  {
+    "id": "fs7b1-s4-10",
+    "q": "Neraca tiga lengan dibaca dengan …",
+    "options": [
+      "Satu lengan saja",
+      "Lengan kecil saja",
+      "Jarum penunjuk",
+      "Jumlah seluruh lengan"
+    ],
+    "answer": 3,
+    "explain": "Total tiga skala dijumlah."
+  },
+  {
+    "id": "fs7b1-s4-11",
+    "q": "Kesalahan sistematis contoh lain …",
+    "options": [
+      "Rerata banyak",
+      "Skala geser",
+      "Data acak",
+      "Ulangi ukur"
+    ],
+    "answer": 1,
+    "explain": "Skala tidak nol."
+  },
+  {
+    "id": "fs7b1-s4-12",
+    "q": "Pengulangan pengukuran bertujuan …",
+    "options": [
+      "Kurangi acak",
+      "Tambah nol",
+      "Perbesar sistematis",
+      "Kurangi satuan"
+    ],
+    "answer": 0,
+    "explain": "Rata-rata menekan acak."
+  },
+  {
+    "id": "fs7b1-s4-13",
+    "q": "Besaran pokok panjang simbol …",
+    "options": [
+      "M",
+      "T",
+      "I",
+      "L"
+    ],
+    "answer": 3,
+    "explain": "Sering dilambangkan L."
+  },
+  {
+    "id": "fs7b1-s4-14",
+    "q": "Massa jenis besaran turunan karena …",
+    "options": [
+      "Panjang saja",
+      "Arus",
+      "Massa/volume",
+      "Waktu saja"
+    ],
+    "answer": 2,
+    "explain": "Kombinasi dua besaran pokok."
+  },
+  {
+    "id": "fs7b1-s4-15",
+    "q": "Pembacaan paralaks dapat dihindari dengan …",
+    "options": [
+      "Menambah cahaya",
+      "Mata tegak lurus skala",
+      "Memiringkan skala",
+      "Melihat dari samping"
+    ],
+    "answer": 1,
+    "explain": "Posisi mata tegak lurus."
+  },
+  {
+    "id": "fs7b1-s4-16",
+    "q": "Stopwatch digital mengurangi kesalahan …",
+    "options": [
+      "Zero error",
+      "Sistematis nol",
+      "Kalibrasi",
+      "Paralaks"
+    ],
+    "answer": 3,
+    "explain": "Angka langsung tanpa skala manual."
+  },
+  {
+    "id": "fs7b1-s4-17",
+    "q": "Ketelitian alat ukur adalah …",
+    "options": [
+      "Harga alat",
+      "Gaya pakai",
+      "Skala terkecil",
+      "Massa"
+    ],
+    "answer": 2,
+    "explain": "Ditentukan oleh skala terkecil."
+  },
+  {
+    "id": "fs7b1-s4-18",
+    "q": "Satuan luas SI …",
+    "options": [
+      "m^2",
+      "m",
+      "cm",
+      "m^3"
+    ],
+    "answer": 0,
+    "explain": "Turunan dua panjang."
+  },
+  {
+    "id": "fs7b1-s4-19",
+    "q": "Satuan kecepatan SI …",
+    "options": [
+      "m",
+      "N",
+      "m/s^2",
+      "m/s"
+    ],
+    "answer": 3,
+    "explain": "Panjang per waktu."
+  },
+  {
+    "id": "fs7b1-s4-20",
+    "q": "Cara umum minimalkan sistematis …",
+    "options": [
+      "Lihat samping",
+      "Kurangi pengulangan",
+      "Kalibrasi dan nolkan alat",
+      "Tambahkan beban"
+    ],
+    "answer": 2,
+    "explain": "Setel nol dan cek kalibrasi."
+  }
 ]

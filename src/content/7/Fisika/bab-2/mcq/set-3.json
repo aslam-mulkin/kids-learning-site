@@ -1,22 +1,242 @@
 [
-  {"id":"fs7b2-s3-01","q":"Benda memuai karena …","options":["Partikel bergerak lebih cepat","Partikel menghilang","Massa berubah","Gaya gravitasi"],"answer":0,"explain":"Energi panas menaikkan gerak partikel."},
-  {"id":"fs7b2-s3-02","q":"Pemuaian panjang dinyatakan rumus …","options":["ΔL = α L0 ΔT","ΔV = γ V0 ΔT","ΔA = β A0 ΔT","F = m a"],"answer":0,"explain":"Muai linear pakai α."},
-  {"id":"fs7b2-s3-03","q":"Pemuaian luas menggunakan koefisien …","options":["β","α","γ","λ"],"answer":0,"explain":"Koefisien bidang beta."},
-  {"id":"fs7b2-s3-04","q":"Pemuaian volume menggunakan koefisien …","options":["γ","α","β","δ"],"answer":0,"explain":"Koefisien ruang gamma."},
-  {"id":"fs7b2-s3-05","q":"Pemuaian zat cair dipengaruhi …","options":["Koefisien muai dan suhu","Gaya magnet","Warna cairan","Muatan"],"answer":0,"explain":"Tergantung jenis cairan dan ΔT."},
-  {"id":"fs7b2-s3-06","q":"Pemuaian gas lebih besar karena …","options":["Ikatan lemah","Ikatan kuat","Padat rapat","Cair kental"],"answer":0,"explain":"Partikel bebas bergerak."},
-  {"id":"fs7b2-s3-07","q":"Kawat telepon dibuat kendur sebab …","options":["Memuai saat panas","Menghemat biaya","Menolak angin","Mempermudah perbaikan"],"answer":0,"explain":"Panas siang menambah panjang."},
-  {"id":"fs7b2-s3-08","q":"Termostat bimetal memanfaatkan …","options":["Muai beda dua logam","Pendinginan cepat","Reaksi kimia","Cahaya"],"answer":0,"explain":"Logam muai beda melengkung."},
-  {"id":"fs7b2-s3-09","q":"Celah rel kereta berfungsi …","options":["Ruang muai rel","Ventilasi udara","Jalur baut","Saluran air"],"answer":0,"explain":"Rel tidak melengkung saat panas."},
-  {"id":"fs7b2-s3-10","q":"Bimetal pada setrika akan …","options":["Memutus arus saat panas","Menyalakan lampu","Mendinginkan udara","Menambah tekanan"],"answer":0,"explain":"Lengkung memutus arus."},
-  {"id":"fs7b2-s3-11","q":"Termometer skala tetap dibutuhkan …","options":["Titik tetap bawah dan atas","Warna air","Tekanan angin","Massa benda"],"answer":0,"explain":"Kalibrasi dua titik tetap."},
-  {"id":"fs7b2-s3-12","q":"Konversi 20°R ke C …","options":["25°C","20°C","16°C","32°C"],"answer":0,"explain":"5/4×20=25."},
-  {"id":"fs7b2-s3-13","q":"Konversi 68°F ke C …","options":["20°C","32°C","40°C","25°C"],"answer":0,"explain":"(68-32)×5/9=20."},
-  {"id":"fs7b2-s3-14","q":"Konversi 300K ke F …","options":["80,6°F","26,8°F","572°F","122°F"],"answer":0,"explain":"27°C jadi 80,6°F."},
-  {"id":"fs7b2-s3-15","q":"Pemuaian pada jembatan diatasi dengan …","options":["Sambungan geser","Mengunci rapat","Memaku kuat","Tidak ada celah"],"answer":0,"explain":"Sambungan biarkan muai."},
-  {"id":"fs7b2-s3-16","q":"Zat cair di termometer dipilih yang …","options":["Koefisien muai besar","Mudah membeku","Tak stabil","Tak terlihat"],"answer":0,"explain":"Agar peka pada perubahan suhu."},
-  {"id":"fs7b2-s3-17","q":"Alat ukur suhu nonkontak …","options":["Infrared thermometer","Mistar","Neraca","Stopwatch"],"answer":0,"explain":"IR mendeteksi radiasi panas."},
-  {"id":"fs7b2-s3-18","q":"Pengaruh pemuaian pada pipa logam …","options":["Bisa melengkung jika tak ada kelonggaran","Memperkuat pipa","Tidak berpengaruh","Mendinginkan air"],"answer":0,"explain":"Muai tanpa ruang bisa bengkok."},
-  {"id":"fs7b2-s3-19","q":"ΔT adalah …","options":["Perubahan suhu","Perubahan massa","Perubahan volume","Perubahan waktu"],"answer":0,"explain":"ΔT beda suhu akhir-awal."},
-  {"id":"fs7b2-s3-20","q":"Koefisien muai tergantung …","options":["Material","Warna","Massa jenis saja","Tekanan udara saja"],"answer":0,"explain":"Setiap bahan punya α, β, γ berbeda."}
+  {
+    "id": "fs7b2-s3-01",
+    "q": "Benda memuai karena …",
+    "options": [
+      "Gaya gravitasi",
+      "Partikel bergerak lebih cepat",
+      "Massa berubah",
+      "Partikel menghilang"
+    ],
+    "answer": 1,
+    "explain": "Energi panas menaikkan gerak partikel."
+  },
+  {
+    "id": "fs7b2-s3-02",
+    "q": "Pemuaian panjang dinyatakan rumus …",
+    "options": [
+      "F = m a",
+      "ΔV = γ V0 ΔT",
+      "ΔL = α L0 ΔT",
+      "ΔA = β A0 ΔT"
+    ],
+    "answer": 2,
+    "explain": "Muai linear pakai α."
+  },
+  {
+    "id": "fs7b2-s3-03",
+    "q": "Pemuaian luas menggunakan koefisien …",
+    "options": [
+      "β",
+      "γ",
+      "α",
+      "λ"
+    ],
+    "answer": 0,
+    "explain": "Koefisien bidang beta."
+  },
+  {
+    "id": "fs7b2-s3-04",
+    "q": "Pemuaian volume menggunakan koefisien …",
+    "options": [
+      "α",
+      "β",
+      "δ",
+      "γ"
+    ],
+    "answer": 3,
+    "explain": "Koefisien ruang gamma."
+  },
+  {
+    "id": "fs7b2-s3-05",
+    "q": "Pemuaian zat cair dipengaruhi …",
+    "options": [
+      "Gaya magnet",
+      "Koefisien muai dan suhu",
+      "Warna cairan",
+      "Muatan"
+    ],
+    "answer": 1,
+    "explain": "Tergantung jenis cairan dan ΔT."
+  },
+  {
+    "id": "fs7b2-s3-06",
+    "q": "Pemuaian gas lebih besar karena …",
+    "options": [
+      "Ikatan lemah",
+      "Padat rapat",
+      "Cair kental",
+      "Ikatan kuat"
+    ],
+    "answer": 0,
+    "explain": "Partikel bebas bergerak."
+  },
+  {
+    "id": "fs7b2-s3-07",
+    "q": "Kawat telepon dibuat kendur sebab …",
+    "options": [
+      "Menolak angin",
+      "Menghemat biaya",
+      "Mempermudah perbaikan",
+      "Memuai saat panas"
+    ],
+    "answer": 3,
+    "explain": "Panas siang menambah panjang."
+  },
+  {
+    "id": "fs7b2-s3-08",
+    "q": "Termostat bimetal memanfaatkan …",
+    "options": [
+      "Pendinginan cepat",
+      "Muai beda dua logam",
+      "Reaksi kimia",
+      "Cahaya"
+    ],
+    "answer": 1,
+    "explain": "Logam muai beda melengkung."
+  },
+  {
+    "id": "fs7b2-s3-09",
+    "q": "Celah rel kereta berfungsi …",
+    "options": [
+      "Jalur baut",
+      "Ruang muai rel",
+      "Saluran air",
+      "Ventilasi udara"
+    ],
+    "answer": 1,
+    "explain": "Rel tidak melengkung saat panas."
+  },
+  {
+    "id": "fs7b2-s3-10",
+    "q": "Bimetal pada setrika akan …",
+    "options": [
+      "Memutus arus saat panas",
+      "Mendinginkan udara",
+      "Menyalakan lampu",
+      "Menambah tekanan"
+    ],
+    "answer": 0,
+    "explain": "Lengkung memutus arus."
+  },
+  {
+    "id": "fs7b2-s3-11",
+    "q": "Termometer skala tetap dibutuhkan …",
+    "options": [
+      "Warna air",
+      "Tekanan angin",
+      "Titik tetap bawah dan atas",
+      "Massa benda"
+    ],
+    "answer": 2,
+    "explain": "Kalibrasi dua titik tetap."
+  },
+  {
+    "id": "fs7b2-s3-12",
+    "q": "Konversi 20°R ke C …",
+    "options": [
+      "32°C",
+      "20°C",
+      "25°C",
+      "16°C"
+    ],
+    "answer": 2,
+    "explain": "5/4×20=25."
+  },
+  {
+    "id": "fs7b2-s3-13",
+    "q": "Konversi 68°F ke C …",
+    "options": [
+      "32°C",
+      "25°C",
+      "40°C",
+      "20°C"
+    ],
+    "answer": 3,
+    "explain": "(68-32)×5/9=20."
+  },
+  {
+    "id": "fs7b2-s3-14",
+    "q": "Konversi 300K ke F …",
+    "options": [
+      "122°F",
+      "26,8°F",
+      "80,6°F",
+      "572°F"
+    ],
+    "answer": 2,
+    "explain": "27°C jadi 80,6°F."
+  },
+  {
+    "id": "fs7b2-s3-15",
+    "q": "Pemuaian pada jembatan diatasi dengan …",
+    "options": [
+      "Tidak ada celah",
+      "Mengunci rapat",
+      "Sambungan geser",
+      "Memaku kuat"
+    ],
+    "answer": 2,
+    "explain": "Sambungan biarkan muai."
+  },
+  {
+    "id": "fs7b2-s3-16",
+    "q": "Zat cair di termometer dipilih yang …",
+    "options": [
+      "Mudah membeku",
+      "Koefisien muai besar",
+      "Tak stabil",
+      "Tak terlihat"
+    ],
+    "answer": 1,
+    "explain": "Agar peka pada perubahan suhu."
+  },
+  {
+    "id": "fs7b2-s3-17",
+    "q": "Alat ukur suhu nonkontak …",
+    "options": [
+      "Stopwatch",
+      "Infrared thermometer",
+      "Neraca",
+      "Mistar"
+    ],
+    "answer": 1,
+    "explain": "IR mendeteksi radiasi panas."
+  },
+  {
+    "id": "fs7b2-s3-18",
+    "q": "Pengaruh pemuaian pada pipa logam …",
+    "options": [
+      "Tidak berpengaruh",
+      "Mendinginkan air",
+      "Memperkuat pipa",
+      "Bisa melengkung jika tak ada kelonggaran"
+    ],
+    "answer": 3,
+    "explain": "Muai tanpa ruang bisa bengkok."
+  },
+  {
+    "id": "fs7b2-s3-19",
+    "q": "ΔT adalah …",
+    "options": [
+      "Perubahan suhu",
+      "Perubahan volume",
+      "Perubahan massa",
+      "Perubahan waktu"
+    ],
+    "answer": 0,
+    "explain": "ΔT beda suhu akhir-awal."
+  },
+  {
+    "id": "fs7b2-s3-20",
+    "q": "Koefisien muai tergantung …",
+    "options": [
+      "Massa jenis saja",
+      "Tekanan udara saja",
+      "Material",
+      "Warna"
+    ],
+    "answer": 2,
+    "explain": "Setiap bahan punya α, β, γ berbeda."
+  }
 ]

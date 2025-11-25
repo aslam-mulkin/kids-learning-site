@@ -1,22 +1,242 @@
 [
-  {"id":"fs7b1-s3-01","q":"Besaran pokok jumlahnya …","options":["7","5","8","6"],"answer":0,"explain":"Dalam SI ada 7 besaran pokok."},
-  {"id":"fs7b1-s3-02","q":"Contoh satuan turunan energi …","options":["Joule","Newton","Pascal","Watt"],"answer":0,"explain":"Energi satuannya joule."},
-  {"id":"fs7b1-s3-03","q":"Satuan turunan daya …","options":["Watt","Joule","Newton","Ampere"],"answer":0,"explain":"Daya joule per detik."},
-  {"id":"fs7b1-s3-04","q":"Mengurangi kesalahan paralaks …","options":["Mata tegak lurus skala","Miringkan alat","Baca cepat sambil bergerak","Gunakan cahaya redup"],"answer":0,"explain":"Pandangan lurus ke skala."},
-  {"id":"fs7b1-s3-05","q":"Ketelitian mikrometer sekrup …","options":["0,01 mm","0,1 mm","1 mm","0,5 mm"],"answer":0,"explain":"Skala terkecil 0,01 mm."},
-  {"id":"fs7b1-s3-06","q":"Mengukur diameter kawat sebaiknya memakai …","options":["Mikrometer sekrup","Mistar","Meteran kain","Busur derajat"],"answer":0,"explain":"Mikrometer lebih presisi."},
-  {"id":"fs7b1-s3-07","q":"Neraca digital memiliki kesalahan …","options":["Sistematis bila tidak dikalibrasi","Selalu acak besar","Tidak ada kesalahan","Hanya paralaks"],"answer":0,"explain":"Bias jika nol tidak disetel."},
-  {"id":"fs7b1-s3-08","q":"Besaran luas diturunkan dari …","options":["Panjang","Massa","Waktu","Arus"],"answer":0,"explain":"Luas = panjang x panjang."},
-  {"id":"fs7b1-s3-09","q":"Satuan massa jenis SI …","options":["kg/m^3","kg","m^3","g/cm"],"answer":0,"explain":"Massa per volume."},
-  {"id":"fs7b1-s3-10","q":"Satuan percepatan …","options":["m/s^2","m/s","N","J"],"answer":0,"explain":"Perubahan kecepatan per detik."},
-  {"id":"fs7b1-s3-11","q":"Skala utama mikrometer dibaca pada …","options":["Selubung batang","Selubung putar","Nonius","Dial"],"answer":0,"explain":"Skala linear di batang."},
-  {"id":"fs7b1-s3-12","q":"Skala putar mikrometer bernilai …","options":["0,01 mm per garis","1 mm per garis","0,1 mm per garis","0,5 mm per garis"],"answer":0,"explain":"Satu garis 0,01 mm."},
-  {"id":"fs7b1-s3-13","q":"Kesalahan sistematis diminimalkan dengan …","options":["Kalibrasi alat","Abaikan data","Miringkan alat","Kurangi pengulangan"],"answer":0,"explain":"Kalibrasi mengurangi bias."},
-  {"id":"fs7b1-s3-14","q":"Hasil ukur ditulis beserta …","options":["Satuan","Warna alat","Jenis meja","Cuaca"],"answer":0,"explain":"Nilai selalu dengan satuan."},
-  {"id":"fs7b1-s3-15","q":"Stopwatch digital ketelitiannya bisa …","options":["0,01 s","1 s","0,1 min","10 s"],"answer":0,"explain":"Umum dua tempat desimal detik."},
-  {"id":"fs7b1-s3-16","q":"Besaran panjang dalam SI disimbolkan …","options":["l","m","s","t"],"answer":0,"explain":"Sering dilambangkan l (length)."},
-  {"id":"fs7b1-s3-17","q":"Satuan gaya berasal dari …","options":["kg·m/s^2","kg/s","m/s^2","kg·m"],"answer":0,"explain":"Definisi Newton."},
-  {"id":"fs7b1-s3-18","q":"Mengukur waktu reaksi yang cepat cocok gunakan …","options":["Stopwatch digital","Jam dinding","Mistar","Termometer"],"answer":0,"explain":"Resolusi tinggi diperlukan."},
-  {"id":"fs7b1-s3-19","q":"Suhu bukan bagian bab ini karena …","options":["Fokus pengukuran panjang/massa/waktu","Tidak ada alat","Tidak ilmiah","Tidak bisa diukur"],"answer":0,"explain":"Lingkup bab pengukuran dasar."},
-  {"id":"fs7b1-s3-20","q":"Kekeliruan membaca skala salah garis disebut …","options":["Paralaks","Zero error","Kalibrasi","Sistematis"],"answer":0,"explain":"Sudut pandang miring."}
+  {
+    "id": "fs7b1-s3-01",
+    "q": "Besaran pokok jumlahnya …",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "answer": 2,
+    "explain": "Dalam SI ada 7 besaran pokok."
+  },
+  {
+    "id": "fs7b1-s3-02",
+    "q": "Contoh satuan turunan energi …",
+    "options": [
+      "Pascal",
+      "Joule",
+      "Watt",
+      "Newton"
+    ],
+    "answer": 1,
+    "explain": "Energi satuannya joule."
+  },
+  {
+    "id": "fs7b1-s3-03",
+    "q": "Satuan turunan daya …",
+    "options": [
+      "Ampere",
+      "Watt",
+      "Joule",
+      "Newton"
+    ],
+    "answer": 1,
+    "explain": "Daya joule per detik."
+  },
+  {
+    "id": "fs7b1-s3-04",
+    "q": "Mengurangi kesalahan paralaks …",
+    "options": [
+      "Baca cepat sambil bergerak",
+      "Mata tegak lurus skala",
+      "Gunakan cahaya redup",
+      "Miringkan alat"
+    ],
+    "answer": 1,
+    "explain": "Pandangan lurus ke skala."
+  },
+  {
+    "id": "fs7b1-s3-05",
+    "q": "Ketelitian mikrometer sekrup …",
+    "options": [
+      "0,01 mm",
+      "0,1 mm",
+      "1 mm",
+      "0,5 mm"
+    ],
+    "answer": 0,
+    "explain": "Skala terkecil 0,01 mm."
+  },
+  {
+    "id": "fs7b1-s3-06",
+    "q": "Mengukur diameter kawat sebaiknya memakai …",
+    "options": [
+      "Mikrometer sekrup",
+      "Mistar",
+      "Meteran kain",
+      "Busur derajat"
+    ],
+    "answer": 0,
+    "explain": "Mikrometer lebih presisi."
+  },
+  {
+    "id": "fs7b1-s3-07",
+    "q": "Neraca digital memiliki kesalahan …",
+    "options": [
+      "Tidak ada kesalahan",
+      "Hanya paralaks",
+      "Selalu acak besar",
+      "Sistematis bila tidak dikalibrasi"
+    ],
+    "answer": 3,
+    "explain": "Bias jika nol tidak disetel."
+  },
+  {
+    "id": "fs7b1-s3-08",
+    "q": "Besaran luas diturunkan dari …",
+    "options": [
+      "Arus",
+      "Massa",
+      "Panjang",
+      "Waktu"
+    ],
+    "answer": 2,
+    "explain": "Luas = panjang x panjang."
+  },
+  {
+    "id": "fs7b1-s3-09",
+    "q": "Satuan massa jenis SI …",
+    "options": [
+      "g/cm",
+      "kg/m^3",
+      "m^3",
+      "kg"
+    ],
+    "answer": 1,
+    "explain": "Massa per volume."
+  },
+  {
+    "id": "fs7b1-s3-10",
+    "q": "Satuan percepatan …",
+    "options": [
+      "m/s",
+      "J",
+      "N",
+      "m/s^2"
+    ],
+    "answer": 3,
+    "explain": "Perubahan kecepatan per detik."
+  },
+  {
+    "id": "fs7b1-s3-11",
+    "q": "Skala utama mikrometer dibaca pada …",
+    "options": [
+      "Selubung putar",
+      "Selubung batang",
+      "Dial",
+      "Nonius"
+    ],
+    "answer": 1,
+    "explain": "Skala linear di batang."
+  },
+  {
+    "id": "fs7b1-s3-12",
+    "q": "Skala putar mikrometer bernilai …",
+    "options": [
+      "0,5 mm per garis",
+      "0,1 mm per garis",
+      "1 mm per garis",
+      "0,01 mm per garis"
+    ],
+    "answer": 3,
+    "explain": "Satu garis 0,01 mm."
+  },
+  {
+    "id": "fs7b1-s3-13",
+    "q": "Kesalahan sistematis diminimalkan dengan …",
+    "options": [
+      "Kalibrasi alat",
+      "Kurangi pengulangan",
+      "Abaikan data",
+      "Miringkan alat"
+    ],
+    "answer": 0,
+    "explain": "Kalibrasi mengurangi bias."
+  },
+  {
+    "id": "fs7b1-s3-14",
+    "q": "Hasil ukur ditulis beserta …",
+    "options": [
+      "Warna alat",
+      "Cuaca",
+      "Satuan",
+      "Jenis meja"
+    ],
+    "answer": 2,
+    "explain": "Nilai selalu dengan satuan."
+  },
+  {
+    "id": "fs7b1-s3-15",
+    "q": "Stopwatch digital ketelitiannya bisa …",
+    "options": [
+      "1 s",
+      "0,01 s",
+      "0,1 min",
+      "10 s"
+    ],
+    "answer": 1,
+    "explain": "Umum dua tempat desimal detik."
+  },
+  {
+    "id": "fs7b1-s3-16",
+    "q": "Besaran panjang dalam SI disimbolkan …",
+    "options": [
+      "s",
+      "m",
+      "t",
+      "l"
+    ],
+    "answer": 3,
+    "explain": "Sering dilambangkan l (length)."
+  },
+  {
+    "id": "fs7b1-s3-17",
+    "q": "Satuan gaya berasal dari …",
+    "options": [
+      "kg·m",
+      "kg/s",
+      "m/s^2",
+      "kg·m/s^2"
+    ],
+    "answer": 3,
+    "explain": "Definisi Newton."
+  },
+  {
+    "id": "fs7b1-s3-18",
+    "q": "Mengukur waktu reaksi yang cepat cocok gunakan …",
+    "options": [
+      "Termometer",
+      "Mistar",
+      "Stopwatch digital",
+      "Jam dinding"
+    ],
+    "answer": 2,
+    "explain": "Resolusi tinggi diperlukan."
+  },
+  {
+    "id": "fs7b1-s3-19",
+    "q": "Suhu bukan bagian bab ini karena …",
+    "options": [
+      "Fokus pengukuran panjang/massa/waktu",
+      "Tidak bisa diukur",
+      "Tidak ada alat",
+      "Tidak ilmiah"
+    ],
+    "answer": 0,
+    "explain": "Lingkup bab pengukuran dasar."
+  },
+  {
+    "id": "fs7b1-s3-20",
+    "q": "Kekeliruan membaca skala salah garis disebut …",
+    "options": [
+      "Sistematis",
+      "Zero error",
+      "Kalibrasi",
+      "Paralaks"
+    ],
+    "answer": 3,
+    "explain": "Sudut pandang miring."
+  }
 ]

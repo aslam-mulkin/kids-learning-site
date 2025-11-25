@@ -13,7 +13,17 @@ type Mode = 'flashcards' | 'quiz'
 export default function App() {
   const topics = useMemo(() => listTopics(), [])
   const grades = Array.from(new Set(topics.map(t => t.grade)))
-  const [grade, setGrade] = useState(grades[0])
+
+  function parseHashGrade() {
+    const hash = window.location.hash.replace('#','')
+    if (hash.startsWith('kelas-')) {
+      const g = hash.replace('kelas-','')
+      return grades.includes(g) ? g : null
+    }
+    return null
+  }
+
+  const [grade, setGrade] = useState(() => parseHashGrade() ?? grades[0])
 
   const subjects = Array.from(new Set(topics.filter(t => t.grade === grade).map(t => t.subject)))
   const [subject, setSubject] = useState(subjects[0])
@@ -32,6 +42,11 @@ export default function App() {
   useEffect(() => {
     setSubject(subjects[0])
   }, [grade]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Sync hash with selected grade
+  useEffect(() => {
+    if (grade) window.location.hash = `kelas-${grade}`
+  }, [grade])
 
   // When grade OR subject changes, pick the first topic & reset both set pickers
   useEffect(() => {
@@ -78,6 +93,19 @@ export default function App() {
       <header className="mb-4 flex items-center justify-between">
         <h1 className="text-2xl font-bold">Belajar Seru</h1>
       </header>
+
+      <div className="mb-3 flex flex-wrap gap-2">
+        {grades.map(g => (
+          <a
+            key={g}
+            href={`#kelas-${g}`}
+            onClick={e => { e.preventDefault(); setGrade(g) }}
+            className={`px-3 py-1 rounded-full border text-sm ${g === grade ? 'bg-blue-600 text-white border-blue-600' : 'border-slate-300 text-slate-700 hover:border-blue-400'}`}
+          >
+            Kelas {g}
+          </a>
+        ))}
+      </div>
 
       <Card className="mb-4">
         <CardContent className="grid md:grid-cols-5 gap-2">

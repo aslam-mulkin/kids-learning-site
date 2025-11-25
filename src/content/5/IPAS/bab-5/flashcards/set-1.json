@@ -1,0 +1,12 @@
+[
+  {"q":"Apa penyebab bunyi?","a":"Getaran benda."},
+  {"q":"Apa syarat bunyi terdengar?","a":"Ada sumber, medium, dan penerima."},
+  {"q":"Apa arti frekuensi bunyi?","a":"Jumlah getaran per detik (Hz)."},
+  {"q":"Apa arti amplitudo bunyi?","a":"Besar simpangan getaran; menentukan keras bunyi."},
+  {"q":"Apa itu gema?","a":"Bunyi pantul yang terdengar terpisah jelas."},
+  {"q":"Apa itu gaung?","a":"Bunyi pantul bercampur bunyi asli."},
+  {"q":"Mengapa bunyi tak merambat di vakum?","a":"Tak ada medium partikel."},
+  {"q":"Medium perambat tercepat untuk bunyi?","a":"Benda padat."},
+  {"q":"Contoh pemanfaatan bunyi pantul di medis?","a":"Pemeriksaan USG."},
+  {"q":"Apa fungsi bahan peredam bunyi?","a":"Menyerap gelombang agar tidak memantul."}
+]

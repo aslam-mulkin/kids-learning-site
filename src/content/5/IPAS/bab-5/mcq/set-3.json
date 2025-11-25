@@ -1,0 +1,22 @@
+[
+  {"id":"ip5b5-s3-01","q":"Istilah kuat bunyi diukur dengan satuan …","options":["Desibel","Hertz","Newton","Joule"],"answer":0,"explain":"Intensitas dinyatakan dalam desibel."},
+  {"id":"ip5b5-s3-02","q":"Istilah tinggi nada diukur dengan …","options":["Hertz","Desibel","Meter","Watt"],"answer":0,"explain":"Frekuensi satuannya hertz."},
+  {"id":"ip5b5-s3-03","q":"Benda bergetar cepat menghasilkan nada …","options":["Tinggi","Rendah","Sangat pelan","Tak terdengar"],"answer":0,"explain":"Frekuensi tinggi nada tinggi."},
+  {"id":"ip5b5-s3-04","q":"Syarat bunyi: sumber, medium, dan …","options":["Penerima","Motor","Lensa","Baterai"],"answer":0,"explain":"Telinga penerima suara."},
+  {"id":"ip5b5-s3-05","q":"Bunyi bisa merambat di air karena …","options":["Air punya partikel","Air hampa","Air menyala","Air memantul cahaya"],"answer":0,"explain":"Partikel air salurkan getaran."},
+  {"id":"ip5b5-s3-06","q":"Contoh sifat bunyi dari ilustrasi menembus dinding tipis …","options":["Dapat merambat","Tak memantul","Tak bisa diserap","Tak bisa difraksi"],"answer":0,"explain":"Gelombang merambat melalui medium."},
+  {"id":"ip5b5-s3-07","q":"Bunyi pantul yang terdengar tumpang tindih …","options":["Gaung","Gema","Resonansi","Interferensi cahaya"],"answer":0,"explain":"Pantulan terlalu cepat."},
+  {"id":"ip5b5-s3-08","q":"Benda lunak untuk peredam di ruangan musik …","options":["Panel busa","Besi","Marmer","Seng"],"answer":0,"explain":"Busa menyerap gelombang."},
+  {"id":"ip5b5-s3-09","q":"Bagian telinga luar yang menangkap bunyi …","options":["Daun telinga","Gendang telinga","Koklea","Sanggurdi"],"answer":0,"explain":"Funnel bunyi ke saluran."},
+  {"id":"ip5b5-s3-10","q":"Fungsi saluran telinga luar …","options":["Menyalurkan getaran","Menyamakan tekanan","Mengubah ke impuls listrik","Memompa darah"],"answer":0,"explain":"Getaran menuju gendang."},
+  {"id":"ip5b5-s3-11","q":"Saluran Eustachius menjaga …","options":["Tekanan udara seimbang","Suara lebih keras","Getaran cepat","Kotoran keluar"],"answer":0,"explain":"Samakan tekanan luar-dalam."},
+  {"id":"ip5b5-s3-12","q":"Sanggurdi, landasan, martil berada di …","options":["Telinga tengah","Telinga luar","Telinga dalam","Hidung"],"answer":0,"explain":"Rangkaian tulang pendengar."},
+  {"id":"ip5b5-s3-13","q":"Koklea mengubah getaran jadi …","options":["Impuls saraf","Gerak mekanik","Cahaya","Panas"],"answer":0,"explain":"Sel rambut menghasilkan sinyal."},
+  {"id":"ip5b5-s3-14","q":"Contoh pemanfaatan bunyi pantul di kedokteran …","options":["USG","Sinar X","MRI","Endoskop"],"answer":0,"explain":"USG pakai ultrasonik pantul."},
+  {"id":"ip5b5-s3-15","q":"Gelombang bunyi termasuk …","options":["Longitudinal","Transversal","Elektromagnetik","Gravitasi"],"answer":0,"explain":"Getaran searah rambat."},
+  {"id":"ip5b5-s3-16","q":"Sifat bunyi lain: dapat …","options":["Dibiaskan","Dipolarisasi","Dijadikan magnet","Dibakar"],"answer":0,"explain":"Bunyi dapat dibiaskan."},
+  {"id":"ip5b5-s3-17","q":"Bahan peredam di bioskop …","options":["Kain tebal","Baja","Aluminium","Granit"],"answer":0,"explain":"Kain tebal menyerap bunyi."},
+  {"id":"ip5b5-s3-18","q":"Contoh sifat bunyi berdasar gambar pantulan di pegunungan …","options":["Gema","Gaung","Refleksi cahaya","Dispersi"],"answer":0,"explain":"Pantulan jelas terdengar kembali."},
+  {"id":"ip5b5-s3-19","q":"Getaran tuning fork menimbulkan …","options":["Gelombang bunyi","Gelombang cahaya","Medan listrik","Medan magnet"],"answer":0,"explain":"Getaran udara jadi suara."},
+  {"id":"ip5b5-s3-20","q":"Media perantara bunyi di udara adalah …","options":["Molekul udara","Foton","Ion metal","Gelombang cahaya"],"answer":0,"explain":"Molekul menyalurkan getaran."}
+]

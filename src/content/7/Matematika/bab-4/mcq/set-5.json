@@ -1,0 +1,22 @@
+[
+  {"id":"mt7b4-s5-01","q":"Sudut sehadap pada garis sejajar selalu …","options":["Sama besar","Berjumlah 180","Berjumlah 90","Tidak pasti"],"answer":0,"explain":"Sehadap kongruen saat garis sejajar."},
+  {"id":"mt7b4-s5-02","q":"Sudut bersebrangan dalam pada garis sejajar …","options":["Sama besar","Berjumlah 90","Berjumlah 270","Lebih kecil"],"answer":0,"explain":"Alternate interior kongruen."},
+  {"id":"mt7b4-s5-03","q":"Sudut sepihak dalam pada garis sejajar …","options":["Jumlah 180","Sama besar","Jumlah 90","Selalu tumpul"],"answer":0,"explain":"Consecutive interior suplementer."},
+  {"id":"mt7b4-s5-04","q":"Sudut 75 derajat adalah contoh …","options":["Lancip","Siku-siku","Tumpul","Refleks"],"answer":0,"explain":"Kurang dari 90."},
+  {"id":"mt7b4-s5-05","q":"Sudut 100 derajat adalah contoh …","options":["Tumpul","Lancip","Refleks","Siku"],"answer":0,"explain":"Antara 90-180."},
+  {"id":"mt7b4-s5-06","q":"Sudut 185 derajat termasuk …","options":["Refleks","Tumpul","Lancip","Siku"],"answer":0,"explain":"Di atas 180."},
+  {"id":"mt7b4-s5-07","q":"Sudut berpelurus berarti dua sudut …","options":["Jumlah 180","Sama besar","Jumlah 360","Jumlah 90"],"answer":0,"explain":"Membentuk garis lurus."},
+  {"id":"mt7b4-s5-08","q":"Sudut bertolak belakang terbentuk karena …","options":["Perpotongan dua garis","Garis sejajar","Garis berimpit","Garis tegak"],"answer":0,"explain":"Garis berpotongan."},
+  {"id":"mt7b4-s5-09","q":"Jika sudut bersebrangan dalam 65, sudut sehadap terkait …","options":["65","115","90","45"],"answer":0,"explain":"Semua sudut sejenis kongruen."},
+  {"id":"mt7b4-s5-10","q":"Busur derajat memiliki skala …","options":["0-180","0-90","0-360","0-100"],"answer":0,"explain":"Busur setengah lingkaran 0-180."},
+  {"id":"mt7b4-s5-11","q":"Mengukur sudut, pusat busur diletakkan …","options":["Di titik sudut","Di sembarang titik","Di sisi sudut","Di luar kertas"],"answer":0,"explain":"Poros tepat di puncak."},
+  {"id":"mt7b4-s5-12","q":"Jika sudut sepihak luar 140, pasangan …","options":["40","140","90","70"],"answer":0,"explain":"Suplementer 180."},
+  {"id":"mt7b4-s5-13","q":"Sudut 45 derajat termasuk …","options":["Lancip","Tumpul","Refleks","Lurus"],"answer":0,"explain":"Kurang dari 90."},
+  {"id":"mt7b4-s5-14","q":"Sudut 135 derajat termasuk …","options":["Tumpul","Lancip","Refleks","Siku"],"answer":0,"explain":"Antara 90-180."},
+  {"id":"mt7b4-s5-15","q":"Sudut 300 derajat termasuk …","options":["Refleks","Tumpul","Lancip","Siku"],"answer":0,"explain":"Di atas 180."},
+  {"id":"mt7b4-s5-16","q":"Garis tegak lurus menghasilkan sudut …","options":["90 derajat","180 derajat","60 derajat","120 derajat"],"answer":0,"explain":"Tegak lurus = siku-siku."},
+  {"id":"mt7b4-s5-17","q":"Sudut 0 derajat disebut …","options":["Sudut nol","Siku-siku","Lurus","Refleks"],"answer":0,"explain":"Tidak ada pembukaan."},
+  {"id":"mt7b4-s5-18","q":"Sudut 360 derajat disebut …","options":["Sudut penuh","Lurus","Nol","Refleks"],"answer":0,"explain":"Satu putaran penuh."},
+  {"id":"mt7b4-s5-19","q":"Jika dua sudut berpelurus dan salah satu 95, pasangannya …","options":["85","95","75","65"],"answer":0,"explain":"180−95=85."},
+  {"id":"mt7b4-s5-20","q":"Sudut luar segitiga sama kaki di puncak 140, sudut alas dalam masing-masing …","options":["20","40","70","50"],"answer":0,"explain":"Sudut luar = jumlah dua sudut dalam tak bersebelahan."}
+]

@@ -1,0 +1,22 @@
+[
+  {"id":"mt7b4-s2-01","q":"Garis l dan m sejajar, transversal t. Sudut sehadap 1 dan …","options":["5","2","3","7"],"answer":0,"explain":"Sehadap berada posisi sama."},
+  {"id":"mt7b4-s2-02","q":"Sudut bersebrangan dalam pada gambar garis sejajar adalah …","options":["4 dan 6","1 dan 5","2 dan 8","3 dan 7"],"answer":0,"explain":"Alternate interior di dalam dan berlawanan."},
+  {"id":"mt7b4-s2-03","q":"Sudut bersebrangan luar adalah …","options":["1 dan 7","2 dan 3","4 dan 5","3 dan 6"],"answer":0,"explain":"Di luar garis, posisi berlawanan."},
+  {"id":"mt7b4-s2-04","q":"Sudut sepihak dalam contoh …","options":["3 dan 6","4 dan 5","2 dan 5","1 dan 8"],"answer":0,"explain":"Di dalam, sisi sama transversal."},
+  {"id":"mt7b4-s2-05","q":"Sudut sepihak luar contoh …","options":["1 dan 8","2 dan 3","4 dan 6","5 dan 7"],"answer":0,"explain":"Di luar, sisi sama transversal."},
+  {"id":"mt7b4-s2-06","q":"Sudut pusat siku-siku besar sudutnya …","options":["90 derajat","60 derajat","120 derajat","30 derajat"],"answer":0,"explain":"Siku-siku =90."},
+  {"id":"mt7b4-s2-07","q":"Sudut 150 derajat termasuk …","options":["Tumpul","Lancip","Refleks","Siku-siku"],"answer":0,"explain":"150 di antara 90-180."},
+  {"id":"mt7b4-s2-08","q":"Sudut 210 derajat termasuk …","options":["Refleks","Tumpul","Lancip","Siku-siku"],"answer":0,"explain":"Lebih dari 180."},
+  {"id":"mt7b4-s2-09","q":"Jumlah sudut bertolak belakang pada dua garis berpotongan …","options":["Tidak ada jumlah khusus","Selalu 180","Selalu 90","Selalu 60"],"answer":0,"explain":"Mereka hanya sama besar."},
+  {"id":"mt7b4-s2-10","q":"Penggunaan busur derajat dimulai dari …","options":["Menempatkan titik nol di kaki sudut","Menaruh nol di luar","Menekan ujung busur","Menutup sudut"],"answer":0,"explain":"Poros busur di titik sudut."},
+  {"id":"mt7b4-s2-11","q":"Jika sudut sehadap 75, sudut bersebrangan dalam terkait …","options":["75","105","90","60"],"answer":0,"explain":"Semua kongruen pada garis sejajar."},
+  {"id":"mt7b4-s2-12","q":"Sudut sepihak dalam 70 derajat, pasangannya …","options":["110","70","90","50"],"answer":0,"explain":"Suplementer, jumlah 180."},
+  {"id":"mt7b4-s2-13","q":"Sudut bersebrangan luar 120, pasangannya …","options":["120","60","90","30"],"answer":0,"explain":"Alternate exterior kongruen."},
+  {"id":"mt7b4-s2-14","q":"Jika garis tidak sejajar, sudut sehadap …","options":["Tidak pasti sama","Pasti sama","Pasti 90","Pasti 180"],"answer":0,"explain":"Kongruen hanya bila sejajar."},
+  {"id":"mt7b4-s2-15","q":"Sudut berpelurus 45 derajat, pasangannya …","options":["135","45","90","30"],"answer":0,"explain":"180−45=135."},
+  {"id":"mt7b4-s2-16","q":"Untuk melengkapi sudut hilang pada garis lurus gunakan fakta …","options":["Jumlah 180","Jumlah 90","Jumlah 60","Jumlah 270"],"answer":0,"explain":"Sudut lurus 180."},
+  {"id":"mt7b4-s2-17","q":"Sudut pada segitiga berjumlah …","options":["180 derajat","90 derajat","270 derajat","360 derajat"],"answer":0,"explain":"Jumlah sudut segitiga 180."},
+  {"id":"mt7b4-s2-18","q":"Jika dua garis sejajar, sudut sepihak luar 130 berarti lainnya …","options":["50","130","180","90"],"answer":0,"explain":"Suplementer 180."},
+  {"id":"mt7b4-s2-19","q":"Sudut refleks contoh …","options":["250 derajat","80 derajat","140 derajat","30 derajat"],"answer":0,"explain":"Refleks >180."},
+  {"id":"mt7b4-s2-20","q":"Sudut tumpul contoh …","options":["120 derajat","60 derajat","30 derajat","89 derajat"],"answer":0,"explain":"Tumpul 120."}
+]

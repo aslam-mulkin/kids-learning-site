@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu garis sejajar?","a":"Dua garis yang tidak berpotongan dan jarak konstan."},
+  {"q":"Apa itu garis berpotongan?","a":"Dua garis yang bertemu di satu titik."},
+  {"q":"Apa itu garis berimpit?","a":"Dua garis menempati posisi tepat sama."},
+  {"q":"Sudut lancip berukuran …","a":"Kurang dari 90 derajat."},
+  {"q":"Sudut siku-siku berukuran …","a":"Tepat 90 derajat."},
+  {"q":"Sudut tumpul berukuran …","a":"Antara 90 dan 180 derajat."},
+  {"q":"Sudut refleks berukuran …","a":"Lebih dari 180 sampai 360 derajat."},
+  {"q":"Sudut berpelurus …","a":"Dua sudut berjumlah 180 derajat."},
+  {"q":"Sudut bertolak belakang …","a":"Sudut kongruen saat dua garis berpotongan."},
+  {"q":"Busur derajat digunakan untuk …","a":"Mengukur besar sudut."}
+]

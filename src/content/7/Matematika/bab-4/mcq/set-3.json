@@ -1,0 +1,22 @@
+[
+  {"id":"mt7b4-s3-01","q":"Garis yang selalu sama jarak disebut …","options":["Sejajar","Berpotongan","Berimpit","Transversal"],"answer":0,"explain":"Sejajar jarak konstan."},
+  {"id":"mt7b4-s3-02","q":"Sudut 30 derajat termasuk …","options":["Lancip","Siku-siku","Tumpul","Refleks"],"answer":0,"explain":"Kurang dari 90."},
+  {"id":"mt7b4-s3-03","q":"Sudut 270 derajat termasuk …","options":["Refleks","Tumpul","Lancip","Siku-siku"],"answer":0,"explain":"Antara 180-360."},
+  {"id":"mt7b4-s3-04","q":"Sudut bertolak belakang terbentuk oleh …","options":["Dua garis berpotongan","Dua garis sejajar","Dua garis tak berhingga","Dua garis berimpit"],"answer":0,"explain":"Perpotongan garis."},
+  {"id":"mt7b4-s3-05","q":"Pada garis sejajar, sudut sehadap 85 berarti sudut sehadap lain …","options":["85","95","180","45"],"answer":0,"explain":"Sehadap kongruen."},
+  {"id":"mt7b4-s3-06","q":"Sudut sepihak dalam jika satu 120, lainnya …","options":["60","120","30","90"],"answer":0,"explain":"Jumlah 180."},
+  {"id":"mt7b4-s3-07","q":"Sudut bersebrangan luar jika satu 70, lainnya …","options":["70","110","90","50"],"answer":0,"explain":"Alternate exterior kongruen."},
+  {"id":"mt7b4-s3-08","q":"Sudut berpelurus 150, pasangan …","options":["30","150","60","90"],"answer":0,"explain":"180−150=30."},
+  {"id":"mt7b4-s3-09","q":"Busur derajat skala luar dibaca dari …","options":["0 di kiri","0 di kanan","90 di atas","180 di tengah"],"answer":0,"explain":"Skala luar mulai kiri."},
+  {"id":"mt7b4-s3-10","q":"Busur derajat skala dalam dibaca dari …","options":["0 di kanan","0 di kiri","90 di bawah","180 di tengah"],"answer":0,"explain":"Skala dalam mulai kanan."},
+  {"id":"mt7b4-s3-11","q":"Jika dua garis sejajar, sudut bersebrangan dalam kongruen karena …","options":["Sudut sejenis","Berpelurus","Refleks","Random"],"answer":0,"explain":"Transversal pada garis sejajar."},
+  {"id":"mt7b4-s3-12","q":"Menambah peredam suara di studio menggunakan konsep …","options":["Sudut pantul","Garis sejajar","Sudut tumpul","Garis transversal"],"answer":0,"explain":"Pantulan sudut dikurangi bahan."},
+  {"id":"mt7b4-s3-13","q":"Sudut 0 derajat disebut …","options":["Sudut nol","Lancip","Siku-siku","Refleks"],"answer":0,"explain":"Tidak ada pembukaan."},
+  {"id":"mt7b4-s3-14","q":"Sudut 180 derajat disebut …","options":["Sudut lurus","Siku-siku","Tumpul","Refleks"],"answer":0,"explain":"Garis lurus 180."},
+  {"id":"mt7b4-s3-15","q":"Jika garis a sejajar b, transversal c, sudut sepihak luar 1 dan …","options":["7","2","3","6"],"answer":0,"explain":"Sepihak luar sisi sama."},
+  {"id":"mt7b4-s3-16","q":"Menghitung sudut hilang: sudut lurus 180, diketahui 120. Hilang …","options":["60","120","30","90"],"answer":0,"explain":"180−120=60."},
+  {"id":"mt7b4-s3-17","q":"Menghitung sudut di segitiga, dua sudut 50 dan 60. Sudut ketiga …","options":["70","60","90","80"],"answer":0,"explain":"180−110=70."},
+  {"id":"mt7b4-s3-18","q":"Garis tegak lurus membentuk sudut …","options":["90 derajat","180 derajat","60 derajat","120 derajat"],"answer":0,"explain":"Tegak lurus = siku-siku."},
+  {"id":"mt7b4-s3-19","q":"Sudut refleks 200 pasangan berpelurus …","options":["Tidak mungkin","160","200","20"],"answer":0,"explain":"Refleks >180 tidak punya pasangan lurus di garis sama."},
+  {"id":"mt7b4-s3-20","q":"Sudut 135 derajat tergolong …","options":["Tumpul","Lancip","Refleks","Siku"],"answer":0,"explain":"Di antara 90-180."}
+]

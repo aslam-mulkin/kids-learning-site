@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu sudut sehadap?","a":"Sudut pada posisi sama di garis sejajar dan transversal."},
+  {"q":"Apa itu sudut bersebrangan dalam?","a":"Sudut di dalam garis sejajar, sisi berlawanan transversal."},
+  {"q":"Apa itu sudut bersebrangan luar?","a":"Sudut di luar garis sejajar, sisi berlawanan transversal."},
+  {"q":"Apa itu sudut sepihak dalam?","a":"Sudut di dalam garis sejajar, sisi sama transversal, jumlah 180."},
+  {"q":"Apa itu sudut sepihak luar?","a":"Sudut di luar garis sejajar, sisi sama transversal, jumlah 180."},
+  {"q":"Garis transversal adalah …","a":"Garis yang memotong dua garis lain."},
+  {"q":"Sudut luar segitiga sama dengan …","a":"Jumlah dua sudut dalam tak bersebelahan."},
+  {"q":"Sudut penuh besarnya …","a":"360 derajat."},
+  {"q":"Sudut lurus besarnya …","a":"180 derajat."},
+  {"q":"Cara membaca busur derajat?","a":"Letakkan pusat di puncak sudut, baca skala sesuai kaki sudut."}
+]

@@ -12,7 +12,7 @@
   {"id":"mt7b3-s1-11","q":"Irisan himpunan dilambangkan …","options":["∩","∪","⊄","∉"],"answer":0,"explain":"Intersection memakai ∩."},
   {"id":"mt7b3-s1-12","q":"A ∪ B memuat …","options":["Anggota A atau B","Hanya anggota A","Hanya anggota B","Anggota luar A,B"],"answer":0,"explain":"Union: salah satu atau keduanya."},
   {"id":"mt7b3-s1-13","q":"A ∩ B memuat …","options":["Anggota keduanya","Anggota A saja","Anggota B saja","Anggota luar"],"answer":0,"explain":"Irisan: elemen bersama."},
-  {"id":"mt7b3-s1-14","q":"Komplemen A terhadap semesta S adalah …","options":["S \ A","A \ S","A ∩ S","A ∪ S"],"answer":0,"explain":"Anggota di S tapi bukan A."},
+  {"id":"mt7b3-s1-14","q":"Komplemen A terhadap semesta S adalah …","options":["S \\ A","A \\ S","A ∩ S","A ∪ S"],"answer":0,"explain":"Anggota di S tapi bukan A."},
   {"id":"mt7b3-s1-15","q":"Diagram Venn digunakan untuk …","options":["Memvisualkan himpunan","Mengukur sudut","Menghitung limit","Menggambar grafik"],"answer":0,"explain":"Venn memetakan relasi himpunan."},
   {"id":"mt7b3-s1-16","q":"Himpunan kosong dilambangkan …","options":["∅","∩","∪","⊂"],"answer":0,"explain":"Simbol kosong ∅."},
   {"id":"mt7b3-s1-17","q":"Jika n(A)=5, n(B)=3, dan A∩B kosong, maka n(A∪B)= …","options":["8","5","3","2"],"answer":0,"explain":"Disjoint, jumlah 5+3."},

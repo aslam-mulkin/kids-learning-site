@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b3-s4-01","q":"Konduktor panas baik …","options":["Logam","Kayu","Plastik","Karet"],"answer":0,"explain":"Logam mudah mengalirkan kalor."},
+  {"id":"fs7b3-s4-02","q":"Isolator panas …","options":["Kayu","Aluminium","Besi","Tembaga"],"answer":0,"explain":"Kayu hambat kalor."},
+  {"id":"fs7b3-s4-03","q":"Konveksi terjadi karena …","options":["Perbedaan kerapatan fluida","Radiasi cahaya","Medan magnet","Arus listrik"],"answer":0,"explain":"Fluida panas naik, dingin turun."},
+  {"id":"fs7b3-s4-04","q":"Radiasi dapat dipantulkan oleh …","options":["Permukaan mengkilap","Permukaan gelap kasar","Benda hitam","Kayu"],"answer":0,"explain":"Mengkilap memantulkan radiasi."},
+  {"id":"fs7b3-s4-05","q":"Q = m c ΔT, satuan Q …","options":["Joule","Watt","Newton","Kelvin"],"answer":0,"explain":"Kalor satuan energi."},
+  {"id":"fs7b3-s4-06","q":"Jika c besar, untuk ΔT sama perlu …","options":["Q lebih besar","Q lebih kecil","Q nol","Q sama"],"answer":0,"explain":"Kalor sebanding c."},
+  {"id":"fs7b3-s4-07","q":"Kalor laten mencair terjadi saat …","options":["Padat ke cair","Cair ke padat","Gas ke cair","Cair ke gas"],"answer":0,"explain":"Fase padat→cair."},
+  {"id":"fs7b3-s4-08","q":"Kalor laten menguap terjadi saat …","options":["Cair ke gas","Gas ke cair","Padat ke gas","Gas ke padat"],"answer":0,"explain":"Fase cair→gas."},
+  {"id":"fs7b3-s4-09","q":"Proses menyublim contoh …","options":["Kapurnaftalena hilang","Es mencair","Air mendidih","Uap mengembun"],"answer":0,"explain":"Padat ke gas langsung."},
+  {"id":"fs7b3-s4-10","q":"Mengembun contoh …","options":["Embun pagi","Es kering","Air mendidih","Logam memuai"],"answer":0,"explain":"Uap air jadi titik air."},
+  {"id":"fs7b3-s4-11","q":"Kalor jenis zat berbanding terbalik dengan …","options":["Kecepatan naik suhu","Massa","Volume","Energi"],"answer":0,"explain":"c besar, suhu naik lambat."},
+  {"id":"fs7b3-s4-12","q":"Arus konveksi udara contoh …","options":["Angin laut","Sendok panas","Sinar lampu","Besi pijar"],"answer":0,"explain":"Perbedaan suhu darat-laut."},
+  {"id":"fs7b3-s4-13","q":"Pakaian gelap menyerap …","options":["Radiasi lebih banyak","Radiasi lebih sedikit","Kalor lebih sedikit","Kalor nol"],"answer":0,"explain":"Hitam serap radiasi."},
+  {"id":"fs7b3-s4-14","q":"Lapisan vakum termos mengurangi …","options":["Konduksi & konveksi","Radiasi","Gesekan","Elektron"],"answer":0,"explain":"Tak ada medium transfer panas."},
+  {"id":"fs7b3-s4-15","q":"Sendok kayu pada sup panas …","options":["Isolator","Konduktor","Radiator","Emitor"],"answer":0,"explain":"Kayu tidak cepat panas."},
+  {"id":"fs7b3-s4-16","q":"Panci logam dilapisi pegangan plastik untuk …","options":["Mengurangi konduksi ke tangan","Memperbesar konduksi","Memperbesar radiasi","Mempercepat konveksi"],"answer":0,"explain":"Plastik isolator panas."},
+  {"id":"fs7b3-s4-17","q":"ΔT nol saat melebur karena …","options":["Suhu tetap selama fase berubah","Kalor hilang","Tidak ada energi","Massa hilang"],"answer":0,"explain":"Kalor dipakai putus ikatan."},
+  {"id":"fs7b3-s4-18","q":"Konduktor buruk radiasi …","options":["Permukaan mengkilap","Permukaan hitam","Permukaan kasar","Permukaan kusam"],"answer":0,"explain":"Mengkilap memantul radiasi."},
+  {"id":"fs7b3-s4-19","q":"Kapasitas kalor total rumus …","options":["C = m c","C = Q t","C = F s","C = V I"],"answer":0,"explain":"Kalor per derajat untuk seluruh benda."},
+  {"id":"fs7b3-s4-20","q":"Mengeringkan pakaian di bawah matahari memanfaatkan …","options":["Radiasi","Konduksi","Konveksi padat","Resonansi"],"answer":0,"explain":"Sinar matahari memanaskan dan menguapkan."}
+]

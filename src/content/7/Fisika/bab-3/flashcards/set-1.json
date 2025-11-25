@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu kalor?","a":"Energi panas yang berpindah karena beda suhu."},
+  {"q":"Satuan kalor SI?","a":"Joule (J)."},
+  {"q":"1 kalori setara?","a":"≈4,2 joule."},
+  {"q":"Arah aliran kalor?","a":"Dari suhu tinggi ke rendah."},
+  {"q":"Tiga cara perpindahan kalor?","a":"Konduksi, konveksi, radiasi."},
+  {"q":"Rumus kalor jenis?","a":"Q = m c ΔT."},
+  {"q":"Kalor jenis air?","a":"≈4200 J/kg°C."},
+  {"q":"Kalor laten?","a":"Kalor yang dibutuhkan ubah wujud tanpa ubah suhu."},
+  {"q":"Titik didih air?","a":"100°C pada tekanan 1 atm."},
+  {"q":"Titik beku air?","a":"0°C pada tekanan 1 atm."}
+]

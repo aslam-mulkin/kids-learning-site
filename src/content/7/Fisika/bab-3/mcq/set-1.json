@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b3-s1-01","q":"Kalor adalah …","options":["Energi panas","Suhu","Massa","Volume"],"answer":0,"explain":"Kalor bentuk energi panas."},
+  {"id":"fs7b3-s1-02","q":"Satuan SI kalor …","options":["Joule","Kalori","Watt","Newton"],"answer":0,"explain":"Energi diukur joule."},
+  {"id":"fs7b3-s1-03","q":"1 kalori setara …","options":["4,2 joule","42 joule","0,42 joule","10 joule"],"answer":0,"explain":"1 cal ≈ 4,2 J."},
+  {"id":"fs7b3-s1-04","q":"Kalor berpindah karena …","options":["Perbedaan suhu","Perbedaan massa","Perbedaan warna","Perbedaan bentuk"],"answer":0,"explain":"Mengalir dari panas ke dingin."},
+  {"id":"fs7b3-s1-05","q":"Perpindahan kalor tanpa zat berpindah …","options":["Konduksi","Konveksi","Radiasi","Evaporasi"],"answer":0,"explain":"Konduksi tidak memindahkan zat."},
+  {"id":"fs7b3-s1-06","q":"Perpindahan kalor dengan aliran zat …","options":["Konveksi","Konduksi","Radiasi","Adveksi"],"answer":0,"explain":"Konveksi melibatkan gerak fluida."},
+  {"id":"fs7b3-s1-07","q":"Perpindahan kalor tanpa medium …","options":["Radiasi","Konveksi","Konduksi","Difusi"],"answer":0,"explain":"Radiasi lewat gelombang elektromagnetik."},
+  {"id":"fs7b3-s1-08","q":"Contoh konduksi …","options":["Sendok logam panas saat di panci","Air mendidih bergerak","Sinar matahari","Asap naik"],"answer":0,"explain":"Panas merambat di logam."},
+  {"id":"fs7b3-s1-09","q":"Contoh konveksi …","options":["Air mendidih mengalir","Sendok panas","Sinar lampu","Baja membara"],"answer":0,"explain":"Arus fluida membawa panas."},
+  {"id":"fs7b3-s1-10","q":"Contoh radiasi …","options":["Panas matahari","Air mendidih","Sendok panas","Kawat berpijar"],"answer":0,"explain":"Radiasi lewat gelombang EM."},
+  {"id":"fs7b3-s1-11","q":"Persamaan kalor Q adalah …","options":["Q = m c ΔT","Q = m v","Q = F s","Q = I t"],"answer":0,"explain":"Rumus kalor menaikkan suhu."},
+  {"id":"fs7b3-s1-12","q":"c pada rumus Q=m c ΔT adalah …","options":["Kalor jenis","Massa jenis","Kecepatan cahaya","Kapasitas kalor"],"answer":0,"explain":"c kalor jenis zat."},
+  {"id":"fs7b3-s1-13","q":"Faktor kenaikan suhu dipengaruhi …","options":["m, c, ΔT","Warna","Volume saja","Tekanan"],"answer":0,"explain":"Massa, kalor jenis, selisih suhu."},
+  {"id":"fs7b3-s1-14","q":"Kapasitas panas jenis adalah …","options":["Kalor untuk menaikkan suhu 1 kg per 1°C","Kalor total benda","Energi potensial","Energi kinetik"],"answer":0,"explain":"Kalor tiap kg per °C."},
+  {"id":"fs7b3-s1-15","q":"Melebur adalah perubahan wujud dari …","options":["Padat ke cair","Cair ke padat","Cair ke gas","Gas ke cair"],"answer":0,"explain":"Melebur padat jadi cair."},
+  {"id":"fs7b3-s1-16","q":"Membeku adalah perubahan wujud dari …","options":["Cair ke padat","Padat ke cair","Gas ke cair","Cair ke gas"],"answer":0,"explain":"Kebalikan melebur."},
+  {"id":"fs7b3-s1-17","q":"Mendidih adalah …","options":["Cair ke gas seluruh bagian","Gas ke cair","Padat ke gas","Gas ke padat"],"answer":0,"explain":"Cairan menguap seluruh volume."},
+  {"id":"fs7b3-s1-18","q":"Mengembun adalah …","options":["Gas ke cair","Cair ke gas","Padat ke gas","Cair ke padat"],"answer":0,"explain":"Gas mendingin jadi cair."},
+  {"id":"fs7b3-s1-19","q":"Menyublim adalah …","options":["Padat ke gas","Gas ke padat","Cair ke padat","Cair ke gas"],"answer":0,"explain":"Padat langsung jadi gas."},
+  {"id":"fs7b3-s1-20","q":"Contoh aplikasi bimetal pada kalor …","options":["Termostat","Sendok kayu","Balon gas","Termometer air"],"answer":0,"explain":"Bimetal peka perubahan suhu."}
+]

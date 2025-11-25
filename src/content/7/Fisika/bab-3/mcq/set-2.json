@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b3-s2-01","q":"Kalor mengalir dari …","options":["Suhu tinggi ke rendah","Rendah ke tinggi","Massa besar ke kecil","Benda kecil ke besar"],"answer":0,"explain":"Dari panas ke dingin."},
+  {"id":"fs7b3-s2-02","q":"Konduksi terjadi paling baik pada …","options":["Padat logam","Gas","Cair","Vakum"],"answer":0,"explain":"Logam penghantar panas baik."},
+  {"id":"fs7b3-s2-03","q":"Konveksi terjadi pada …","options":["Fluida","Logam padat","Vakum","Bahan plastik"],"answer":0,"explain":"Cairan/gas mengalir bawa panas."},
+  {"id":"fs7b3-s2-04","q":"Radiasi tidak memerlukan …","options":["Medium","Energi","Sumber panas","Gelombang"],"answer":0,"explain":"Radiasi lewat gelombang EM."},
+  {"id":"fs7b3-s2-05","q":"Contoh konduksi di rumah …","options":["Gagang panci logam panas","Air mendidih berputar","Sinar matahari","Angin laut"],"answer":0,"explain":"Panas merambat pada logam."},
+  {"id":"fs7b3-s2-06","q":"Contoh konveksi …","options":["Angin darat","Sendok panas","Sinar lampu","Wajan besi"],"answer":0,"explain":"Angin darat karena perbedaan suhu."},
+  {"id":"fs7b3-s2-07","q":"Contoh radiasi …","options":["Hangat matahari","Angin laut","Panci panas","Air mendidih"],"answer":0,"explain":"Panas matahari sampai bumi."},
+  {"id":"fs7b3-s2-08","q":"Rumus kalor jenis?","options":["Q = m c ΔT","Q = m v","Q = F s","Q = I t"],"answer":0,"explain":"Kalor untuk naikkan suhu."},
+  {"id":"fs7b3-s2-09","q":"Kalor jenis air sekitar …","options":["4200 J/kg°C","1000 J/kg°C","200 J/kg°C","5000 J/kg°C"],"answer":0,"explain":"Air tinggi c = 4200."},
+  {"id":"fs7b3-s2-10","q":"Faktor Q dipengaruhi …","options":["m, c, ΔT","Warna benda","Bentuk","Tekanan"],"answer":0,"explain":"Tiga variabel di rumus."},
+  {"id":"fs7b3-s2-11","q":"Kapasitas kalor berarti …","options":["Kalor untuk naikkan suhu benda 1°C","Kalor jenis per kg","Energi potensial","Energi listrik"],"answer":0,"explain":"Total kalor per benda."},
+  {"id":"fs7b3-s2-12","q":"Melebur membutuhkan …","options":["Kalor laten","Kalor jenis","Kalor listrik","Kalor kalor"],"answer":0,"explain":"Kalor laten fusi."},
+  {"id":"fs7b3-s2-13","q":"Mendidih membutuhkan …","options":["Kalor laten uap","Kalor jenis","Kalor listrik","Kalor kinetik"],"answer":0,"explain":"Laten uap memutus ikatan."},
+  {"id":"fs7b3-s2-14","q":"Kalor laten terjadi tanpa …","options":["Perubahan suhu","Perubahan wujud","Energi","Partikel"],"answer":0,"explain":"Suhu tetap saat fase berubah."},
+  {"id":"fs7b3-s2-15","q":"Mengembun melepaskan …","options":["Kalor laten uap","Kalor laten es","Kalor jenis","Kalor listrik"],"answer":0,"explain":"Gas ke cair melepas kalor."},
+  {"id":"fs7b3-s2-16","q":"Sublimasi membutuhkan …","options":["Kalor untuk padat ke gas","Kalor untuk gas ke padat","Tanpa kalor","Energi listrik"],"answer":0,"explain":"Padat langsung ke gas."},
+  {"id":"fs7b3-s2-17","q":"Jalanan terasa panas siang hari karena …","options":["Radiasi matahari","Konduksi udara","Konveksi awan","Evaporasi"],"answer":0,"explain":"Radiasi memanaskan permukaan."},
+  {"id":"fs7b3-s2-18","q":"Sendok kayu tetap dingin sebab …","options":["Isolator panas","Konduktor baik","Memantulkan panas","Berbahan logam"],"answer":0,"explain":"Kayu penghantar buruk."},
+  {"id":"fs7b3-s2-19","q":"Uap naik dari cangkir kopi contoh …","options":["Konveksi","Konduksi","Radiasi","Difusi"],"answer":0,"explain":"Udara panas naik."},
+  {"id":"fs7b3-s2-20","q":"Dinding termos berlapis perak untuk mengurangi …","options":["Radiasi","Konduksi","Konveksi","Evaporasi"],"answer":0,"explain":"Lapisan memantulkan radiasi."}
+]

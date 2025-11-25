@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b3-s3-01","q":"Konduksi terjadi pada …","options":["Kontak langsung","Perpindahan massa","Gelombang EM","Vakum"],"answer":0,"explain":"Butuh kontak fisik."},
+  {"id":"fs7b3-s3-02","q":"Konveksi melibatkan …","options":["Aliran fluida","Getaran atom","Gelombang cahaya","Medan magnet"],"answer":0,"explain":"Fluida bergerak bawa kalor."},
+  {"id":"fs7b3-s3-03","q":"Radiasi dapat terjadi di …","options":["Ruang hampa","Logam","Kayu","Air"],"answer":0,"explain":"Radiasi tidak butuh medium."},
+  {"id":"fs7b3-s3-04","q":"Q = m c ΔT, jika m naik, Q …","options":["Membesar","Tetap","Mengecil","Negatif"],"answer":0,"explain":"Kalor sebanding massa."},
+  {"id":"fs7b3-s3-05","q":"Kalor jenis kecil berarti …","options":["Mudah panas","Sulit panas","Tidak berubah","Tanpa massa"],"answer":0,"explain":"Butuh kalor sedikit naik suhu."},
+  {"id":"fs7b3-s3-06","q":"Contoh radiasi sehari-hari …","options":["Panas api unggun","Air mendidih","Sendok logam panas","Angin"],"answer":0,"explain":"Panas dipancarkan ke tubuh."},
+  {"id":"fs7b3-s3-07","q":"Contoh konduksi negatif …","options":["Kayu isolator","Besi panas","Panci logam","Pipa tembaga"],"answer":0,"explain":"Kayu tidak menghantar baik."},
+  {"id":"fs7b3-s3-08","q":"Melebur butuh …","options":["Kalor laten fusi","Kalor laten uap","Kalor jenis kecil","Kalor listrik"],"answer":0,"explain":"Energi memutus ikatan padat."},
+  {"id":"fs7b3-s3-09","q":"Membeku …","options":["Melepas kalor laten","Menyerap kalor laten","Tidak ada kalor","Kalor jenis"],"answer":0,"explain":"Perubahan ke padat melepas kalor."},
+  {"id":"fs7b3-s3-10","q":"Mendidih menyerap …","options":["Kalor laten uap","Kalor laten es","Kalor listrik","Kalor jenis"],"answer":0,"explain":"Cair ke gas butuh laten uap."},
+  {"id":"fs7b3-s3-11","q":"Mengembun …","options":["Melepas kalor","Menyerap kalor","Netral","Membeku"],"answer":0,"explain":"Gas ke cair melepas energi."},
+  {"id":"fs7b3-s3-12","q":"Sublimasi padat ke gas memerlukan …","options":["Kalor","Pendinginan","Tekanan tinggi","Tanpa energi"],"answer":0,"explain":"Butuh energi untuk lepas ikatan."},
+  {"id":"fs7b3-s3-13","q":"Menaruh sendok logam di mulut terasa dingin karena …","options":["Konduksi panas keluar","Radiasi masuk","Konveksi besar","Reaksi kimia"],"answer":0,"explain":"Panas tubuh mengalir ke logam."},
+  {"id":"fs7b3-s3-14","q":"Udara panas naik di ruangan karena …","options":["Konveksi","Konduksi","Radiasi","Difusi"],"answer":0,"explain":"Fluida panas kurang rapat naik."},
+  {"id":"fs7b3-s3-15","q":"Dinding termos kosong di tengah untuk mengurangi …","options":["Konduksi/konveksi","Radiasi","Hambatan listrik","Energi mekanik"],"answer":0,"explain":"Vakum hambat konduksi/konveksi."},
+  {"id":"fs7b3-s3-16","q":"Lapisan perak pada termos mengurangi …","options":["Radiasi","Konduksi","Konveksi","Evaporasi"],"answer":0,"explain":"Memantulkan radiasi panas."},
+  {"id":"fs7b3-s3-17","q":"Pakaian tebal mengurangi …","options":["Konduksi","Radiasi tinggi","Konveksi besar","Energi kimia"],"answer":0,"explain":"Serat jebak udara isolator."},
+  {"id":"fs7b3-s3-18","q":"Q besar jika …","options":["ΔT besar","ΔT kecil","m kecil","c kecil"],"answer":0,"explain":"Kalor sebanding selisih suhu."},
+  {"id":"fs7b3-s3-19","q":"Kalor jenis air tinggi berarti …","options":["Perlu banyak kalor naik suhu","Mudah panas","Mudah dingin","Tidak bisa disimpan"],"answer":0,"explain":"Butuh energi besar per kenaikan suhu."},
+  {"id":"fs7b3-s3-20","q":"Es mencair di tangan contoh …","options":["Menyerap kalor tangan","Melepas kalor ke tangan","Radiasi ke udara","Konveksi ke logam"],"answer":0,"explain":"Es menyerap panas tubuh."}
+]

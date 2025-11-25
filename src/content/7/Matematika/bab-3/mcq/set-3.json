@@ -1,5 +1,5 @@
 [
-  {"id":"mt7b3-s3-01","q":"Himpunan semesta U={1,2,3,4,5}. A={2,4}. Komplemen A?","options":["{1,3,5}","{2,4}","{1,2,3,4,5}","{ }"] ,"answer":0,"explain":"Elemen U di luar A."},
+  {"id":"mt7b3-s3-01","q":"Himpunan semesta U={1,2,3,4,5}. A={2,4}. Komplemen A?","options":["{1,3,5}","{2,4}","{1,2,3,4,5}","{}"],"answer":0,"explain":"Elemen U di luar A."},
   {"id":"mt7b3-s3-02","q":"A={ganjil ≤9}. Irisan A dengan {5,6,7}?","options":["{5,7}","{5}","{6}","{6,7}"],"answer":0,"explain":"Irisan ambil elemen sama."},
   {"id":"mt7b3-s3-03","q":"Union {a,b} dan {b,c} adalah …","options":["{a,b,c}","{b}","{a}","{c}"],"answer":0,"explain":"Gabungan semua elemen unik."},
   {"id":"mt7b3-s3-04","q":"Jika A∩B ≠ ∅ artinya …","options":["Ada elemen sama","Tak ada elemen sama","A dan B kosong","A subset B"],"answer":0,"explain":"Irisan tidak kosong berarti berbagi anggota."},
@@ -17,6 +17,6 @@
   {"id":"mt7b3-s3-16","q":"Jika A⊂B dan B punya 10 anggota, maka n(A) …","options":["≤10","=10",">10","<0"],"answer":0,"explain":"Subset tak bisa lebih banyak."},
   {"id":"mt7b3-s3-17","q":"Dalam soal tiga himpunan, langkah pertama …","options":["Isi irisan tiga dulu","Isi komplemen dulu","Isi union dulu","Isi sembarang"],"answer":0,"explain":"Mulai dari area paling spesifik."},
   {"id":"mt7b3-s3-18","q":"Himpunan semesta ditulis biasa dengan huruf …","options":["U","u","S kecil","K"],"answer":0,"explain":"Huruf U melambangkan semesta."},
-  {"id":"mt7b3-s3-19","q":"Komplemen A di U sama dengan …","options":["U\A","A\U","A∩U","A∪U"],"answer":0,"explain":"Selisih semesta dengan A."},
+  {"id":"mt7b3-s3-19","q":"Komplemen A di U sama dengan …","options":["U\\A","A\\U","A∩U","A∪U"],"answer":0,"explain":"Selisih semesta dengan A."},
   {"id":"mt7b3-s3-20","q":"Jika A={1,2}, n(P(A))=? (P himpunan kuasa)","options":["4","2","3","5"],"answer":0,"explain":"2^2 subset =4."}
 ]

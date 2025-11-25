@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mt2b3-s1-01",
+    "q": "Pecahan mana yang bisa diubah ke pecahan campuran?",
+    "options": ["7/3", "3/7", "2/5", "1/4"],
+    "answer": 0,
+    "explain": "Pembilang lebih besar dari penyebut."
+  },
+  {
+    "id": "mt2b3-s1-02",
+    "q": "Ubah 9/4 ke pecahan campuran.",
+    "options": ["2 1/4", "2 3/4", "3 1/4", "1 2/4"],
+    "answer": 0,
+    "explain": "9 ÷ 4 = 2 sisa 1."
+  },
+  {
+    "id": "mt2b3-s1-03",
+    "q": "Ubah 11/5 ke pecahan campuran.",
+    "options": ["2 1/5", "3 1/5", "2 3/5", "1 4/5"],
+    "answer": 0,
+    "explain": "11 ÷ 5 = 2 sisa 1."
+  },
+  {
+    "id": "mt2b3-s1-04",
+    "q": "Ubah 3 2/5 ke pecahan biasa.",
+    "options": ["17/5", "15/5", "13/5", "12/5"],
+    "answer": 0,
+    "explain": "3×5 + 2 = 17."
+  },
+  {
+    "id": "mt2b3-s1-05",
+    "q": "Ubah 4 1/3 ke pecahan biasa.",
+    "options": ["13/3", "12/3", "14/3", "11/3"],
+    "answer": 0,
+    "explain": "4×3 + 1 = 13."
+  },
+  {
+    "id": "mt2b3-s1-06",
+    "q": "Pecahan desimal dari 1/2 adalah …",
+    "options": ["0,5", "0,2", "0,25", "0,75"],
+    "answer": 0,
+    "explain": "1 ÷ 2 = 0,5."
+  },
+  {
+    "id": "mt2b3-s1-07",
+    "q": "Pecahan desimal dari 3/4 adalah …",
+    "options": ["0,34", "0,7", "0,75", "0,5"],
+    "answer": 2,
+    "explain": "3 ÷ 4 = 0,75."
+  },
+  {
+    "id": "mt2b3-s1-08",
+    "q": "Mana yang lebih besar: 2/3 atau 3/5?",
+    "options": ["2/3", "3/5", "Sama", "Tidak tahu"],
+    "answer": 0,
+    "explain": "0,67 lebih besar dari 0,6."
+  },
+  {
+    "id": "mt2b3-s1-09",
+    "q": "Mana yang lebih besar: 5/8 atau 4/6?",
+    "options": ["4/6", "5/8", "Sama", "Tidak tahu"],
+    "answer": 0,
+    "explain": "0,67 lebih besar dari 0,625."
+  },
+  {
+    "id": "mt2b3-s1-10",
+    "q": "Urutkan terkecil ke terbesar: 1/7, 5/7, 3/7, 2/7.",
+    "options": ["1/7, 2/7, 3/7, 5/7", "5/7, 3/7, 2/7, 1/7", "2/7, 1/7, 3/7, 5/7", "1/7, 3/7, 2/7, 5/7"],
+    "answer": 0,
+    "explain": "Penyebut sama, bandingkan pembilang."
+  },
+  {
+    "id": "mt2b3-s1-11",
+    "q": "Urutkan terbesar ke terkecil: 1/2, 3/4, 2/3, 1/4.",
+    "options": ["3/4, 2/3, 1/2, 1/4", "2/3, 3/4, 1/2, 1/4", "1/2, 3/4, 2/3, 1/4", "1/4, 1/2, 2/3, 3/4"],
+    "answer": 0,
+    "explain": "Nilai desimal: 0,75>0,67>0,5>0,25."
+  },
+  {
+    "id": "mt2b3-s1-12",
+    "q": "5/8 − 2/8 sama dengan …",
+    "options": ["3/8", "7/8", "2/8", "5/16"],
+    "answer": 0,
+    "explain": "Kurangi pembilang karena penyebut sama."
+  },
+  {
+    "id": "mt2b3-s1-13",
+    "q": "7/9 − 2/9 sama dengan …",
+    "options": ["5/9", "9/9", "3/9", "2/7"],
+    "answer": 0,
+    "explain": "Kurangi pembilang 7-2."
+  },
+  {
+    "id": "mt2b3-s1-14",
+    "q": "Jika gambar menunjukkan 1/4 + 2/4 bagian kue, hasilnya …",
+    "options": ["3/4", "1/2", "1/4", "4/4"],
+    "answer": 0,
+    "explain": "Jumlah pembilang 1+2."
+  },
+  {
+    "id": "mt2b3-s1-15",
+    "q": "Dua batang menunjukkan 1/3 dan 1/3 bagian. Totalnya …",
+    "options": ["2/3", "1/3", "1/6", "3/3"],
+    "answer": 0,
+    "explain": "1/3 + 1/3 = 2/3."
+  },
+  {
+    "id": "mt2b3-s1-16",
+    "q": "14/6 diubah ke pecahan campuran sederhana.",
+    "options": ["2 1/3", "2 2/6", "3 2/6", "1 4/6"],
+    "answer": 0,
+    "explain": "14 ÷ 6 = 2 sisa 2, sederhanakan."
+  },
+  {
+    "id": "mt2b3-s1-17",
+    "q": "7/2 diubah ke pecahan campuran.",
+    "options": ["3 1/2", "2 1/2", "3 2/7", "1 3/2"],
+    "answer": 0,
+    "explain": "7 ÷ 2 = 3 sisa 1."
+  },
+  {
+    "id": "mt2b3-s1-18",
+    "q": "2 3/4 diubah ke pecahan biasa.",
+    "options": ["11/4", "9/4", "7/4", "13/4"],
+    "answer": 0,
+    "explain": "2×4 + 3 = 11."
+  },
+  {
+    "id": "mt2b3-s1-19",
+    "q": "Satu kue dibagi 8. Dika makan 3 potong. Sisanya …",
+    "options": ["5/8", "3/8", "1/8", "8/8"],
+    "answer": 0,
+    "explain": "Sisa 8-3 = 5 potong."
+  },
+  {
+    "id": "mt2b3-s1-20",
+    "q": "Dari 1 liter jus, 2/5 liter diminum. Sisa jus …",
+    "options": ["3/5 liter", "2/5 liter", "4/5 liter", "1/5 liter"],
+    "answer": 0,
+    "explain": "1 − 2/5 = 3/5."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "fs7b4-s1-01",
+    "q": "Gerak didefinisikan sebagai …",
+    "options": [
+      "Besar massa",
+      "Perubahan suhu",
+      "Perubahan posisi terhadap acuan",
+      "Perubahan warna"
+    ],
+    "answer": 2,
+    "explain": "Gerak tergantung titik acuan."
+  },
+  {
+    "id": "fs7b4-s1-02",
+    "q": "Benda diam menurut orang di bus dapat bergerak bagi …",
+    "options": [
+      "Teman sebangku",
+      "Sopir",
+      "Penumpang sebelah",
+      "Pengamat di trotoar"
+    ],
+    "answer": 3,
+    "explain": "Relatif terhadap acuan luar."
+  },
+  {
+    "id": "fs7b4-s1-03",
+    "q": "GLB memiliki …",
+    "options": [
+      "Kecepatan konstan",
+      "Percepatan nol selalu negatif",
+      "Percepatan konstan",
+      "Lintasan melingkar"
+    ],
+    "answer": 0,
+    "explain": "Kecepatan tetap, percepatan nol."
+  },
+  {
+    "id": "fs7b4-s1-04",
+    "q": "GLBB memiliki …",
+    "options": [
+      "Lintasan acak",
+      "Percepatan konstan",
+      "Kecepatan konstan",
+      "Percepatan nol"
+    ],
+    "answer": 1,
+    "explain": "Percepatan tetap mengubah kecepatan."
+  },
+  {
+    "id": "fs7b4-s1-05",
+    "q": "Jarak adalah …",
+    "options": [
+      "Selisih posisi awal-akhir",
+      "Kecepatan dikali waktu",
+      "Luas bidang",
+      "Panjang lintasan ditempuh"
+    ],
+    "answer": 3,
+    "explain": "Jarak total lintasan."
+  },
+  {
+    "id": "fs7b4-s1-06",
+    "q": "Perpindahan adalah …",
+    "options": [
+      "Selisih posisi awal-akhir",
+      "Percepatan akhir",
+      "Waktu tempuh",
+      "Total lintasan"
+    ],
+    "answer": 0,
+    "explain": "Vektor dari awal ke akhir."
+  },
+  {
+    "id": "fs7b4-s1-07",
+    "q": "Kecepatan rata-rata = …",
+    "options": [
+      "Jarak x waktu",
+      "Jarak / waktu",
+      "Perpindahan / waktu",
+      "Waktu / jarak"
+    ],
+    "answer": 2,
+    "explain": "Definisi kecepatan rata-rata."
+  },
+  {
+    "id": "fs7b4-s1-08",
+    "q": "Benda dikatakan bergerak jika …",
+    "options": [
+      "Warnanya berubah",
+      "Suhunya berubah",
+      "Massanya berubah",
+      "Posisinya berubah terhadap acuan"
+    ],
+    "answer": 3,
+    "explain": "Gerak relatif posisi."
+  },
+  {
+    "id": "fs7b4-s1-09",
+    "q": "Contoh GLB …",
+    "options": [
+      "Lift dipercepat",
+      "Bola dipercepat",
+      "Mobil konstan 60 km/jam",
+      "Mobil rem mendadak"
+    ],
+    "answer": 2,
+    "explain": "Kecepatan konstan."
+  },
+  {
+    "id": "fs7b4-s1-10",
+    "q": "Contoh GLBB …",
+    "options": [
+      "Mobil kecepatan tetap",
+      "Bola jatuh bebas",
+      "Jarum jam",
+      "Orang diam"
+    ],
+    "answer": 1,
+    "explain": "Jatuh bebas percepatan gravitasi."
+  },
+  {
+    "id": "fs7b4-s1-11",
+    "q": "Kecepatan 20 m/s ditempuh 5 s, jarak?",
+    "options": [
+      "4 m",
+      "100 m",
+      "25 m",
+      "15 m"
+    ],
+    "answer": 1,
+    "explain": "v = s/t maka s=20×5."
+  },
+  {
+    "id": "fs7b4-s1-12",
+    "q": "Grafik posisi-waktu GLB berupa …",
+    "options": [
+      "Garis patah",
+      "Kurva parabola",
+      "Garis lurus miring",
+      "Garis horizontal"
+    ],
+    "answer": 2,
+    "explain": "Posisi bertambah linier."
+  },
+  {
+    "id": "fs7b4-s1-13",
+    "q": "Gerak relatif contoh …",
+    "options": [
+      "Bus berubah warna",
+      "Penumpang duduk tampak diam di bus",
+      "Penumpang tampak diam bagi trotoar",
+      "Titik lampu berubah massa"
+    ],
+    "answer": 1,
+    "explain": "Acuan di bus."
+  },
+  {
+    "id": "fs7b4-s1-14",
+    "q": "Perpindahan nol bisa terjadi saat …",
+    "options": [
+      "Waktu nol",
+      "Kembali ke titik awal",
+      "Bergerak lurus maju",
+      "Berhenti di titik lain"
+    ],
+    "answer": 1,
+    "explain": "Awal=akhir."
+  },
+  {
+    "id": "fs7b4-s1-15",
+    "q": "Kecepatan sesaat GLB sama dengan …",
+    "options": [
+      "Percepatan",
+      "Waktu",
+      "Kecepatan rata-rata",
+      "Jarak"
+    ],
+    "answer": 2,
+    "explain": "Kecepatan konstan."
+  },
+  {
+    "id": "fs7b4-s1-16",
+    "q": "Konsep gerak memerlukan …",
+    "options": [
+      "Perubahan massa",
+      "Perubahan suhu",
+      "Perubahan warna",
+      "Titik acuan"
+    ],
+    "answer": 3,
+    "explain": "Acuan untuk membandingkan posisi."
+  },
+  {
+    "id": "fs7b4-s1-17",
+    "q": "Percepatan GLB …",
+    "options": [
+      "0",
+      "Tak terdefinisi",
+      "Berubah-ubah",
+      "Tetap bukan nol"
+    ],
+    "answer": 0,
+    "explain": "Tidak ada perubahan kecepatan."
+  },
+  {
+    "id": "fs7b4-s1-18",
+    "q": "Contoh gerak konveksi?",
+    "options": [
+      "Orang berjalan",
+      "Air mendidih",
+      "Tidak terkait gerak mekanik",
+      "Mobil melaju"
+    ],
+    "answer": 1,
+    "explain": "Konveksi fluida, bukan topik gerak mekanik."
+  },
+  {
+    "id": "fs7b4-s1-19",
+    "q": "Grafik v-t GLB berupa …",
+    "options": [
+      "Garis miring",
+      "Kurva parabola",
+      "Garis horizontal",
+      "Garis vertikal"
+    ],
+    "answer": 2,
+    "explain": "Kecepatan konstan vs waktu."
+  },
+  {
+    "id": "fs7b4-s1-20",
+    "q": "Rumus kecepatan rata-rata?",
+    "options": [
+      "v = s/t",
+      "v = s×t",
+      "v = s+t",
+      "v = t/s"
+    ],
+    "answer": 0,
+    "explain": "Definisi v = s per t."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b1-s1-01","q":"Besaran adalah …","options":["Sesuatu yang dapat diukur","Nama alat","Benda tetap","Satuan SI"],"answer":0,"explain":"Besaran memiliki nilai dan satuan."},
+  {"id":"fs7b1-s1-02","q":"Satuan untuk besaran pokok panjang adalah …","options":["Meter","Kilogram","Sekon","Kelvin"],"answer":0,"explain":"Satuan SI panjang meter."},
+  {"id":"fs7b1-s1-03","q":"Besaran pokok berikut …","options":["Massa","Kecepatan","Gaya","Luas"],"answer":0,"explain":"Massa termasuk 7 besaran pokok."},
+  {"id":"fs7b1-s1-04","q":"Contoh besaran turunan …","options":["Kecepatan","Waktu","Panjang","Suhu"],"answer":0,"explain":"Kecepatan gabungan panjang dan waktu."},
+  {"id":"fs7b1-s1-05","q":"Simbol SI untuk waktu adalah …","options":["s","m","kg","A"],"answer":0,"explain":"Waktu dilambangkan s (sekon)."},
+  {"id":"fs7b1-s1-06","q":"Alat ukur panjang sederhana …","options":["Mistar","Neraca tiga lengan","Stopwatch","Termometer"],"answer":0,"explain":"Mistar untuk panjang garis."},
+  {"id":"fs7b1-s1-07","q":"Ketelitian mistar biasanya …","options":["1 mm","1 cm","0,1 mm","1 m"],"answer":0,"explain":"Skala terkecil mistar 1 mm."},
+  {"id":"fs7b1-s1-08","q":"Jangka sorong dapat mengukur hingga …","options":["0,1 mm","1 mm","1 cm","0,5 cm"],"answer":0,"explain":"Ketelitian 0,1 mm."},
+  {"id":"fs7b1-s1-09","q":"Mikrometer sekrup teliti …","options":["0,01 mm","0,1 mm","1 mm","1 cm"],"answer":0,"explain":"Skala terkecil 0,01 mm."},
+  {"id":"fs7b1-s1-10","q":"Massa diukur dengan …","options":["Neraca","Stopwatch","Busur derajat","Termometer"],"answer":0,"explain":"Neraca mengukur massa."},
+  {"id":"fs7b1-s1-11","q":"Neraca tiga lengan digunakan untuk …","options":["Massa","Waktu","Panjang","Suhu"],"answer":0,"explain":"Menimbang benda presisi gram."},
+  {"id":"fs7b1-s1-12","q":"Stopwatch mengukur …","options":["Waktu","Panjang","Massa","Suhu"],"answer":0,"explain":"Stopwatch mengukur interval waktu."},
+  {"id":"fs7b1-s1-13","q":"Kesalahan sistematis terjadi karena …","options":["Alat kurang kalibrasi","Faktor acak","Pembacaan tepat","Sampel banyak"],"answer":0,"explain":"Alat bias memberi selisih tetap."},
+  {"id":"fs7b1-s1-14","q":"Kesalahan acak disebabkan oleh …","options":["Variasi tak terduga","Skala miring tetap","Kalibrasi salah","Zero error"],"answer":0,"explain":"Fluktuasi pengamatan."},
+  {"id":"fs7b1-s1-15","q":"Cara meminimalkan kesalahan acak …","options":["Ulangi pengukuran","Abaikan data","Tambah beban","Kurangi skala"],"answer":0,"explain":"Rata-rata beberapa pengukuran."},
+  {"id":"fs7b1-s1-16","q":"Zero error ada pada …","options":["Alat tak nol saat kosong","Hasil acak","Pembacaan paralaks","Satuan ganda"],"answer":0,"explain":"Skala tidak mulai dari nol."},
+  {"id":"fs7b1-s1-17","q":"Paralaks terjadi saat …","options":["Mata tidak tegak lurus skala","Skala benar","Alat digital","Satuan salah"],"answer":0,"explain":"Sudut pandang miring menggeser pembacaan."},
+  {"id":"fs7b1-s1-18","q":"Besaran turunan luas berasal dari …","options":["Panjang x panjang","Massa x waktu","Waktu x suhu","Panjang x suhu"],"answer":0,"explain":"Luas hasil kali dua panjang."},
+  {"id":"fs7b1-s1-19","q":"Satuan SI massa adalah …","options":["Kilogram","Gram","Newton","Pound"],"answer":0,"explain":"Satuan dasar massa kilogram."},
+  {"id":"fs7b1-s1-20","q":"Sensor waktu modern contohnya …","options":["Photogate","Mistar","Neraca pegas","Termometer"],"answer":0,"explain":"Photogate mengukur interval jatuh."}
+]

@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b1-s5-01","q":"Besaran pokok jumlah zat simbol …","options":["n","m","t","I"],"answer":0,"explain":"Jumlah zat dilambangkan n."},
+  {"id":"fs7b1-s5-02","q":"Satuan arus listrik …","options":["Ampere","Volt","Ohm","Coulomb"],"answer":0,"explain":"Satuan pokok ampere."},
+  {"id":"fs7b1-s5-03","q":"Satuan intensitas cahaya …","options":["Candela","Lumen","Lux","Watt"],"answer":0,"explain":"Candela satuan dasar."},
+  {"id":"fs7b1-s5-04","q":"Besaran turunan energi satuannya …","options":["Joule","Watt","Newton","Pascal"],"answer":0,"explain":"Energi SI joule."},
+  {"id":"fs7b1-s5-05","q":"Percepatan satuannya …","options":["m/s^2","m/s","m","N"],"answer":0,"explain":"Panjang per waktu kuadrat."},
+  {"id":"fs7b1-s5-06","q":"Mikrometer sekrup cocok untuk …","options":["Ketebalan tipis","Jarak lapangan","Waktu","Massa"],"answer":0,"explain":"Alat presisi benda tipis."},
+  {"id":"fs7b1-s5-07","q":"Membaca jangka sorong: setelah baca skala utama, lalu …","options":["Tambahkan nonius","Kalikan dua","Kurangi skala","Bagi dua"],"answer":0,"explain":"Nilai total = utama + nonius."},
+  {"id":"fs7b1-s5-08","q":"Mengukur waktu 100 m sprint pakai …","options":["Stopwatch","Neraca","Mistar","Termometer"],"answer":0,"explain":"Stopwatch untuk interval detik."},
+  {"id":"fs7b1-s5-09","q":"Alat ukur massa digital perlu …","options":["Kalibrasi nol","Paralaks","Jangka","Busur"],"answer":0,"explain":"Setel zero sebelum pakai."},
+  {"id":"fs7b1-s5-10","q":"Kesalahan acak bisa dari …","options":["Getaran meja","Zero error","Skala geser","Kalibrasi salah"],"answer":0,"explain":"Lingkungan berubah-ubah."},
+  {"id":"fs7b1-s5-11","q":"Kesalahan sistematis berarti …","options":["Bias tetap","Acak kecil","Tidak ada","Selalu nol"],"answer":0,"explain":"Offset konstan alat."},
+  {"id":"fs7b1-s5-12","q":"Cara kurangi kesalahan sistematis …","options":["Kalibrasi","Abaikan","Kurangi ulang","Miringkan alat"],"answer":0,"explain":"Kalibrasi hilangkan bias."},
+  {"id":"fs7b1-s5-13","q":"Cara kurangi kesalahan acak …","options":["Ulangi dan rata-rata","Ambil satu data","Menambah beban","Memiringkan alat"],"answer":0,"explain":"Rerata menekan acak."},
+  {"id":"fs7b1-s5-14","q":"Besaran pokok massa satuannya …","options":["kg","g","N","J"],"answer":0,"explain":"SI massa kilogram."},
+  {"id":"fs7b1-s5-15","q":"Satuan volume alternatif liter bukan SI, setara …","options":["1 dm^3","1 m^3","1 cm^3","1 mm^3"],"answer":0,"explain":"1 L = 1 dm^3."},
+  {"id":"fs7b1-s5-16","q":"Mengukur ketebalan kertas setumpuk untuk …","options":["Mengurangi kesalahan","Memperbesar kesalahan","Menambah zero error","Menghilangkan satuan"],"answer":0,"explain":"Rata-rata bagi jumlah lembar."},
+  {"id":"fs7b1-s5-17","q":"Nilai pengukuran harus ditulis …","options":["Dengan satuan","Tanpa satuan","Hanya simbol","Dengan warna"],"answer":0,"explain":"Nilai wajib disertai satuan."},
+  {"id":"fs7b1-s5-18","q":"Alat ukur waktu presisi laboratorium …","options":["Sensor photogate","Jam pasir","Jarum jam","Busur"],"answer":0,"explain":"Photogate akurat mikrodetik."},
+  {"id":"fs7b1-s5-19","q":"Besaran turunan daya satuan …","options":["Watt","Joule","Newton","Kelvin"],"answer":0,"explain":"Daya joule per detik."},
+  {"id":"fs7b1-s5-20","q":"Kesalahan paralaks muncul ketika …","options":["Membaca dari sudut miring","Mata tegak lurus","Alat digital","Kalibrasi tepat"],"answer":0,"explain":"Pandangan miring geser skala."}
+]

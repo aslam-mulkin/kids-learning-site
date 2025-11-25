@@ -1,0 +1,22 @@
+[
+  {"id":"fs7b1-s2-01","q":"Besaran pokok berikut …","options":["Waktu","Kecepatan","Gaya","Luas"],"answer":0,"explain":"Waktu termasuk besaran pokok."},
+  {"id":"fs7b1-s2-02","q":"Besaran turunan contoh …","options":["Volume","Waktu","Massa","Suhu"],"answer":0,"explain":"Volume gabungan panjang."},
+  {"id":"fs7b1-s2-03","q":"Satuan SI waktu …","options":["s","kg","m","A"],"answer":0,"explain":"Sekon dilambangkan s."},
+  {"id":"fs7b1-s2-04","q":"Satuan SI arus listrik …","options":["Ampere","Volt","Ohm","Coulomb"],"answer":0,"explain":"Arus dasar ampere."},
+  {"id":"fs7b1-s2-05","q":"Alat ukur panjang presisi tinggi …","options":["Mikrometer sekrup","Mistar","Meteran kain","Busur derajat"],"answer":0,"explain":"Mikrometer skala 0,01 mm."},
+  {"id":"fs7b1-s2-06","q":"Skala utama jangka sorong dibaca pada …","options":["Skala bawah","Skala atas","Jarum jam","Angka digital"],"answer":0,"explain":"Skala utama di batang utama."},
+  {"id":"fs7b1-s2-07","q":"Skala nonius jangka sorong berfungsi …","options":["Menambah ketelitian","Mengurangi panjang","Menimbang massa","Mengukur waktu"],"answer":0,"explain":"Nonius memberi pecahan mm."},
+  {"id":"fs7b1-s2-08","q":"Neraca digital kelebihannya …","options":["Pembacaan langsung","Perlu kalibrasi manual tiap kali","Tidak presisi","Hanya untuk benda kecil"],"answer":0,"explain":"Angka langsung tanpa hitung skala."},
+  {"id":"fs7b1-s2-09","q":"Stopwatch analog ketelitian umum …","options":["0,1 s","1 s","0,01 s","10 s"],"answer":0,"explain":"Sekitar satu persepuluh detik."},
+  {"id":"fs7b1-s2-10","q":"Photogate digunakan untuk …","options":["Mengukur interval waktu cepat","Mengukur suhu","Menimbang massa","Mengukur tekanan"],"answer":0,"explain":"Sensor cahaya untuk waktu jatuh."},
+  {"id":"fs7b1-s2-11","q":"Kesalahan sistematis contoh …","options":["Zero error","Fluktuasi angin","Gerakan tangan","Getaran meja"],"answer":0,"explain":"Skala awal tidak nol."},
+  {"id":"fs7b1-s2-12","q":"Kesalahan acak dikurangi dengan …","options":["Rata-rata data","Ambil satu data","Perbesar zero error","Abaikan pengukuran"],"answer":0,"explain":"Rerata menekan acak."},
+  {"id":"fs7b1-s2-13","q":"Pembacaan sebaiknya tegak lurus skala untuk menghindari …","options":["Paralaks","Zero error","Kalibrasi","Sistematis"],"answer":0,"explain":"Pandangan miring timbul paralaks."},
+  {"id":"fs7b1-s2-14","q":"Besaran turunan gaya satuannya …","options":["Newton","Joule","Watt","Pascal"],"answer":0,"explain":"Gaya turunan kg.m/s^2."},
+  {"id":"fs7b1-s2-15","q":"Besaran turunan tekanan satuan SI …","options":["Pascal","Newton","Joule","Watt"],"answer":0,"explain":"Pascal = N/m^2."},
+  {"id":"fs7b1-s2-16","q":"Suhu satuan SI …","options":["Kelvin","Celcius","Fahrenheit","Reamur"],"answer":0,"explain":"Suhu dasar Kelvin."},
+  {"id":"fs7b1-s2-17","q":"Mengukur massa dengan neraca tiga lengan: pertama …","options":["Nolkan skala","Taruh beban langsung","Tekan tombol start","Baca digital"],"answer":0,"explain":"Setel nol sebelum menimbang."},
+  {"id":"fs7b1-s2-18","q":"Jangka sorong pembacaan total …","options":["Skala utama + nonius","Skala utama saja","Nonius saja","Dikalikan dua"],"answer":0,"explain":"Tambahkan nilai nonius ke utama."},
+  {"id":"fs7b1-s2-19","q":"Mikrometer sekrup pembacaan …","options":["Skala utama + putar","Digital langsung","Skala nonius","Hanya putar"],"answer":0,"explain":"Jumlahkan skala batang dan putar."},
+  {"id":"fs7b1-s2-20","q":"Satuan volume SI turunan …","options":["m^3","m","cm","L"],"answer":0,"explain":"Volume turunan panjang kubik."}
+]

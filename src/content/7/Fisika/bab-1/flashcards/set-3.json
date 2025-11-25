@@ -1,0 +1,12 @@
+[
+  {"q":"Bagaimana membaca jangka sorong?","a":"Baca skala utama, tambah nilai nonius yang berhimpit."},
+  {"q":"Bagaimana membaca mikrometer?","a":"Jumlahkan skala batang dan skala putar."},
+  {"q":"Ketelitian mikrometer sekrup?","a":"0,01 mm per garis putar."},
+  {"q":"Ketelitian jangka sorong?","a":"0,1 mm (umum)."},
+  {"q":"Apa itu neraca tiga lengan?","a":"Neraca mekanik dengan tiga skala geser."},
+  {"q":"Bagaimana nolkan neraca tiga lengan?","a":"Geser semua lengan ke nol lalu sejajarkan jarum."},
+  {"q":"Kelebihan neraca digital?","a":"Pembacaan langsung, minim paralaks."},
+  {"q":"Kesalahan sistematis?","a":"Kesalahan tetap karena alat/kalibrasi."},
+  {"q":"Kesalahan acak?","a":"Variasi tak terduga dari pengukuran ke pengukuran."},
+  {"q":"Cara kurangi kesalahan acak?","a":"Lakukan pengulangan dan rata-rata."}
+]

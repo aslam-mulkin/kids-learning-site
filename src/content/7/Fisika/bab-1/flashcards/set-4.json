@@ -1,0 +1,12 @@
+[
+  {"q":"Satuan gaya?","a":"Newton (N)."},
+  {"q":"Satuan energi?","a":"Joule (J)."},
+  {"q":"Satuan daya?","a":"Watt (W)."},
+  {"q":"Satuan tekanan?","a":"Pascal (Pa)."},
+  {"q":"Satuan luas?","a":"Meter persegi (m^2)."},
+  {"q":"Satuan volume?","a":"Meter kubik (m^3)."},
+  {"q":"Satuan massa jenis?","a":"kg/m^3."},
+  {"q":"Satuan kecepatan?","a":"m/s."},
+  {"q":"Satuan percepatan?","a":"m/s^2."},
+  {"q":"Satuan muatan listrik?","a":"Coulomb (C)."}
+]

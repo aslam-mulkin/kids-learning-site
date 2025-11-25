@@ -1,0 +1,12 @@
+[
+  {"q":"Satuan SI intensitas cahaya?","a":"Candela (cd)."},
+  {"q":"Satuan SI jumlah zat?","a":"Mol (mol)."},
+  {"q":"Apa fungsi jangka sorong?","a":"Mengukur panjang/diameter dengan ketelitian 0,1 mm."},
+  {"q":"Apa fungsi mikrometer sekrup?","a":"Mengukur ketebalan tipis ketelitian 0,01 mm."},
+  {"q":"Ketelitian mistar?","a":"Umumnya 1 mm."},
+  {"q":"Apa itu skala utama jangka sorong?","a":"Skala pada batang utama (mm)."},
+  {"q":"Apa itu skala nonius jangka sorong?","a":"Skala tambahan untuk pecahan mm."},
+  {"q":"Apa itu zero error?","a":"Skala tidak nol saat alat kosong."},
+  {"q":"Apa itu paralaks?","a":"Kesalahan baca karena mata miring terhadap skala."},
+  {"q":"Bagaimana menghindari paralaks?","a":"Baca skala dengan mata tegak lurus."}
+]

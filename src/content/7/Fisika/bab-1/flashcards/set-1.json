@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu besaran?","a":"Sesuatu yang dapat diukur dan dinyatakan dengan angka dan satuan."},
+  {"q":"Sebutan besaran yang disepakati dalam SI?","a":"Besaran pokok."},
+  {"q":"Contoh besaran pokok?","a":"Panjang, massa, waktu, arus, suhu, jumlah zat, intensitas cahaya."},
+  {"q":"Apa itu besaran turunan?","a":"Besaran dari kombinasi besaran pokok."},
+  {"q":"Contoh besaran turunan?","a":"Kecepatan, gaya, luas, volume, energi."},
+  {"q":"Satuan SI panjang?","a":"Meter (m)."},
+  {"q":"Satuan SI massa?","a":"Kilogram (kg)."},
+  {"q":"Satuan SI waktu?","a":"Sekon (s)."},
+  {"q":"Satuan SI arus listrik?","a":"Ampere (A)."},
+  {"q":"Satuan SI suhu?","a":"Kelvin (K)."}
+]

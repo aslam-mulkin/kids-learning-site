@@ -1,0 +1,12 @@
+[
+  {"q":"Apa itu photogate?","a":"Sensor cahaya untuk mengukur waktu lewatnya benda."},
+  {"q":"Apa itu stopwatch?","a":"Alat ukur interval waktu."},
+  {"q":"Mengapa tulis satuan pada hasil ukur?","a":"Menghindari ambigu dan menyatakan besaran."},
+  {"q":"Apa itu ketelitian alat?","a":"Skala terkecil yang dapat dibaca."},
+  {"q":"Apa itu skala terkecil?","a":"Selisih dua tanda skala berurutan."},
+  {"q":"Mengapa ukur berulang?","a":"Memperkecil kesalahan acak dengan rata-rata."},
+  {"q":"Apa itu kesalahan sistematis?","a":"Kesalahan tetap karena alat/kalibrasi."},
+  {"q":"Apa itu kesalahan acak?","a":"Variasi tak terduga setiap pengukuran."},
+  {"q":"Bagaimana kurangi zero error?","a":"Setel nol atau koreksi hasil."},
+  {"q":"Bagaimana kurangi paralaks?","a":"Lihat skala tegak lurus."}
+]

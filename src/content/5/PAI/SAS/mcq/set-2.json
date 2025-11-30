@@ -1,0 +1,278 @@
+[
+    {
+      "question": "Apa salah satu tanda kebesaran Allah dalam Q.S Ar-Rum 30:22?",
+      "options": [
+        "Perbedaan bahasa manusia",
+        "Jumlah kekayaan manusia",
+        "Bentuk rumah ibadah",
+        "Jumlah ibadah sunnah"
+      ],
+      "answer": 0,
+      "explain": "Ayat menyebut perbedaan bahasa sebagai tanda kebesaran Allah."
+    },
+    {
+      "question": "Kata 'alsinatikum' dalam Q.S Ar-Rum 30:22 berarti...",
+      "options": [
+        "Warna kulit",
+        "Bahasa kalian",
+        "Bangsa kalian",
+        "Rizki kalian"
+      ],
+      "answer": 1,
+      "explain": "Alsinatikum berarti bahasa kalian."
+    },
+    {
+      "question": "Asmaul Husna Al-Qowiyyu mengajarkan manusia untuk...",
+      "options": [
+        "Rajin menjaga kesehatan",
+        "Sering bermalas-malasan",
+        "Menghindari olahraga",
+        "Tidak mau berusaha"
+      ],
+      "answer": 0,
+      "explain": "Menjaga kekuatan diri meneladani Al-Qowiyyu."
+    },
+    {
+      "question": "Sifat Al-Qoyyum mengajarkan manusia untuk...",
+      "options": [
+        "Suka bergantung pada orang lain",
+        "Mandiri dan bertanggung jawab",
+        "Malas melakukan tugas",
+        "Meninggalkan kewajiban"
+      ],
+      "answer": 1,
+      "explain": "Al-Qoyyum menekankan kemandirian."
+    },
+    {
+      "question": "Nama lain dari sifat Allah yang Maha Kuat adalah...",
+      "options": [
+        "Al-Qowiyyu",
+        "Ar-Rahman",
+        "Al-Basir",
+        "Al-Aziz"
+      ],
+      "answer": 0,
+      "explain": "Al-Qowiyyu artinya Maha Kuat."
+    },
+    {
+      "question": "Zakat fitrah wajib dikeluarkan saat...",
+      "options": [
+        "Akhir Ramadan",
+        "Hari Jumat",
+        "Awal tahun baru",
+        "Hari Arafah"
+      ],
+      "answer": 0,
+      "explain": "Zakat fitrah dikeluarkan saat akhir Ramadan."
+    },
+    {
+      "question": "Barang yang boleh digunakan untuk zakat fitrah adalah...",
+      "options": [
+        "Roti manis",
+        "Beras",
+        "Buah impor",
+        "Perhiasan"
+      ],
+      "answer": 1,
+      "explain": "Beras adalah makanan pokok zakat fitrah."
+    },
+    {
+      "question": "Mustahik adalah orang yang...",
+      "options": [
+        "Mengeluarkan zakat",
+        "Menerima zakat",
+        "Mengajar zakat",
+        "Mengawasi zakat"
+      ],
+      "answer": 1,
+      "explain": "Mustahik adalah penerima zakat."
+    },
+    {
+      "question": "Zakat mal diberikan atas...",
+      "options": [
+        "Harta tertentu",
+        "Niat saja",
+        "Barang rusak",
+        "Barang haram"
+      ],
+      "answer": 0,
+      "explain": "Zakat mal diberikan atas harta tertentu."
+    },
+    {
+      "question": "Infak dilakukan oleh orang yang...",
+      "options": [
+        "Membutuhkan bantuan",
+        "Ingin menolong sesama",
+        "Tidak memiliki harta",
+        "Sedang marah"
+      ],
+      "answer": 1,
+      "explain": "Infak bertujuan membantu sesama."
+    },
+    {
+      "question": "Infak tidak terikat...",
+      "options": [
+        "Waktu",
+        "Niat",
+        "Amal baik",
+        "Tujuan"
+      ],
+      "answer": 0,
+      "explain": "Infak dapat dilakukan kapan saja."
+    },
+    {
+      "question": "Keuntungan perjanjian Hudaibiyah bagi kaum Muslim adalah...",
+      "options": [
+        "Kesempatan dakwah",
+        "Boleh menyerang Ka'bah",
+        "Boleh memaksakan perang",
+        "Boleh mengambil rampasan"
+      ],
+      "answer": 0,
+      "explain": "Hudaibiyah membuka jalan dakwah."
+    },
+    {
+      "question": "Berapa lama masa gencatan senjata Hudaibiyah?",
+      "options": [
+        "10 tahun",
+        "5 tahun",
+        "1 tahun",
+        "40 hari"
+      ],
+      "answer": 0,
+      "explain": "Gencatan senjata berlangsung 10 tahun."
+    },
+    {
+      "question": "Golongan fakir adalah orang yang...",
+      "options": [
+        "Tidak punya penghasilan memadai",
+        "Selalu bekerja keras",
+        "Memiliki banyak harta",
+        "Tinggal di kota besar"
+      ],
+      "answer": 0,
+      "explain": "Fakir sangat kekurangan penghasilan."
+    },
+    {
+      "question": "Salah satu golongan penerima zakat adalah...",
+      "options": [
+        "Amil",
+        "Raja",
+        "Orang kaya",
+        "Orang sukses"
+      ],
+      "answer": 0,
+      "explain": "Amil adalah pengelola zakat."
+    },
+    {
+      "question": "Amil bertugas...",
+      "options": [
+        "Mengelola zakat",
+        "Menerima zakat",
+        "Menolak sedekah",
+        "Menghabiskan zakat"
+      ],
+      "answer": 0,
+      "explain": "Amil mengelola zakat."
+    },
+    {
+      "question": "Miskin berarti...",
+      "options": [
+        "Tidak mampu memenuhi semua kebutuhan",
+        "Tidak mau bekerja",
+        "Memiliki harta berlebih",
+        "Suka menumpuk harta"
+      ],
+      "answer": 0,
+      "explain": "Miskin masih memiliki penghasilan tetapi tidak cukup."
+    },
+    {
+      "question": "Infak berbeda dari zakat karena...",
+      "options": [
+        "Tidak wajib",
+        "Tidak perlu niat",
+        "Tidak boleh uang",
+        "Tidak boleh makanan"
+      ],
+      "answer": 0,
+      "explain": "Infak tidak wajib seperti zakat."
+    },
+    {
+      "question": "Asmaul Husna berarti...",
+      "options": [
+        "Nama-nama baik Allah",
+        "Nama para nabi",
+        "Nama tempat ibadah",
+        "Nama bintang"
+      ],
+      "answer": 0,
+      "explain": "Asmaul Husna adalah nama-nama baik Allah."
+    },
+    {
+      "question": "Al-Qowiyyu termasuk...",
+      "options": [
+        "Asmaul Husna",
+        "Surat pendek",
+        "Nama malaikat",
+        "Nama nabi"
+      ],
+      "answer": 0,
+      "explain": "Al-Qowiyyu adalah Asmaul Husna."
+    },
+    {
+      "question": "Perbedaan bahasa merupakan...",
+      "options": [
+        "Tanda kebesaran Allah",
+        "Kekurangan manusia",
+        "Pengaruh cuaca",
+        "Perbuatan buruk"
+      ],
+      "answer": 0,
+      "explain": "Perbedaan bahasa disebut tanda kebesaran Allah."
+    },
+    {
+      "question": "Salah satu hikmah zakat adalah...",
+      "options": [
+        "Membantu sesama",
+        "Mengurangi doa",
+        "Menambah kemiskinan",
+        "Menimbulkan iri"
+      ],
+      "answer": 0,
+      "explain": "Zakat membantu sesama."
+    },
+    {
+      "question": "Barang berikut yang dapat dijadikan zakat fitrah adalah...",
+      "options": [
+        "Gandum",
+        "Kue",
+        "Sayuran",
+        "Pakaian"
+      ],
+      "answer": 0,
+      "explain": "Gandum termasuk makanan pokok."
+    },
+    {
+      "question": "Sikap meneladani Al-Qoyyum adalah...",
+      "options": [
+        "Mandiri",
+        "Sombong",
+        "Malas",
+        "Acuh"
+      ],
+      "answer": 0,
+      "explain": "Al-Qoyyum mengajarkan kemandirian."
+    },
+    {
+      "question": "Orang yang menerima zakat disebut...",
+      "options": [
+        "Mustahik",
+        "Khadim",
+        "Mufakkir",
+        "Mukhlis"
+      ],
+      "answer": 0,
+      "explain": "Mustahik adalah penerima zakat."
+    }
+  ]
+  

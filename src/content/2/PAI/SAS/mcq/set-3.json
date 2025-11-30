@@ -1,0 +1,244 @@
+[
+  {
+    "id": "pai2-sas-s3-01",
+    "q": "Salat yang dikerjakan tiga rakaat adalah ...",
+    "options": [
+      "Subuh",
+      "Zuhur",
+      "Asar",
+      "Magrib"
+    ],
+    "answer": 3,
+    "explain": "Dari lima waktu, hanya salat Magrib yang tiga rakaat."
+  },
+  {
+    "id": "pai2-sas-s3-02",
+    "q": "Salat yang dikerjakan dua rakaat adalah ...",
+    "options": [
+      "Subuh",
+      "Zuhur",
+      "Asar",
+      "Isya"
+    ],
+    "answer": 0,
+    "explain": "Salat Subuh dikerjakan dua rakaat."
+  },
+  {
+    "id": "pai2-sas-s3-03",
+    "q": "Salat yang dikerjakan empat rakaat adalah ...",
+    "options": [
+      "Subuh dan Magrib",
+      "Zuhur, Asar, dan Isya",
+      "Subuh, Zuhur, dan Magrib",
+      "Magrib dan Isya"
+    ],
+    "answer": 1,
+    "explain": "Zuhur, Asar, dan Isya masing-masing empat rakaat."
+  },
+  {
+    "id": "pai2-sas-s3-04",
+    "q": "Gerakan terakhir dalam salat adalah ...",
+    "options": [
+      "Ruku",
+      "Sujud",
+      "Duduk tahiyat akhir lalu salam",
+      "Qiyam berdiri"
+    ],
+    "answer": 2,
+    "explain": "Salat ditutup dengan duduk tahiyat akhir dan salam."
+  },
+  {
+    "id": "pai2-sas-s3-05",
+    "q": "Rukun salat yang dilakukan sambil berdiri adalah ...",
+    "options": [
+      "Takbiratul ihram dan membaca Al-Fatihah",
+      "Sujud dan duduk",
+      "Ruku dan sujud",
+      "Salam dan duduk"
+    ],
+    "answer": 0,
+    "explain": "Saat berdiri kita bertakbir dan membaca Al-Fatihah."
+  },
+  {
+    "id": "pai2-sas-s3-06",
+    "q": "Saat ruku, bacaan yang diucapkan adalah ...",
+    "options": [
+      "Subhana rabbiyal a'la",
+      "Subhana rabbiyal azim",
+      "Rabbana atina",
+      "Bismillahirrahmanirrahim"
+    ],
+    "answer": 1,
+    "explain": "Bacaan ruku adalah 'Subhana rabbiyal azim'."
+  },
+  {
+    "id": "pai2-sas-s3-07",
+    "q": "Saat sujud, bacaan yang diucapkan adalah ...",
+    "options": [
+      "Subhana rabbiyal a'la",
+      "Subhana rabbiyal azim",
+      "Rabbana lakal hamd",
+      "Attahiyyatu lillah"
+    ],
+    "answer": 0,
+    "explain": "Bacaan sujud adalah 'Subhana rabbiyal a'la'."
+  },
+  {
+    "id": "pai2-sas-s3-08",
+    "q": "Adzan pertama kali dikumandangkan oleh ...",
+    "options": [
+      "Bilal bin Rabah",
+      "Abu Bakar",
+      "Umar bin Khattab",
+      "Ali bin Abi Thalib"
+    ],
+    "answer": 0,
+    "explain": "Bilal bin Rabah adalah sahabat yang pertama kali mengumandangkan adzan."
+  },
+  {
+    "id": "pai2-sas-s3-09",
+    "q": "Dalam adzan, kalimat 'Allahhu Akbar' artinya ...",
+    "options": [
+      "Allah Maha Besar",
+      "Tiada Tuhan selain Allah",
+      "Mari kita salat",
+      "Aku bersaksi"
+    ],
+    "answer": 0,
+    "explain": "Allahu Akbar berarti Allah Maha Besar."
+  },
+  {
+    "id": "pai2-sas-s3-10",
+    "q": "Dalam adzan, kalimat 'Hayya 'alas shalah' artinya ...",
+    "options": [
+      "Marilah menuju kemenangan",
+      "Marilah menuju salat",
+      "Tiada Tuhan selain Allah",
+      "Allah Maha Besar"
+    ],
+    "answer": 1,
+    "explain": "Hayya 'alas shalah berarti marilah kita mendirikan salat."
+  },
+  {
+    "id": "pai2-sas-s3-11",
+    "q": "Sikap percaya diri yang baik saat ulangan adalah ...",
+    "options": [
+      "Yakin pada kemampuan dan tidak menyontek",
+      "Bergantung pada jawaban teman",
+      "Tidak belajar karena pasrah",
+      "Membiarkan kertas kosong"
+    ],
+    "answer": 0,
+    "explain": "Percaya diri berarti yakin pada usaha sendiri, bukan menyontek."
+  },
+  {
+    "id": "pai2-sas-s3-12",
+    "q": "Contoh perilaku percaya diri di kelas adalah ...",
+    "options": [
+      "Berani mengangkat tangan menjawab pertanyaan guru",
+      "Diam saja walau tahu jawabannya",
+      "Selalu bersembunyi di belakang teman",
+      "Takut menyapa guru"
+    ],
+    "answer": 0,
+    "explain": "Mengangkat tangan menjawab menunjukkan keberanian dan kepercayaan diri."
+  },
+  {
+    "id": "pai2-sas-s3-13",
+    "q": "Sikap tidak percaya diri tampak ketika ...",
+    "options": [
+      "Menerima tugas dengan senang",
+      "Sering berkata 'aku pasti tidak bisa'",
+      "Berlatih membaca doa",
+      "Mencoba mengulang pelajaran"
+    ],
+    "answer": 1,
+    "explain": "Sering mengatakan tidak bisa menunjukkan kurang percaya diri."
+  },
+  {
+    "id": "pai2-sas-s3-14",
+    "q": "Sikap saling menghargai di rumah adalah ...",
+    "options": [
+      "Mendengarkan nasihat orang tua",
+      "Membantah dengan suara keras",
+      "Menutup pintu keras-keras",
+      "Mengabaikan panggilan ibu"
+    ],
+    "answer": 0,
+    "explain": "Mendengarkan nasihat adalah bentuk menghargai orang tua."
+  },
+  {
+    "id": "pai2-sas-s3-15",
+    "q": "Akibat jika anak tidak menghargai orang tuanya adalah ...",
+    "options": [
+      "Rumah menjadi damai",
+      "Orang tua merasa sedih",
+      "Hubungan keluarga makin dekat",
+      "Anak semakin disayang"
+    ],
+    "answer": 1,
+    "explain": "Orang tua akan sedih jika anak tidak menghargai mereka."
+  },
+  {
+    "id": "pai2-sas-s3-16",
+    "q": "Kebalikan dari sikap menghargai adalah ...",
+    "options": [
+      "Menghormati",
+      "Memuliakan",
+      "Menghina",
+      "Mendengarkan"
+    ],
+    "answer": 2,
+    "explain": "Menghina berarti tidak menghargai orang lain."
+  },
+  {
+    "id": "pai2-sas-s3-17",
+    "q": "Ikamah berfungsi untuk ...",
+    "options": [
+      "Mengakhiri salat",
+      "Mengajak jamaah segera berdiri salat",
+      "Mengumumkan waktu berbuka",
+      "Membuka pelajaran di kelas"
+    ],
+    "answer": 1,
+    "explain": "Ikamah menandakan salat berjamaah akan segera dimulai."
+  },
+  {
+    "id": "pai2-sas-s3-18",
+    "q": "Kalimat 'Qad qaamatis shalah' dalam ikamah artinya ...",
+    "options": [
+      "Salat akan didirikan",
+      "Tiada Tuhan selain Allah",
+      "Marilah menuju salat",
+      "Allah Maha Besar"
+    ],
+    "answer": 0,
+    "explain": "Qad qaamatis shalah berarti salat akan didirikan."
+  },
+  {
+    "id": "pai2-sas-s3-19",
+    "q": "Sikap yang tepat ketika mendengar ikamah adalah ...",
+    "options": [
+      "Melanjutkan permainan",
+      "Segera berdiri dan meluruskan saf",
+      "Pura-pura tidak mendengar",
+      "Pergi ke kantin"
+    ],
+    "answer": 1,
+    "explain": "Ikamah menandakan jamaah harus segera siap salat."
+  },
+  {
+    "id": "pai2-sas-s3-20",
+    "q": "Anak yang rajin salat lima waktu menunjukkan sikap ...",
+    "options": [
+      "Tidak taat",
+      "Malas beribadah",
+      "Taat kepada Allah",
+      "Tidak percaya diri"
+    ],
+    "answer": 2,
+    "explain": "Rajin salat berarti taat dan patuh kepada Allah."
+  }
+]
+
+

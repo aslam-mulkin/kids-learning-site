@@ -1,0 +1,243 @@
+[
+  {
+    "id": "pai2-sas-s1-01",
+    "q": "Salat adalah ...",
+    "options": [
+      "Ibadah kepada Allah dengan gerakan dan bacaan tertentu",
+      "Cerita tentang nabi di kelas",
+      "Kegiatan bermain bersama teman",
+      "Makan bersama keluarga"
+    ],
+    "answer": 0,
+    "explain": "Salat dilakukan dengan gerakan dan bacaan khusus untuk menyembah Allah."
+  },
+  {
+    "id": "pai2-sas-s1-02",
+    "q": "Tujuan utama salat bagi seorang muslim adalah ...",
+    "options": [
+      "Mendekatkan diri kepada Allah",
+      "Agar dipuji teman-teman",
+      "Supaya cepat kaya",
+      "Agar tidak dimarahi guru"
+    ],
+    "answer": 0,
+    "explain": "Salat menjadi cara hamba mendekat dan beribadah kepada Allah."
+  },
+  {
+    "id": "pai2-sas-s1-03",
+    "q": "Salat Subuh dikerjakan pada waktu ...",
+    "options": [
+      "Pagi sebelum matahari terbit",
+      "Siang setelah Zuhur",
+      "Sore menjelang Magrib",
+      "Malam setelah Isya"
+    ],
+    "answer": 0,
+    "explain": "Subuh dikerjakan saat fajar sampai sebelum matahari terbit."
+  },
+  {
+    "id": "pai2-sas-s1-04",
+    "q": "Salat Magrib dikerjakan pada waktu ...",
+    "options": [
+      "Saat matahari terbit",
+      "Setelah matahari terbenam",
+      "Tengah malam",
+      "Pagi hari"
+    ],
+    "answer": 1,
+    "explain": "Salat Magrib dimulai sesudah matahari terbenam."
+  },
+  {
+    "id": "pai2-sas-s1-05",
+    "q": "Salat Isya dikerjakan pada waktu ...",
+    "options": [
+      "Menjelang terbit matahari",
+      "Tengah hari",
+      "Malam hari setelah Magrib",
+      "Sore hari"
+    ],
+    "answer": 2,
+    "explain": "Isya dilaksanakan malam hari setelah selesai waktu Magrib."
+  },
+  {
+    "id": "pai2-sas-s1-06",
+    "q": "Jumlah rakaat salat Subuh adalah ...",
+    "options": [
+      "Dua rakaat",
+      "Tiga rakaat",
+      "Empat rakaat",
+      "Lima rakaat"
+    ],
+    "answer": 0,
+    "explain": "Salat Subuh hanya terdiri dari dua rakaat."
+  },
+  {
+    "id": "pai2-sas-s1-07",
+    "q": "Jumlah rakaat salat Zuhur yang benar adalah ...",
+    "options": [
+      "Dua rakaat",
+      "Tiga rakaat",
+      "Empat rakaat",
+      "Lima rakaat"
+    ],
+    "answer": 2,
+    "explain": "Salat Zuhur termasuk salat empat rakaat."
+  },
+  {
+    "id": "pai2-sas-s1-08",
+    "q": "Salat Magrib dikerjakan sebanyak ... rakaat.",
+    "options": [
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Lima"
+    ],
+    "answer": 1,
+    "explain": "Salat Magrib mempunyai tiga rakaat."
+  },
+  {
+    "id": "pai2-sas-s1-09",
+    "q": "Gerakan salat ketika berdiri sambil membaca Al-Fatihah disebut ...",
+    "options": [
+      "Ruku",
+      "Sujud",
+      "Iktidal",
+      "Qiyam berdiri"
+    ],
+    "answer": 3,
+    "explain": "Saat qiyam, orang salat berdiri membaca Al-Fatihah dan surat."
+  },
+  {
+    "id": "pai2-sas-s1-10",
+    "q": "Gerakan menundukkan badan dengan tangan di lutut dalam salat disebut ...",
+    "options": [
+      "Ruku",
+      "Sujud",
+      "Duduk tahiyat",
+      "Salam"
+    ],
+    "answer": 0,
+    "explain": "Ruku dilakukan dengan membungkuk dan kedua tangan di lutut."
+  },
+  {
+    "id": "pai2-sas-s1-11",
+    "q": "Adzan biasanya dikumandangkan ketika ...",
+    "options": [
+      "Akan mulai salat fardu",
+      "Selesai makan siang",
+      "Masuk kelas pelajaran",
+      "Akan tidur malam"
+    ],
+    "answer": 0,
+    "explain": "Adzan adalah panggilan untuk mengajak salat fardu."
+  },
+  {
+    "id": "pai2-sas-s1-12",
+    "q": "Sikap yang benar saat mendengar adzan adalah ...",
+    "options": [
+      "Memperbesar suara televisi",
+      "Diam sejenak dan menjawab adzan",
+      "Tetap bercanda dengan teman",
+      "Menutup telinga"
+    ],
+    "answer": 1,
+    "explain": "Ketika adzan, kita menghormati dengan diam dan menjawab lafaznya."
+  },
+  {
+    "id": "pai2-sas-s1-13",
+    "q": "Perilaku yang menunjukkan sikap percaya diri adalah ...",
+    "options": [
+      "Takut mencoba membaca doa di depan kelas",
+      "Berani bertanya kepada guru saat belum paham",
+      "Selalu menyontek pekerjaan teman",
+      "Malu mengucap salam kepada guru"
+    ],
+    "answer": 1,
+    "explain": "Berani bertanya menunjukkan yakin pada diri sendiri."
+  },
+  {
+    "id": "pai2-sas-s1-14",
+    "q": "Lawan kata dari percaya diri adalah ...",
+    "options": [
+      "Berani",
+      "Rajin",
+      "Pemalu dan minder",
+      "Jujur"
+    ],
+    "answer": 2,
+    "explain": "Orang tidak percaya diri biasanya pemalu dan minder."
+  },
+  {
+    "id": "pai2-sas-s1-15",
+    "q": "Perilaku saling menghargai di sekolah tampak ketika ...",
+    "options": [
+      "Mengejek teman yang salah membaca",
+      "Mendengarkan teman saat bercerita",
+      "Merebut mainan adik",
+      "Menertawakan teman yang jatuh"
+    ],
+    "answer": 1,
+    "explain": "Mendengarkan teman berarti kita menghargai pembicaraannya."
+  },
+  {
+    "id": "pai2-sas-s1-16",
+    "q": "Akibat jika kita tidak saling menghargai adalah ...",
+    "options": [
+      "Banyak teman baru",
+      "Suasana kelas jadi rukun",
+      "Mudah terjadi pertengkaran",
+      "Belajar jadi lebih semangat"
+    ],
+    "answer": 2,
+    "explain": "Tidak saling menghargai membuat orang mudah bertengkar."
+  },
+  {
+    "id": "pai2-sas-s1-17",
+    "q": "Pernyataan yang merupakan kebalikan dari sikap menghargai adalah ...",
+    "options": [
+      "Memberi pujian kepada teman",
+      "Mendiamkan guru saat menjelaskan",
+      "Mengejek dan merendahkan pendapat orang lain",
+      "Mendengarkan dengan sungguh-sungguh"
+    ],
+    "answer": 2,
+    "explain": "Mengejek dan merendahkan menunjukkan tidak menghargai orang lain."
+  },
+  {
+    "id": "pai2-sas-s1-18",
+    "q": "Ikamah adalah ...",
+    "options": [
+      "Panggilan kedua sebelum salat dimulai",
+      "Doa setelah makan",
+      "Shalawat sebelum belajar",
+      "Dzikir sebelum tidur"
+    ],
+    "answer": 0,
+    "explain": "Ikamah dikumandangkan menjelang salat dimulai setelah adzan."
+  },
+  {
+    "id": "pai2-sas-s1-19",
+    "q": "Ikamah biasanya dikumandangkan ...",
+    "options": [
+      "Jauh sebelum adzan",
+      "Sesudah adzan, tepat sebelum salat berjamaah",
+      "Saat khutbah Jumat",
+      "Sesudah selesai salat"
+    ],
+    "answer": 1,
+    "explain": "Ikamah menyatakan salat akan segera dimulai setelah adzan."
+  },
+  {
+    "id": "pai2-sas-s1-20",
+    "q": "Sikap yang tepat setelah mendengar adzan dan ikamah adalah ...",
+    "options": [
+      "Segera bersiap dan berwudu lalu salat",
+      "Tetap bermain tanpa peduli",
+      "Mematikan lampu dan tidur",
+      "Pergi ke tempat ramai"
+    ],
+    "answer": 0,
+    "explain": "Adzan dan ikamah mengingatkan kita untuk segera salat."
+  }
+]
+

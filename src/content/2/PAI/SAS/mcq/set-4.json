@@ -1,0 +1,244 @@
+[
+  {
+    "id": "pai2-sas-s4-01",
+    "q": "Salat lima waktu termasuk ibadah yang hukumnya ...",
+    "options": [
+      "Sunnah",
+      "Mubah",
+      "Makruh",
+      "Wajib"
+    ],
+    "answer": 3,
+    "explain": "Salat lima waktu adalah ibadah wajib bagi setiap muslim."
+  },
+  {
+    "id": "pai2-sas-s4-02",
+    "q": "Salat yang pertama kali dikerjakan setelah matahari terbit adalah ...",
+    "options": [
+      "Subuh",
+      "Zuhur",
+      "Asar",
+      "Magrib"
+    ],
+    "answer": 1,
+    "explain": "Sesudah matahari terbit dan tergelincir, masuk waktu Zuhur."
+  },
+  {
+    "id": "pai2-sas-s4-03",
+    "q": "Salat yang dikerjakan ketika langit mulai gelap adalah ...",
+    "options": [
+      "Zuhur",
+      "Asar",
+      "Magrib dan Isya",
+      "Subuh"
+    ],
+    "answer": 2,
+    "explain": "Magrib dan Isya dikerjakan saat langit mulai gelap."
+  },
+  {
+    "id": "pai2-sas-s4-04",
+    "q": "Sebelum salat kita harus ...",
+    "options": [
+      "Makan dulu",
+      "Berwudu hingga suci",
+      "Berlari-lari",
+      "Bermain bola"
+    ],
+    "answer": 1,
+    "explain": "Berwudu menghilangkan hadas kecil sebelum salat."
+  },
+  {
+    "id": "pai2-sas-s4-05",
+    "q": "Gerakan mengangkat kedua tangan sambil mengucap 'Allahu Akbar' disebut ...",
+    "options": [
+      "Takbiratul ihram",
+      "Ruku",
+      "Sujud",
+      "Salam"
+    ],
+    "answer": 0,
+    "explain": "Salat dimulai dengan takbiratul ihram."
+  },
+  {
+    "id": "pai2-sas-s4-06",
+    "q": "Ruku yang benar dilakukan dengan ...",
+    "options": [
+      "Membungkuk, punggung rata, tangan di lutut",
+      "Duduk lalu menunduk",
+      "Jongkok sambil berlari",
+      "Berdiri sambil melompat"
+    ],
+    "answer": 0,
+    "explain": "Ruku yang benar punggung rata dan tangan memegang lutut."
+  },
+  {
+    "id": "pai2-sas-s4-07",
+    "q": "Gerakan menghadap ke kanan dan kiri sambil mengucap salam adalah ...",
+    "options": [
+      "Ruku",
+      "Iktidal",
+      "Sujud",
+      "Salam"
+    ],
+    "answer": 3,
+    "explain": "Salam dilakukan dengan menoleh kanan dan kiri."
+  },
+  {
+    "id": "pai2-sas-s4-08",
+    "q": "Adzan dikumandangkan untuk ...",
+    "options": [
+      "Mengingatkan waktu tidur",
+      "Memanggil umat Islam mendirikan salat",
+      "Memulai pelajaran olahraga",
+      "Mengumpulkan teman bermain"
+    ],
+    "answer": 1,
+    "explain": "Fungsi adzan adalah mengajak umat Islam salat."
+  },
+  {
+    "id": "pai2-sas-s4-09",
+    "q": "Saat mendengar adzan, sebaiknya kita ...",
+    "options": [
+      "Segera mematikan televisi dan bersiap salat",
+      "Menaikkan volume musik",
+      "Melanjutkan permainan tanpa peduli",
+      "Tertawa keras-keras"
+    ],
+    "answer": 0,
+    "explain": "Mematikan hiburan dan bersiap salat menunjukkan menghormati adzan."
+  },
+  {
+    "id": "pai2-sas-s4-10",
+    "q": "Kalimat 'Ashhadu alla ilaha illallah' dalam adzan artinya ...",
+    "options": [
+      "Aku bersaksi tiada Tuhan selain Allah",
+      "Allah Maha Besar",
+      "Mari salat",
+      "Mari menuju kemenangan"
+    ],
+    "answer": 0,
+    "explain": "Ashhadu alla ilaha illallah berarti tiada Tuhan selain Allah."
+  },
+  {
+    "id": "pai2-sas-s4-11",
+    "q": "Anak yang percaya diri akan ...",
+    "options": [
+      "Berani mencoba hal baik meski belum sempurna",
+      "Selalu menyerah sebelum mencoba",
+      "Takut bicara dengan siapa pun",
+      "Bergantung pada jawaban teman"
+    ],
+    "answer": 0,
+    "explain": "Percaya diri tampak dari keberanian mencoba hal baik."
+  },
+  {
+    "id": "pai2-sas-s4-12",
+    "q": "Perilaku yang mengurangi rasa percaya diri adalah ...",
+    "options": [
+      "Sering menyontek",
+      "Belajar dan berlatih",
+      "Mencoba menjawab soal",
+      "Berdoa sebelum belajar"
+    ],
+    "answer": 0,
+    "explain": "Menyontek membuat anak tidak yakin pada kemampuannya sendiri."
+  },
+  {
+    "id": "pai2-sas-s4-13",
+    "q": "Untuk melatih percaya diri, kita sebaiknya ...",
+    "options": [
+      "Terus berlatih dan tidak mudah menyerah",
+      "Selalu menghindari tugas",
+      "Diam ketika diminta pendapat",
+      "Takut menyapa orang"
+    ],
+    "answer": 0,
+    "explain": "Latihan dan tidak menyerah membantu menumbuhkan percaya diri."
+  },
+  {
+    "id": "pai2-sas-s4-14",
+    "q": "Perilaku saling menghargai di sekolah adalah ...",
+    "options": [
+      "Meminjam alat tulis dengan izin",
+      "Mengambil barang teman diam-diam",
+      "Mengejek nama orang tua teman",
+      "Mendorong teman saat antre"
+    ],
+    "answer": 0,
+    "explain": "Meminjam dengan izin menunjukkan kita menghargai hak teman."
+  },
+  {
+    "id": "pai2-sas-s4-15",
+    "q": "Jika semua siswa saling menghargai, maka ...",
+    "options": [
+      "Kelas menjadi gaduh",
+      "Sering terjadi pertengkaran",
+      "Suasana belajar menjadi nyaman",
+      "Tidak ada yang mau belajar"
+    ],
+    "answer": 2,
+    "explain": "Saling menghargai membuat suasana kelas nyaman dan tenang."
+  },
+  {
+    "id": "pai2-sas-s4-16",
+    "q": "Contoh kebalikan dari sikap menghargai adalah ...",
+    "options": [
+      "Mendukung teman yang bertugas",
+      "Mencela dan meremehkan teman",
+      "Mendengarkan penjelasan guru",
+      "Mengucapkan terima kasih"
+    ],
+    "answer": 1,
+    "explain": "Mencela teman berarti tidak menghargai dirinya."
+  },
+  {
+    "id": "pai2-sas-s4-17",
+    "q": "Ikamah biasanya dibaca setelah ...",
+    "options": [
+      "Adzan dan ketika jamaah sudah siap",
+      "Selesai salat",
+      "Sebelum wudu",
+      "Sesudah tidur"
+    ],
+    "answer": 0,
+    "explain": "Ikamah menyusul setelah adzan saat jamaah siap salat."
+  },
+  {
+    "id": "pai2-sas-s4-18",
+    "q": "Cara menghormati ikamah adalah ...",
+    "options": [
+      "Segera berdiri dan meluruskan saf",
+      "Berteriak memanggil teman",
+      "Berlari keluar masjid",
+      "Memainkan gawai dengan suara keras"
+    ],
+    "answer": 0,
+    "explain": "Kita berdiri dan meluruskan saf saat ikamah dikumandangkan."
+  },
+  {
+    "id": "pai2-sas-s4-19",
+    "q": "Anak yang mendengar adzan dan ikamah tetapi pura-pura tidak tahu berarti ...",
+    "options": [
+      "Menghargai panggilan salat",
+      "Mengabaikan panggilan Allah",
+      "Sangat rajin salat",
+      "Sudah salat sebelumnya"
+    ],
+    "answer": 1,
+    "explain": "Mengabaikan adzan dan ikamah berarti tidak menghargai panggilan Allah."
+  },
+  {
+    "id": "pai2-sas-s4-20",
+    "q": "Sikap terbaik setelah salat berjamaah di masjid adalah ...",
+    "options": [
+      "Langsung berlari dan berteriak",
+      "Duduk berdzikir atau berdoa dengan tenang",
+      "Mengejek teman yang lambat keluar",
+      "Berlomba mendorong teman"
+    ],
+    "answer": 1,
+    "explain": "Sesudah salat dianjurkan berdzikir dan berdoa dengan tenang."
+  }
+]
+
+

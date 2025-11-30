@@ -1,0 +1,244 @@
+[
+  {
+    "id": "pai2-sas-s2-01",
+    "q": "Salat lima waktu wajib dikerjakan oleh ...",
+    "options": [
+      "Setiap muslim yang sudah wajib salat",
+      "Anak yang belum lahir",
+      "Orang yang bukan beragama Islam",
+      "Hanya guru agama"
+    ],
+    "answer": 0,
+    "explain": "Salat lima waktu wajib bagi setiap muslim yang sudah balig dan berakal."
+  },
+  {
+    "id": "pai2-sas-s2-02",
+    "q": "Salat Zuhur dikerjakan pada waktu ...",
+    "options": [
+      "Malam hari",
+      "Setelah matahari tergelincir sampai sore",
+      "Sebelum matahari terbit",
+      "Sesudah Isya"
+    ],
+    "answer": 1,
+    "explain": "Zuhur dimulai setelah matahari tergelincir hingga menjelang Asar."
+  },
+  {
+    "id": "pai2-sas-s2-03",
+    "q": "Salat Asar dikerjakan pada waktu ...",
+    "options": [
+      "Pagi hari",
+      "Tengah malam",
+      "Sore hari sebelum Magrib",
+      "Sesudah Isya"
+    ],
+    "answer": 2,
+    "explain": "Asar dikerjakan pada sore hari sebelum masuk waktu Magrib."
+  },
+  {
+    "id": "pai2-sas-s2-04",
+    "q": "Jumlah rakaat salat Asar adalah ...",
+    "options": [
+      "Dua rakaat",
+      "Tiga rakaat",
+      "Empat rakaat",
+      "Lima rakaat"
+    ],
+    "answer": 2,
+    "explain": "Asar termasuk salat fardu yang berjumlah empat rakaat."
+  },
+  {
+    "id": "pai2-sas-s2-05",
+    "q": "Jumlah rakaat salat Isya adalah ...",
+    "options": [
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Enam"
+    ],
+    "answer": 2,
+    "explain": "Isya termasuk salat empat rakaat."
+  },
+  {
+    "id": "pai2-sas-s2-06",
+    "q": "Urutan gerakan salat yang benar adalah ...",
+    "options": [
+      "Takbiratul ihram, ruku, iktial, sujud",
+      "Takbiratul ihram, ruku, iktidal, sujud",
+      "Takbiratul ihram, duduk, berdiri, sujud",
+      "Takbiratul ihram, salam, ruku, sujud"
+    ],
+    "answer": 1,
+    "explain": "Sesudah takbir berdiri lalu ruku, iktidal, kemudian sujud."
+  },
+  {
+    "id": "pai2-sas-s2-07",
+    "q": "Gerakan menempelkan dahi dan hidung ke lantai disebut ...",
+    "options": [
+      "Ruku",
+      "Sujud",
+      "Iktidal",
+      "Salam"
+    ],
+    "answer": 1,
+    "explain": "Saat sujud dahi dan hidung menempel ke tempat salat."
+  },
+  {
+    "id": "pai2-sas-s2-08",
+    "q": "Kalimat niat salat dibaca ketika ...",
+    "options": [
+      "Sebelum takbiratul ihram",
+      "Saat sujud",
+      "Ketika ruku",
+      "Sesudah salam"
+    ],
+    "answer": 0,
+    "explain": "Niat ada di awal salat bersamaan atau sebelum takbiratul ihram."
+  },
+  {
+    "id": "pai2-sas-s2-09",
+    "q": "Adzan dikumandangkan di ...",
+    "options": [
+      "Kamar mandi",
+      "Tempat najis",
+      "Masjid atau musala",
+      "Depan kelas"
+    ],
+    "answer": 2,
+    "explain": "Adzan biasanya dikumandangkan di masjid atau musala."
+  },
+  {
+    "id": "pai2-sas-s2-10",
+    "q": "Orang yang mengumandangkan adzan disebut ...",
+    "options": [
+      "Khatib",
+      "Imam",
+      "Muazin",
+      "Makmum"
+    ],
+    "answer": 2,
+    "explain": "Muazin adalah orang yang bertugas menyerukan adzan."
+  },
+  {
+    "id": "pai2-sas-s2-11",
+    "q": "Sikap yang baik ketika teman ditunjuk memimpin doa adalah ...",
+    "options": [
+      "Menertawakan jika suaranya pelan",
+      "Mendengarkan dengan khusyuk",
+      "Berbisik dengan teman",
+      "Menutup mata sambil tertawa"
+    ],
+    "answer": 1,
+    "explain": "Mendengarkan doa menunjukkan kita menghargai dan mendukung temannya."
+  },
+  {
+    "id": "pai2-sas-s2-12",
+    "q": "Contoh perilaku percaya diri di rumah adalah ...",
+    "options": [
+      "Berani mencoba memimpin doa makan",
+      "Selalu menolak membantu orang tua",
+      "Bersembunyi ketika ada tamu",
+      "Takut berbicara dengan saudara"
+    ],
+    "answer": 0,
+    "explain": "Memimpin doa makan menunjukkan keberanian dan kepercayaan diri."
+  },
+  {
+    "id": "pai2-sas-s2-13",
+    "q": "Orang yang tidak percaya diri biasanya ...",
+    "options": [
+      "Berani menyapa guru",
+      "Mudah minder dan takut mencoba",
+      "Rajin mengulang pelajaran",
+      "Suka membantu teman"
+    ],
+    "answer": 1,
+    "explain": "Minder dan takut mencoba adalah ciri kurang percaya diri."
+  },
+  {
+    "id": "pai2-sas-s2-14",
+    "q": "Perilaku yang menunjukkan saling menghargai teman adalah ...",
+    "options": [
+      "Memotong pembicaraan teman",
+      "Mendengarkan ketika teman berpendapat",
+      "Merebut giliran menjawab",
+      "Mengejek jawaban teman"
+    ],
+    "answer": 1,
+    "explain": "Mendengarkan pendapat teman berarti kita menghargai dirinya."
+  },
+  {
+    "id": "pai2-sas-s2-15",
+    "q": "Akibat jika sering mengejek teman adalah ...",
+    "options": [
+      "Teman menjadi senang",
+      "Teman semakin dekat",
+      "Teman merasa sedih dan menjauh",
+      "Kelas menjadi rukun"
+    ],
+    "answer": 2,
+    "explain": "Ejekan membuat teman sedih dan tidak mau dekat lagi."
+  },
+  {
+    "id": "pai2-sas-s2-16",
+    "q": "Sikap yang merupakan kebalikan dari menghargai adalah ...",
+    "options": [
+      "Menghormati guru",
+      "Memuji keberhasilan teman",
+      "Menghina dan merendahkan orang lain",
+      "Berterima kasih setelah dibantu"
+    ],
+    "answer": 2,
+    "explain": "Menghina berarti tidak menghargai orang lain."
+  },
+  {
+    "id": "pai2-sas-s2-17",
+    "q": "Ikamah dibaca dengan suara ...",
+    "options": [
+      "Sangat pelan sendiri",
+      "Cukup terdengar jamaah di masjid",
+      "Hanya dalam hati",
+      "Lebih pelan dari bisikan"
+    ],
+    "answer": 1,
+    "explain": "Ikamah dibaca keras agar jamaah siap berdiri salat."
+  },
+  {
+    "id": "pai2-sas-s2-18",
+    "q": "Ikamah biasa dikumandangkan oleh ...",
+    "options": [
+      "Muazin atau orang yang ditunjuk",
+      "Anak yang belum bisa baca",
+      "Orang yang sedang tidur",
+      "Orang yang bermain"
+    ],
+    "answer": 0,
+    "explain": "Muazin atau petugas masjid yang mengucapkan ikamah."
+  },
+  {
+    "id": "pai2-sas-s2-19",
+    "q": "Setelah ikamah dikumandangkan, jamaah sebaiknya ...",
+    "options": [
+      "Tetap mengobrol",
+      "Segera meluruskan dan merapatkan saf",
+      "Pergi meninggalkan masjid",
+      "Mencari permainan"
+    ],
+    "answer": 1,
+    "explain": "Ikamah tanda jamaah segera meluruskan saf untuk salat."
+  },
+  {
+    "id": "pai2-sas-s2-20",
+    "q": "Sikap yang benar ketika terlambat datang ke masjid adalah ...",
+    "options": [
+      "Berlari sambil berteriak",
+      "Masuk dengan tenang dan langsung ikut salat",
+      "Membatalkan salat",
+      "Mengganggu teman yang sedang salat"
+    ],
+    "answer": 1,
+    "explain": "Masuk masjid tetap harus tenang lalu langsung ikut berjamaah."
+  }
+]
+
+

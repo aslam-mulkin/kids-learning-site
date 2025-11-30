@@ -1,151 +1,301 @@
 [
   {
-    "question": "Makna idiom 'buah tangan' adalah...",
-    "options": ["Oleh-oleh", "Hadiah besar", "Buah asli", "Hasil kebun"],
+    "id": "set-2-1",
+    "q": "Makna idiom 'buah tangan' adalah...",
+    "options": [
+      "Oleh-oleh",
+      "Hadiah besar",
+      "Buah asli",
+      "Hasil kebun"
+    ],
     "answer": 0,
     "explain": "Buah tangan berarti oleh-oleh."
   },
   {
-    "question": "Kata tanya 'di mana' digunakan untuk menanyakan...",
-    "options": ["Alasan", "Tempat", "Waktu", "Jumlah"],
+    "id": "set-2-2",
+    "q": "Kata tanya 'di mana' digunakan untuk menanyakan...",
+    "options": [
+      "Alasan",
+      "Tempat",
+      "Waktu",
+      "Jumlah"
+    ],
     "answer": 1,
     "explain": "Di mana menanyakan tempat."
   },
   {
-    "question": "Kata dasar dari 'berjalan' adalah...",
-    "options": ["Jalan", "Berjalan", "Menjalan", "Pelan"],
+    "id": "set-2-3",
+    "q": "Kata dasar dari 'berjalan' adalah...",
+    "options": [
+      "Jalan",
+      "Berjalan",
+      "Menjalan",
+      "Pelan"
+    ],
     "answer": 0,
     "explain": "Kata dasarnya jalan."
   },
   {
-    "question": "Kalimat utama berfungsi untuk...",
-    "options": ["Menyampaikan gagasan pokok", "Menutup paragraf", "Menambah dialog", "Menjelaskan tokoh"],
+    "id": "set-2-4",
+    "q": "Kalimat utama berfungsi untuk...",
+    "options": [
+      "Menyampaikan gagasan pokok",
+      "Menutup paragraf",
+      "Menambah dialog",
+      "Menjelaskan tokoh"
+    ],
     "answer": 0,
     "explain": "Kalimat utama menyampaikan inti paragraf."
   },
   {
-    "question": "Unsur intrinsik yang menunjukkan 'kapan' cerita terjadi adalah...",
-    "options": ["Tema", "Latar waktu", "Amanat", "Sudut pandang"],
+    "id": "set-2-5",
+    "q": "Unsur intrinsik yang menunjukkan 'kapan' cerita terjadi adalah...",
+    "options": [
+      "Tema",
+      "Latar waktu",
+      "Amanat",
+      "Sudut pandang"
+    ],
     "answer": 1,
     "explain": "Latar waktu = kapan terjadi."
   },
   {
-    "question": "Kata sifat dalam kalimat 'Rumah itu sangat megah' adalah...",
-    "options": ["Sangat", "Megah", "Rumah", "Itu"],
+    "id": "set-2-6",
+    "q": "Kata sifat dalam kalimat 'Rumah itu sangat megah' adalah...",
+    "options": [
+      "Sangat",
+      "Megah",
+      "Rumah",
+      "Itu"
+    ],
     "answer": 1,
     "explain": "Megah adalah kata sifat."
   },
   {
-    "question": "Tujuan teks deskripsi adalah...",
-    "options": ["Menggambarkan objek", "Mengajak pembaca", "Menghibur pembaca", "Menolak argumen"],
+    "id": "set-2-7",
+    "q": "Tujuan teks deskripsi adalah...",
+    "options": [
+      "Menggambarkan objek",
+      "Mengajak pembaca",
+      "Menghibur pembaca",
+      "Menolak argumen"
+    ],
     "answer": 0,
     "explain": "Deskripsi menggambarkan objek."
   },
   {
-    "question": "Kata hubung 'tetapi' menunjukkan...",
-    "options": ["Pertentangan", "Tujuan", "Sebab", "Arah"],
+    "id": "set-2-8",
+    "q": "Kata hubung 'tetapi' menunjukkan...",
+    "options": [
+      "Pertentangan",
+      "Tujuan",
+      "Sebab",
+      "Arah"
+    ],
     "answer": 0,
     "explain": "Tetapi menunjukkan pertentangan."
   },
   {
-    "question": "Yang harus disiapkan dalam wawancara adalah...",
-    "options": ["Pertanyaan", "Pantun", "Poster", "Pidato"],
+    "id": "set-2-9",
+    "q": "Yang harus disiapkan dalam wawancara adalah...",
+    "options": [
+      "Pertanyaan",
+      "Pantun",
+      "Poster",
+      "Pidato"
+    ],
     "answer": 0,
     "explain": "Wawancara memerlukan pertanyaan."
   },
   {
-    "question": "Bagian surat yang berisi tempat dan tanggal adalah...",
-    "options": ["Lampiran", "Penutup", "Kepala surat", "Isi surat"],
+    "id": "set-2-10",
+    "q": "Bagian surat yang berisi tempat dan tanggal adalah...",
+    "options": [
+      "Lampiran",
+      "Penutup",
+      "Kepala surat",
+      "Isi surat"
+    ],
     "answer": 2,
     "explain": "Tempat dan tanggal ada di kepala surat."
   },
   {
-    "question": "Antonim dari kata 'halus' adalah...",
-    "options": ["Lembut", "Kasar", "Tipis", "Tinggi"],
+    "id": "set-2-11",
+    "q": "Antonim dari kata 'halus' adalah...",
+    "options": [
+      "Lembut",
+      "Kasar",
+      "Tipis",
+      "Tinggi"
+    ],
     "answer": 1,
     "explain": "Lawan katanya kasar."
   },
   {
-    "question": "'Ia berkata, “Aku setuju.”' adalah contoh...",
-    "options": ["Kalimat langsung", "Kalimat tanya", "Kalimat pasif", "Kalimat majemuk"],
+    "id": "set-2-12",
+    "q": "'Ia berkata, \u201cAku setuju.\u201d' adalah contoh...",
+    "options": [
+      "Kalimat langsung",
+      "Kalimat tanya",
+      "Kalimat pasif",
+      "Kalimat majemuk"
+    ],
     "answer": 0,
     "explain": "Kalimat langsung memakai tanda petik."
   },
   {
-    "question": "Majas hiperbola digunakan untuk...",
-    "options": ["Melebih-lebihkan", "Menyindir", "Mengulang kata", "Membandingkan hal"],
+    "id": "set-2-13",
+    "q": "Majas hiperbola digunakan untuk...",
+    "options": [
+      "Melebih-lebihkan",
+      "Menyindir",
+      "Mengulang kata",
+      "Membandingkan hal"
+    ],
     "answer": 0,
     "explain": "Hiperbola melebih-lebihkan."
   },
   {
-    "question": "Informasi dari diagram adalah...",
-    "options": ["Data visual", "Amanat", "Tokoh", "Rima"],
+    "id": "set-2-14",
+    "q": "Informasi dari diagram adalah...",
+    "options": [
+      "Data visual",
+      "Amanat",
+      "Tokoh",
+      "Rima"
+    ],
     "answer": 0,
     "explain": "Diagram menampilkan data visual."
   },
   {
-    "question": "Teks prosedur berisi...",
-    "options": ["Langkah-langkah", "Cerita lucu", "Tokoh cerita", "Kata sifat"],
+    "id": "set-2-15",
+    "q": "Teks prosedur berisi...",
+    "options": [
+      "Langkah-langkah",
+      "Cerita lucu",
+      "Tokoh cerita",
+      "Kata sifat"
+    ],
     "answer": 0,
     "explain": "Prosedur berisi langkah-langkah."
   },
   {
-    "question": "Kalimat pendukung berfungsi untuk...",
-    "options": ["Menjelaskan kalimat utama", "Mengubah judul", "Mengganti tokoh", "Mengubah alur"],
+    "id": "set-2-16",
+    "q": "Kalimat pendukung berfungsi untuk...",
+    "options": [
+      "Menjelaskan kalimat utama",
+      "Mengubah judul",
+      "Mengganti tokoh",
+      "Mengubah alur"
+    ],
     "answer": 0,
     "explain": "Kalimat pendukung menjelaskan kalimat utama."
   },
   {
-    "question": "Profesi narasumber adalah...",
-    "options": ["Pekerjaan narasumber", "Hobinya", "Alamat rumahnya", "Umurnya"],
+    "id": "set-2-17",
+    "q": "Profesi narasumber adalah...",
+    "options": [
+      "Pekerjaan narasumber",
+      "Hobinya",
+      "Alamat rumahnya",
+      "Umurnya"
+    ],
     "answer": 0,
     "explain": "Profesi berarti pekerjaan."
   },
   {
-    "question": "Ide pokok paragraf adalah...",
-    "options": ["Gagasan utama", "Contoh kalimat", "Dialog", "Judul paragraf"],
+    "id": "set-2-18",
+    "q": "Ide pokok paragraf adalah...",
+    "options": [
+      "Gagasan utama",
+      "Contoh kalimat",
+      "Dialog",
+      "Judul paragraf"
+    ],
     "answer": 0,
     "explain": "Ide pokok = gagasan utama."
   },
   {
-    "question": "Kata tanya 'bagaimana' digunakan untuk menanyakan...",
-    "options": ["Cara", "Waktu", "Alasan", "Jumlah"],
+    "id": "set-2-19",
+    "q": "Kata tanya 'bagaimana' digunakan untuk menanyakan...",
+    "options": [
+      "Cara",
+      "Waktu",
+      "Alasan",
+      "Jumlah"
+    ],
     "answer": 0,
     "explain": "Bagaimana menanyakan cara."
   },
   {
-    "question": "Bagian surat yang memuat salam penutup adalah...",
-    "options": ["Penutup", "Lampiran", "Isi surat", "Judul surat"],
+    "id": "set-2-20",
+    "q": "Bagian surat yang memuat salam penutup adalah...",
+    "options": [
+      "Penutup",
+      "Lampiran",
+      "Isi surat",
+      "Judul surat"
+    ],
     "answer": 0,
     "explain": "Terdapat di bagian penutup."
   },
   {
-    "question": "Unsur intrinsik yang berisi pesan cerita adalah...",
-    "options": ["Amanat", "Tema", "Tokoh", "Latar"],
+    "id": "set-2-21",
+    "q": "Unsur intrinsik yang berisi pesan cerita adalah...",
+    "options": [
+      "Amanat",
+      "Tema",
+      "Tokoh",
+      "Latar"
+    ],
     "answer": 0,
     "explain": "Amanat = pesan cerita."
   },
   {
-    "question": "Kata dasar dari 'menggambar' adalah...",
-    "options": ["Gambar", "Gambaran", "Penggambar", "Digambar"],
+    "id": "set-2-22",
+    "q": "Kata dasar dari 'menggambar' adalah...",
+    "options": [
+      "Gambar",
+      "Gambaran",
+      "Penggambar",
+      "Digambar"
+    ],
     "answer": 0,
     "explain": "Kata dasarnya gambar."
   },
   {
-    "question": "Kalimat majemuk memiliki...",
-    "options": ["Dua klausa", "Satu klausa", "Satu kata", "Satu frasa"],
+    "id": "set-2-23",
+    "q": "Kalimat majemuk memiliki...",
+    "options": [
+      "Dua klausa",
+      "Satu klausa",
+      "Satu kata",
+      "Satu frasa"
+    ],
     "answer": 0,
     "explain": "Majemuk = dua klausa."
   },
   {
-    "question": "Ide pendukung berfungsi untuk...",
-    "options": ["Menjelaskan ide pokok", "Menentukan judul", "Membuat tokoh", "Menggambar alur"],
+    "id": "set-2-24",
+    "q": "Ide pendukung berfungsi untuk...",
+    "options": [
+      "Menjelaskan ide pokok",
+      "Menentukan judul",
+      "Membuat tokoh",
+      "Menggambar alur"
+    ],
     "answer": 0,
     "explain": "Menjelaskan ide pokok."
   },
   {
-    "question": "Kata sifat dalam 'Air sungai itu kotor' adalah...",
-    "options": ["Sungai", "Itu", "Air", "Kotor"],
+    "id": "set-2-25",
+    "q": "Kata sifat dalam 'Air sungai itu kotor' adalah...",
+    "options": [
+      "Sungai",
+      "Itu",
+      "Air",
+      "Kotor"
+    ],
     "answer": 3,
     "explain": "Kotor adalah sifat."
   }

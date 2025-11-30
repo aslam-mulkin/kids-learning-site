@@ -1,151 +1,301 @@
 [
   {
-    "question": "Sila kedua menekankan mengenai...",
-    "options": ["Kemanusiaan", "Musyawarah", "Ketuhanan", "Keadilan"],
+    "id": "set-5-1",
+    "q": "Sila kedua menekankan mengenai...",
+    "options": [
+      "Kemanusiaan",
+      "Musyawarah",
+      "Ketuhanan",
+      "Keadilan"
+    ],
     "answer": 0,
     "explain": "Sila kedua = kemanusiaan."
   },
   {
-    "question": "Beribadah sesuai agama masing-masing termasuk sila...",
-    "options": ["1", "4", "3", "5"],
+    "id": "set-5-2",
+    "q": "Beribadah sesuai agama masing-masing termasuk sila...",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "5"
+    ],
     "answer": 0,
     "explain": "Sila pertama menekankan Ketuhanan."
   },
   {
-    "question": "Sila keempat mengutamakan...",
-    "options": ["Musyawarah", "Kemanusiaan", "Keadilan", "Keragaman"],
+    "id": "set-5-3",
+    "q": "Sila keempat mengutamakan...",
+    "options": [
+      "Musyawarah",
+      "Kemanusiaan",
+      "Keadilan",
+      "Keragaman"
+    ],
     "answer": 0,
     "explain": "Musyawarah adalah inti sila 4."
   },
   {
-    "question": "Simbol sila pertama terletak pada bagian...",
-    "options": ["Tengah", "Kanan atas", "Kiri bawah", "Kanan bawah"],
+    "id": "set-5-4",
+    "q": "Simbol sila pertama terletak pada bagian...",
+    "options": [
+      "Tengah",
+      "Kanan atas",
+      "Kiri bawah",
+      "Kanan bawah"
+    ],
     "answer": 0,
     "explain": "Bintang berada di tengah perisai."
   },
   {
-    "question": "Rantai melambangkan...",
-    "options": ["Kemanusiaan", "Persatuan", "Ketuhanan", "Keadilan"],
+    "id": "set-5-5",
+    "q": "Rantai melambangkan...",
+    "options": [
+      "Kemanusiaan",
+      "Persatuan",
+      "Ketuhanan",
+      "Keadilan"
+    ],
     "answer": 0,
     "explain": "Rantai = sila kemanusiaan."
   },
   {
-    "question": "Beringin melambangkan sila tentang...",
-    "options": ["Persatuan", "Keadilan", "Musyawarah", "Ketuhanan"],
+    "id": "set-5-6",
+    "q": "Beringin melambangkan sila tentang...",
+    "options": [
+      "Persatuan",
+      "Keadilan",
+      "Musyawarah",
+      "Ketuhanan"
+    ],
     "answer": 0,
     "explain": "Beringin = persatuan."
   },
   {
-    "question": "Keadilan sosial adalah sila ke...",
-    "options": ["5", "2", "3", "1"],
+    "id": "set-5-7",
+    "q": "Keadilan sosial adalah sila ke...",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "1"
+    ],
     "answer": 0,
     "explain": "Keadilan = sila kelima."
   },
   {
-    "question": "Tidak membeda-bedakan teman sesuai sila...",
-    "options": ["2", "4", "1", "5"],
+    "id": "set-5-8",
+    "q": "Tidak membeda-bedakan teman sesuai sila...",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "5"
+    ],
     "answer": 0,
     "explain": "Sila 2 menghargai semua manusia."
   },
   {
-    "question": "Perilaku yang mencerminkan sila ketiga adalah...",
-    "options": ["Cinta tanah air", "Memaksa pendapat", "Tidak adil", "Berteriak di kelas"],
+    "id": "set-5-9",
+    "q": "Perilaku yang mencerminkan sila ketiga adalah...",
+    "options": [
+      "Cinta tanah air",
+      "Memaksa pendapat",
+      "Tidak adil",
+      "Berteriak di kelas"
+    ],
     "answer": 0,
     "explain": "Cinta tanah air = persatuan."
   },
   {
-    "question": "Piagam Jakarta disusun oleh...",
-    "options": ["Panitia Sembilan", "Panitia Lima", "Panitia Dasar", "Panitia Negara"],
+    "id": "set-5-10",
+    "q": "Piagam Jakarta disusun oleh...",
+    "options": [
+      "Panitia Sembilan",
+      "Panitia Lima",
+      "Panitia Dasar",
+      "Panitia Negara"
+    ],
     "answer": 0,
     "explain": "Panitia Sembilan menyusunnya."
   },
   {
-    "question": "Yang memimpin BPUPKI adalah...",
-    "options": ["Radjiman", "Kartini", "Sudiro", "Yamin"],
+    "id": "set-5-11",
+    "q": "Yang memimpin BPUPKI adalah...",
+    "options": [
+      "Radjiman",
+      "Kartini",
+      "Sudiro",
+      "Yamin"
+    ],
     "answer": 0,
     "explain": "Radjiman Wedyodiningrat."
   },
   {
-    "question": "Berbagi ilmu kepada teman sesuai sila...",
-    "options": ["2", "1", "5", "3"],
+    "id": "set-5-12",
+    "q": "Berbagi ilmu kepada teman sesuai sila...",
+    "options": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ],
     "answer": 0,
     "explain": "Berbagi = nilai kemanusiaan."
   },
   {
-    "question": "Simbol sila kedua berada pada posisi...",
-    "options": ["Kanan atas", "Kiri bawah", "Kanan bawah", "Tengah"],
+    "id": "set-5-13",
+    "q": "Simbol sila kedua berada pada posisi...",
+    "options": [
+      "Kanan atas",
+      "Kiri bawah",
+      "Kanan bawah",
+      "Tengah"
+    ],
     "answer": 1,
     "explain": "Rantai berada di kiri bawah."
   },
   {
-    "question": "Sila yang menekankan kebebasan beribadah adalah...",
-    "options": ["1", "5", "3", "4"],
+    "id": "set-5-14",
+    "q": "Sila yang menekankan kebebasan beribadah adalah...",
+    "options": [
+      "1",
+      "5",
+      "3",
+      "4"
+    ],
     "answer": 0,
     "explain": "Sila pertama."
   },
   {
-    "question": "Sikap adil sesuai sila...",
-    "options": ["5", "2", "1", "3"],
+    "id": "set-5-15",
+    "q": "Sikap adil sesuai sila...",
+    "options": [
+      "5",
+      "2",
+      "1",
+      "3"
+    ],
     "answer": 0,
     "explain": "Keadilan sosial = sila kelima."
   },
   {
-    "question": "Bersyukur atas nikmat Tuhan contoh sila...",
-    "options": ["Ketuhanan", "Keadilan", "Musyawarah", "Persatuan"],
+    "id": "set-5-16",
+    "q": "Bersyukur atas nikmat Tuhan contoh sila...",
+    "options": [
+      "Ketuhanan",
+      "Keadilan",
+      "Musyawarah",
+      "Persatuan"
+    ],
     "answer": 0,
     "explain": "Sila pertama."
   },
   {
-    "question": "Simbol sila ketiga menggambarkan...",
-    "options": ["Persatuan", "Kemanusiaan", "Musyawarah", "Keadilan"],
+    "id": "set-5-17",
+    "q": "Simbol sila ketiga menggambarkan...",
+    "options": [
+      "Persatuan",
+      "Kemanusiaan",
+      "Musyawarah",
+      "Keadilan"
+    ],
     "answer": 0,
     "explain": "Beringin = persatuan."
   },
   {
-    "question": "Mendengarkan pendapat teman adalah contoh sila...",
-    "options": ["4", "2", "5", "3"],
+    "id": "set-5-18",
+    "q": "Mendengarkan pendapat teman adalah contoh sila...",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
     "answer": 0,
     "explain": "Sila keempat."
   },
   {
-    "question": "Menghargai hak orang lain adalah sila...",
-    "options": ["5", "3", "1", "2"],
+    "id": "set-5-19",
+    "q": "Menghargai hak orang lain adalah sila...",
+    "options": [
+      "5",
+      "3",
+      "1",
+      "2"
+    ],
     "answer": 0,
     "explain": "Keadilan sosial menekankan hak."
   },
   {
-    "question": "Sikap berani membela kebenaran sesuai sila...",
-    "options": ["2", "1", "5", "3"],
+    "id": "set-5-20",
+    "q": "Sikap berani membela kebenaran sesuai sila...",
+    "options": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ],
     "answer": 0,
     "explain": "Berani membela benar = kemanusiaan."
   },
   {
-    "question": "Membuang sampah pada tempatnya sesuai sila...",
-    "options": ["5", "2", "1", "3"],
+    "id": "set-5-21",
+    "q": "Membuang sampah pada tempatnya sesuai sila...",
+    "options": [
+      "5",
+      "2",
+      "1",
+      "3"
+    ],
     "answer": 0,
     "explain": "Keadilan sosial menjaga lingkungan."
   },
   {
-    "question": "Menghormati teman berbeda agama sesuai sila...",
-    "options": ["1", "3", "4", "5"],
+    "id": "set-5-22",
+    "q": "Menghormati teman berbeda agama sesuai sila...",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
     "answer": 0,
     "explain": "Sila pertama menghargai perbedaan agama."
   },
   {
-    "question": "Simbol sila keempat berada pada posisi...",
-    "options": ["Kanan atas", "Kiri atas", "Kanan bawah", "Kiri bawah"],
+    "id": "set-5-23",
+    "q": "Simbol sila keempat berada pada posisi...",
+    "options": [
+      "Kanan atas",
+      "Kiri atas",
+      "Kanan bawah",
+      "Kiri bawah"
+    ],
     "answer": 0,
     "explain": "Kepala banteng berada di kanan atas."
   },
   {
-    "question": "Berbicara sopan kepada guru sesuai sila...",
-    "options": ["2", "1", "3", "4"],
+    "id": "set-5-24",
+    "q": "Berbicara sopan kepada guru sesuai sila...",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
     "answer": 0,
     "explain": "Sopan santun termasuk sila kedua."
   },
   {
-    "question": "Kerja bakti di sekolah contoh sila...",
-    "options": ["5", "2", "1", "3"],
+    "id": "set-5-25",
+    "q": "Kerja bakti di sekolah contoh sila...",
+    "options": [
+      "5",
+      "2",
+      "1",
+      "3"
+    ],
     "answer": 0,
     "explain": "Kerja bakti = keadilan sosial."
   }

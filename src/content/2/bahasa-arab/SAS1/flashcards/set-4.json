@@ -1,0 +1,37 @@
+[
+  {"q": "غُرْفَةٌ", "a": "Kamar"},
+  {"q": "Kamar", "a": "غُرْفَةٌ"},
+
+  {"q": "غِلَافٌ", "a": "Sampul buku"},
+  {"q": "Sampul buku", "a": "غِلَافٌ"},
+
+  {"q": "غَسَّالَةٌ", "a": "Mesin cuci"},
+  {"q": "Mesin cuci", "a": "غَسَّالَةٌ"},
+
+  {"q": "غُرَابٌ", "a": "Burung gagak"},
+  {"q": "Burung gagak", "a": "غُرَابٌ"},
+
+  {"q": "غِطَاءٌ", "a": "Tutup / penutup"},
+  {"q": "Tutup / penutup", "a": "غِطَاءٌ"},
+
+  {"q": "غَزَالٌ", "a": "Kijang"},
+  {"q": "Kijang", "a": "غَزَالٌ"},
+
+  {"q": "يَصْبَغُ", "a": "Sedang mengecat"},
+  {"q": "Sedang mengecat", "a": "يَصْبَغُ"},
+
+  {"q": "مِغْرَفَةٌ", "a": "Sendok sayur"},
+  {"q": "Sendok sayur", "a": "مِغْرَفَةٌ"},
+
+  {"q": "قَارُورَةٌ", "a": "Botol kaca"},
+  {"q": "Botol kaca", "a": "قَارُورَةٌ"},
+
+  {"q": "صَمْغٌ", "a": "Lem"},
+  {"q": "Lem", "a": "صَمْغٌ"},
+
+  {"q": "بَبَّغَاءٌ", "a": "Burung kakaktua"},
+  {"q": "Burung kakaktua", "a": "بَبَّغَاءٌ"},
+
+  {"q": "غَزَالَةٌ", "a": "Anak kijang"},
+  {"q": "Anak kijang", "a": "غَزَالَةٌ"}
+]

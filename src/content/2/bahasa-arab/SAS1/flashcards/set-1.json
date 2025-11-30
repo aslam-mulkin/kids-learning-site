@@ -21,5 +21,14 @@
   {"q": "Sedang mengikat", "a": "يَرْبِطُ"},
 
   {"q": "قِطَارٌ", "a": "Kereta api"},
-  {"q": "Kereta api", "a": "قِطَارٌ"}
+  {"q": "Kereta api", "a": "قِطَارٌ"},
+
+  {"q": "يَطْبُخُ", "a": "Sedang memasak"},
+  {"q": "Sedang memasak", "a": "يَطْبُخُ"},
+
+  {"q": "خَرِيطَةٌ", "a": "Peta"},
+  {"q": "Peta", "a": "خَرِيطَةٌ"},
+
+  {"q": "طُيُورٌ", "a": "Burung-burung"},
+  {"q": "Burung-burung", "a": "طُيُورٌ"}
 ]

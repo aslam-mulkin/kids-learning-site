@@ -1,0 +1,25 @@
+[
+  {"q": "طُوبٌ", "a": "Batu bata"},
+  {"q": "Batu bata", "a": "طُوبٌ"},
+
+  {"q": "طِلَاءٌ", "a": "Cat"},
+  {"q": "Cat", "a": "طِلَاءٌ"},
+
+  {"q": "طَبَقٌ زُجَاجِيٌّ", "a": "Mangkuk kaca"},
+  {"q": "Mangkuk kaca", "a": "طَبَقٌ زُجَاجِيٌّ"},
+
+  {"q": "طُيُورٌ", "a": "Burung-burung"},
+  {"q": "Burung-burung", "a": "طُيُورٌ"},
+
+  {"q": "طِفْلٌ", "a": "Anak kecil"},
+  {"q": "Anak kecil", "a": "طِفْلٌ"},
+
+  {"q": "طَبِيبٌ", "a": "Dokter"},
+  {"q": "Dokter", "a": "طَبِيبٌ"},
+
+  {"q": "يَرْبِطُ", "a": "Sedang mengikat"},
+  {"q": "Sedang mengikat", "a": "يَرْبِطُ"},
+
+  {"q": "قِطَارٌ", "a": "Kereta api"},
+  {"q": "Kereta api", "a": "قِطَارٌ"}
+]

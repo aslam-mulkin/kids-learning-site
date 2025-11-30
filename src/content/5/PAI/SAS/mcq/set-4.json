@@ -1,278 +1,302 @@
 [
-    {
-      "question": "Perbedaan bahasa dan warna kulit manusia menunjukkan...",
-      "options": [
-        "Tanda kebesaran Allah",
-        "Kesalahan manusia",
-        "Bentuk dosa",
-        "Kelemahan diri"
-      ],
-      "answer": 0,
-      "explain": "Q.S Ar-Rum 30:22 menjelaskan perbedaan sebagai tanda Allah."
-    },
-    {
-      "question": "Makna dari Asmaul Husna Al-Qoyyum adalah...",
-      "options": [
-        "Maha Tegak dan Berdiri Sendiri",
-        "Maha Pemurah",
-        "Maha Mendengar",
-        "Maha Menyembuhkan"
-      ],
-      "answer": 0,
-      "explain": "Al-Qoyyum berarti Maha Tegak dan berdiri sendiri."
-    },
-    {
-      "question": "Contoh sikap meneladani Al-Qowiyyu adalah...",
-      "options": [
-        "Belajar dengan sungguh-sungguh",
-        "Malas belajar",
-        "Suka tidur di kelas",
-        "Membiarkan tubuh lemah"
-      ],
-      "answer": 0,
-      "explain": "Belajar sungguh-sungguh meneladani kekuatan."
-    },
-    {
-      "question": "Zakat fitrah dibayar dengan...",
-      "options": [
-        "Makanan pokok",
-        "Batu bata",
-        "Kertas",
-        "Baju bekas"
-      ],
-      "answer": 0,
-      "explain": "Zakat fitrah berupa makanan pokok."
-    },
-    {
-      "question": "Zakat bertujuan...",
-      "options": [
-        "Membantu sesama",
-        "Memperkaya diri",
-        "Merusak masyarakat",
-        "Menciptakan kebencian"
-      ],
-      "answer": 0,
-      "explain": "Zakat bertujuan membantu sesama."
-    },
-    {
-      "question": "Mustahik adalah...",
-      "options": [
-        "Penerima zakat",
-        "Pemberi zakat",
-        "Pengumpul zakat",
-        "Pengawas zakat"
-      ],
-      "answer": 0,
-      "explain": "Mustahik berarti penerima zakat."
-    },
-    {
-      "question": "Muzakki adalah...",
-      "options": [
-        "Pembayar zakat",
-        "Penerima zakat",
-        "Penjual zakat",
-        "Pembeli zakat"
-      ],
-      "answer": 0,
-      "explain": "Muzakki adalah orang yang membayar zakat."
-    },
-    {
-      "question": "Infak berarti mengeluarkan harta untuk...",
-      "options": [
-        "Kebaikan",
-        "Kejelekan",
-        "Kesombongan",
-        "Kekayaan pribadi"
-      ],
-      "answer": 0,
-      "explain": "Infak digunakan untuk kebaikan."
-    },
-    {
-      "question": "Infak boleh dilakukan...",
-      "options": [
-        "Kapan saja",
-        "Hanya pagi hari",
-        "Hanya Jumat",
-        "Hanya Ramadan"
-      ],
-      "answer": 0,
-      "explain": "Infak tidak terikat waktu."
-    },
-    {
-      "question": "Hudaibiyah adalah...",
-      "options": [
-        "Perjanjian damai",
-        "Perang panjang",
-        "Nama desa",
-        "Nama nabi"
-      ],
-      "answer": 0,
-      "explain": "Hudaibiyah adalah perjanjian damai."
-    },
-    {
-      "question": "Gencatan senjata Hudaibiyah berlangsung...",
-      "options": [
-        "10 tahun",
-        "100 hari",
-        "1 tahun",
-        "1 minggu"
-      ],
-      "answer": 0,
-      "explain": "Gencatan senjata berlangsung 10 tahun."
-    },
-    {
-      "question": "Keuntungan Hudaibiyah bagi kaum Muslim adalah...",
-      "options": [
-        "Kesempatan berdakwah",
-        "Kesempatan berperang",
-        "Dilarang masuk Mekah selamanya",
-        "Wajib membayar denda"
-      ],
-      "answer": 0,
-      "explain": "Hudaibiyah membuka peluang dakwah."
-    },
-    {
-      "question": "Golongan fakir adalah orang yang...",
-      "options": [
-        "Sangat kekurangan",
-        "Banyak hartanya",
-        "Suka marah",
-        "Suka berbohong"
-      ],
-      "answer": 0,
-      "explain": "Fakir sangat kekurangan."
-    },
-    {
-      "question": "Golongan miskin adalah orang yang...",
-      "options": [
-        "Penghasilannya tidak mencukupi",
-        "Tidak mau bekerja",
-        "Bergelimang harta",
-        "Memiliki segalanya"
-      ],
-      "answer": 0,
-      "explain": "Miskin punya penghasilan tapi tidak cukup."
-    },
-    {
-      "question": "Amil adalah...",
-      "options": [
-        "Pengelola zakat",
-        "Penerima zakat",
-        "Musafir",
-        "Orang kaya"
-      ],
-      "answer": 0,
-      "explain": "Amil bertugas mengelola zakat."
-    },
-    {
-      "question": "Zakat fitrah dibayar sebelum...",
-      "options": [
-        "Salat Id",
-        "Salat Zuhur",
-        "Salat Jumat",
-        "Salat Tarawih"
-      ],
-      "answer": 0,
-      "explain": "Zakat fitrah dibayar sebelum Salat Id."
-    },
-    {
-      "question": "Asmaul Husna berarti...",
-      "options": [
-        "Nama-nama baik Allah",
-        "Nama sahabat",
-        "Nama makanan",
-        "Nama hewan"
-      ],
-      "answer": 0,
-      "explain": "Asmaul Husna adalah nama-nama baik Allah."
-    },
-    {
-      "question": "Al-Qowiyyu berarti...",
-      "options": [
-        "Maha Kuat",
-        "Maha Pemurah",
-        "Maha Suci",
-        "Maha Pemaaf"
-      ],
-      "answer": 0,
-      "explain": "Al-Qowiyyu artinya Maha Kuat."
-    },
-    {
-      "question": "Sikap meneladani Asmaul Husna ditunjukkan dengan...",
-      "options": [
-        "Berbuat baik",
-        "Mengejek teman",
-        "Berbohong",
-        "Malas belajar"
-      ],
-      "answer": 0,
-      "explain": "Meneladani Asmaul Husna berarti berbuat baik."
-    },
-    {
-      "question": "Zakat penghasilan termasuk...",
-      "options": [
-        "Zakat mal",
-        "Zakat fitrah",
-        "Zakat kurban",
-        "Zakat hadiah"
-      ],
-      "answer": 0,
-      "explain": "Zakat penghasilan adalah zakat mal."
-    },
-    {
-      "question": "Sikap yang tepat kepada tetangga mustahik adalah...",
-      "options": [
-        "Menghormati dan membantu",
-        "Menghina kondisinya",
-        "Mengasingkannya",
-        "Mengejeknya"
-      ],
-      "answer": 0,
-      "explain": "Tetangga mustahik harus dihormati."
-    },
-    {
-      "question": "Barang berikut dapat dijadikan zakat fitrah...",
-      "options": [
-        "Gandum",
-        "Mainan",
-        "Batu",
-        "Pakaian bekas"
-      ],
-      "answer": 0,
-      "explain": "Gandum termasuk makanan pokok."
-    },
-    {
-      "question": "Infak dapat berupa...",
-      "options": [
-        "Uang",
-        "Sampah",
-        "Barang haram",
-        "Barang rusak"
-      ],
-      "answer": 0,
-      "explain": "Infak boleh berupa uang."
-    },
-    {
-      "question": "Zakat membawa hikmah berupa...",
-      "options": [
-        "Membersihkan harta",
-        "Mengurangi pahala",
-        "Meningkatkan permusuhan",
-        "Menambah iri"
-      ],
-      "answer": 0,
-      "explain": "Zakat membersihkan harta."
-    },
-    {
-      "question": "Sikap mandiri adalah bentuk teladan dari...",
-      "options": [
-        "Al-Qoyyum",
-        "Al-Ghafur",
-        "Ar-Rahman",
-        "An-Nur"
-      ],
-      "answer": 0,
-      "explain": "Al-Qoyyum mengajarkan kemandirian."
-    }
-  ]
-  
+  {
+    "id": "set-4-1",
+    "q": "Perbedaan bahasa dan warna kulit manusia menunjukkan...",
+    "options": [
+      "Tanda kebesaran Allah",
+      "Kesalahan manusia",
+      "Bentuk dosa",
+      "Kelemahan diri"
+    ],
+    "answer": 0,
+    "explain": "Q.S Ar-Rum 30:22 menjelaskan perbedaan sebagai tanda Allah."
+  },
+  {
+    "id": "set-4-2",
+    "q": "Makna dari Asmaul Husna Al-Qoyyum adalah...",
+    "options": [
+      "Maha Tegak dan Berdiri Sendiri",
+      "Maha Pemurah",
+      "Maha Mendengar",
+      "Maha Menyembuhkan"
+    ],
+    "answer": 0,
+    "explain": "Al-Qoyyum berarti Maha Tegak dan berdiri sendiri."
+  },
+  {
+    "id": "set-4-3",
+    "q": "Contoh sikap meneladani Al-Qowiyyu adalah...",
+    "options": [
+      "Belajar dengan sungguh-sungguh",
+      "Malas belajar",
+      "Suka tidur di kelas",
+      "Membiarkan tubuh lemah"
+    ],
+    "answer": 0,
+    "explain": "Belajar sungguh-sungguh meneladani kekuatan."
+  },
+  {
+    "id": "set-4-4",
+    "q": "Zakat fitrah dibayar dengan...",
+    "options": [
+      "Makanan pokok",
+      "Batu bata",
+      "Kertas",
+      "Baju bekas"
+    ],
+    "answer": 0,
+    "explain": "Zakat fitrah berupa makanan pokok."
+  },
+  {
+    "id": "set-4-5",
+    "q": "Zakat bertujuan...",
+    "options": [
+      "Membantu sesama",
+      "Memperkaya diri",
+      "Merusak masyarakat",
+      "Menciptakan kebencian"
+    ],
+    "answer": 0,
+    "explain": "Zakat bertujuan membantu sesama."
+  },
+  {
+    "id": "set-4-6",
+    "q": "Mustahik adalah...",
+    "options": [
+      "Penerima zakat",
+      "Pemberi zakat",
+      "Pengumpul zakat",
+      "Pengawas zakat"
+    ],
+    "answer": 0,
+    "explain": "Mustahik berarti penerima zakat."
+  },
+  {
+    "id": "set-4-7",
+    "q": "Muzakki adalah...",
+    "options": [
+      "Pembayar zakat",
+      "Penerima zakat",
+      "Penjual zakat",
+      "Pembeli zakat"
+    ],
+    "answer": 0,
+    "explain": "Muzakki adalah orang yang membayar zakat."
+  },
+  {
+    "id": "set-4-8",
+    "q": "Infak berarti mengeluarkan harta untuk...",
+    "options": [
+      "Kebaikan",
+      "Kejelekan",
+      "Kesombongan",
+      "Kekayaan pribadi"
+    ],
+    "answer": 0,
+    "explain": "Infak digunakan untuk kebaikan."
+  },
+  {
+    "id": "set-4-9",
+    "q": "Infak boleh dilakukan...",
+    "options": [
+      "Kapan saja",
+      "Hanya pagi hari",
+      "Hanya Jumat",
+      "Hanya Ramadan"
+    ],
+    "answer": 0,
+    "explain": "Infak tidak terikat waktu."
+  },
+  {
+    "id": "set-4-10",
+    "q": "Hudaibiyah adalah...",
+    "options": [
+      "Perjanjian damai",
+      "Perang panjang",
+      "Nama desa",
+      "Nama nabi"
+    ],
+    "answer": 0,
+    "explain": "Hudaibiyah adalah perjanjian damai."
+  },
+  {
+    "id": "set-4-11",
+    "q": "Gencatan senjata Hudaibiyah berlangsung...",
+    "options": [
+      "10 tahun",
+      "100 hari",
+      "1 tahun",
+      "1 minggu"
+    ],
+    "answer": 0,
+    "explain": "Gencatan senjata berlangsung 10 tahun."
+  },
+  {
+    "id": "set-4-12",
+    "q": "Keuntungan Hudaibiyah bagi kaum Muslim adalah...",
+    "options": [
+      "Kesempatan berdakwah",
+      "Kesempatan berperang",
+      "Dilarang masuk Mekah selamanya",
+      "Wajib membayar denda"
+    ],
+    "answer": 0,
+    "explain": "Hudaibiyah membuka peluang dakwah."
+  },
+  {
+    "id": "set-4-13",
+    "q": "Golongan fakir adalah orang yang...",
+    "options": [
+      "Sangat kekurangan",
+      "Banyak hartanya",
+      "Suka marah",
+      "Suka berbohong"
+    ],
+    "answer": 0,
+    "explain": "Fakir sangat kekurangan."
+  },
+  {
+    "id": "set-4-14",
+    "q": "Golongan miskin adalah orang yang...",
+    "options": [
+      "Penghasilannya tidak mencukupi",
+      "Tidak mau bekerja",
+      "Bergelimang harta",
+      "Memiliki segalanya"
+    ],
+    "answer": 0,
+    "explain": "Miskin punya penghasilan tapi tidak cukup."
+  },
+  {
+    "id": "set-4-15",
+    "q": "Amil adalah...",
+    "options": [
+      "Pengelola zakat",
+      "Penerima zakat",
+      "Musafir",
+      "Orang kaya"
+    ],
+    "answer": 0,
+    "explain": "Amil bertugas mengelola zakat."
+  },
+  {
+    "id": "set-4-16",
+    "q": "Zakat fitrah dibayar sebelum...",
+    "options": [
+      "Salat Id",
+      "Salat Zuhur",
+      "Salat Jumat",
+      "Salat Tarawih"
+    ],
+    "answer": 0,
+    "explain": "Zakat fitrah dibayar sebelum Salat Id."
+  },
+  {
+    "id": "set-4-17",
+    "q": "Asmaul Husna berarti...",
+    "options": [
+      "Nama-nama baik Allah",
+      "Nama sahabat",
+      "Nama makanan",
+      "Nama hewan"
+    ],
+    "answer": 0,
+    "explain": "Asmaul Husna adalah nama-nama baik Allah."
+  },
+  {
+    "id": "set-4-18",
+    "q": "Al-Qowiyyu berarti...",
+    "options": [
+      "Maha Kuat",
+      "Maha Pemurah",
+      "Maha Suci",
+      "Maha Pemaaf"
+    ],
+    "answer": 0,
+    "explain": "Al-Qowiyyu artinya Maha Kuat."
+  },
+  {
+    "id": "set-4-19",
+    "q": "Sikap meneladani Asmaul Husna ditunjukkan dengan...",
+    "options": [
+      "Berbuat baik",
+      "Mengejek teman",
+      "Berbohong",
+      "Malas belajar"
+    ],
+    "answer": 0,
+    "explain": "Meneladani Asmaul Husna berarti berbuat baik."
+  },
+  {
+    "id": "set-4-20",
+    "q": "Zakat penghasilan termasuk...",
+    "options": [
+      "Zakat mal",
+      "Zakat fitrah",
+      "Zakat kurban",
+      "Zakat hadiah"
+    ],
+    "answer": 0,
+    "explain": "Zakat penghasilan adalah zakat mal."
+  },
+  {
+    "id": "set-4-21",
+    "q": "Sikap yang tepat kepada tetangga mustahik adalah...",
+    "options": [
+      "Menghormati dan membantu",
+      "Menghina kondisinya",
+      "Mengasingkannya",
+      "Mengejeknya"
+    ],
+    "answer": 0,
+    "explain": "Tetangga mustahik harus dihormati."
+  },
+  {
+    "id": "set-4-22",
+    "q": "Barang berikut dapat dijadikan zakat fitrah...",
+    "options": [
+      "Gandum",
+      "Mainan",
+      "Batu",
+      "Pakaian bekas"
+    ],
+    "answer": 0,
+    "explain": "Gandum termasuk makanan pokok."
+  },
+  {
+    "id": "set-4-23",
+    "q": "Infak dapat berupa...",
+    "options": [
+      "Uang",
+      "Sampah",
+      "Barang haram",
+      "Barang rusak"
+    ],
+    "answer": 0,
+    "explain": "Infak boleh berupa uang."
+  },
+  {
+    "id": "set-4-24",
+    "q": "Zakat membawa hikmah berupa...",
+    "options": [
+      "Membersihkan harta",
+      "Mengurangi pahala",
+      "Meningkatkan permusuhan",
+      "Menambah iri"
+    ],
+    "answer": 0,
+    "explain": "Zakat membersihkan harta."
+  },
+  {
+    "id": "set-4-25",
+    "q": "Sikap mandiri adalah bentuk teladan dari...",
+    "options": [
+      "Al-Qoyyum",
+      "Al-Ghafur",
+      "Ar-Rahman",
+      "An-Nur"
+    ],
+    "answer": 0,
+    "explain": "Al-Qoyyum mengajarkan kemandirian."
+  }
+]

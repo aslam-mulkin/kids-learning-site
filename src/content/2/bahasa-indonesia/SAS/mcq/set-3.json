@@ -1,121 +1,241 @@
 [
   {
-    "question": "Nenek dan Kakek adalah...",
-    "options": ["Kedua orang tua Ayah/Ibu", "Sepupu", "Saudara tiri", "Tetangga"],
+    "id": "set-3-1",
+    "q": "Nenek dan Kakek adalah...",
+    "options": [
+      "Kedua orang tua Ayah/Ibu",
+      "Sepupu",
+      "Saudara tiri",
+      "Tetangga"
+    ],
     "answer": 0,
     "explain": "Nenek dan Kakek adalah orang tua orang tua."
   },
   {
-    "question": "Kalimat awal cerita biasanya berisi...",
-    "options": ["Pengenalan tokoh", "Akhir cerita", "Kesimpulan", "Perasaan tokoh"],
+    "id": "set-3-2",
+    "q": "Kalimat awal cerita biasanya berisi...",
+    "options": [
+      "Pengenalan tokoh",
+      "Akhir cerita",
+      "Kesimpulan",
+      "Perasaan tokoh"
+    ],
     "answer": 0,
     "explain": "Awal cerita memperkenalkan tokoh."
   },
   {
-    "question": "Objek pada kalimat 'Kakak memetik bunga' adalah...",
-    "options": ["bunga", "Kakak", "memetik", "di taman"],
+    "id": "set-3-3",
+    "q": "Objek pada kalimat 'Kakak memetik bunga' adalah...",
+    "options": [
+      "bunga",
+      "Kakak",
+      "memetik",
+      "di taman"
+    ],
     "answer": 0,
     "explain": "'bunga' adalah objek."
   },
   {
-    "question": "Kalimat peringatan yang tepat adalah...",
-    "options": ["Jangan sentuh listrik!", "Listrik itu ada.", "Listrik itu bahaya.", "Listrik di rumah menyala."],
+    "id": "set-3-4",
+    "q": "Kalimat peringatan yang tepat adalah...",
+    "options": [
+      "Jangan sentuh listrik!",
+      "Listrik itu ada.",
+      "Listrik itu bahaya.",
+      "Listrik di rumah menyala."
+    ],
     "answer": 0,
     "explain": "Peringatan memakai tanda seru."
   },
   {
-    "question": "Kata depan 'di' digunakan untuk...",
-    "options": ["Menunjukkan tempat", "Membuat kalimat pasif", "Menandai predikat", "Menandai objek"],
+    "id": "set-3-5",
+    "q": "Kata depan 'di' digunakan untuk...",
+    "options": [
+      "Menunjukkan tempat",
+      "Membuat kalimat pasif",
+      "Menandai predikat",
+      "Menandai objek"
+    ],
     "answer": 0,
     "explain": "Kata depan 'di' + tempat."
   },
   {
-    "question": "Kalimat pasif ditandai dengan...",
-    "options": ["Awalan 'di-'", "Awalan 'me-'", "Awalan 'ber-'", "Akhiran '-kan'"],
+    "id": "set-3-6",
+    "q": "Kalimat pasif ditandai dengan...",
+    "options": [
+      "Awalan 'di-'",
+      "Awalan 'me-'",
+      "Awalan 'ber-'",
+      "Akhiran '-kan'"
+    ],
     "answer": 0,
     "explain": "Kalimat pasif memakai 'di-'."
   },
   {
-    "question": "Huruf kapital dipakai untuk...",
-    "options": ["Nama hari", "Nama hewan", "Nama benda", "Nama warna"],
+    "id": "set-3-7",
+    "q": "Huruf kapital dipakai untuk...",
+    "options": [
+      "Nama hari",
+      "Nama hewan",
+      "Nama benda",
+      "Nama warna"
+    ],
     "answer": 0,
     "explain": "Nama hari kapital."
   },
   {
-    "question": "Predikat adalah bagian yang berisi...",
-    "options": ["Pekerjaan", "Pelaku", "Tempat", "Benda"],
+    "id": "set-3-8",
+    "q": "Predikat adalah bagian yang berisi...",
+    "options": [
+      "Pekerjaan",
+      "Pelaku",
+      "Tempat",
+      "Benda"
+    ],
     "answer": 0,
     "explain": "Predikat = pekerjaan."
   },
   {
-    "question": "Kalimat dengan urutan peristiwa paling tepat adalah...",
-    "options": ["Bangun → mandi → berangkat sekolah", "Berangkat → mandi → bangun", "Sarapan → bangun → mandi", "Mandi → tidur → bangun"],
+    "id": "set-3-9",
+    "q": "Kalimat dengan urutan peristiwa paling tepat adalah...",
+    "options": [
+      "Bangun \u2192 mandi \u2192 berangkat sekolah",
+      "Berangkat \u2192 mandi \u2192 bangun",
+      "Sarapan \u2192 bangun \u2192 mandi",
+      "Mandi \u2192 tidur \u2192 bangun"
+    ],
     "answer": 0,
     "explain": "Urutan kegiatan harian."
   },
   {
-    "question": "Tempat bertemu dokter adalah...",
-    "options": ["Klinik", "Kantin", "Kebun", "Toko"],
+    "id": "set-3-10",
+    "q": "Tempat bertemu dokter adalah...",
+    "options": [
+      "Klinik",
+      "Kantin",
+      "Kebun",
+      "Toko"
+    ],
     "answer": 0,
     "explain": "Dokter bekerja di klinik."
   },
   {
-    "question": "Kalimat opini adalah...",
-    "options": ["Buku itu sangat bagus.", "Buku itu empat halaman.", "Buku itu berjudul Ceria.", "Buku itu warna biru."],
+    "id": "set-3-11",
+    "q": "Kalimat opini adalah...",
+    "options": [
+      "Buku itu sangat bagus.",
+      "Buku itu empat halaman.",
+      "Buku itu berjudul Ceria.",
+      "Buku itu warna biru."
+    ],
     "answer": 0,
     "explain": "Opini adalah pendapat."
   },
   {
-    "question": "Kalimat fakta adalah...",
-    "options": ["Air laut asin.", "Air laut paling enak.", "Air laut terasa lucu.", "Air laut harus diminum."],
+    "id": "set-3-12",
+    "q": "Kalimat fakta adalah...",
+    "options": [
+      "Air laut asin.",
+      "Air laut paling enak.",
+      "Air laut terasa lucu.",
+      "Air laut harus diminum."
+    ],
     "answer": 0,
     "explain": "Fakta dapat dibuktikan."
   },
   {
-    "question": "Kalimat aktif dari 'Kue dimakan Raka' adalah...",
-    "options": ["Raka makan kue.", "Kue Raka makan.", "Kue dimakan.", "Raka kue makan."],
+    "id": "set-3-13",
+    "q": "Kalimat aktif dari 'Kue dimakan Raka' adalah...",
+    "options": [
+      "Raka makan kue.",
+      "Kue Raka makan.",
+      "Kue dimakan.",
+      "Raka kue makan."
+    ],
     "answer": 0,
     "explain": "Subjek melakukan pekerjaan."
   },
   {
-    "question": "Kesalahan huruf kapital terdapat pada...",
-    "options": ["Besok Budi pergi ke Bali.", "Kami tinggal di Bandung.", "Saya menemui kak Rika.", "Hari Jumat kami libur."],
+    "id": "set-3-14",
+    "q": "Kesalahan huruf kapital terdapat pada...",
+    "options": [
+      "Besok Budi pergi ke Bali.",
+      "Kami tinggal di Bandung.",
+      "Saya menemui kak Rika.",
+      "Hari Jumat kami libur."
+    ],
     "answer": 2,
     "explain": "'Kak Rika' harus kapital."
   },
   {
-    "question": "Gambar lampu hijau berarti...",
-    "options": ["Boleh jalan", "Harus berhenti", "Hati-hati", "Dilarang masuk"],
+    "id": "set-3-15",
+    "q": "Gambar lampu hijau berarti...",
+    "options": [
+      "Boleh jalan",
+      "Harus berhenti",
+      "Hati-hati",
+      "Dilarang masuk"
+    ],
     "answer": 0,
     "explain": "Hijau = jalan."
   },
   {
-    "question": "Gambar lampu merah berarti...",
-    "options": ["Berhenti", "Jalan terus", "Belok bebas", "Mundur"],
+    "id": "set-3-16",
+    "q": "Gambar lampu merah berarti...",
+    "options": [
+      "Berhenti",
+      "Jalan terus",
+      "Belok bebas",
+      "Mundur"
+    ],
     "answer": 0,
     "explain": "Merah = berhenti."
   },
   {
-    "question": "Kata tanya untuk menanyakan waktu adalah...",
-    "options": ["Kapan", "Siapa", "Mengapa", "Di mana"],
+    "id": "set-3-17",
+    "q": "Kata tanya untuk menanyakan waktu adalah...",
+    "options": [
+      "Kapan",
+      "Siapa",
+      "Mengapa",
+      "Di mana"
+    ],
     "answer": 0,
     "explain": "'Kapan' untuk waktu."
   },
   {
-    "question": "Tempat membeli sayur adalah...",
-    "options": ["Pasar", "Sekolah", "Terminal", "Lapangan"],
+    "id": "set-3-18",
+    "q": "Tempat membeli sayur adalah...",
+    "options": [
+      "Pasar",
+      "Sekolah",
+      "Terminal",
+      "Lapangan"
+    ],
     "answer": 0,
     "explain": "Pasar menyediakan sayur."
   },
   {
-    "question": "Hubungan Bibi dan Adik adalah...",
-    "options": ["Keponakan dan bibi", "Sepupu", "Kakek dan cucu", "Tetangga"],
+    "id": "set-3-19",
+    "q": "Hubungan Bibi dan Adik adalah...",
+    "options": [
+      "Keponakan dan bibi",
+      "Sepupu",
+      "Kakek dan cucu",
+      "Tetangga"
+    ],
     "answer": 0,
     "explain": "Anak dari kakak/adik orang tua = keponakan."
   },
   {
-    "question": "Tanda seru dipakai untuk...",
-    "options": ["Peringatan", "Nama orang", "Nama tempat", "Jumlah benda"],
+    "id": "set-3-20",
+    "q": "Tanda seru dipakai untuk...",
+    "options": [
+      "Peringatan",
+      "Nama orang",
+      "Nama tempat",
+      "Jumlah benda"
+    ],
     "answer": 0,
     "explain": "Tanda seru menandai peringatan."
   }

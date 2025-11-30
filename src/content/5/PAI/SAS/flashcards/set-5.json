@@ -1,13 +1,42 @@
 [
-    {"front": "Makna Asmaul Husna", "back": "Nama-nama paling baik yang hanya dimiliki Allah."},
-    {"front": "Jumlah Asmaul Husna", "back": "99 nama."},
-    {"front": "Arti Al-Aziz", "back": "Allah Maha Perkasa."},
-    {"front": "Arti Ar-Rahman", "back": "Allah Maha Pengasih."},
-    {"front": "Arti Ar-Rahim", "back": "Allah Maha Penyayang."},
-    {"front": "Arti Al-Basir", "back": "Allah Maha Melihat."},
-    {"front": "Arti As-Sami", "back": "Allah Maha Mendengar."},
-    {"front": "Rukun zakat", "back": "Niat, mustahik, harta yang wajib dizakati."},
-    {"front": "Pengertian zakat", "back": "Mengeluarkan sebagian harta untuk mustahik."},
-    {"front": "Pengertian infak", "back": "Mengeluarkan harta untuk kebaikan kapan saja."}
-  ]
-  
+  {
+    "q": "Makna Asmaul Husna",
+    "a": "Nama-nama paling baik yang hanya dimiliki Allah."
+  },
+  {
+    "q": "Jumlah Asmaul Husna",
+    "a": "99 nama."
+  },
+  {
+    "q": "Arti Al-Aziz",
+    "a": "Allah Maha Perkasa."
+  },
+  {
+    "q": "Arti Ar-Rahman",
+    "a": "Allah Maha Pengasih."
+  },
+  {
+    "q": "Arti Ar-Rahim",
+    "a": "Allah Maha Penyayang."
+  },
+  {
+    "q": "Arti Al-Basir",
+    "a": "Allah Maha Melihat."
+  },
+  {
+    "q": "Arti As-Sami",
+    "a": "Allah Maha Mendengar."
+  },
+  {
+    "q": "Rukun zakat",
+    "a": "Niat, mustahik, harta yang wajib dizakati."
+  },
+  {
+    "q": "Pengertian zakat",
+    "a": "Mengeluarkan sebagian harta untuk mustahik."
+  },
+  {
+    "q": "Pengertian infak",
+    "a": "Mengeluarkan harta untuk kebaikan kapan saja."
+  }
+]

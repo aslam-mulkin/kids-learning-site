@@ -1,13 +1,42 @@
 [
-    {"front": "Perjanjian Hudaibiyah", "back": "Perjanjian damai antara kaum Muslim dan Quraisy."},
-    {"front": "Lama gencatan senjata Hudaibiyah", "back": "10 tahun."},
-    {"front": "Keuntungan Hudaibiyah bagi Muslim", "back": "Kesempatan berdakwah dengan lebih luas."},
-    {"front": "Hikmah perbedaan manusia (Q.S Ar-Rum)", "back": "Tanda kekuasaan Allah."},
-    {"front": "Makna Al-Qowiyyu", "back": "Allah Maha Kuat."},
-    {"front": "Makna Al-Qoyyum", "back": "Allah Maha Kokoh dan Berdiri Sendiri."},
-    {"front": "Zakat Fitrah dibayar kapan", "back": "Menjelang salat Idulfitri."},
-    {"front": "Pengertian Mustahik", "back": "Penerima zakat dari delapan golongan."},
-    {"front": "Golongan Asnaf: 'Fakir'", "back": "Orang yang sangat kekurangan harta."},
-    {"front": "Golongan Asnaf: 'Miskin'", "back": "Orang yang penghasilannya tidak cukup."}
-  ]
-  
+  {
+    "q": "Perjanjian Hudaibiyah",
+    "a": "Perjanjian damai antara kaum Muslim dan Quraisy."
+  },
+  {
+    "q": "Lama gencatan senjata Hudaibiyah",
+    "a": "10 tahun."
+  },
+  {
+    "q": "Keuntungan Hudaibiyah bagi Muslim",
+    "a": "Kesempatan berdakwah dengan lebih luas."
+  },
+  {
+    "q": "Hikmah perbedaan manusia (Q.S Ar-Rum)",
+    "a": "Tanda kekuasaan Allah."
+  },
+  {
+    "q": "Makna Al-Qowiyyu",
+    "a": "Allah Maha Kuat."
+  },
+  {
+    "q": "Makna Al-Qoyyum",
+    "a": "Allah Maha Kokoh dan Berdiri Sendiri."
+  },
+  {
+    "q": "Zakat Fitrah dibayar kapan",
+    "a": "Menjelang salat Idulfitri."
+  },
+  {
+    "q": "Pengertian Mustahik",
+    "a": "Penerima zakat dari delapan golongan."
+  },
+  {
+    "q": "Golongan Asnaf: 'Fakir'",
+    "a": "Orang yang sangat kekurangan harta."
+  },
+  {
+    "q": "Golongan Asnaf: 'Miskin'",
+    "a": "Orang yang penghasilannya tidak cukup."
+  }
+]

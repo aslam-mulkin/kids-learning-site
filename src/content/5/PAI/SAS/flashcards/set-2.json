@@ -1,13 +1,42 @@
 [
-    {"front": "Fakir", "back": "Orang sangat miskin dan hampir tidak memiliki penghasilan."},
-    {"front": "Miskin", "back": "Orang yang punya penghasilan tetapi tidak mencukupi kebutuhan."},
-    {"front": "Amil", "back": "Petugas yang mengelola zakat."},
-    {"front": "Infak", "back": "Mengeluarkan harta untuk kebaikan tanpa batas waktu."},
-    {"front": "Zakat Mal", "back": "Zakat atas harta tertentu seperti emas dan penghasilan."},
-    {"front": "Jenis makanan zakat fitrah", "back": "Beras, gandum, kurma, atau makanan pokok lain."},
-    {"front": "Tujuan zakat", "back": "Membersihkan harta dan membantu sesama."},
-    {"front": "Hikmah zakat", "back": "Menumbuhkan kepedulian sosial dan membersihkan jiwa."},
-    {"front": "Penerima zakat: 'Ibnu Sabil'", "back": "Musafir yang kehabisan bekal."},
-    {"front": "Penerima zakat: 'Gharim'", "back": "Orang yang memiliki hutang untuk kebaikan."}
-  ]
-  
+  {
+    "q": "Fakir",
+    "a": "Orang sangat miskin dan hampir tidak memiliki penghasilan."
+  },
+  {
+    "q": "Miskin",
+    "a": "Orang yang punya penghasilan tetapi tidak mencukupi kebutuhan."
+  },
+  {
+    "q": "Amil",
+    "a": "Petugas yang mengelola zakat."
+  },
+  {
+    "q": "Infak",
+    "a": "Mengeluarkan harta untuk kebaikan tanpa batas waktu."
+  },
+  {
+    "q": "Zakat Mal",
+    "a": "Zakat atas harta tertentu seperti emas dan penghasilan."
+  },
+  {
+    "q": "Jenis makanan zakat fitrah",
+    "a": "Beras, gandum, kurma, atau makanan pokok lain."
+  },
+  {
+    "q": "Tujuan zakat",
+    "a": "Membersihkan harta dan membantu sesama."
+  },
+  {
+    "q": "Hikmah zakat",
+    "a": "Menumbuhkan kepedulian sosial dan membersihkan jiwa."
+  },
+  {
+    "q": "Penerima zakat: 'Ibnu Sabil'",
+    "a": "Musafir yang kehabisan bekal."
+  },
+  {
+    "q": "Penerima zakat: 'Gharim'",
+    "a": "Orang yang memiliki hutang untuk kebaikan."
+  }
+]

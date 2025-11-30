@@ -1,13 +1,42 @@
 [
-    {"front": "Asnaf Zakat: 'Amil'", "back": "Pengurus zakat yang berhak menerima zakat."},
-    {"front": "Asnaf Zakat: 'Muallaf'", "back": "Orang yang dibujuk hatinya untuk masuk Islam."},
-    {"front": "Asnaf Zakat: 'Fi Sabilillah'", "back": "Orang yang berjuang di jalan Allah."},
-    {"front": "Asnaf Zakat: 'Gharimin'", "back": "Orang yang berhutang untuk kebaikan."},
-    {"front": "Asnaf Zakat: 'Ibnu Sabil'", "back": "Musafir yang kehabisan bekal."},
-    {"front": "Tujuan infak", "back": "Membantu sesama dan mencari ridha Allah."},
-    {"front": "Bedanya zakat dan infak", "back": "Zakat wajib, infak sunnah."},
-    {"front": "Hikmah infak", "back": "Membersihkan hati dan menumbuhkan empati."},
-    {"front": "Q.S Ar-Rum membahas apa?", "back": "Tanda-tanda kekuasaan Allah melalui perbedaan manusia."},
-    {"front": "Makna kata 'Ayatullah'", "back": "Tanda-tanda kekuasaan Allah."}
-  ]
-  
+  {
+    "q": "Asnaf Zakat: 'Amil'",
+    "a": "Pengurus zakat yang berhak menerima zakat."
+  },
+  {
+    "q": "Asnaf Zakat: 'Muallaf'",
+    "a": "Orang yang dibujuk hatinya untuk masuk Islam."
+  },
+  {
+    "q": "Asnaf Zakat: 'Fi Sabilillah'",
+    "a": "Orang yang berjuang di jalan Allah."
+  },
+  {
+    "q": "Asnaf Zakat: 'Gharimin'",
+    "a": "Orang yang berhutang untuk kebaikan."
+  },
+  {
+    "q": "Asnaf Zakat: 'Ibnu Sabil'",
+    "a": "Musafir yang kehabisan bekal."
+  },
+  {
+    "q": "Tujuan infak",
+    "a": "Membantu sesama dan mencari ridha Allah."
+  },
+  {
+    "q": "Bedanya zakat dan infak",
+    "a": "Zakat wajib, infak sunnah."
+  },
+  {
+    "q": "Hikmah infak",
+    "a": "Membersihkan hati dan menumbuhkan empati."
+  },
+  {
+    "q": "Q.S Ar-Rum membahas apa?",
+    "a": "Tanda-tanda kekuasaan Allah melalui perbedaan manusia."
+  },
+  {
+    "q": "Makna kata 'Ayatullah'",
+    "a": "Tanda-tanda kekuasaan Allah."
+  }
+]

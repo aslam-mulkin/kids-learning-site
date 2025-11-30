@@ -1,0 +1,12 @@
+[
+  {"q": "Kapan tanda seru digunakan?", "a": "Saat membuat perintah, peringatan, atau ungkapan emosi."},
+  {"q": "Huruf kapital digunakan pada nama hari apa?", "a": "Senin, Selasa, Rabu, dan seterusnya."},
+  {"q": "Apa itu pernyataan fakta?", "a": "Informasi yang dapat dibuktikan benar."},
+  {"q": "Apa itu pernyataan opini?", "a": "Pendapat atau perasaan seseorang."},
+  {"q": "Apa fungsi kata tanya 'di mana'?", "a": "Menanyakan lokasi atau tempat."},
+  {"q": "Apa fungsi kata tanya 'kapan'?", "a": "Menanyakan waktu terjadinya peristiwa."},
+  {"q": "Apa arti predikat dalam kalimat?", "a": "Bagian yang menunjukkan pekerjaan atau keadaan."},
+  {"q": "Apa arti objek dalam kalimat?", "a": "Bagian yang dikenai pekerjaan."},
+  {"q": "Apa tujuan membaca rambu lalu lintas?", "a": "Agar pengguna jalan lebih aman."},
+  {"q": "Apa tujuan membuat kalimat peringatan?", "a": "Memberi tanda bahaya atau larangan."}
+]

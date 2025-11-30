@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Hubungan kekerabatan antara Ibu dan Nenek adalah...",
+    "options": ["Anak dan orang tua", "Sepupu", "Adik dan kakak", "Tetangga"],
+    "answer": 0,
+    "explain": "Nenek adalah orang tua dari Ibu."
+  },
+  {
+    "question": "Kalimat awal cerita yang tepat adalah...",
+    "options": ["Pagi itu Andi bersiap ke sekolah.", "Akhirnya Andi pulang.", "Andi sudah menyelesaikan tugasnya.", "Andi merasa bangga di akhir cerita."],
+    "answer": 0,
+    "explain": "Awal cerita biasanya memperkenalkan situasi."
+  },
+  {
+    "question": "Objek dalam kalimat 'Sari membeli roti' adalah...",
+    "options": ["roti", "Sari", "membeli", "di toko"],
+    "answer": 0,
+    "explain": "Roti adalah objek kata kerja 'membeli'."
+  },
+  {
+    "question": "Kalimat peringatan yang benar adalah...",
+    "options": ["Jangan berlari di lorong!", "Anak-anak berlari di lorong.", "Lorong itu panjang.", "Lorong itu ramai."],
+    "answer": 0,
+    "explain": "Peringatan memakai tanda seru."
+  },
+  {
+    "question": "Kata 'di' pada 'di sekolah' adalah...",
+    "options": ["kata depan", "imbuhan", "kata benda", "kata sifat"],
+    "answer": 0,
+    "explain": "'di' + tempat disebut kata depan."
+  },
+  {
+    "question": "Kalimat pasif yang benar adalah...",
+    "options": ["Baju dicuci Ibu.", "Ibu cuci baju.", "Baju Ibu cuci.", "Baju cuci."],
+    "answer": 0,
+    "explain": "Kalimat pasif memakai imbuhan 'di-'."
+  },
+  {
+    "question": "Huruf kapital digunakan pada...",
+    "options": ["Nama kota", "Nama buah", "Nama hewan", "Nama warna"],
+    "answer": 0,
+    "explain": "Nama kota memakai huruf kapital."
+  },
+  {
+    "question": "Predikat dalam 'Burung terbang tinggi' adalah...",
+    "options": ["terbang", "burung", "tinggi", "di langit"],
+    "answer": 0,
+    "explain": "'terbang' adalah predikat."
+  },
+  {
+    "question": "Urutan peristiwa yang tepat adalah...",
+    "options": ["Bangun → mandi → sarapan", "Sarapan → mandi → bangun", "Mandi → sarapan → bangun", "Tidur → sarapan → bangun"],
+    "answer": 0,
+    "explain": "Bangun terjadi lebih dulu."
+  },
+  {
+    "question": "Kata tanya yang tepat untuk menanyakan orang adalah...",
+    "options": ["Siapa", "Apa", "Di mana", "Kapan"],
+    "answer": 0,
+    "explain": "Orang ditanyakan dengan 'siapa'."
+  },
+  {
+    "question": "Tanda seru digunakan untuk...",
+    "options": ["Peringatan", "Nama orang", "Kalimat penjelasan", "Kalimat definisi"],
+    "answer": 0,
+    "explain": "Tanda seru untuk peringatan."
+  },
+  {
+    "question": "Tempat untuk meminjam buku adalah...",
+    "options": ["Perpustakaan", "Terminal", "Kantin", "Apotek"],
+    "answer": 0,
+    "explain": "Perpustakaan menyediakan buku."
+  },
+  {
+    "question": "Contoh penggunaan imbuhan 'di-' adalah...",
+    "options": ["Dibuka oleh Pak Guru", "Di rumah paman", "Di pasar kota", "Di depan sekolah"],
+    "answer": 0,
+    "explain": "'di-' + kata kerja adalah imbuhan."
+  },
+  {
+    "question": "Pengendara berhenti di lampu merah adalah simbol...",
+    "options": ["Tertib lalu lintas", "Pelanggaran", "Berbahaya", "Tidak aman"],
+    "answer": 0,
+    "explain": "Berhenti di lampu merah adalah tertib."
+  },
+  {
+    "question": "Gambar rambu dilarang masuk berarti...",
+    "options": ["Kendaraan tidak boleh masuk", "Kendaraan boleh berhenti", "Kendaraan harus cepat", "Kendaraan harus lambat"],
+    "answer": 0,
+    "explain": "Dilarang masuk = tidak boleh masuk."
+  },
+  {
+    "question": "Kalimat opini adalah...",
+    "options": ["Kue itu sangat enak.", "Kue itu berbentuk bulat.", "Kue itu berat 200 gram.", "Kue itu berwarna coklat."],
+    "answer": 0,
+    "explain": "Opini adalah pendapat."
+  },
+  {
+    "question": "Kalimat fakta adalah...",
+    "options": ["Air itu sangat lezat.", "Air itu tidak enak.", "Air membeku pada 0°C.", "Air paling enak diminum pagi hari."],
+    "answer": 2,
+    "explain": "Fakta bisa dibuktikan."
+  },
+  {
+    "question": "Kalimat aktif dari 'Pintu ditutup Ayah' adalah...",
+    "options": ["Ayah menutup pintu.", "Pintu menutup Ayah.", "Ayah pintu menutup.", "Pintu Ayah tutup."],
+    "answer": 0,
+    "explain": "Subjek melakukan pekerjaan."
+  },
+  {
+    "question": "Kesalahan huruf kapital terdapat pada kalimat...",
+    "options": ["Besok Ibu ke Bandung.", "Saya tinggal di Surabaya.", "Kami bertemu pak Andi.", "Hari ini hari Senin."],
+    "answer": 2,
+    "explain": "'Pak Andi' harus kapital di awal."
+  },
+  {
+    "question": "Hubungan antara Kakak dan Adik adalah...",
+    "options": ["Saudara kandung", "Sepupu", "Tetangga", "Orang tua"],
+    "answer": 0,
+    "explain": "Kakak dan adik adalah saudara kandung."
+  }
+]

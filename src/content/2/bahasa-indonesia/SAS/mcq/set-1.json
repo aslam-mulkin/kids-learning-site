@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Hubungan kekerabatan antara Ayah dan Kakak adalah...",
+    "options": [
+      "Orang tua dan anak",
+      "Sepupu",
+      "Paman dan keponakan",
+      "Kakek dan cucu"
+    ],
+    "answer": 0,
+    "explain": "Ayah adalah orang tua dari Kakak."
+  },
+  {
+    "question": "Kalimat berikut termasuk bagian awal cerita adalah...",
+    "options": [
+      "Pada suatu pagi, Dina bangun lebih awal.",
+      "Akhirnya Dina mendapat hadiah.",
+      "Dina pulang ke rumah dengan senang.",
+      "Dina menutup buku hariannya."
+    ],
+    "answer": 0,
+    "explain": "Bagian awal biasanya memperkenalkan cerita."
+  },
+  {
+    "question": "Objek dalam kalimat 'Ibu memasak sayur' adalah...",
+    "options": [
+      "sayur",
+      "Ibu",
+      "memasak",
+      "di dapur"
+    ],
+    "answer": 0,
+    "explain": "Sayur adalah objek tindakan 'memasak'."
+  },
+  {
+    "question": "Kalimat peringatan yang tepat adalah...",
+    "options": [
+      "Awas, lantai licin!",
+      "Lantai itu licin.",
+      "Lantai itu basah.",
+      "Lantai sering dibersihkan."
+    ],
+    "answer": 0,
+    "explain": "Kalimat peringatan memakai tanda seru."
+  },
+  {
+    "question": "Kata 'di' pada kalimat 'Buku itu di meja' adalah...",
+    "options": [
+      "kata depan",
+      "imbuhan",
+      "kata kerja",
+      "kata benda"
+    ],
+    "answer": 0,
+    "explain": "'di' + tempat adalah kata depan."
+  },
+  {
+    "question": "Kalimat pasif yang tepat adalah...",
+    "options": [
+      "Bola ditendang Rudi.",
+      "Rudi menendang bola.",
+      "Rudi menendang-nendang bola.",
+      "Bola sedang Rudi."
+    ],
+    "answer": 0,
+    "explain": "Kalimat pasif memakai imbuhan 'di-'."
+  },
+  {
+    "question": "Huruf kapital digunakan pada...",
+    "options": [
+      "Nama orang",
+      "Nama benda",
+      "Nama warna",
+      "Nama hari biasa"
+    ],
+    "answer": 0,
+    "explain": "Nama orang selalu memakai huruf kapital."
+  },
+  {
+    "question": "Predikat dalam kalimat 'Adi membaca buku' adalah...",
+    "options": [
+      "membaca",
+      "Adi",
+      "buku",
+      "di rumah"
+    ],
+    "answer": 0,
+    "explain": "'membaca' adalah predikat atau pekerjaan."
+  },
+  {
+    "question": "Urutan peristiwa yang benar adalah...",
+    "options": [
+      "Bangun–mandi–sarapan",
+      "Sarapan–mandi–bangun",
+      "Mandi–bangun–sarapan",
+      "Sarapan–tidur–bangun"
+    ],
+    "answer": 0,
+    "explain": "Bangun dulu sebelum mandi dan sarapan."
+  },
+  {
+    "question": "Kata tanya yang tepat untuk '___ kamu tinggal?' adalah...",
+    "options": [
+      "Di mana",
+      "Siapa",
+      "Kapan",
+      "Berapa"
+    ],
+    "answer": 0,
+    "explain": "Tempat ditanyakan dengan 'di mana'."
+  },
+  {
+    "question": "Tanda baca yang digunakan untuk peringatan adalah...",
+    "options": [
+      "Tanda seru (!)",
+      "Tanda koma (,)",
+      "Tanda titik (.)",
+      "Tanda tanya (?)"
+    ],
+    "answer": 0,
+    "explain": "Peringatan memakai tanda seru."
+  },
+  {
+    "question": "Nama tempat umum yang sesuai untuk membeli obat adalah...",
+    "options": [
+      "Apotek",
+      "Sekolah",
+      "Pasar hewan",
+      "Terminal"
+    ],
+    "answer": 0,
+    "explain": "Apotek adalah tempat membeli obat."
+  },
+  {
+    "question": "Kalimat yang menggunakan imbuhan 'di-' adalah...",
+    "options": [
+      "Dibaca oleh Sari",
+      "Di rumah nenek",
+      "Di sekolah kami",
+      "Di sana sangat dingin"
+    ],
+    "answer": 0,
+    "explain": "Imbuhan 'di-' menunjukkan kata kerja pasif."
+  },
+  {
+    "question": "Gambar pengendara tanpa helm menunjukkan...",
+    "options": [
+      "Perilaku berbahaya",
+      "Perilaku baik",
+      "Perilaku tertib",
+      "Perilaku aman"
+    ],
+    "answer": 0,
+    "explain": "Tidak memakai helm adalah perilaku berbahaya."
+  },
+  {
+    "question": "Gambar rambu hati-hati berarti...",
+    "options": [
+      "Pengguna jalan harus waspada",
+      "Dilarang belok kiri",
+      "Jalan satu arah",
+      "Sepeda dilarang lewat"
+    ],
+    "answer": 0,
+    "explain": "Rambu hati-hati berarti kewaspadaan."
+  },
+  {
+    "question": "Pernyataan opini adalah...",
+    "options": [
+      "Buah itu sangat enak.",
+      "Buah itu berwarna merah.",
+      "Buah itu berat 1 kg.",
+      "Buah itu bentuknya bulat."
+    ],
+    "answer": 0,
+    "explain": "Opini adalah pendapat, tidak pasti."
+  },
+  {
+    "question": "Pernyataan fakta adalah...",
+    "options": [
+      "Air hujan terasa sedih.",
+      "Air hujan turun dari awan.",
+      "Air hujan sangat cantik.",
+      "Air hujan paling enak."
+    ],
+    "answer": 1,
+    "explain": "Fakta dapat dibuktikan."
+  },
+  {
+    "question": "Kalimat aktif dari 'Bola ditangkap Budi' adalah...",
+    "options": [
+      "Budi menangkap bola.",
+      "Bola menangkap Budi.",
+      "Budi ditangkap bola.",
+      "Budi bola menangkap."
+    ],
+    "answer": 0,
+    "explain": "Subjek melakukan pekerjaan pada objek."
+  },
+  {
+    "question": "Kalimat dengan kesalahan huruf kapital adalah...",
+    "options": [
+      "Ibu pergi ke pasar.",
+      "Kemarin saya bertemu Budi.",
+      "Ayah membaca Koran kompas.",
+      "Kami tinggal di Jakarta."
+    ],
+    "answer": 2,
+    "explain": "Nama koran harus kapital: Kompas."
+  },
+  {
+    "question": "Hubungan antara Ayah dan Adik adalah...",
+    "options": [
+      "Orang tua dan anak",
+      "Sepupu",
+      "Paman dan keponakan",
+      "Teman sebaya"
+    ],
+    "answer": 0,
+    "explain": "Ayah adalah orang tua dari Adik."
+  }
+]

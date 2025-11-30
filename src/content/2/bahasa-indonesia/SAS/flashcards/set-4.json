@@ -1,0 +1,12 @@
+[
+  {"q": "Apa yang dimaksud kata depan?", "a": "Kata yang menunjukkan hubungan tempat, waktu, atau arah."},
+  {"q": "Apa yang dimaksud imbuhan?", "a": "Bentuk tambahan pada kata untuk mengubah makna."},
+  {"q": "Apa fungsi huruf kapital pada nama orang?", "a": "Menunjukkan bahwa nama tersebut adalah nama diri."},
+  {"q": "Apa fungsi huruf kapital pada nama tempat?", "a": "Menunjukkan nama kota, negara, atau wilayah."},
+  {"q": "Apa yang dimaksud bagian akhir cerita?", "a": "Bagian yang berisi penyelesaian atau penutup cerita."},
+  {"q": "Apa yang dimaksud bagian tengah cerita?", "a": "Bagian berisi konflik atau masalah tokoh."},
+  {"q": "Apa fungsi tanda baca?", "a": "Untuk memperjelas maksud kalimat."},
+  {"q": "Apa itu kalimat aktif?", "a": "Kalimat dengan subjek melakukan tindakan."},
+  {"q": "Apa itu kalimat pasif?", "a": "Kalimat dengan subjek dikenai tindakan."},
+  {"q": "Apa itu kata kerja?", "a": "Kata yang menunjukkan tindakan atau kegiatan."}
+]

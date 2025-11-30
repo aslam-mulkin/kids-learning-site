@@ -1,0 +1,12 @@
+[
+  {"q": "Kapan kata tanya 'apa' digunakan?", "a": "Untuk menanyakan benda, tindakan, atau hal umum."},
+  {"q": "Kapan kata tanya 'di mana' digunakan?", "a": "Untuk menanyakan tempat."},
+  {"q": "Kapan kata tanya 'kapan' digunakan?", "a": "Untuk menanyakan waktu."},
+  {"q": "Kapan kata tanya 'mengapa' digunakan?", "a": "Untuk menanyakan alasan."},
+  {"q": "Apa yang dimaksud kalimat pasif?", "a": "Kalimat dengan subjek dikenai tindakan, memakai 'di-'."},
+  {"q": "Apa yang dimaksud kalimat aktif?", "a": "Kalimat dengan subjek melakukan tindakan."},
+  {"q": "Apa yang dimaksud opini?", "a": "Pendapat yang tidak bisa dibuktikan kebenarannya secara pasti."},
+  {"q": "Apa yang dimaksud fakta?", "a": "Informasi yang dapat dibuktikan kebenarannya."},
+  {"q": "Apa yang dimaksud urutan peristiwa?", "a": "Kejadian yang disusun sesuai waktu terjadinya."},
+  {"q": "Apa yang dimaksud nama tempat umum?", "a": "Tempat yang digunakan masyarakat, seperti pasar, sekolah, rumah sakit."}
+]

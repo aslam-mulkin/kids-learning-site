@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Ibu dan Paman adalah...",
+    "options": ["Kakak dan adik", "Saudara kandung", "Sepupu", "Teman"],
+    "answer": 1,
+    "explain": "Paman adalah saudara kandung Ibu."
+  },
+  {
+    "question": "Kalimat pembuka cerita yang baik adalah...",
+    "options": ["Suatu hari, Rina pergi ke taman.", "Rina pulang dengan gembira.", "Rina menyelesaikan tugasnya.", "Rina tidur setelah bermain."],
+    "answer": 0,
+    "explain": "Kalimat pembuka memperkenalkan kejadian."
+  },
+  {
+    "question": "Objek pada 'Ibu membeli mangga' adalah...",
+    "options": ["mangga", "Ibu", "membeli", "di pasar"],
+    "answer": 0,
+    "explain": "Mangga adalah objek."
+  },
+  {
+    "question": "Kalimat peringatan yang tepat adalah...",
+    "options": ["Jangan bermain di jalan!", "Anak itu bermain di jalan.", "Jalan itu ramai.", "Jalan itu panjang."],
+    "answer": 0,
+    "explain": "Peringatan memakai tanda seru."
+  },
+  {
+    "question": "Kata depan 'di' digunakan pada kalimat...",
+    "options": ["Adi di sekolah.", "Dibuka oleh Ayah.", "Ditulis Sari.", "Dipetik Nia."],
+    "answer": 0,
+    "explain": "'di' + tempat adalah kata depan."
+  },
+  {
+    "question": "Kalimat pasif dari 'Andi menutup pintu' adalah...",
+    "options": ["Pintu ditutup Andi.", "Andi pintu menutup.", "Andi menutup pintu.", "Pintu Andi."],
+    "answer": 0,
+    "explain": "Pasif memakai 'di-'."
+  },
+  {
+    "question": "Huruf kapital dipakai pada...",
+    "options": ["Nama bulan", "Nama sayur", "Nama hewan", "Nama benda"],
+    "answer": 0,
+    "explain": "Nama bulan kapital."
+  },
+  {
+    "question": "Predikat dalam 'Lala berlari cepat' adalah...",
+    "options": ["berlari", "Lala", "cepat", "di lapangan"],
+    "answer": 0,
+    "explain": "Predikat adalah kata kerja."
+  },
+  {
+    "question": "Urutan logis kegiatan adalah...",
+    "options": ["Bangun → mandi → sarapan", "Sarapan → bangun → mandi", "Mandi → tidur → bangun", "Sarapan → tidur → bangun"],
+    "answer": 0,
+    "explain": "Urutan kegiatan harian."
+  },
+  {
+    "question": "Tempat umum: membeli buku tulis adalah...",
+    "options": ["Toko alat tulis", "Perpustakaan", "Bank", "Terminal"],
+    "answer": 0,
+    "explain": "Toko alat tulis menjual buku."
+  },
+  {
+    "question": "Kalimat opini adalah...",
+    "options": ["Cuaca hari ini sangat indah.", "Hujan turun pada sore hari.", "Awan berwarna abu-abu.", "Hujan turun 10 menit."],
+    "answer": 0,
+    "explain": "Opini = pendapat."
+  },
+  {
+    "question": "Kalimat fakta adalah...",
+    "options": ["Es mencair di suhu hangat.", "Es paling enak dimakan pagi hari.", "Es terasa lucu.", "Es paling dingin sedunia."],
+    "answer": 0,
+    "explain": "Fakta bisa dibuktikan."
+  },
+  {
+    "question": "Kalimat aktif dari 'Kue dipotong Ibu' adalah...",
+    "options": ["Ibu memotong kue.", "Kue Ibu memotong.", "Kue memotong Ibu.", "Kue potong Ibu."],
+    "answer": 0,
+    "explain": "Subjek melakukan tindakan."
+  },
+  {
+    "question": "Huruf kapital diperlukan pada kalimat...",
+    "options": ["Kami pergi ke Bandung.", "Kucing itu lucu.", "Hari ini cerah.", "Saya makan nasi."],
+    "answer": 0,
+    "explain": "Bandung adalah nama tempat."
+  },
+  {
+    "question": "Gambar rambu berhenti berarti...",
+    "options": ["Harus berhenti", "Boleh lewat", "Putar balik", "Boleh berbelok"],
+    "answer": 0,
+    "explain": "Rambu stop = berhenti."
+  },
+  {
+    "question": "Gambar rambu hati-hati berarti...",
+    "options": ["Waspada", "Berhenti", "Putar balik", "Jalan terus"],
+    "answer": 0,
+    "explain": "Rambu hati-hati = waspada."
+  },
+  {
+    "question": "Kata tanya untuk menanyakan tempat adalah...",
+    "options": ["Di mana", "Siapa", "Bagaimana", "Kapan"],
+    "answer": 0,
+    "explain": "Tempat = 'di mana'."
+  },
+  {
+    "question": "Tempat untuk berobat adalah...",
+    "options": ["Puskesmas", "Pasar", "Kantor pos", "Stasiun"],
+    "answer": 0,
+    "explain": "Puskesmas tempat berobat."
+  },
+  {
+    "question": "Hubungan Kakak dan Ibu adalah...",
+    "options": ["Orang tua dan anak", "Paman dan keponakan", "Sepupu", "Teman"],
+    "answer": 0,
+    "explain": "Ibu adalah orang tua Kakak."
+  },
+  {
+    "question": "Tanda seru digunakan untuk...",
+    "options": ["Kalimat peringatan", "Kalimat definisi", "Kalimat tanya", "Kalimat berita biasa"],
+    "answer": 0,
+    "explain": "Tanda seru menandai peringatan."
+  }
+]

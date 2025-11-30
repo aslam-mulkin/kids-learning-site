@@ -1,0 +1,12 @@
+[
+  {"q": "Apa itu surat?", "a": "Media komunikasi tulisan yang berisi pesan."},
+  {"q": "Apa fungsi kepala surat?", "a": "Berisi tempat dan tanggal penulisan."},
+  {"q": "Apa fungsi salam pembuka?", "a": "Mengawali isi surat secara sopan."},
+  {"q": "Apa fungsi isi surat?", "a": "Berisi pokok pesan yang disampaikan."},
+  {"q": "Apa fungsi salam penutup?", "a": "Menutup surat dengan sopan."},
+  {"q": "Apa itu tanda tangan surat?", "a": "Identitas dan persetujuan pengirim."},
+  {"q": "Apa itu diagram batang?", "a": "Diagram berbentuk batang untuk membandingkan data."},
+  {"q": "Apa itu diagram lingkaran?", "a": "Diagram yang menunjukkan proporsi dalam bentuk lingkaran."},
+  {"q": "Apa itu grafik garis?", "a": "Diagram yang menunjukkan perubahan data dari waktu ke waktu."},
+  {"q": "Apa itu ilustrasi?", "a": "Gambar yang membantu memahami teks."}
+]

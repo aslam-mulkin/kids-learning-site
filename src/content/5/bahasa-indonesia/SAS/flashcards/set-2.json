@@ -1,0 +1,12 @@
+[
+  {"q": "Apa yang dimaksud latar tempat?", "a": "Lokasi terjadinya peristiwa dalam cerita."},
+  {"q": "Apa yang dimaksud latar waktu?", "a": "Waktu terjadinya peristiwa dalam cerita."},
+  {"q": "Apa yang dimaksud tokoh utama?", "a": "Tokoh yang paling berperan dalam cerita."},
+  {"q": "Apa itu amanat?", "a": "Pesan atau nilai yang disampaikan cerita."},
+  {"q": "Apa tanda khas kalimat langsung?", "a": "Menggunakan tanda petik (“ ”)."},
+  {"q": "Apa fungsi kata tanya 'kapan'?", "a": "Menanyakan waktu."},
+  {"q": "Apa fungsi kata tanya 'di mana'?", "a": "Menanyakan tempat."},
+  {"q": "Apa fungsi kata tanya 'mengapa'?", "a": "Menanyakan alasan."},
+  {"q": "Apa fungsi kata tanya 'bagaimana'?", "a": "Menanyakan cara."},
+  {"q": "Apa itu kata dasar?", "a": "Bentuk dasar sebelum diberi imbuhan."}
+]

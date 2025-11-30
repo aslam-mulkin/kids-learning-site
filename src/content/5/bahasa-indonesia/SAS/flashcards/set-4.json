@@ -1,0 +1,12 @@
+[
+  {"q": "Apa itu kalimat utama?", "a": "Kalimat yang berisi ide pokok paragraf."},
+  {"q": "Apa itu kalimat rincian?", "a": "Kalimat penjelas dari kalimat utama."},
+  {"q": "Apa fungsi kata hubung?", "a": "Menghubungkan dua kata, frasa, atau klausa."},
+  {"q": "Apa arti kata hubung 'tetapi'?", "a": "Menunjukkan pertentangan."},
+  {"q": "Apa arti kata hubung 'karena'?", "a": "Menunjukkan sebab."},
+  {"q": "Apa arti kata hubung 'sehingga'?", "a": "Menunjukkan akibat."},
+  {"q": "Apa itu sinonim?", "a": "Kata yang memiliki makna sama."},
+  {"q": "Apa itu antonim?", "a": "Kata yang memiliki makna berlawanan."},
+  {"q": "Apa itu ringkasan?", "a": "Penyajian inti teks secara singkat."},
+  {"q": "Apa itu paragraf?", "a": "Kumpulan kalimat yang memuat satu gagasan."}
+]

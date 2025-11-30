@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Makna idiom 'buah tangan' adalah...",
+    "options": ["Oleh-oleh", "Hadiah besar", "Buah asli", "Hasil kebun"],
+    "answer": 0,
+    "explain": "Buah tangan berarti oleh-oleh."
+  },
+  {
+    "question": "Kata tanya 'di mana' digunakan untuk menanyakan...",
+    "options": ["Alasan", "Tempat", "Waktu", "Jumlah"],
+    "answer": 1,
+    "explain": "Di mana menanyakan tempat."
+  },
+  {
+    "question": "Kata dasar dari 'berjalan' adalah...",
+    "options": ["Jalan", "Berjalan", "Menjalan", "Pelan"],
+    "answer": 0,
+    "explain": "Kata dasarnya jalan."
+  },
+  {
+    "question": "Kalimat utama berfungsi untuk...",
+    "options": ["Menyampaikan gagasan pokok", "Menutup paragraf", "Menambah dialog", "Menjelaskan tokoh"],
+    "answer": 0,
+    "explain": "Kalimat utama menyampaikan inti paragraf."
+  },
+  {
+    "question": "Unsur intrinsik yang menunjukkan 'kapan' cerita terjadi adalah...",
+    "options": ["Tema", "Latar waktu", "Amanat", "Sudut pandang"],
+    "answer": 1,
+    "explain": "Latar waktu = kapan terjadi."
+  },
+  {
+    "question": "Kata sifat dalam kalimat 'Rumah itu sangat megah' adalah...",
+    "options": ["Sangat", "Megah", "Rumah", "Itu"],
+    "answer": 1,
+    "explain": "Megah adalah kata sifat."
+  },
+  {
+    "question": "Tujuan teks deskripsi adalah...",
+    "options": ["Menggambarkan objek", "Mengajak pembaca", "Menghibur pembaca", "Menolak argumen"],
+    "answer": 0,
+    "explain": "Deskripsi menggambarkan objek."
+  },
+  {
+    "question": "Kata hubung 'tetapi' menunjukkan...",
+    "options": ["Pertentangan", "Tujuan", "Sebab", "Arah"],
+    "answer": 0,
+    "explain": "Tetapi menunjukkan pertentangan."
+  },
+  {
+    "question": "Yang harus disiapkan dalam wawancara adalah...",
+    "options": ["Pertanyaan", "Pantun", "Poster", "Pidato"],
+    "answer": 0,
+    "explain": "Wawancara memerlukan pertanyaan."
+  },
+  {
+    "question": "Bagian surat yang berisi tempat dan tanggal adalah...",
+    "options": ["Lampiran", "Penutup", "Kepala surat", "Isi surat"],
+    "answer": 2,
+    "explain": "Tempat dan tanggal ada di kepala surat."
+  },
+  {
+    "question": "Antonim dari kata 'halus' adalah...",
+    "options": ["Lembut", "Kasar", "Tipis", "Tinggi"],
+    "answer": 1,
+    "explain": "Lawan katanya kasar."
+  },
+  {
+    "question": "'Ia berkata, “Aku setuju.”' adalah contoh...",
+    "options": ["Kalimat langsung", "Kalimat tanya", "Kalimat pasif", "Kalimat majemuk"],
+    "answer": 0,
+    "explain": "Kalimat langsung memakai tanda petik."
+  },
+  {
+    "question": "Majas hiperbola digunakan untuk...",
+    "options": ["Melebih-lebihkan", "Menyindir", "Mengulang kata", "Membandingkan hal"],
+    "answer": 0,
+    "explain": "Hiperbola melebih-lebihkan."
+  },
+  {
+    "question": "Informasi dari diagram adalah...",
+    "options": ["Data visual", "Amanat", "Tokoh", "Rima"],
+    "answer": 0,
+    "explain": "Diagram menampilkan data visual."
+  },
+  {
+    "question": "Teks prosedur berisi...",
+    "options": ["Langkah-langkah", "Cerita lucu", "Tokoh cerita", "Kata sifat"],
+    "answer": 0,
+    "explain": "Prosedur berisi langkah-langkah."
+  },
+  {
+    "question": "Kalimat pendukung berfungsi untuk...",
+    "options": ["Menjelaskan kalimat utama", "Mengubah judul", "Mengganti tokoh", "Mengubah alur"],
+    "answer": 0,
+    "explain": "Kalimat pendukung menjelaskan kalimat utama."
+  },
+  {
+    "question": "Profesi narasumber adalah...",
+    "options": ["Pekerjaan narasumber", "Hobinya", "Alamat rumahnya", "Umurnya"],
+    "answer": 0,
+    "explain": "Profesi berarti pekerjaan."
+  },
+  {
+    "question": "Ide pokok paragraf adalah...",
+    "options": ["Gagasan utama", "Contoh kalimat", "Dialog", "Judul paragraf"],
+    "answer": 0,
+    "explain": "Ide pokok = gagasan utama."
+  },
+  {
+    "question": "Kata tanya 'bagaimana' digunakan untuk menanyakan...",
+    "options": ["Cara", "Waktu", "Alasan", "Jumlah"],
+    "answer": 0,
+    "explain": "Bagaimana menanyakan cara."
+  },
+  {
+    "question": "Bagian surat yang memuat salam penutup adalah...",
+    "options": ["Penutup", "Lampiran", "Isi surat", "Judul surat"],
+    "answer": 0,
+    "explain": "Terdapat di bagian penutup."
+  },
+  {
+    "question": "Unsur intrinsik yang berisi pesan cerita adalah...",
+    "options": ["Amanat", "Tema", "Tokoh", "Latar"],
+    "answer": 0,
+    "explain": "Amanat = pesan cerita."
+  },
+  {
+    "question": "Kata dasar dari 'menggambar' adalah...",
+    "options": ["Gambar", "Gambaran", "Penggambar", "Digambar"],
+    "answer": 0,
+    "explain": "Kata dasarnya gambar."
+  },
+  {
+    "question": "Kalimat majemuk memiliki...",
+    "options": ["Dua klausa", "Satu klausa", "Satu kata", "Satu frasa"],
+    "answer": 0,
+    "explain": "Majemuk = dua klausa."
+  },
+  {
+    "question": "Ide pendukung berfungsi untuk...",
+    "options": ["Menjelaskan ide pokok", "Menentukan judul", "Membuat tokoh", "Menggambar alur"],
+    "answer": 0,
+    "explain": "Menjelaskan ide pokok."
+  },
+  {
+    "question": "Kata sifat dalam 'Air sungai itu kotor' adalah...",
+    "options": ["Sungai", "Itu", "Air", "Kotor"],
+    "answer": 3,
+    "explain": "Kotor adalah sifat."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Ide pokok paragraf adalah...",
+    "options": ["Bagian inti paragraf", "Kalimat pertama", "Judul teks", "Kesimpulan teks"],
+    "answer": 0,
+    "explain": "Ide pokok adalah inti paragraf."
+  },
+  {
+    "question": "Makna idiom 'besar kepala' adalah...",
+    "options": ["Lembut", "Sombong", "Pendiam", "Pemalu"],
+    "answer": 1,
+    "explain": "Besar kepala berarti sombong."
+  },
+  {
+    "question": "Kata dasar dari 'makanan' adalah...",
+    "options": ["Dimakan", "Makanan", "Makan", "Memakan"],
+    "answer": 2,
+    "explain": "Kata dasar makanan adalah makan."
+  },
+  {
+    "question": "Imbuhan 'me-' pada kata 'membaca' membentuk...",
+    "options": ["Kata benda", "Kata sifat", "Kata kerja", "Kata bilangan"],
+    "answer": 2,
+    "explain": "Me- membentuk kata kerja."
+  },
+  {
+    "question": "Kalimat pendukung berfungsi untuk...",
+    "options": ["Menjelaskan ide pokok", "Mengulang judul", "Menambah dialog", "Mengganti tokoh"],
+    "answer": 0,
+    "explain": "Fungsinya menjelaskan ide pokok."
+  },
+  {
+    "question": "Unsur intrinsik yang menunjukkan tempat terjadinya cerita adalah...",
+    "options": ["Tema", "Latar tempat", "Amanat", "Sudut pandang"],
+    "answer": 1,
+    "explain": "Latar tempat adalah lokasi cerita."
+  },
+  {
+    "question": "Contoh kata sifat adalah...",
+    "options": ["Cepat", "Buku", "Berlari", "Kemarin"],
+    "answer": 0,
+    "explain": "Cepat adalah kata sifat."
+  },
+  {
+    "question": "Kalimat utama biasanya terdapat pada...",
+    "options": ["Judul cerita", "Akhir paragraf", "Awal atau akhir paragraf", "Kutipan dialog"],
+    "answer": 2,
+    "explain": "Letaknya awal atau akhir paragraf."
+  },
+  {
+    "question": "Tujuan teks deskripsi adalah...",
+    "options": ["Memberi kesan objek secara rinci", "Mengajak pembaca", "Menolak gagasan", "Menceritakan masa lalu"],
+    "answer": 0,
+    "explain": "Deskripsi menggambarkan objek rinci."
+  },
+  {
+    "question": "Informasi dalam diagram menunjukkan...",
+    "options": ["Data visual", "Kalimat langsung", "Tokoh cerita", "Rima pantun"],
+    "answer": 0,
+    "explain": "Diagram menampilkan data visual."
+  },
+  {
+    "question": "Kata tanya ‘kapan’ digunakan untuk menanyakan...",
+    "options": ["Alasan", "Cara", "Waktu", "Jumlah"],
+    "answer": 2,
+    "explain": "Kapan menanyakan waktu."
+  },
+  {
+    "question": "Teks wawancara membutuhkan persiapan...",
+    "options": ["Suara keras", "Pertanyaan", "Gambar warna", "Lagu pembuka"],
+    "answer": 1,
+    "explain": "Harus menyiapkan daftar pertanyaan."
+  },
+  {
+    "question": "Profesi narasumber adalah...",
+    "options": ["Pekerjaan narasumber", "Hobinya", "Rumahnya", "Tempat duduknya"],
+    "answer": 0,
+    "explain": "Profesi adalah pekerjaan narasumber."
+  },
+  {
+    "question": "Kalimat langsung biasanya memakai tanda...",
+    "options": ["Titik dua", "Tanda petik", "Tanda kurung", "Tanda garis miring"],
+    "answer": 1,
+    "explain": "Kalimat langsung memakai tanda petik."
+  },
+  {
+    "question": "Kata yang tepat untuk melengkapi kalimat disebut...",
+    "options": ["Prediksi kata", "Ide pokok", "Bacaan cepat", "Makna tersirat"],
+    "answer": 0,
+    "explain": "Istilahnya prediksi kata."
+  },
+  {
+    "question": "Bagian surat yang mencantumkan tempat dan tanggal disebut...",
+    "options": ["Isi surat", "Kepala surat", "Lampiran", "Penutup"],
+    "answer": 1,
+    "explain": "Terdapat pada kepala surat."
+  },
+  {
+    "question": "Bagian akhir surat berisi...",
+    "options": ["Salam penutup", "Judul surat", "Alamat surat", "Isi utama"],
+    "answer": 0,
+    "explain": "Akhir surat berisi salam penutup."
+  },
+  {
+    "question": "Antonim dari kata ‘besar’ adalah...",
+    "options": ["Luas", "Tinggi", "Kecil", "Lebar"],
+    "answer": 2,
+    "explain": "Kecil adalah lawan kata besar."
+  },
+  {
+    "question": "Majas personifikasi adalah...",
+    "options": ["Menyindir hal lain", "Memberi sifat manusia pada benda", "Mengulang kata", "Membandingkan dua hal"],
+    "answer": 1,
+    "explain": "Personifikasi memberi sifat manusia."
+  },
+  {
+    "question": "Ide pendukung paragraf berisi...",
+    "options": ["Penjelas ide pokok", "Judul paragraf", "Hal di luar paragraf", "Ringkasan cerita"],
+    "answer": 0,
+    "explain": "Ide pendukung menjelaskan ide pokok."
+  },
+  {
+    "question": "Kata sifat dalam kalimat ‘Budi sangat rajin’ adalah...",
+    "options": ["Sangat", "Rajin", "Budi", "Adalah"],
+    "answer": 1,
+    "explain": "Rajin adalah kata sifat."
+  },
+  {
+    "question": "Yang perlu disiapkan sebelum wawancara adalah...",
+    "options": ["Pertanyaan", "Poster", "Cerita rakyat", "Pantun"],
+    "answer": 0,
+    "explain": "Persiapan utama adalah pertanyaan."
+  },
+  {
+    "question": "Teks cerita memiliki unsur...",
+    "options": ["Tokoh, tema, latar", "Harga barang", "Nama tempat wisata", "Daftar isi"],
+    "answer": 0,
+    "explain": "Cerita memiliki unsur intrinsik."
+  },
+  {
+    "question": "Kalimat majemuk tersusun dari...",
+    "options": ["Satu klausa", "Dua klausa atau lebih", "Satu kata saja", "Satu paragraf"],
+    "answer": 1,
+    "explain": "Majemuk terdiri dari beberapa klausa."
+  },
+  {
+    "question": "Teks prosedur berisi...",
+    "options": ["Langkah-langkah melakukan sesuatu", "Nama tokoh", "Amanat cerita", "Gambar lucu"],
+    "answer": 0,
+    "explain": "Teks prosedur berisi langkah-langkah."
+  }
+]

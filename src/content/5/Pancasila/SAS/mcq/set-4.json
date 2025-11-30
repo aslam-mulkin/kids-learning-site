@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pa5-sas-s4-01",
+    "q": "Perilaku yang mencerminkan nilai Pancasila di sekolah adalah...",
+    "options": [
+      "Mengolok teman yang berbeda agama",
+      "Mengerjakan tugas kelompok secara adil",
+      "Menolak salam guru",
+      "Mencontek saat ulangan"
+    ],
+    "answer": 1,
+    "explain": "Kerja kelompok adil menunjukkan persatuan dan keadilan."
+  },
+  {
+    "id": "pa5-sas-s4-02",
+    "q": "Di keluarga, perilaku ber-Pancasila tampak ketika...",
+    "options": [
+      "Meninggalkan pekerjaan rumah",
+      "Bergantian menggunakan televisi",
+      "Berteriak pada nenek",
+      "Menyembunyikan makanan"
+    ],
+    "answer": 1,
+    "explain": "Bergantian memakai barang menunjukkan kekeluargaan dan keadilan."
+  },
+  {
+    "id": "pa5-sas-s4-03",
+    "q": "Di lingkungan masyarakat, perilaku ber-Pancasila adalah...",
+    "options": [
+      "Menutup akses jalan umum",
+      "Membantu tetangga saat gotong royong",
+      "Menyebar fitnah tetangga",
+      "Mematikan lampu penerangan umum"
+    ],
+    "answer": 1,
+    "explain": "Gotong royong mencerminkan persatuan dan kepedulian."
+  },
+  {
+    "id": "pa5-sas-s4-04",
+    "q": "Saat teman berbeda pendapat di kelas, sikap ber-Pancasila yang tepat ialah...",
+    "options": [
+      "Menertawakan ide teman",
+      "Mendengarkan lalu menanggapi sopan",
+      "Memaksa teman setuju",
+      "Meninggalkan diskusi"
+    ],
+    "answer": 1,
+    "explain": "Mendengar dan menanggapi sopan menjunjung musyawarah."
+  },
+  {
+    "id": "pa5-sas-s4-05",
+    "q": "Kelompok sifat khas bangsa sesuai Pancasila adalah...",
+    "options": [
+      "Ramah, gotong royong, toleran",
+      "Individualis, sinis, eksklusif",
+      "Iri, malas, konsumtif",
+      "Kasat, diskriminatif, curang"
+    ],
+    "answer": 0,
+    "explain": "Ramah dan toleran menonjolkan identitas bangsa Indonesia."
+  },
+  {
+    "id": "pa5-sas-s4-06",
+    "q": "Pasangan sikap positif dan negatif yang tepat adalah...",
+    "options": [
+      "Positif: gotong royong; Negatif: egois",
+      "Positif: menebar hoaks; Negatif: jujur",
+      "Positif: iri hati; Negatif: disiplin",
+      "Positif: intoleran; Negatif: toleransi"
+    ],
+    "answer": 0,
+    "explain": "Gotong royong membangun persatuan, egois merusaknya."
+  },
+  {
+    "id": "pa5-sas-s4-07",
+    "q": "Saat menyambut tamu daerah lain, sikap ramah tamah berarti...",
+    "options": [
+      "Mengabaikan tamu",
+      "Menawarkan bantuan dengan bahasa sopan",
+      "Menertawakan logat mereka",
+      "Memaksa mengikuti selera kita"
+    ],
+    "answer": 1,
+    "explain": "Bantuan sopan menunjukkan saling menghormati antardaerah."
+  },
+  {
+    "id": "pa5-sas-s4-08",
+    "q": "Tujuan utama norma agama yaitu...",
+    "options": [
+      "Mengatur strategi dagang",
+      "Membimbing ibadah serta moral sesuai ajaran Tuhan",
+      "Menentukan harga makanan",
+      "Mengatur mode pakaian"
+    ],
+    "answer": 1,
+    "explain": "Norma agama menuntun hubungan manusia-Tuhan."
+  },
+  {
+    "id": "pa5-sas-s4-09",
+    "q": "Contoh mematuhi norma kesopanan dalam kehidupan sehari-hari adalah...",
+    "options": [
+      "Memotong antrean",
+      "Mengucapkan salam sebelum masuk kelas",
+      "Berbicara sambil berteriak",
+      "Mengetik pesan tanpa salam"
+    ],
+    "answer": 1,
+    "explain": "Salam sebelum masuk menunjukkan sopan santun."
+  },
+  {
+    "id": "pa5-sas-s4-10",
+    "q": "Teks: 'Setiap rapat daring, Citra menyalakan kamera saat dipersilakan dan menyapa peserta.' Makna norma kesopanan dari teks ialah...",
+    "options": [
+      "Peserta boleh menyela kapan saja",
+      "Etika daring tetap memerlukan izin dan salam",
+      "Tidak perlu menyapa dalam rapat",
+      "Boleh mematikan kamera tanpa pamit"
+    ],
+    "answer": 1,
+    "explain": "Kesopanan berlaku juga pada interaksi virtual."
+  },
+  {
+    "id": "pa5-sas-s4-11",
+    "q": "Sumber norma kesusilaan adalah...",
+    "options": [
+      "Hati nurani yang membedakan baik buruk",
+      "Iklan televisi terbaru",
+      "Perintah teman sebaya",
+      "Poster promosi"
+    ],
+    "answer": 0,
+    "explain": "Kesusilaan bersumber dari nurani pribadi."
+  },
+  {
+    "id": "pa5-sas-s4-12",
+    "q": "Pernyataan tepat tentang norma agama dan norma hukum adalah...",
+    "options": [
+      "Norma agama bersumber wahyu, hukumnya dari negara dengan sanksi tegas",
+      "Keduanya tanpa sanksi",
+      "Norma hukum hanya mengatur ibadah",
+      "Norma agama dibuat polisi"
+    ],
+    "answer": 0,
+    "explain": "Sumber dan sanksi keduanya berbeda jelas."
+  },
+  {
+    "id": "pa5-sas-s4-13",
+    "q": "Siska menerobos lampu merah lalu ditilang. Kasus ini menunjukkan...",
+    "options": [
+      "Norma kesopanan dengan sanksi cibiran",
+      "Norma hukum dengan sanksi denda",
+      "Norma kesusilaan dengan rasa bersalah",
+      "Norma adat dengan hukuman adat"
+    ],
+    "answer": 1,
+    "explain": "Pelanggaran lalu lintas dikenai sanksi hukum nyata."
+  },
+  {
+    "id": "pa5-sas-s4-14",
+    "q": "Contoh perubahan norma di era digital adalah...",
+    "options": [
+      "Sekolah membuat panduan etika chat dan kamera",
+      "Guru membiarkan plagiarisme daring",
+      "Siswa boleh menyela rapat online seenaknya",
+      "Orang tua mengabaikan sopan santun virtual"
+    ],
+    "answer": 0,
+    "explain": "Panduan etika daring menyesuaikan norma dengan teknologi."
+  },
+  {
+    "id": "pa5-sas-s4-15",
+    "q": "Dampak pelanggaran norma di dunia maya adalah...",
+    "options": [
+      "Kepercayaan komunitas meningkat",
+      "Hubungan sosial terganggu oleh konflik",
+      "Semua orang makin kompak",
+      "Persahabatan makin kuat"
+    ],
+    "answer": 1,
+    "explain": "Pelanggaran online merusak kepercayaan sosial."
+  },
+  {
+    "id": "pa5-sas-s4-16",
+    "q": "Pasangan dampak teknologi yang tepat ialah...",
+    "options": [
+      "Positif: kelas virtual; Negatif: kecanduan gim",
+      "Positif: hoaks; Negatif: literasi digital",
+      "Positif: bohong daring; Negatif: kolaborasi",
+      "Positif: begadang; Negatif: belajar online"
+    ],
+    "answer": 0,
+    "explain": "Belajar daring membantu, kecanduan gim merugikan."
+  },
+  {
+    "id": "pa5-sas-s4-17",
+    "q": "Dampak negatif media sosial terhadap hubungan sosial adalah...",
+    "options": [
+      "Meningkatkan empati tatap muka",
+      "Memicu salah paham akibat komentar kasar",
+      "Menguatkan kepercayaan langsung",
+      "Meningkatkan kerja bakti"
+    ],
+    "answer": 1,
+    "explain": "Komentar kasar merenggangkan hubungan sosial."
+  },
+  {
+    "id": "pa5-sas-s4-18",
+    "q": "Langkah menetapkan aturan kelas melalui musyawarah adalah...",
+    "options": [
+      "Guru memutuskan sendiri",
+      "Semua siswa menyampaikan pendapat lalu mufakat",
+      "Hanya ketua kelas berbicara",
+      "Voting tanpa diskusi"
+    ],
+    "answer": 1,
+    "explain": "Musyawarah menampung pendapat semua sebelum mufakat."
+  },
+  {
+    "id": "pa5-sas-s4-19",
+    "q": "Prinsip musyawarah yang perlu dijaga ialah...",
+    "options": [
+      "Memaksakan kehendak pribadi",
+      "Mendengarkan, memberi usul, dan berkompromi",
+      "Menutup telinga atas saran lain",
+      "Meninggalkan rapat saat berbeda pendapat"
+    ],
+    "answer": 1,
+    "explain": "Musyawarah mengutamakan mendengar dan kompromi."
+  },
+  {
+    "id": "pa5-sas-s4-20",
+    "q": "Kalimat usulan aturan kelas yang efektif dan normatif adalah...",
+    "options": [
+      "Pokoknya ikut perintahku!",
+      "Eh, terserah aja",
+      "Bolehkah kita tetapkan jadwal piket agar kelas rapi?",
+      "Kalau tak suka, keluar saja"
+    ],
+    "answer": 2,
+    "explain": "Bahasa ajakan sopan memudahkan kesepakatan."
+  }
+]

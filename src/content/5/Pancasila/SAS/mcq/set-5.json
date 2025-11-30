@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pa5-sas-s5-01",
+    "q": "Di sekolah, perilaku ber-Pancasila tampak saat...",
+    "options": [
+      "Menutup akses kursi roda teman",
+      "Membantu teman baru memahami tata tertib",
+      "Menertawakan aksen guru tamu",
+      "Menukar jawaban ujian"
+    ],
+    "answer": 1,
+    "explain": "Membantu teman mengikuti aturan menunjukkan kemanusiaan beradab."
+  },
+  {
+    "id": "pa5-sas-s5-02",
+    "q": "Di rumah, perilaku yang mencerminkan nilai Pancasila adalah...",
+    "options": [
+      "Memakan jatah adik diam-diam",
+      "Antre giliran mandi sesuai kesepakatan",
+      "Membiarkan ibadah keluarga tanpa ikut",
+      "Berteriak saat diminta tolong"
+    ],
+    "answer": 1,
+    "explain": "Patuh giliran menunjukkan keadilan dan saling menghargai."
+  },
+  {
+    "id": "pa5-sas-s5-03",
+    "q": "Contoh perilaku ber-Pancasila di masyarakat adalah...",
+    "options": [
+      "Membakar sampah di jalan raya",
+      "Ikut aksi bersih sungai bersama warga",
+      "Menghasut tetangga bertengkar",
+      "Mematikan lampu penerangan umum"
+    ],
+    "answer": 1,
+    "explain": "Bersih sungai bersama mencerminkan gotong royong warga."
+  },
+  {
+    "id": "pa5-sas-s5-04",
+    "q": "Perilaku ber-Pancasila di sekolah dapat ditentukan melalui contoh...",
+    "options": [
+      "Menyembunyikan alat olahraga",
+      "Mengembalikan buku perpustakaan tepat waktu",
+      "Menolak jadwal piket",
+      "Memboikot kerja kelompok"
+    ],
+    "answer": 1,
+    "explain": "Disiplin meminjam menunjukkan tanggung jawab bersama."
+  },
+  {
+    "id": "pa5-sas-s5-05",
+    "q": "Contoh perilaku ber-Pancasila di lingkungan masyarakat yang tepat adalah...",
+    "options": [
+      "Menyebar kabar bohong tetangga",
+      "Mengikuti musyawarah RT dengan sopan",
+      "Menolak ronda malam",
+      "Menguping rapat warga"
+    ],
+    "answer": 1,
+    "explain": "Musyawarah sopan menjaga persatuan warga."
+  },
+  {
+    "id": "pa5-sas-s5-06",
+    "q": "Kelompok sifat khas bangsa Indonesia yang sesuai nilai Pancasila adalah...",
+    "options": [
+      "Ramah, gotong royong, toleran",
+      "Individualis, sinis, eksklusif",
+      "Apatis, diskriminatif, malas",
+      "Kasar, konsumtif, iri"
+    ],
+    "answer": 0,
+    "explain": "Ramah dan toleran mencerminkan ciri bangsa ber-Pancasila."
+  },
+  {
+    "id": "pa5-sas-s5-07",
+    "q": "Pasangan sikap positif dan negatif yang benar adalah...",
+    "options": [
+      "Positif: menghargai perbedaan; Negatif: mengejek adat orang",
+      "Positif: intoleransi; Negatif: gotong royong",
+      "Positif: suka mencela; Negatif: ramah",
+      "Positif: iri; Negatif: disiplin"
+    ],
+    "answer": 0,
+    "explain": "Menghargai perbedaan positif, mengejek adat melanggar Pancasila."
+  },
+  {
+    "id": "pa5-sas-s5-08",
+    "q": "Saat menerima tamu guru dari daerah lain, sikap ramah tamah adalah...",
+    "options": [
+      "Mengabaikan kedatangan mereka",
+      "Menyapa dengan salam lalu menawarkan bantuan",
+      "Menertawakan logat mereka",
+      "Meminta tamu menunggu tanpa penjelasan"
+    ],
+    "answer": 1,
+    "explain": "Salam sopan menunjukkan keramahan bangsa Indonesia."
+  },
+  {
+    "id": "pa5-sas-s5-09",
+    "q": "Mengapa sifat gotong royong menjadi modal sosial bangsa?",
+    "options": [
+      "Melemahkan kepercayaan antarwarga",
+      "Membuat orang enggan membantu",
+      "Menguatkan jejaring saling percaya dan bantuan",
+      "Mendorong sikap masa bodoh"
+    ],
+    "answer": 2,
+    "explain": "Saling bantu menumbuhkan kepercayaan kolektif."
+  },
+  {
+    "id": "pa5-sas-s5-10",
+    "q": "Bagian penting laporan kegiatan ber-Pancasila di rumah adalah...",
+    "options": [
+      "Nama tetangga yang digosipkan",
+      "Urutan kegiatan, sila terkait, dan manfaatnya",
+      "Foto makanan favorit",
+      "Daftar film ditonton"
+    ],
+    "answer": 1,
+    "explain": "Laporan harus jelaskan kegiatan, nilai sila, serta dampak."
+  },
+  {
+    "id": "pa5-sas-s5-11",
+    "q": "Tujuan utama norma agama ialah...",
+    "options": [
+      "Mengatur selera pakaian",
+      "Membimbing ibadah dan akhlak sesuai ajaran Tuhan",
+      "Menentukan harga pasar",
+      "Mengatur lomba olahraga"
+    ],
+    "answer": 1,
+    "explain": "Norma agama menuntun ibadah dan moral beriman."
+  },
+  {
+    "id": "pa5-sas-s5-12",
+    "q": "Contoh mematuhi norma kesopanan sehari-hari adalah...",
+    "options": [
+      "Masuk rumah tetangga tanpa salam",
+      "Mengucap salam lalu menunggu dipersilakan",
+      "Meludah di kelas",
+      "Berteriak saat rapat"
+    ],
+    "answer": 1,
+    "explain": "Salam dan menunggu izin menunjukkan sopan santun."
+  },
+  {
+    "id": "pa5-sas-s5-13",
+    "q": "Teks: 'Dina menutup telepon rapat daring dengan mengucap terima kasih.' Makna norma kesopanan dari teks adalah...",
+    "options": [
+      "Boleh memutus panggilan tiba-tiba",
+      "Harus berpamitan sopan setelah selesai berbicara",
+      "Tidak perlu mengucap terima kasih",
+      "Boleh menutup rapat tanpa salam"
+    ],
+    "answer": 1,
+    "explain": "Pamit sopan menjaga etika komunikasi."
+  },
+  {
+    "id": "pa5-sas-s5-14",
+    "q": "Norma kesusilaan bermakna...",
+    "options": [
+      "Aturan pakaian sekolah",
+      "Pedoman hati nurani tentang baik-buruk",
+      "Larangan resmi pemerintah",
+      "Perintah ketua kelas"
+    ],
+    "answer": 1,
+    "explain": "Kesusilaan bersumber dari nurani moral pribadi."
+  },
+  {
+    "id": "pa5-sas-s5-15",
+    "q": "Kasus: Rafi menipu teman dan merasa bersalah berhari-hari. Jenis norma dan sanksinya adalah...",
+    "options": [
+      "Norma hukum dengan penjara",
+      "Norma kesusilaan dengan sanksi batin",
+      "Norma kesopanan dengan denda",
+      "Norma agama dengan skors sekolah"
+    ],
+    "answer": 1,
+    "explain": "Rasa bersalah timbul dari pelanggaran kesusilaan."
+  },
+  {
+    "id": "pa5-sas-s5-16",
+    "q": "Ciri norma hukum dibanding norma kesopanan adalah...",
+    "options": [
+      "Tidak tertulis dan tanpa sanksi",
+      "Hanya berlaku di rumah",
+      "Memiliki sanksi tegas dari negara",
+      "Bersumber dari kebiasaan keluarga"
+    ],
+    "answer": 2,
+    "explain": "Norma hukum ditegakkan negara dengan sanksi nyata."
+  },
+  {
+    "id": "pa5-sas-s5-17",
+    "q": "Perbedaan norma agama dan norma hukum yang tepat adalah...",
+    "options": [
+      "Keduanya tanpa sanksi",
+      "Agama bersumber wahyu, hukum dari peraturan negara",
+      "Agama mengatur lalu lintas",
+      "Hukum hanya berlaku di rumah ibadah"
+    ],
+    "answer": 1,
+    "explain": "Sumber dan sanksi kedua norma berbeda jelas."
+  },
+  {
+    "id": "pa5-sas-s5-18",
+    "q": "Contoh perubahan penerapan norma di era digital adalah...",
+    "options": [
+      "Sekolah membuat panduan kamera dan mikrofon kelas daring",
+      "Guru membiarkan plagiarisme online",
+      "Siswa boleh menyela rapat virtual sesuka hati",
+      "Orang tua mengabaikan etika chat"
+    ],
+    "answer": 0,
+    "explain": "Panduan daring menyesuaikan norma dengan teknologi baru."
+  },
+  {
+    "id": "pa5-sas-s5-19",
+    "q": "Pasangan dampak teknologi yang tepat adalah...",
+    "options": [
+      "Positif: kelas virtual; Negatif: kecanduan gawai",
+      "Positif: hoaks; Negatif: literasi digital",
+      "Positif: begadang; Negatif: diskusi ilmiah",
+      "Positif: plagiarisme; Negatif: berbagi ilmu"
+    ],
+    "answer": 0,
+    "explain": "Belajar daring bermanfaat, kecanduan gawai merugikan."
+  },
+  {
+    "id": "pa5-sas-s5-20",
+    "q": "Dampak negatif media sosial terhadap hubungan sosial adalah...",
+    "options": [
+      "Memperkuat empati tatap muka",
+      "Menciptakan salah paham karena komentar kasar",
+      "Menambah kerja bakti",
+      "Selalu menumbuhkan kepercayaan"
+    ],
+    "answer": 1,
+    "explain": "Komentar kasar memicu salah paham dan konflik."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pa5-sas-s1-01",
+    "q": "Di sekolah, perilaku yang mencerminkan sila Kemanusiaan adalah...",
+    "options": [
+      "Mempermalukan teman di depan kelas",
+      "Membantu teman yang tertinggal pelajaran",
+      "Menyembunyikan buku milik teman",
+      "Menolak kerja kelompok"
+    ],
+    "answer": 1,
+    "explain": "Menolong teman menunjukkan kemanusiaan adil dan beradab."
+  },
+  {
+    "id": "pa5-sas-s1-02",
+    "q": "Di rumah, perilaku ber-Pancasila ditunjukkan oleh...",
+    "options": [
+      "Memerintah adik sembarangan",
+      "Membantu orang tua menyiapkan makan malam",
+      "Mengabaikan jadwal piket rumah",
+      "Berteriak kepada kakek"
+    ],
+    "answer": 1,
+    "explain": "Gotong royong di rumah mencerminkan nilai kemanusiaan dan kekeluargaan."
+  },
+  {
+    "id": "pa5-sas-s1-03",
+    "q": "Di lingkungan masyarakat, perilaku ber-Pancasila tampak pada...",
+    "options": [
+      "Membuang sampah di selokan",
+      "Ikut ronda malam sesuai jadwal",
+      "Menghasut tetangga bertengkar",
+      "Membiarkan jalan kampung kotor"
+    ],
+    "answer": 1,
+    "explain": "Ikut ronda menunjukkan tanggung jawab dan gotong royong warga."
+  },
+  {
+    "id": "pa5-sas-s1-04",
+    "q": "Pasangan perilaku ber-Pancasila di sekolah dan masyarakat yang tepat adalah...",
+    "options": [
+      "Sekolah: ikut geng mengejek; Masyarakat: cuek pada tetangga",
+      "Sekolah: menjaga fasilitas kelas; Masyarakat: membantu kerja bakti",
+      "Sekolah: menyontek saat ulangan; Masyarakat: menolak musyawarah",
+      "Sekolah: memboikot teman; Masyarakat: parkir sembarangan"
+    ],
+    "answer": 1,
+    "explain": "Menjaga fasilitas dan kerja bakti menampilkan nilai tanggung jawab bersama."
+  },
+  {
+    "id": "pa5-sas-s1-05",
+    "q": "Kelompok sifat khas bangsa Indonesia yang sesuai nilai Pancasila adalah...",
+    "options": [
+      "Individualis, konsumtif, eksklusif",
+      "Gotong royong, toleransi, ramah",
+      "Acuh, kasar, egois",
+      "Malas, curang, diskriminatif"
+    ],
+    "answer": 1,
+    "explain": "Gotong royong, toleransi, ramah mencerminkan ciri bangsa ber-Pancasila."
+  },
+  {
+    "id": "pa5-sas-s1-06",
+    "q": "Perbandingan sikap positif dan negatif yang tepat adalah...",
+    "options": [
+      "Positif: individualis; Negatif: gotong royong",
+      "Positif: menghargai perbedaan; Negatif: menghina suku lain",
+      "Positif: acuh; Negatif: toleran",
+      "Positif: iri hati; Negatif: kerja sama"
+    ],
+    "answer": 1,
+    "explain": "Menghargai perbedaan positif, menghina suku jelas bertentangan Pancasila."
+  },
+  {
+    "id": "pa5-sas-s1-07",
+    "q": "Saat menerima tamu sekolah lain, sikap ramah tamah ditunjukkan dengan...",
+    "options": [
+      "Diam dan menatap sinis",
+      "Menyambut dengan salam lalu menawarkan bantuan",
+      "Meminta tamu menunggu tanpa penjelasan",
+      "Menertawakan logat mereka"
+    ],
+    "answer": 1,
+    "explain": "Salam dan bantuan menunjukkan sopan santun serta saling menghormati."
+  },
+  {
+    "id": "pa5-sas-s1-08",
+    "q": "Mengapa sifat ramah dan saling menghormati menjadi modal sosial bangsa?",
+    "options": [
+      "Mendorong kompetisi tidak sehat",
+      "Memperkuat jaringan kepercayaan antarmasyarakat",
+      "Membuat orang takut berpendapat",
+      "Melemahkan kerja sama"
+    ],
+    "answer": 1,
+    "explain": "Kepercayaan tumbuh dari sikap ramah sehingga kerja sama lebih mudah."
+  },
+  {
+    "id": "pa5-sas-s1-09",
+    "q": "Bagian penting laporan penerapan Pancasila di rumah adalah...",
+    "options": [
+      "Menuliskan gosip tetangga",
+      "Mencantumkan kegiatan, nilai Pancasila, dan manfaatnya",
+      "Menyertakan nilai rapor",
+      "Menyalin ulang teks Pancasila tanpa penjelasan"
+    ],
+    "answer": 1,
+    "explain": "Laporan harus memuat kegiatan, nilai terkait, serta dampaknya."
+  },
+  {
+    "id": "pa5-sas-s1-10",
+    "q": "Pernyataan paling tepat tentang norma agama dibanding norma hukum adalah...",
+    "options": [
+      "Norma agama dibuat polisi dan mengatur lalu lintas",
+      "Norma agama membimbing hubungan manusia-Tuhan dengan sanksi batin, sedangkan norma hukum dibuat negara dengan sanksi tegas",
+      "Norma hukum hanya berlaku di rumah ibadah",
+      "Keduanya sama karena tanpa sanksi"
+    ],
+    "answer": 1,
+    "explain": "Norma agama bersumber wahyu, hukum berasal dari peraturan negara."
+  },
+  {
+    "id": "pa5-sas-s1-11",
+    "q": "Contoh mematuhi norma kesopanan adalah...",
+    "options": [
+      "Masuk kelas sambil berteriak",
+      "Menundukkan badan saat melewati guru",
+      "Memotong pembicaraan orang tua",
+      "Mengirim pesan tanpa salam"
+    ],
+    "answer": 1,
+    "explain": "Membungkuk atau menunduk menunjukkan hormat dan sopan santun."
+  },
+  {
+    "id": "pa5-sas-s1-12",
+    "q": "Teks: ‘Setiap bertamu, Damar mengetuk, memberi salam, lalu duduk setelah dipersilakan.’ Makna norma kesopanan dari teks adalah...",
+    "options": [
+      "Tamu boleh langsung duduk",
+      "Harus meminta izin dan menghormati tuan rumah",
+      "Boleh berbicara sambil berteriak",
+      "Tidak perlu salam karena sudah kenal"
+    ],
+    "answer": 1,
+    "explain": "Norma kesopanan menuntut izin dan salam sebelum bertamu."
+  },
+  {
+    "id": "pa5-sas-s1-13",
+    "q": "Raka berbohong lalu dihantui rasa bersalah. Kasus ini melanggar...",
+    "options": [
+      "Norma hukum dengan sanksi denda",
+      "Norma kesusilaan bersumber hati nurani dengan sanksi batin",
+      "Norma adat dengan sanksi fisik",
+      "Norma kesopanan dengan sanksi penjara"
+    ],
+    "answer": 1,
+    "explain": "Kesusilaan bersumber dari nurani, sanksinya rasa bersalah."
+  },
+  {
+    "id": "pa5-sas-s1-14",
+    "q": "Contoh perubahan penerapan norma di era digital adalah...",
+    "options": [
+      "Guru membebaskan siswa menyalin tugas daring",
+      "Sekolah membuat tata tertib penggunaan gawai saat kelas daring",
+      "Siswa boleh mengunggah data teman tanpa izin",
+      "Orang tua mengabaikan etika rapat virtual"
+    ],
+    "answer": 1,
+    "explain": "Aturan gawai daring menyesuaikan norma dengan teknologi baru."
+  },
+  {
+    "id": "pa5-sas-s1-15",
+    "q": "Dampak pelanggaran norma di dunia maya adalah...",
+    "options": [
+      "Hubungan sosial makin harmonis",
+      "Kepercayaan antarwarga digital menurun dan konflik muncul",
+      "Semua orang semakin terbuka",
+      "Tidak memengaruhi kehidupan nyata"
+    ],
+    "answer": 1,
+    "explain": "Pelanggaran online merusak kepercayaan dan memicu konflik sosial."
+  },
+  {
+    "id": "pa5-sas-s1-16",
+    "q": "Pasangan dampak teknologi yang tepat adalah...",
+    "options": [
+      "Positif: belajar daring mudah; Negatif: kecanduan gim",
+      "Positif: begadang; Negatif: literasi digital",
+      "Positif: hoaks; Negatif: kolaborasi",
+      "Positif: tugas menumpuk; Negatif: diskusi ilmiah"
+    ],
+    "answer": 0,
+    "explain": "Belajar daring bermanfaat, kecanduan gim mengganggu kesehatan dan belajar."
+  },
+  {
+    "id": "pa5-sas-s1-17",
+    "q": "Dampak negatif media sosial terhadap hubungan sosial adalah...",
+    "options": [
+      "Mempererat komunikasi keluarga",
+      "Mendorong empati tatap muka",
+      "Menimbulkan salah paham karena komentar kasar",
+      "Meningkatkan kerja bakti"
+    ],
+    "answer": 2,
+    "explain": "Komentar kasar memicu salah paham dan merenggangkan relasi."
+  },
+  {
+    "id": "pa5-sas-s1-18",
+    "q": "Langkah menetapkan aturan kelas melalui musyawarah adalah...",
+    "options": [
+      "Guru memutuskan sendiri",
+      "Siswa voting tanpa diskusi",
+      "Setiap siswa menyampaikan pendapat lalu mufakat",
+      "Hanya ketua kelas yang berbicara"
+    ],
+    "answer": 2,
+    "explain": "Musyawarah menampung pendapat semua sebelum mufakat aturan."
+  },
+  {
+    "id": "pa5-sas-s1-19",
+    "q": "Prinsip musyawarah yang perlu dijaga adalah...",
+    "options": [
+      "Menutup telinga saat usul lain",
+      "Mendengarkan, memberi usul, lalu mencari kompromi",
+      "Memaksakan kehendak pribadi",
+      "Meninggalkan rapat saat berbeda pendapat"
+    ],
+    "answer": 1,
+    "explain": "Musyawarah menuntut usul, mendengar, dan kompromi hingga mufakat."
+  },
+  {
+    "id": "pa5-sas-s1-20",
+    "q": "Kalimat usulan aturan kelas yang paling efektif dan santun adalah...",
+    "options": [
+      "Pokoknya semua diam saat aku bicara!",
+      "Gimana kalau kita menyepakati jadwal piket agar kelas bersih?",
+      "Kalian harus ikut idemu sendiri",
+      "Ah, terserah deh"
+    ],
+    "answer": 1,
+    "explain": "Bahasa jelas, ajakan kolektif, dan tetap sopan dalam musyawarah."
+  }
+]

@@ -8,7 +8,15 @@ type Props = { cards: Flashcard[] }
 
 // Queue-based active recall: wrong answers are re-queued at random positions
 export default function FlashcardsView({ cards }: Props) {
-  const initial = useMemo(() => cards.map((c, i) => ({...c, id:i})), [cards])
+  const initial = useMemo(() => {
+    const copy = [...cards]
+    // Randomize the starting order so users see a different sequence each time
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[copy[i], copy[j]] = [copy[j], copy[i]]
+    }
+    return copy.map((c, i) => ({ ...c, id: i }))
+  }, [cards])
   const [queue, setQueue] = useState(initial)
   const [idx, setIdx] = useState(0)
   const [showAns, setShowAns] = useState(false)

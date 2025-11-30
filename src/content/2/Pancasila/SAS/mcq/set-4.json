@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Bunyi sila kelima adalah...",
+    "options": ["Keadilan Sosial", "Kemanusiaan Beradab", "Ketuhanan Esa", "Persatuan Indonesia"],
+    "answer": 0,
+    "explain": "Itu bunyi sila kelima."
+  },
+  {
+    "question": "Menghormati perbedaan agama sesuai sila...",
+    "options": ["1", "4", "3", "5"],
+    "answer": 0,
+    "explain": "Sila pertama menghargai kepercayaan."
+  },
+  {
+    "question": "Ikut musyawarah kelas termasuk sila...",
+    "options": ["4", "1", "3", "2"],
+    "answer": 0,
+    "explain": "Musyawarah = sila keempat."
+  },
+  {
+    "question": "Tidak mengambil hak orang lain sesuai sila...",
+    "options": ["5", "3", "2", "1"],
+    "answer": 0,
+    "explain": "Sila kelima mengajarkan keadilan."
+  },
+  {
+    "question": "Simbol sila keempat adalah...",
+    "options": ["Kepala Banteng", "Pohon Beringin", "Rantai", "Bintang"],
+    "answer": 0,
+    "explain": "Kepala banteng = musyawarah."
+  },
+  {
+    "question": "Menghormati teman berbeda suku sesuai sila...",
+    "options": ["3", "5", "4", "2"],
+    "answer": 0,
+    "explain": "Sila ketiga menjaga persatuan."
+  },
+  {
+    "question": "Warna dasar perisai Garuda adalah...",
+    "options": ["Hitam", "Ungu", "Hijau", "Coklat"],
+    "answer": 0,
+    "explain": "Warna perisai adalah hitam."
+  },
+  {
+    "question": "Sikap sesuai sila kedua adalah...",
+    "options": ["Bersikap sopan", "Memaksa teman", "Merampas barang", "Mengejek orang tua"],
+    "answer": 0,
+    "explain": "Sopan menunjukkan kemanusiaan."
+  },
+  {
+    "question": "Sila pertama mengajarkan kita untuk...",
+    "options": ["Berdoa", "Berbagi uang", "Berlari", "Membully"],
+    "answer": 0,
+    "explain": "Sila pertama menekankan iman."
+  },
+  {
+    "question": "Tokoh yang menyampaikan pidato 1 Juni 1945 adalah...",
+    "options": ["Soekarno", "Sudirman", "Diponegoro", "Syahrir"],
+    "answer": 0,
+    "explain": "Soekarno menyampaikan pidato tersebut."
+  },
+  {
+    "question": "Bunyi sila pertama adalah...",
+    "options": ["Ketuhanan Yang Maha Esa", "Kemanusiaan Beradab", "Musyawarah Mufakat", "Keadilan Sosial"],
+    "answer": 0,
+    "explain": "Itulah sila pertama."
+  },
+  {
+    "question": "Berperilaku adil sesuai sila...",
+    "options": ["5", "1", "4", "3"],
+    "answer": 0,
+    "explain": "Sila kelima = keadilan sosial."
+  },
+  {
+    "question": "Gotong royong mencerminkan...",
+    "options": ["Kerja sama", "Perpecahan", "Kemalasan", "Pemaksaan"],
+    "answer": 0,
+    "explain": "Gotong royong = kerjasama."
+  },
+  {
+    "question": "Tidak menghina suku lain sesuai sila...",
+    "options": ["3", "4", "5", "1"],
+    "answer": 0,
+    "explain": "Persatuan menghargai perbedaan."
+  },
+  {
+    "question": "Simbol sila ketiga adalah...",
+    "options": ["Pohon Beringin", "Rantai", "Padi Kapas", "Bintang"],
+    "answer": 0,
+    "explain": "Beringin = persatuan."
+  },
+  {
+    "question": "Saat rapat kelas, kita harus...",
+    "options": ["Mengutamakan musyawarah", "Memaksakan pendapat", "Diam saja", "Tertawa keras"],
+    "answer": 0,
+    "explain": "Musyawarah penting dalam rapat."
+  },
+  {
+    "question": "Contoh aturan pagi hari adalah...",
+    "options": ["Bangun tepat waktu", "Bolos sekolah", "Memarahi adik", "Tidak mandi"],
+    "answer": 0,
+    "explain": "Bangun tepat waktu aturan rumah."
+  },
+  {
+    "question": "Yang harus menaati aturan sekolah adalah...",
+    "options": ["Guru dan murid", "Tetangga", "Supir ojek", "Penonton"],
+    "answer": 0,
+    "explain": "Semua warga sekolah wajib."
+  },
+  {
+    "question": "Sikap jujur termasuk sila...",
+    "options": ["2", "3", "4", "5"],
+    "answer": 0,
+    "explain": "Kejujuran bagian dari kemanusiaan."
+  },
+  {
+    "question": "Pancasila memiliki berapa sila?",
+    "options": ["5", "3", "6", "7"],
+    "answer": 0,
+    "explain": "Pancasila terdiri dari 5 sila."
+  },
+  {
+    "question": "Garuda memegang pita bertuliskan...",
+    "options": ["Bhinneka Tunggal Ika", "Indonesia Maju", "Semangat Bersatu", "Garuda Sakti"],
+    "answer": 0,
+    "explain": "Tulisan resminya Bhinneka Tunggal Ika."
+  },
+  {
+    "question": "Sikap saling membantu sesuai sila...",
+    "options": ["2", "4", "1", "3"],
+    "answer": 0,
+    "explain": "Menolong = kemanusiaan."
+  },
+  {
+    "question": "Tidak memilih teman berdasarkan warna kulit sesuai sila...",
+    "options": ["3", "5", "2", "1"],
+    "answer": 2,
+    "explain": "Sila kedua menghargai sesama."
+  },
+  {
+    "question": "Menghargai pendapat orang lain termasuk sila...",
+    "options": ["4", "3", "1", "5"],
+    "answer": 0,
+    "explain": "Sila 4 mendorong menghargai pendapat."
+  },
+  {
+    "question": "Padi dan kapas berada di bagian...",
+    "options": ["Kanan bawah", "Kiri atas", "Kanan atas", "Tengah"],
+    "answer": 0,
+    "explain": "Sila kelima ada di kanan bawah."
+  }
+]

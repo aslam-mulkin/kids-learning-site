@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Bunyi sila kedua adalah...",
+    "options": ["Persatuan Indonesia", "Kemanusiaan yang Adil dan Beradab", "Ketuhanan Yang Maha Esa", "Keadilan Sosial"],
+    "answer": 1,
+    "explain": "Itu bunyi sila kedua."
+  },
+  {
+    "question": "Warna putih pada perisai Pancasila bermakna...",
+    "options": ["Kesucian", "Keberanian", "Kesedihan", "Kejahatan"],
+    "answer": 0,
+    "explain": "Putih melambangkan kesucian."
+  },
+  {
+    "question": "Sikap berteman tanpa pilih-pilih sesuai sila ke...",
+    "options": ["3", "1", "5", "2"],
+    "answer": 3,
+    "explain": "Berteman tanpa membeda-bedakan adalah kemanusiaan."
+  },
+  {
+    "question": "Simbol sila ketiga adalah...",
+    "options": ["Pohon Beringin", "Rantai", "Bintang", "Padi dan Kapas"],
+    "answer": 0,
+    "explain": "Pohon beringin lambang persatuan."
+  },
+  {
+    "question": "Simbol sila pertama adalah...",
+    "options": ["Bintang", "Kepala Banteng", "Rantai", "Beringin"],
+    "answer": 0,
+    "explain": "Bintang simbol Ketuhanan."
+  },
+  {
+    "question": "Contoh sikap sila keempat adalah...",
+    "options": ["Musyawarah", "Berdoa", "Mengalah terus", "Berbicara keras"],
+    "answer": 0,
+    "explain": "Musyawarah adalah nilai sila keempat."
+  },
+  {
+    "question": "Sikap yang sesuai sila kelima adalah...",
+    "options": ["Bersikap adil", "Berteriak", "Membully teman", "Tidak berbagi"],
+    "answer": 0,
+    "explain": "Sila kelima menekankan keadilan."
+  },
+  {
+    "question": "Tokoh perumus Pancasila selain Soekarno adalah...",
+    "options": ["Hatta", "Gatot Kaca", "Sudirman", "Wiro Sableng"],
+    "answer": 0,
+    "explain": "Hatta termasuk perumus bangsa."
+  },
+  {
+    "question": "Panitia yang menyusun Piagam Jakarta adalah...",
+    "options": ["Panitia Sumpah", "Panitia Sembilan", "Panitia Perang", "Panitia Kecil"],
+    "answer": 1,
+    "explain": "Panitia Sembilan menyusun Piagam Jakarta."
+  },
+  {
+    "question": "Sikap berbagi makanan sesuai sila ke...",
+    "options": ["1", "4", "5", "2"],
+    "answer": 3,
+    "explain": "Berbagi adalah kemanusiaan."
+  },
+  {
+    "question": "Tidak bertengkar dengan teman termasuk sila...",
+    "options": ["Ketuhanan", "Persatuan", "Keadilan", "Musyawarah"],
+    "answer": 1,
+    "explain": "Tidak bertengkar menjaga persatuan."
+  },
+  {
+    "question": "Simbol sila kelima adalah...",
+    "options": ["Padi dan Kapas", "Rantai", "Beringin", "Bintang"],
+    "answer": 0,
+    "explain": "Padi kapas simbol keadilan sosial."
+  },
+  {
+    "question": "Arti warna hitam pada perisai adalah...",
+    "options": ["Ketegasan", "Kesedihan", "Kekuatan", "Keramahan"],
+    "answer": 2,
+    "explain": "Hitam melambangkan kekuatan."
+  },
+  {
+    "question": "Contoh perilaku sila pertama adalah...",
+    "options": ["Berdoa sebelum makan", "Tidak berbagi", "Berteriak keras", "Menyontek"],
+    "answer": 0,
+    "explain": "Berdoa adalah sikap religi."
+  },
+  {
+    "question": "Contoh perilaku sila ketiga adalah...",
+    "options": ["Mengutamakan persatuan", "Berbohong", "Iri hati", "Mengejek teman"],
+    "answer": 0,
+    "explain": "Sila ketiga mengutamakan persatuan."
+  },
+  {
+    "question": "Contoh aturan di rumah adalah...",
+    "options": ["Merapikan kamarmu", "Berlari di kelas", "Membuat gaduh", "Melompat di meja"],
+    "answer": 0,
+    "explain": "Merapikan kamar adalah aturan rumah."
+  },
+  {
+    "question": "Pihak yang membuat aturan di sekolah adalah...",
+    "options": ["Guru dan sekolah", "Tetangga", "Supir angkot", "Petugas taman"],
+    "answer": 0,
+    "explain": "Guru bersama sekolah membuat aturan."
+  },
+  {
+    "question": "Contoh menaati aturan sekolah adalah...",
+    "options": ["Memakai seragam rapi", "Berlari di lorong", "Tidak hadir", "Berteriak"],
+    "answer": 0,
+    "explain": "Seragam rapi adalah disiplin sekolah."
+  },
+  {
+    "question": "Yang harus menaati aturan rumah adalah...",
+    "options": ["Semua anggota keluarga", "Penjual sayur", "Tetangga", "Warga desa"],
+    "answer": 0,
+    "explain": "Aturan rumah harus ditaati anggota keluarga."
+  },
+  {
+    "question": "Membuang sampah sembarangan berarti melanggar sila...",
+    "options": ["Ketuhanan", "Keadilan", "Persatuan", "Musyawarah"],
+    "answer": 1,
+    "explain": "Keadilan sosial menekankan ketertiban lingkungan."
+  },
+  {
+    "question": "Sila keempat menekankan pada...",
+    "options": ["Musyawarah", "Berbagi", "Berdoa", "Gotong royong"],
+    "answer": 0,
+    "explain": "Sila keempat mengutamakan musyawarah."
+  },
+  {
+    "question": "Perilaku yang tidak sesuai sila kedua adalah...",
+    "options": ["Menghina teman", "Membantu orang tua", "Menolong teman", "Tidak membully"],
+    "answer": 0,
+    "explain": "Menghina tidak sesuai kemanusiaan."
+  },
+  {
+    "question": "Sikap gotong royong termasuk sila ke...",
+    "options": ["3", "5", "1", "2"],
+    "answer": 1,
+    "explain": "Gotong royong bagian sila kelima."
+  },
+  {
+    "question": "Saat rapat kelas, kita harus...",
+    "options": ["Mengutamakan musyawarah", "Berbicara sendiri", "Tidak peduli", "Menghina pendapat"],
+    "answer": 0,
+    "explain": "Musyawarah penting dalam rapat."
+  },
+  {
+    "question": "Burung Garuda menggenggam pita bertuliskan...",
+    "options": ["Bhinneka Tunggal Ika", "Garuda Merdeka", "Indonesia Raya", "Satya Negara"],
+    "answer": 0,
+    "explain": "Pita bertuliskan Bhinneka Tunggal Ika."
+  }
+]

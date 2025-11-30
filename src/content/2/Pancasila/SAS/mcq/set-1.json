@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Lambang negara Indonesia adalah...",
+    "options": ["Garuda Pancasila", "Harimau", "Merpati", "Singa"],
+    "answer": 0,
+    "explain": "Garuda adalah lambang negara Indonesia."
+  },
+  {
+    "question": "Simbol sila kedua adalah...",
+    "options": ["Bintang", "Rantai Emas", "Pohon Beringin", "Padi Kapas"],
+    "answer": 1,
+    "explain": "Sila kedua dilambangkan dengan rantai."
+  },
+  {
+    "question": "Simbol sila keempat adalah...",
+    "options": ["Bintang", "Pohon Beringin", "Kepala Banteng", "Rantai"],
+    "answer": 2,
+    "explain": "Kepala banteng simbol musyawarah."
+  },
+  {
+    "question": "Simbol sila kelima adalah...",
+    "options": ["Rantai", "Bintang", "Pohon Beringin", "Padi dan Kapas"],
+    "answer": 3,
+    "explain": "Padi dan kapas lambang keadilan sosial."
+  },
+  {
+    "question": "Warna merah pada Pancasila bermakna...",
+    "options": ["Keberanian", "Kesabaran", "Kekayaan", "Kesedihan"],
+    "answer": 0,
+    "explain": "Merah melambangkan keberanian."
+  },
+  {
+    "question": "Perilaku gotong royong sesuai sila ke...",
+    "options": ["2", "4", "5", "1"],
+    "answer": 2,
+    "explain": "Gotong royong termasuk keadilan sosial."
+  },
+  {
+    "question": "Menghormati guru termasuk perilaku sila...",
+    "options": ["Persatuan", "Ketuhanan", "Kemanusiaan", "Keadilan"],
+    "answer": 1,
+    "explain": "Menghormati guru adalah akhlak religius."
+  },
+  {
+    "question": "Musyawarah termasuk pengamalan sila ke...",
+    "options": ["2", "1", "4", "3"],
+    "answer": 2,
+    "explain": "Musyawarah adalah sila keempat."
+  },
+  {
+    "question": "Menolong teman adalah contoh sila...",
+    "options": ["Ketuhanan", "Kemanusiaan", "Persatuan", "Keadilan"],
+    "answer": 1,
+    "explain": "Menolong termasuk kemanusiaan."
+  },
+  {
+    "question": "Mengutamakan persatuan termasuk sila ke...",
+    "options": ["5", "4", "3", "2"],
+    "answer": 2,
+    "explain": "Persatuan adalah sila ketiga."
+  },
+  {
+    "question": "Tokoh perumus Pancasila adalah...",
+    "options": ["Kartini", "Diponegoro", "Soekarno", "Gatot Kaca"],
+    "answer": 2,
+    "explain": "Soekarno merumuskan Pancasila."
+  },
+  {
+    "question": "Panitia kecil bentukan Soekarno disebut...",
+    "options": ["Panitia Empat", "Panitia Sembilan", "Panitia Lima", "Panitia Dasar"],
+    "answer": 1,
+    "explain": "Panitia Sembilan menyusun naskah dasar."
+  },
+  {
+    "question": "Contoh aturan kelas adalah...",
+    "options": ["Membuang sampah sembarangan", "Datang tepat waktu", "Berlari di kelas", "Berteriak di kelas"],
+    "answer": 1,
+    "explain": "Datang tepat waktu adalah aturan kelas."
+  },
+  {
+    "question": "Yang membuat aturan di rumah adalah...",
+    "options": ["Guru", "Tetangga", "Orang tua", "Teman"],
+    "answer": 2,
+    "explain": "Orang tua membuat aturan rumah."
+  },
+  {
+    "question": "Warga yang wajib menaati aturan sekolah adalah...",
+    "options": ["Petugas kebersihan", "Semua warga sekolah", "Orang luar", "Penjual"],
+    "answer": 1,
+    "explain": "Semua warga sekolah wajib menaati aturan."
+  },
+  {
+    "question": "Sikap sopan saat bertemu guru adalah...",
+    "options": ["Mengabaikan", "Lari", "Berteriak", "Menyapa sopan"],
+    "answer": 3,
+    "explain": "Sikap sopan sesuai nilai Pancasila."
+  },
+  {
+    "question": "Membersihkan kelas mencerminkan...",
+    "options": ["Keadilan sosial", "Aturan kelas", "Aturan desa", "Aturan daerah"],
+    "answer": 1,
+    "explain": "Kebersihan bagian dari aturan kelas."
+  },
+  {
+    "question": "Berdiskusi dalam kelompok mencerminkan sila...",
+    "options": ["5", "4", "2", "1"],
+    "answer": 1,
+    "explain": "Diskusi dan musyawarah adalah sila keempat."
+  },
+  {
+    "question": "Bersyukur kepada Tuhan termasuk sila...",
+    "options": ["Kemanusiaan", "Ketuhanan", "Keadilan", "Persatuan"],
+    "answer": 1,
+    "explain": "Bersyukur termasuk Ketuhanan."
+  },
+  {
+    "question": "Membantu teman yang kesulitan adalah sikap...",
+    "options": ["Keadilan", "Persatuan", "Kemanusiaan", "Ketuhanan"],
+    "answer": 2,
+    "explain": "Menolong adalah nilai kemanusiaan."
+  },
+  {
+    "question": "Sikap menaati aturan menunjukkan perilaku...",
+    "options": ["Keadilan sosial", "Persatuan", "Ketuhanan", "Tidak peduli"],
+    "answer": 0,
+    "explain": "Keadilan sosial menekankan kepatuhan aturan."
+  },
+  {
+    "question": "Contoh aturan rumah adalah...",
+    "options": ["Bangun siang", "Tidak membantu orang tua", "Merapikan tempat tidur", "Tidak mandi"],
+    "answer": 2,
+    "explain": "Merapikan tempat tidur aturan rumah."
+  },
+  {
+    "question": "Perilaku sesuai aturan sekolah adalah...",
+    "options": ["Makan di kelas", "Memakai seragam rapi", "Berkelahi", "Berlari di lorong"],
+    "answer": 1,
+    "explain": "Seragam rapi bagian dari disiplin."
+  },
+  {
+    "question": "Pancasila memiliki berapa sila?",
+    "options": ["2", "3", "5", "6"],
+    "answer": 2,
+    "explain": "Pancasila terdiri dari lima sila."
+  },
+  {
+    "question": "Sila pertama berbunyi...",
+    "options": ["Kemanusiaan yang Adil", "Ketuhanan Yang Maha Esa", "Persatuan Indonesia", "Keadilan Sosial"],
+    "answer": 1,
+    "explain": "Itulah bunyi sila pertama."
+  }
+]

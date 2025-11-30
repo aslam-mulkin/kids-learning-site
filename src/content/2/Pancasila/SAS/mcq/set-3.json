@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Sila ketiga berbunyi...",
+    "options": ["Kemanusiaan yang Adil", "Keadilan Sosial", "Persatuan Indonesia", "Kerakyatan yang Dipimpin"],
+    "answer": 2,
+    "explain": "Itu bunyi sila ketiga."
+  },
+  {
+    "question": "Contoh perilaku sila kedua adalah...",
+    "options": ["Tidak membully", "Tidak rapih", "Berteriak keras", "Lari di kelas"],
+    "answer": 0,
+    "explain": "Tidak membully menunjukkan kemanusiaan."
+  },
+  {
+    "question": "Contoh perilaku sila pertama adalah...",
+    "options": ["Berdoa", "Membenci teman", "Memukul teman", "Menghina orang tua"],
+    "answer": 0,
+    "explain": "Berdoa adalah sikap religius."
+  },
+  {
+    "question": "Simbol sila kedua ditandai dengan...",
+    "options": ["Rantai", "Kepala Banteng", "Pohon Beringin", "Bintang"],
+    "answer": 0,
+    "explain": "Rantai emas melambangkan kemanusiaan."
+  },
+  {
+    "question": "Padi dan kapas adalah simbol sila ke...",
+    "options": ["1", "3", "5", "2"],
+    "answer": 2,
+    "explain": "Padi kapas simbol keadilan sosial."
+  },
+  {
+    "question": "Kepala banteng adalah simbol sila...",
+    "options": ["4", "2", "3", "1"],
+    "answer": 0,
+    "explain": "Kepala banteng melambangkan musyawarah."
+  },
+  {
+    "question": "Bintang melambangkan sila...",
+    "options": ["Ketuhanan", "Kemanusiaan", "Persatuan", "Keadilan"],
+    "answer": 0,
+    "explain": "Bintang simbol Ketuhanan."
+  },
+  {
+    "question": "Contoh sikap sila ketiga adalah...",
+    "options": ["Tidak memilih teman", "Berbohong", "Malas belajar", "Tidak peduli"],
+    "answer": 0,
+    "explain": "Tidak memilih-milih teman menjaga persatuan."
+  },
+  {
+    "question": "Pita pada Garuda bertuliskan...",
+    "options": ["Garuda Abadi", "Bhinneka Tunggal Ika", "Indonesia Jaya", "Merdeka Bersatu"],
+    "answer": 1,
+    "explain": "Tulisan resminya Bhinneka Tunggal Ika."
+  },
+  {
+    "question": "Contoh perilaku sila kelima adalah...",
+    "options": ["Bersikap adil", "Menghina orang lain", "Mengambil hak orang", "Menyontek teman"],
+    "answer": 0,
+    "explain": "Sila kelima menekankan keadilan."
+  },
+  {
+    "question": "Sikap mencintai tanah air termasuk sila...",
+    "options": ["1", "2", "3", "5"],
+    "answer": 2,
+    "explain": "Cinta tanah air termasuk persatuan."
+  },
+  {
+    "question": "Contoh pelaksanaan sila keempat adalah...",
+    "options": ["Mengutamakan musyawarah", "Mengejek teman", "Membiarkan masalah", "Tidak peduli"],
+    "answer": 0,
+    "explain": "Sila keempat menekankan musyawarah."
+  },
+  {
+    "question": "Perilaku adil dilakukan sesuai sila ke...",
+    "options": ["5", "3", "1", "2"],
+    "answer": 0,
+    "explain": "Keadilan bagian dari sila kelima."
+  },
+  {
+    "question": "Tokoh yang memimpin sidang BPUPKI adalah...",
+    "options": ["Radjiman", "Sudirman", "Soekarno", "Hatta"],
+    "answer": 0,
+    "explain": "Radjiman memimpin sidang BPUPKI."
+  },
+  {
+    "question": "Contoh aturan sekolah adalah...",
+    "options": ["Membuang sampah pada tempatnya", "Berteriak di kelas", "Merusak meja", "Datang sesuka hati"],
+    "answer": 0,
+    "explain": "Itu contoh aturan sekolah."
+  },
+  {
+    "question": "Yang berkewajiban menaati aturan rumah adalah...",
+    "options": ["Semua anggota keluarga", "Tetangga", "Tamu", "Orang luar"],
+    "answer": 0,
+    "explain": "Aturan rumah untuk semua anggota keluarga."
+  },
+  {
+    "question": "Simbol sila ketiga terletak pada posisi...",
+    "options": ["Kanan atas", "Kiri bawah", "Kiri atas", "Kanan bawah"],
+    "answer": 2,
+    "explain": "Pohon beringin ada di kiri atas."
+  },
+  {
+    "question": "Contoh perilaku tidak sesuai Pancasila adalah...",
+    "options": ["Membully", "Musyawarah", "Berdoa", "Bergotong royong"],
+    "answer": 0,
+    "explain": "Bullying bertentangan dengan Pancasila."
+  },
+  {
+    "question": "Yang membuat aturan sekolah adalah...",
+    "options": ["Guru dan sekolah", "Tetangga", "Koki kantin", "Satpam"],
+    "answer": 0,
+    "explain": "Sekolah menetapkan aturan."
+  },
+  {
+    "question": "Bekerja sama saat piket kelas adalah contoh sila...",
+    "options": ["3", "5", "4", "1"],
+    "answer": 2,
+    "explain": "Kerja sama melatih musyawarah."
+  },
+  {
+    "question": "Menghargai perbedaan suku sesuai sila...",
+    "options": ["Persatuan Indonesia", "Keadilan Sosial", "Ketuhanan", "Musyawarah"],
+    "answer": 0,
+    "explain": "Persatuan menghargai perbedaan."
+  },
+  {
+    "question": "Sikap yang harus diteladani dari tokoh adalah...",
+    "options": ["Keberanian", "Kemalasan", "Kesombongan", "Menghina"],
+    "answer": 0,
+    "explain": "Keberanian adalah sikap baik."
+  },
+  {
+    "question": "Contoh aturan pagi hari di rumah adalah...",
+    "options": ["Mandi dan sarapan", "Tidur lagi", "Bermain game", "Menonton TV"],
+    "answer": 0,
+    "explain": "Mandi dan sarapan aturan pagi hari."
+  },
+  {
+    "question": "Tidak memaksakan kehendak sesuai sila...",
+    "options": ["4", "1", "5", "2"],
+    "answer": 0,
+    "explain": "Musyawarah tidak memaksakan kehendak."
+  },
+  {
+    "question": "Berperilaku ramah sesuai sila...",
+    "options": ["Kemanusiaan", "Ketuhanan", "Keadilan", "Persatuan"],
+    "answer": 0,
+    "explain": "Ramah adalah kemanusiaan."
+  }
+]

@@ -14,6 +14,15 @@ export default function QuizView({ items, topicKey, setId, onProgress }: Props) 
   const [reviewMode, setReviewMode] = useState(false)
   const recordedRef = useRef(false)
 
+  // Reset state when a new question set is loaded
+  useEffect(() => {
+    setIdx(0)
+    setAnswers(Array(items.length).fill(-1))
+    setFinished(false)
+    setReviewMode(false)
+    recordedRef.current = false
+  }, [items])
+
   const allAnswered = useMemo(() => answers.every(a => a !== -1), [answers])
   const score = useMemo(
     () => answers.reduce((acc, a, i) => acc + (a === items[i].answer ? 1 : 0), 0),
@@ -111,7 +120,7 @@ export default function QuizView({ items, topicKey, setId, onProgress }: Props) 
   const selected = answers[idx]
 
   return (
-    <Card className="max-w-2xl mx-auto">
+    <Card key={it.id} className="max-w-2xl mx-auto">
       <CardTitle className="mb-2">Soal {idx+1} / {items.length}</CardTitle>
       <CardContent>
         <div className="mb-4">{it.q}</div>

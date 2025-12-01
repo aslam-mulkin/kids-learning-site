@@ -1,34 +1,90 @@
 [
-  {"q": "طُوبٌ", "a": "Batu bata"},
-  {"q": "Batu bata", "a": "طُوبٌ"},
-
-  {"q": "طِلَاءٌ", "a": "Cat"},
-  {"q": "Cat", "a": "طِلَاءٌ"},
-
-  {"q": "طَبَقٌ زُجَاجِيٌّ", "a": "Mangkuk kaca"},
-  {"q": "Mangkuk kaca", "a": "طَبَقٌ زُجَاجِيٌّ"},
-
-  {"q": "طُيُورٌ", "a": "Burung-burung"},
-  {"q": "Burung-burung", "a": "طُيُورٌ"},
-
-  {"q": "طِفْلٌ", "a": "Anak kecil"},
-  {"q": "Anak kecil", "a": "طِفْلٌ"},
-
-  {"q": "طَبِيبٌ", "a": "Dokter"},
-  {"q": "Dokter", "a": "طَبِيبٌ"},
-
-  {"q": "يَرْبِطُ", "a": "Sedang mengikat"},
-  {"q": "Sedang mengikat", "a": "يَرْبِطُ"},
-
-  {"q": "قِطَارٌ", "a": "Kereta api"},
-  {"q": "Kereta api", "a": "قِطَارٌ"},
-
-  {"q": "يَطْبُخُ", "a": "Sedang memasak"},
-  {"q": "Sedang memasak", "a": "يَطْبُخُ"},
-
-  {"q": "خَرِيطَةٌ", "a": "Peta"},
-  {"q": "Peta", "a": "خَرِيطَةٌ"},
-
-  {"q": "طُيُورٌ", "a": "Burung-burung"},
-  {"q": "Burung-burung", "a": "طُيُورٌ"}
+  {
+    "q": "Sedang memasak",
+    "a": "يَطْبُخُ"
+  },
+  {
+    "q": "Anak kecil",
+    "a": "طِفْلٌ"
+  },
+  {
+    "q": "يَرْبِطُ",
+    "a": "Sedang mengikat"
+  },
+  {
+    "q": "Cat",
+    "a": "طِلَاءٌ"
+  },
+  {
+    "q": "طِفْلٌ",
+    "a": "Anak kecil"
+  },
+  {
+    "q": "طُيُورٌ",
+    "a": "Burung-burung"
+  },
+  {
+    "q": "Sedang mengikat",
+    "a": "يَرْبِطُ"
+  },
+  {
+    "q": "Kereta api",
+    "a": "قِطَارٌ"
+  },
+  {
+    "q": "Batu bata",
+    "a": "طُوبٌ"
+  },
+  {
+    "q": "Peta",
+    "a": "خَرِيطَةٌ"
+  },
+  {
+    "q": "Burung-burung",
+    "a": "طُيُورٌ"
+  },
+  {
+    "q": "خَرِيطَةٌ",
+    "a": "Peta"
+  },
+  {
+    "q": "طِلَاءٌ",
+    "a": "Cat"
+  },
+  {
+    "q": "طُوبٌ",
+    "a": "Batu bata"
+  },
+  {
+    "q": "Mangkuk kaca",
+    "a": "طَبَقٌ زُجَاجِيٌّ"
+  },
+  {
+    "q": "قِطَارٌ",
+    "a": "Kereta api"
+  },
+  {
+    "q": "طُيُورٌ",
+    "a": "Burung-burung"
+  },
+  {
+    "q": "طَبَقٌ زُجَاجِيٌّ",
+    "a": "Mangkuk kaca"
+  },
+  {
+    "q": "Dokter",
+    "a": "طَبِيبٌ"
+  },
+  {
+    "q": "Burung-burung",
+    "a": "طُيُورٌ"
+  },
+  {
+    "q": "يَطْبُخُ",
+    "a": "Sedang memasak"
+  },
+  {
+    "q": "طَبِيبٌ",
+    "a": "Dokter"
+  }
 ]

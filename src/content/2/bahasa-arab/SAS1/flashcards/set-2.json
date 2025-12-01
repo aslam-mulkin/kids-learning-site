@@ -1,25 +1,66 @@
 [
-  {"q": "ظُفْرٌ", "a": "Kuku"},
-  {"q": "Kuku", "a": "ظُفْرٌ"},
-
-  {"q": "ظِلٌّ", "a": "Bayangan"},
-  {"q": "Bayangan", "a": "ظِلٌّ"},
-
-  {"q": "ظَبْيٌ", "a": "Kijang"},
-  {"q": "Kijang", "a": "ظَبْيٌ"},
-
-  {"q": "ظَرْفٌ", "a": "Amplop"},
-  {"q": "Amplop", "a": "ظَرْفٌ"},
-
-  {"q": "ظِبَاءٌ", "a": "Kijang-kijang"},
-  {"q": "Kijang-kijang", "a": "ظِبَاءٌ"},
-
-  {"q": "يَحْفَظُ", "a": "Sedang menghafal"},
-  {"q": "Sedang menghafal", "a": "يَحْفَظُ"},
-
-  {"q": "نَظَّارَةٌ", "a": "Kacamata"},
-  {"q": "Kacamata", "a": "نَظَّارَةٌ"},
-
-  {"q": "ظُرُوفٌ", "a": "Amplop-amplop"},
-  {"q": "Amplop-amplop", "a": "ظُرُوفٌ"}
+  {
+    "q": "ظُرُوفٌ",
+    "a": "Amplop-amplop"
+  },
+  {
+    "q": "ظَرْفٌ",
+    "a": "Amplop"
+  },
+  {
+    "q": "Sedang menghafal",
+    "a": "يَحْفَظُ"
+  },
+  {
+    "q": "Bayangan",
+    "a": "ظِلٌّ"
+  },
+  {
+    "q": "Kijang-kijang",
+    "a": "ظِبَاءٌ"
+  },
+  {
+    "q": "Amplop-amplop",
+    "a": "ظُرُوفٌ"
+  },
+  {
+    "q": "Kijang",
+    "a": "ظَبْيٌ"
+  },
+  {
+    "q": "نَظَّارَةٌ",
+    "a": "Kacamata"
+  },
+  {
+    "q": "ظَبْيٌ",
+    "a": "Kijang"
+  },
+  {
+    "q": "ظُفْرٌ",
+    "a": "Kuku"
+  },
+  {
+    "q": "ظِلٌّ",
+    "a": "Bayangan"
+  },
+  {
+    "q": "يَحْفَظُ",
+    "a": "Sedang menghafal"
+  },
+  {
+    "q": "Kacamata",
+    "a": "نَظَّارَةٌ"
+  },
+  {
+    "q": "ظِبَاءٌ",
+    "a": "Kijang-kijang"
+  },
+  {
+    "q": "Kuku",
+    "a": "ظُفْرٌ"
+  },
+  {
+    "q": "Amplop",
+    "a": "ظَرْفٌ"
+  }
 ]

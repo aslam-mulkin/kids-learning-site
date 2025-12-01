@@ -1,6 +1,6 @@
 [
   {
-    "id": "set-4-1",
+    "id": "pn2sas4-01",
     "q": "Bunyi sila kelima adalah...",
     "options": [
       "Keadilan Sosial",
@@ -12,7 +12,7 @@
     "explain": "Itu bunyi sila kelima."
   },
   {
-    "id": "set-4-2",
+    "id": "pn2sas4-02",
     "q": "Menghormati perbedaan agama sesuai sila...",
     "options": [
       "1",
@@ -24,7 +24,7 @@
     "explain": "Sila pertama menghargai kepercayaan."
   },
   {
-    "id": "set-4-3",
+    "id": "pn2sas4-03",
     "q": "Ikut musyawarah kelas termasuk sila...",
     "options": [
       "4",
@@ -36,7 +36,7 @@
     "explain": "Musyawarah = sila keempat."
   },
   {
-    "id": "set-4-4",
+    "id": "pn2sas4-04",
     "q": "Tidak mengambil hak orang lain sesuai sila...",
     "options": [
       "5",
@@ -48,7 +48,7 @@
     "explain": "Sila kelima mengajarkan keadilan."
   },
   {
-    "id": "set-4-5",
+    "id": "pn2sas4-05",
     "q": "Simbol sila keempat adalah...",
     "options": [
       "Kepala Banteng",
@@ -60,7 +60,7 @@
     "explain": "Kepala banteng = musyawarah."
   },
   {
-    "id": "set-4-6",
+    "id": "pn2sas4-06",
     "q": "Menghormati teman berbeda suku sesuai sila...",
     "options": [
       "3",
@@ -72,7 +72,7 @@
     "explain": "Sila ketiga menjaga persatuan."
   },
   {
-    "id": "set-4-7",
+    "id": "pn2sas4-07",
     "q": "Warna dasar perisai Garuda adalah...",
     "options": [
       "Hitam",
@@ -84,7 +84,7 @@
     "explain": "Warna perisai adalah hitam."
   },
   {
-    "id": "set-4-8",
+    "id": "pn2sas4-08",
     "q": "Sikap sesuai sila kedua adalah...",
     "options": [
       "Bersikap sopan",
@@ -96,7 +96,7 @@
     "explain": "Sopan menunjukkan kemanusiaan."
   },
   {
-    "id": "set-4-9",
+    "id": "pn2sas4-09",
     "q": "Sila pertama mengajarkan kita untuk...",
     "options": [
       "Berdoa",
@@ -108,7 +108,7 @@
     "explain": "Sila pertama menekankan iman."
   },
   {
-    "id": "set-4-10",
+    "id": "pn2sas4-10",
     "q": "Tokoh yang menyampaikan pidato 1 Juni 1945 adalah...",
     "options": [
       "Soekarno",
@@ -120,7 +120,7 @@
     "explain": "Soekarno menyampaikan pidato tersebut."
   },
   {
-    "id": "set-4-11",
+    "id": "pn2sas4-11",
     "q": "Bunyi sila pertama adalah...",
     "options": [
       "Ketuhanan Yang Maha Esa",
@@ -132,7 +132,7 @@
     "explain": "Itulah sila pertama."
   },
   {
-    "id": "set-4-12",
+    "id": "pn2sas4-12",
     "q": "Berperilaku adil sesuai sila...",
     "options": [
       "5",
@@ -144,7 +144,7 @@
     "explain": "Sila kelima = keadilan sosial."
   },
   {
-    "id": "set-4-13",
+    "id": "pn2sas4-13",
     "q": "Gotong royong mencerminkan...",
     "options": [
       "Kerja sama",
@@ -156,7 +156,7 @@
     "explain": "Gotong royong = kerjasama."
   },
   {
-    "id": "set-4-14",
+    "id": "pn2sas4-14",
     "q": "Tidak menghina suku lain sesuai sila...",
     "options": [
       "3",
@@ -168,7 +168,7 @@
     "explain": "Persatuan menghargai perbedaan."
   },
   {
-    "id": "set-4-15",
+    "id": "pn2sas4-15",
     "q": "Simbol sila ketiga adalah...",
     "options": [
       "Pohon Beringin",
@@ -180,7 +180,7 @@
     "explain": "Beringin = persatuan."
   },
   {
-    "id": "set-4-16",
+    "id": "pn2sas4-16",
     "q": "Saat rapat kelas, kita harus...",
     "options": [
       "Mengutamakan musyawarah",
@@ -192,7 +192,7 @@
     "explain": "Musyawarah penting dalam rapat."
   },
   {
-    "id": "set-4-17",
+    "id": "pn2sas4-17",
     "q": "Contoh aturan pagi hari adalah...",
     "options": [
       "Bangun tepat waktu",
@@ -204,7 +204,7 @@
     "explain": "Bangun tepat waktu aturan rumah."
   },
   {
-    "id": "set-4-18",
+    "id": "pn2sas4-18",
     "q": "Yang harus menaati aturan sekolah adalah...",
     "options": [
       "Guru dan murid",
@@ -216,7 +216,7 @@
     "explain": "Semua warga sekolah wajib."
   },
   {
-    "id": "set-4-19",
+    "id": "pn2sas4-19",
     "q": "Sikap jujur termasuk sila...",
     "options": [
       "2",
@@ -228,7 +228,7 @@
     "explain": "Kejujuran bagian dari kemanusiaan."
   },
   {
-    "id": "set-4-20",
+    "id": "pn2sas4-20",
     "q": "Pancasila memiliki berapa sila?",
     "options": [
       "5",
@@ -240,7 +240,7 @@
     "explain": "Pancasila terdiri dari 5 sila."
   },
   {
-    "id": "set-4-21",
+    "id": "pn2sas4-21",
     "q": "Garuda memegang pita bertuliskan...",
     "options": [
       "Bhinneka Tunggal Ika",
@@ -252,7 +252,7 @@
     "explain": "Tulisan resminya Bhinneka Tunggal Ika."
   },
   {
-    "id": "set-4-22",
+    "id": "pn2sas4-22",
     "q": "Sikap saling membantu sesuai sila...",
     "options": [
       "2",
@@ -264,7 +264,7 @@
     "explain": "Menolong = kemanusiaan."
   },
   {
-    "id": "set-4-23",
+    "id": "pn2sas4-23",
     "q": "Tidak memilih teman berdasarkan warna kulit sesuai sila...",
     "options": [
       "3",
@@ -276,7 +276,7 @@
     "explain": "Sila kedua menghargai sesama."
   },
   {
-    "id": "set-4-24",
+    "id": "pn2sas4-24",
     "q": "Menghargai pendapat orang lain termasuk sila...",
     "options": [
       "4",
@@ -288,7 +288,7 @@
     "explain": "Sila 4 mendorong menghargai pendapat."
   },
   {
-    "id": "set-4-25",
+    "id": "pn2sas4-25",
     "q": "Padi dan kapas berada di bagian...",
     "options": [
       "Kanan bawah",

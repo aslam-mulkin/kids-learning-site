@@ -1,6 +1,6 @@
 [
   {
-    "id": "set-3-1",
+    "id": "pn2sas3-01",
     "q": "Sila ketiga berbunyi...",
     "options": [
       "Kemanusiaan yang Adil",
@@ -12,7 +12,7 @@
     "explain": "Itu bunyi sila ketiga."
   },
   {
-    "id": "set-3-2",
+    "id": "pn2sas3-02",
     "q": "Contoh perilaku sila kedua adalah...",
     "options": [
       "Tidak membully",
@@ -24,7 +24,7 @@
     "explain": "Tidak membully menunjukkan kemanusiaan."
   },
   {
-    "id": "set-3-3",
+    "id": "pn2sas3-03",
     "q": "Contoh perilaku sila pertama adalah...",
     "options": [
       "Berdoa",
@@ -36,7 +36,7 @@
     "explain": "Berdoa adalah sikap religius."
   },
   {
-    "id": "set-3-4",
+    "id": "pn2sas3-04",
     "q": "Simbol sila kedua ditandai dengan...",
     "options": [
       "Rantai",
@@ -48,7 +48,7 @@
     "explain": "Rantai emas melambangkan kemanusiaan."
   },
   {
-    "id": "set-3-5",
+    "id": "pn2sas3-05",
     "q": "Padi dan kapas adalah simbol sila ke...",
     "options": [
       "1",
@@ -60,7 +60,7 @@
     "explain": "Padi kapas simbol keadilan sosial."
   },
   {
-    "id": "set-3-6",
+    "id": "pn2sas3-06",
     "q": "Kepala banteng adalah simbol sila...",
     "options": [
       "4",
@@ -72,7 +72,7 @@
     "explain": "Kepala banteng melambangkan musyawarah."
   },
   {
-    "id": "set-3-7",
+    "id": "pn2sas3-07",
     "q": "Bintang melambangkan sila...",
     "options": [
       "Ketuhanan",
@@ -84,7 +84,7 @@
     "explain": "Bintang simbol Ketuhanan."
   },
   {
-    "id": "set-3-8",
+    "id": "pn2sas3-08",
     "q": "Contoh sikap sila ketiga adalah...",
     "options": [
       "Tidak memilih teman",
@@ -96,7 +96,7 @@
     "explain": "Tidak memilih-milih teman menjaga persatuan."
   },
   {
-    "id": "set-3-9",
+    "id": "pn2sas3-09",
     "q": "Pita pada Garuda bertuliskan...",
     "options": [
       "Garuda Abadi",
@@ -108,7 +108,7 @@
     "explain": "Tulisan resminya Bhinneka Tunggal Ika."
   },
   {
-    "id": "set-3-10",
+    "id": "pn2sas3-10",
     "q": "Contoh perilaku sila kelima adalah...",
     "options": [
       "Bersikap adil",
@@ -120,7 +120,7 @@
     "explain": "Sila kelima menekankan keadilan."
   },
   {
-    "id": "set-3-11",
+    "id": "pn2sas3-11",
     "q": "Sikap mencintai tanah air termasuk sila...",
     "options": [
       "1",
@@ -132,7 +132,7 @@
     "explain": "Cinta tanah air termasuk persatuan."
   },
   {
-    "id": "set-3-12",
+    "id": "pn2sas3-12",
     "q": "Contoh pelaksanaan sila keempat adalah...",
     "options": [
       "Mengutamakan musyawarah",
@@ -144,7 +144,7 @@
     "explain": "Sila keempat menekankan musyawarah."
   },
   {
-    "id": "set-3-13",
+    "id": "pn2sas3-13",
     "q": "Perilaku adil dilakukan sesuai sila ke...",
     "options": [
       "5",
@@ -156,7 +156,7 @@
     "explain": "Keadilan bagian dari sila kelima."
   },
   {
-    "id": "set-3-14",
+    "id": "pn2sas3-14",
     "q": "Tokoh yang memimpin sidang BPUPKI adalah...",
     "options": [
       "Radjiman",
@@ -168,7 +168,7 @@
     "explain": "Radjiman memimpin sidang BPUPKI."
   },
   {
-    "id": "set-3-15",
+    "id": "pn2sas3-15",
     "q": "Contoh aturan sekolah adalah...",
     "options": [
       "Membuang sampah pada tempatnya",
@@ -180,7 +180,7 @@
     "explain": "Itu contoh aturan sekolah."
   },
   {
-    "id": "set-3-16",
+    "id": "pn2sas3-16",
     "q": "Yang berkewajiban menaati aturan rumah adalah...",
     "options": [
       "Semua anggota keluarga",
@@ -192,7 +192,7 @@
     "explain": "Aturan rumah untuk semua anggota keluarga."
   },
   {
-    "id": "set-3-17",
+    "id": "pn2sas3-17",
     "q": "Simbol sila ketiga terletak pada posisi...",
     "options": [
       "Kanan atas",
@@ -204,7 +204,7 @@
     "explain": "Pohon beringin ada di kiri atas."
   },
   {
-    "id": "set-3-18",
+    "id": "pn2sas3-18",
     "q": "Contoh perilaku tidak sesuai Pancasila adalah...",
     "options": [
       "Membully",
@@ -216,7 +216,7 @@
     "explain": "Bullying bertentangan dengan Pancasila."
   },
   {
-    "id": "set-3-19",
+    "id": "pn2sas3-19",
     "q": "Yang membuat aturan sekolah adalah...",
     "options": [
       "Guru dan sekolah",
@@ -228,7 +228,7 @@
     "explain": "Sekolah menetapkan aturan."
   },
   {
-    "id": "set-3-20",
+    "id": "pn2sas3-20",
     "q": "Bekerja sama saat piket kelas adalah contoh sila...",
     "options": [
       "3",
@@ -240,7 +240,7 @@
     "explain": "Kerja sama melatih musyawarah."
   },
   {
-    "id": "set-3-21",
+    "id": "pn2sas3-21",
     "q": "Menghargai perbedaan suku sesuai sila...",
     "options": [
       "Persatuan Indonesia",
@@ -252,7 +252,7 @@
     "explain": "Persatuan menghargai perbedaan."
   },
   {
-    "id": "set-3-22",
+    "id": "pn2sas3-22",
     "q": "Sikap yang harus diteladani dari tokoh adalah...",
     "options": [
       "Keberanian",
@@ -264,7 +264,7 @@
     "explain": "Keberanian adalah sikap baik."
   },
   {
-    "id": "set-3-23",
+    "id": "pn2sas3-23",
     "q": "Contoh aturan pagi hari di rumah adalah...",
     "options": [
       "Mandi dan sarapan",
@@ -276,7 +276,7 @@
     "explain": "Mandi dan sarapan aturan pagi hari."
   },
   {
-    "id": "set-3-24",
+    "id": "pn2sas3-24",
     "q": "Tidak memaksakan kehendak sesuai sila...",
     "options": [
       "4",
@@ -288,7 +288,7 @@
     "explain": "Musyawarah tidak memaksakan kehendak."
   },
   {
-    "id": "set-3-25",
+    "id": "pn2sas3-25",
     "q": "Berperilaku ramah sesuai sila...",
     "options": [
       "Kemanusiaan",

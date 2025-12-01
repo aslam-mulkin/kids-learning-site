@@ -1,6 +1,6 @@
 [
   {
-    "id": "set-1-1",
+    "id": "pn2sas1-01",
     "q": "Lambang negara Indonesia adalah...",
     "options": [
       "Garuda Pancasila",
@@ -12,7 +12,7 @@
     "explain": "Garuda adalah lambang negara Indonesia."
   },
   {
-    "id": "set-1-2",
+    "id": "pn2sas1-02",
     "q": "Simbol sila kedua adalah...",
     "options": [
       "Bintang",
@@ -24,7 +24,7 @@
     "explain": "Sila kedua dilambangkan dengan rantai."
   },
   {
-    "id": "set-1-3",
+    "id": "pn2sas1-03",
     "q": "Simbol sila keempat adalah...",
     "options": [
       "Bintang",
@@ -36,7 +36,7 @@
     "explain": "Kepala banteng simbol musyawarah."
   },
   {
-    "id": "set-1-4",
+    "id": "pn2sas1-04",
     "q": "Simbol sila kelima adalah...",
     "options": [
       "Rantai",
@@ -48,7 +48,7 @@
     "explain": "Padi dan kapas lambang keadilan sosial."
   },
   {
-    "id": "set-1-5",
+    "id": "pn2sas1-05",
     "q": "Warna merah pada Pancasila bermakna...",
     "options": [
       "Keberanian",
@@ -60,7 +60,7 @@
     "explain": "Merah melambangkan keberanian."
   },
   {
-    "id": "set-1-6",
+    "id": "pn2sas1-06",
     "q": "Perilaku gotong royong sesuai sila ke...",
     "options": [
       "2",
@@ -72,7 +72,7 @@
     "explain": "Gotong royong termasuk keadilan sosial."
   },
   {
-    "id": "set-1-7",
+    "id": "pn2sas1-07",
     "q": "Menghormati guru termasuk perilaku sila...",
     "options": [
       "Persatuan",
@@ -84,7 +84,7 @@
     "explain": "Menghormati guru adalah akhlak religius."
   },
   {
-    "id": "set-1-8",
+    "id": "pn2sas1-08",
     "q": "Musyawarah termasuk pengamalan sila ke...",
     "options": [
       "2",
@@ -96,7 +96,7 @@
     "explain": "Musyawarah adalah sila keempat."
   },
   {
-    "id": "set-1-9",
+    "id": "pn2sas1-09",
     "q": "Menolong teman adalah contoh sila...",
     "options": [
       "Ketuhanan",
@@ -108,7 +108,7 @@
     "explain": "Menolong termasuk kemanusiaan."
   },
   {
-    "id": "set-1-10",
+    "id": "pn2sas1-10",
     "q": "Mengutamakan persatuan termasuk sila ke...",
     "options": [
       "5",
@@ -120,7 +120,7 @@
     "explain": "Persatuan adalah sila ketiga."
   },
   {
-    "id": "set-1-11",
+    "id": "pn2sas1-11",
     "q": "Tokoh perumus Pancasila adalah...",
     "options": [
       "Kartini",
@@ -132,7 +132,7 @@
     "explain": "Soekarno merumuskan Pancasila."
   },
   {
-    "id": "set-1-12",
+    "id": "pn2sas1-12",
     "q": "Panitia kecil bentukan Soekarno disebut...",
     "options": [
       "Panitia Empat",
@@ -144,7 +144,7 @@
     "explain": "Panitia Sembilan menyusun naskah dasar."
   },
   {
-    "id": "set-1-13",
+    "id": "pn2sas1-13",
     "q": "Contoh aturan kelas adalah...",
     "options": [
       "Membuang sampah sembarangan",
@@ -156,7 +156,7 @@
     "explain": "Datang tepat waktu adalah aturan kelas."
   },
   {
-    "id": "set-1-14",
+    "id": "pn2sas1-14",
     "q": "Yang membuat aturan di rumah adalah...",
     "options": [
       "Guru",
@@ -168,7 +168,7 @@
     "explain": "Orang tua membuat aturan rumah."
   },
   {
-    "id": "set-1-15",
+    "id": "pn2sas1-15",
     "q": "Warga yang wajib menaati aturan sekolah adalah...",
     "options": [
       "Petugas kebersihan",
@@ -180,7 +180,7 @@
     "explain": "Semua warga sekolah wajib menaati aturan."
   },
   {
-    "id": "set-1-16",
+    "id": "pn2sas1-16",
     "q": "Sikap sopan saat bertemu guru adalah...",
     "options": [
       "Mengabaikan",
@@ -192,7 +192,7 @@
     "explain": "Sikap sopan sesuai nilai Pancasila."
   },
   {
-    "id": "set-1-17",
+    "id": "pn2sas1-17",
     "q": "Membersihkan kelas mencerminkan...",
     "options": [
       "Keadilan sosial",
@@ -204,7 +204,7 @@
     "explain": "Kebersihan bagian dari aturan kelas."
   },
   {
-    "id": "set-1-18",
+    "id": "pn2sas1-18",
     "q": "Berdiskusi dalam kelompok mencerminkan sila...",
     "options": [
       "5",
@@ -216,7 +216,7 @@
     "explain": "Diskusi dan musyawarah adalah sila keempat."
   },
   {
-    "id": "set-1-19",
+    "id": "pn2sas1-19",
     "q": "Bersyukur kepada Tuhan termasuk sila...",
     "options": [
       "Kemanusiaan",
@@ -228,7 +228,7 @@
     "explain": "Bersyukur termasuk Ketuhanan."
   },
   {
-    "id": "set-1-20",
+    "id": "pn2sas1-20",
     "q": "Membantu teman yang kesulitan adalah sikap...",
     "options": [
       "Keadilan",
@@ -240,7 +240,7 @@
     "explain": "Menolong adalah nilai kemanusiaan."
   },
   {
-    "id": "set-1-21",
+    "id": "pn2sas1-21",
     "q": "Sikap menaati aturan menunjukkan perilaku...",
     "options": [
       "Keadilan sosial",
@@ -252,7 +252,7 @@
     "explain": "Keadilan sosial menekankan kepatuhan aturan."
   },
   {
-    "id": "set-1-22",
+    "id": "pn2sas1-22",
     "q": "Contoh aturan rumah adalah...",
     "options": [
       "Bangun siang",
@@ -264,7 +264,7 @@
     "explain": "Merapikan tempat tidur aturan rumah."
   },
   {
-    "id": "set-1-23",
+    "id": "pn2sas1-23",
     "q": "Perilaku sesuai aturan sekolah adalah...",
     "options": [
       "Makan di kelas",
@@ -276,7 +276,7 @@
     "explain": "Seragam rapi bagian dari disiplin."
   },
   {
-    "id": "set-1-24",
+    "id": "pn2sas1-24",
     "q": "Pancasila memiliki berapa sila?",
     "options": [
       "2",
@@ -288,7 +288,7 @@
     "explain": "Pancasila terdiri dari lima sila."
   },
   {
-    "id": "set-1-25",
+    "id": "pn2sas1-25",
     "q": "Sila pertama berbunyi...",
     "options": [
       "Kemanusiaan yang Adil",

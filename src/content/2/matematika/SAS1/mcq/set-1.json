@@ -144,30 +144,6 @@
     "explain": "Bata dan lemari buku keduanya berwujud balok."
   },
   {
-    "id": "mtk2sas1-13",
-    "q": "Pada gambar, bola berada di ... kotak warna biru.",
-    "options": [
-      "Bawah",
-      "Atas",
-      "Kiri",
-      "Kanan"
-    ],
-    "answer": 0,
-    "explain": "Bola digambarkan di bawah kotak biru."
-  },
-  {
-    "id": "mtk2sas1-14",
-    "q": "Pada peta meja kelas, tas Rina berada di ... kursi.",
-    "options": [
-      "Di bawah",
-      "Di atas",
-      "Di samping",
-      "Di depan"
-    ],
-    "answer": 1,
-    "explain": "Tas digantung di atas kursi."
-  },
-  {
     "id": "mtk2sas1-15",
     "q": "Cerita: \"Kucing tidur di bawah meja.\" Posisi kucing adalah ... meja.",
     "options": [

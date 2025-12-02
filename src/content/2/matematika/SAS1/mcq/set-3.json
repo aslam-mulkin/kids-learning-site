@@ -49,7 +49,7 @@
   },
   {
     "id": "mtk2sas1-55",
-    "q": "Bangun datar yang memiliki 3 sisi datar adalah ...",
+    "q": "Bangun datar yang memiliki 3 sisi adalah ...",
     "options": [
       "Segitiga",
       "Persegi",
@@ -61,7 +61,7 @@
   },
   {
     "id": "mtk2sas1-56",
-    "q": "Benda yang termasuk lingkaran dari gambar mainan adalah ...",
+    "q": "Benda di bawah yang termasuk lingkaran adalah ...",
     "options": [
       "Balok kayu",
       "Roda sepeda",
@@ -109,7 +109,7 @@
   },
   {
     "id": "mtk2sas1-60",
-    "q": "Nama benda bentuk tabung pada gambar dapur adalah ...",
+    "q": "Benda berbentuk tabung yang biasanya ada di dapur adalah ...",
     "options": [
       "Dadu",
       "Kaleng susu",
@@ -121,7 +121,7 @@
   },
   {
     "id": "mtk2sas1-61",
-    "q": "Benda bentuk balok sesuai petunjuk adalah ...",
+    "q": "Benda di bawah yang berbentuk balok adalah ...",
     "options": [
       "Mangkok",
       "Bola tenis",
@@ -142,30 +142,6 @@
     ],
     "answer": 3,
     "explain": "Kaleng dan gelas sama-sama tabung."
-  },
-  {
-    "id": "mtk2sas1-63",
-    "q": "Pada gambar rak buku, penggaris berada ... buku tulis.",
-    "options": [
-      "Di samping kanan",
-      "Di bawah",
-      "Di belakang",
-      "Di dalam"
-    ],
-    "answer": 0,
-    "explain": "Penggaris diletakkan di samping kanan buku."
-  },
-  {
-    "id": "mtk2sas1-64",
-    "q": "Pada peta tempat duduk, tas Edo ada di ... kursi.",
-    "options": [
-      "Di atas",
-      "Di bawah",
-      "Di kiri",
-      "Di depan"
-    ],
-    "answer": 1,
-    "explain": "Tas tergantung di bawah kursi."
   },
   {
     "id": "mtk2sas1-65",

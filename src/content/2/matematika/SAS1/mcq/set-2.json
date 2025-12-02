@@ -61,7 +61,7 @@
   },
   {
     "id": "mtk2sas1-31",
-    "q": "Dari gambar benda, yang termasuk lingkaran adalah ...",
+    "q": "Benda yang termasuk lingkaran adalah ...",
     "options": [
       "Penggaris",
       "Piring bundar",
@@ -109,7 +109,7 @@
   },
   {
     "id": "mtk2sas1-35",
-    "q": "Benda berbentuk balok sesuai instruksi adalah ...",
+    "q": "Benda berbentuk balok di bawah adalah ...",
     "options": [
       "Bola tenis",
       "Kotak susu",
@@ -130,30 +130,6 @@
     ],
     "answer": 2,
     "explain": "Dadu (kubus) dan kardus buku (balok)."
-  },
-  {
-    "id": "mtk2sas1-37",
-    "q": "Pada gambar, pensil berada di ... buku.",
-    "options": [
-      "Di belakang",
-      "Di bawah",
-      "Di kiri",
-      "Di atas"
-    ],
-    "answer": 3,
-    "explain": "Pensil diletakkan di atas buku."
-  },
-  {
-    "id": "mtk2sas1-38",
-    "q": "Pada denah meja, penghapus ada di ... kotak alat tulis.",
-    "options": [
-      "Di atas",
-      "Di luar",
-      "Di samping kiri",
-      "Dalam"
-    ],
-    "answer": 0,
-    "explain": "Penghapus digambar terletak di atas kotak alat tulis."
   },
   {
     "id": "mtk2sas1-39",

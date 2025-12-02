@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ip5sas1-01",
+    "q": "Fungsi utama hidung pada sistem pernapasan adalah ...",
+    "options": [
+      "Menyaring dan menghangatkan udara",
+      "Memompa udara ke paru-paru",
+      "Mengikat oksigen di darah",
+      "Mengatur irama napas"
+    ],
+    "answer": 0,
+    "explain": "Hidung memiliki rambut halus dan lendir yang menyaring debu sekaligus menghangatkan udara."
+  },
+  {
+    "id": "ip5sas1-02",
+    "q": "Organ yang menjadi saluran penghubung antara tenggorokan dan paru-paru adalah ...",
+    "options": [
+      "Bronkiolus",
+      "Trakea",
+      "Alveolus",
+      "Diafragma"
+    ],
+    "answer": 1,
+    "explain": "Trakea menyalurkan udara dari laring menuju bronkus dan paru-paru."
+  },
+  {
+    "id": "ip5sas1-03",
+    "q": "Urutan jalur udara yang benar saat bernapas adalah ...",
+    "options": [
+      "Hidung - bronkus - trakea - paru-paru",
+      "Mulut - paru-paru - trakea - bronkiolus",
+      "Hidung - trakea - bronkus - paru-paru",
+      "Trakea - hidung - paru-paru - bronkus"
+    ],
+    "answer": 2,
+    "explain": "Udara masuk melalui hidung, lalu melewati trakea, bronkus, dan berakhir di paru-paru."
+  },
+  {
+    "id": "ip5sas1-04",
+    "q": "Alveolus pada paru-paru berfungsi untuk ...",
+    "options": [
+      "Menghasilkan sel darah putih",
+      "Menyerap debu dari udara",
+      "Tempat pertukaran oksigen dan karbon dioksida",
+      "Memompa udara keluar"
+    ],
+    "answer": 2,
+    "explain": "Dinding tipis alveolus memungkinkan pertukaran gas antara udara dan darah."
+  },
+  {
+    "id": "ip5sas1-05",
+    "q": "Kebiasaan merokok pada usia dini dapat menyebabkan ...",
+    "options": [
+      "Paru-paru semakin kuat",
+      "Produksi enzim meningkat",
+      "Risiko bronkitis dan sesak napas",
+      "Napas lebih panjang"
+    ],
+    "answer": 2,
+    "explain": "Zat berbahaya pada rokok merusak saluran napas dan memicu bronkitis."
+  },
+  {
+    "id": "ip5sas1-06",
+    "q": "Dampak utama polusi udara terhadap organ pernapasan adalah ...",
+    "options": [
+      "Menyuburkan paru-paru",
+      "Memperkuat diafragma",
+      "Iritasi dan peradangan saluran napas",
+      "Menambah cadangan oksigen"
+    ],
+    "answer": 2,
+    "explain": "Debu dan asap dapat mengiritasi saluran napas hingga memicu peradangan."
+  },
+  {
+    "id": "ip5sas1-07",
+    "q": "Enzim amilase di mulut berguna untuk ...",
+    "options": [
+      "Memecah protein menjadi asam amino",
+      "Mengubah lemak menjadi asam lemak",
+      "Mengurai karbohidrat menjadi gula sederhana",
+      "Menetralkan asam lambung"
+    ],
+    "answer": 2,
+    "explain": "Amilase memecah pati menjadi gula sederhana sebagai langkah awal pencernaan karbohidrat."
+  },
+  {
+    "id": "ip5sas1-08",
+    "q": "Enzim pepsin bekerja paling baik di ...",
+    "options": [
+      "Mulut",
+      "Lambung",
+      "Usus halus",
+      "Kerongkongan"
+    ],
+    "answer": 1,
+    "explain": "Pepsin aktif di lingkungan asam lambung untuk memecah protein."
+  },
+  {
+    "id": "ip5sas1-09",
+    "q": "Salah satu gangguan pada organ pencernaan adalah diare yang ditandai dengan ...",
+    "options": [
+      "Feses keras dan sulit keluar",
+      "Feses cair dan buang air sering",
+      "Perut tidak pernah lapar",
+      "Tidak bisa mencium bau"
+    ],
+    "answer": 1,
+    "explain": "Diare membuat feses cair dan frekuensi buang air meningkat."
+  },
+  {
+    "id": "ip5sas1-10",
+    "q": "Ciri perkembangan fisik pubertas pada anak laki-laki adalah ...",
+    "options": [
+      "Pinggul melebar",
+      "Suara menjadi lebih berat",
+      "Tinggi badan tidak berubah",
+      "Payudara membesar"
+    ],
+    "answer": 1,
+    "explain": "Perubahan pita suara membuat suara anak laki-laki menjadi lebih berat saat pubertas."
+  },
+  {
+    "id": "ip5sas1-11",
+    "q": "Dampak pubertas terhadap kondisi emosional dapat berupa ...",
+    "options": [
+      "Selalu tenang setiap saat",
+      "Mudah berubah suasana hati",
+      "Tidak pernah merasa cemas",
+      "Tidak membutuhkan teman"
+    ],
+    "answer": 1,
+    "explain": "Perubahan hormon membuat remaja sering mengalami perubahan mood."
+  },
+  {
+    "id": "ip5sas1-12",
+    "q": "Nutrisi yang penting untuk pertumbuhan dan perbaikan jaringan tubuh adalah ...",
+    "options": [
+      "Protein",
+      "Air",
+      "Vitamin C",
+      "Serat"
+    ],
+    "answer": 0,
+    "explain": "Protein dibutuhkan untuk membangun dan memperbaiki sel tubuh."
+  },
+  {
+    "id": "ip5sas1-13",
+    "q": "Contoh ekosistem alami adalah ...",
+    "options": [
+      "Akuarium rumah",
+      "Hutan hujan",
+      "Taman kota",
+      "Kolam ikan buatan"
+    ],
+    "answer": 1,
+    "explain": "Hutan hujan terbentuk alami dengan interaksi makhluk hidup dan lingkungannya."
+  },
+  {
+    "id": "ip5sas1-14",
+    "q": "Komponen biotik dalam ekosistem adalah ...",
+    "options": [
+      "Batu dan tanah",
+      "Air dan cahaya",
+      "Tumbuhan dan hewan",
+      "Suhu dan udara"
+    ],
+    "answer": 2,
+    "explain": "Biotik mencakup makhluk hidup seperti tumbuhan dan hewan."
+  },
+  {
+    "id": "ip5sas1-15",
+    "q": "Hubungan saling menguntungkan antara lebah dan bunga disebut ...",
+    "options": [
+      "Parasitisme",
+      "Komensalisme",
+      "Mutualisme",
+      "Predasi"
+    ],
+    "answer": 2,
+    "explain": "Mutualisme memberi keuntungan bagi kedua makhluk, lebah mendapat nektar dan bunga terbantu penyerbukan."
+  },
+  {
+    "id": "ip5sas1-16",
+    "q": "Contoh simbiosis parasitisme adalah ...",
+    "options": [
+      "Ikan remora dan hiu",
+      "Paku sarang burung di pohon",
+      "Benalu pada batang mangga",
+      "Kupu-kupu hinggap di bunga"
+    ],
+    "answer": 2,
+    "explain": "Benalu mengambil nutrisi dari pohon mangga sehingga merugikan inangnya."
+  },
+  {
+    "id": "ip5sas1-17",
+    "q": "Urutan rantai makanan yang benar adalah ...",
+    "options": [
+      "Ular - burung - padi",
+      "Padi - tikus - ular",
+      "Elang - ular - padi",
+      "Tikus - padi - ular"
+    ],
+    "answer": 1,
+    "explain": "Produsen padi dimakan tikus (konsumen I) lalu dimakan ular (konsumen II)."
+  },
+  {
+    "id": "ip5sas1-18",
+    "q": "Alasan energi pada piramida makanan semakin sedikit di puncak adalah karena ...",
+    "options": [
+      "Energi hilang saat terjadi respirasi dan aktivitas hidup",
+      "Produsen menyimpan energi tidak terbatas",
+      "Hewan besar tidak butuh energi",
+      "Energi hanya berasal dari cahaya"
+    ],
+    "answer": 0,
+    "explain": "Sebagian besar energi terpakai untuk aktivitas dan hilang sebagai panas di tiap tingkat trofik."
+  },
+  {
+    "id": "ip5sas1-19",
+    "q": "Kegiatan manusia yang dapat mengganggu keseimbangan ekosistem adalah ...",
+    "options": [
+      "Reboisasi",
+      "Penggunaan pestisida berlebihan",
+      "Menjaga kebersihan sungai",
+      "Menanam pohon bakau"
+    ],
+    "answer": 1,
+    "explain": "Pestisida berlebihan dapat meracuni organisme lain dan merusak rantai makanan."
+  },
+  {
+    "id": "ip5sas1-20",
+    "q": "Langkah manusia untuk memperbaiki ekosistem rusak adalah ...",
+    "options": [
+      "Membuang sampah ke sungai",
+      "Menebang pohon sembarangan",
+      "Melakukan penanaman kembali hutan",
+      "Membakar lahan gambut"
+    ],
+    "answer": 2,
+    "explain": "Reboisasi membantu memulihkan tutupan hijau dan keseimbangan ekosistem."
+  },
+  {
+    "id": "ip5sas1-21",
+    "q": "Tahapan siklus air yang benar adalah ...",
+    "options": [
+      "Presipitasi - evaporasi - kondensasi",
+      "Evaporasi - kondensasi - presipitasi",
+      "Kondensasi - presipitasi - evaporasi",
+      "Presipitasi - kondensasi - evaporasi"
+    ],
+    "answer": 1,
+    "explain": "Air menguap (evaporasi), berubah jadi awan (kondensasi), lalu jatuh sebagai hujan (presipitasi)."
+  },
+  {
+    "id": "ip5sas1-22",
+    "q": "Dampak positif siklus air bagi manusia adalah ...",
+    "options": [
+      "Menambah risiko banjir",
+      "Mengurangi ketersediaan air bersih",
+      "Menjaga ketersediaan air tanah",
+      "Menyebabkan kekeringan panjang"
+    ],
+    "answer": 2,
+    "explain": "Hujan dari siklus air mengisi kembali air tanah yang dibutuhkan manusia."
+  },
+  {
+    "id": "ip5sas1-23",
+    "q": "Upaya menjaga ketersediaan air bersih di rumah adalah ...",
+    "options": [
+      "Membiarkan keran menetes terus",
+      "Menggunakan air seperlunya dan menutup keran rapat",
+      "Membuang limbah ke sungai",
+      "Mencuci kendaraan setiap hari"
+    ],
+    "answer": 1,
+    "explain": "Menghemat penggunaan air dan menutup keran mencegah pemborosan air bersih."
+  },
+  {
+    "id": "ip5sas1-24",
+    "q": "Proses penjernihan air sederhana yang benar adalah ...",
+    "options": [
+      "Pencampuran sabun - penyaringan - pengendapan",
+      "Pengendapan - penyaringan - perebusan",
+      "Penyaringan - pengendapan - pembekuan",
+      "Penguapan - pembakaran - pengendapan"
+    ],
+    "answer": 1,
+    "explain": "Air didiamkan agar kotoran mengendap, disaring, lalu direbus untuk membunuh kuman."
+  },
+  {
+    "id": "ip5sas1-25",
+    "q": "Istilah untuk tinggi rendahnya bunyi disebut ...",
+    "options": [
+      "Frekuensi",
+      "Amplitudo",
+      "Gaung",
+      "Eko"
+    ],
+    "answer": 0,
+    "explain": "Frekuensi menentukan tinggi nada bunyi."
+  },
+  {
+    "id": "ip5sas1-26",
+    "q": "Salah satu sifat bunyi adalah dapat ...",
+    "options": [
+      "Merambat di ruang hampa",
+      "Dipantulkan",
+      "Menghasilkan cahaya",
+      "Menghasilkan angin"
+    ],
+    "answer": 1,
+    "explain": "Bunyi bisa dipantulkan sehingga muncul gema atau gaung."
+  },
+  {
+    "id": "ip5sas1-27",
+    "q": "Bagian telinga yang berfungsi menangkap gelombang bunyi dari luar adalah ...",
+    "options": [
+      "Daun telinga",
+      "Koklea",
+      "Gendang telinga",
+      "Saluran Eustachius"
+    ],
+    "answer": 0,
+    "explain": "Daun telinga mengumpulkan gelombang bunyi dan menyalurkannya ke saluran telinga."
+  },
+  {
+    "id": "ip5sas1-28",
+    "q": "Gendang telinga berada di bagian ...",
+    "options": [
+      "Telinga luar",
+      "Telinga tengah",
+      "Telinga dalam",
+      "Hidung"
+    ],
+    "answer": 1,
+    "explain": "Gendang telinga adalah membran tipis di telinga tengah yang bergetar saat bunyi datang."
+  },
+  {
+    "id": "ip5sas1-29",
+    "q": "Proses terjadinya bunyi hingga kita dengar diawali oleh ...",
+    "options": [
+      "Otak membuat getaran",
+      "Getaran sumber bunyi ditangkap telinga",
+      "Gendang telinga berhenti bergerak",
+      "Udara berubah menjadi cahaya"
+    ],
+    "answer": 1,
+    "explain": "Benda bergetar menghasilkan gelombang bunyi yang ditangkap telinga dan diteruskan ke otak."
+  },
+  {
+    "id": "ip5sas1-30",
+    "q": "Contoh pemanfaatan bunyi dalam kehidupan sehari-hari adalah ...",
+    "options": [
+      "Termometer",
+      "Sonar kapal selam",
+      "Kompensasi cahaya lampu",
+      "Lensa pembesar"
+    ],
+    "answer": 1,
+    "explain": "Sonar menggunakan pantulan bunyi untuk mengetahui kedalaman atau keberadaan benda di bawah air."
+  }
+]

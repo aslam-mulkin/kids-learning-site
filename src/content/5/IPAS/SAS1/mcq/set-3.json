@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ip5sas1-61",
+    "q": "Organ yang paling banyak melakukan pertukaran gas adalah ...",
+    "options": [
+      "Bronkiolus",
+      "Alveolus",
+      "Laring",
+      "Diafragma"
+    ],
+    "answer": 1,
+    "explain": "Alveolus memiliki dinding tipis dan banyak kapiler untuk pertukaran gas."
+  },
+  {
+    "id": "ip5sas1-62",
+    "q": "Masker digunakan untuk ...",
+    "options": [
+      "Menambah polusi udara",
+      "Menahan debu dan kuman masuk saluran napas",
+      "Mempercepat pernapasan",
+      "Menghangatkan kaki"
+    ],
+    "answer": 1,
+    "explain": "Masker menyaring partikel agar tidak masuk ke saluran pernapasan."
+  },
+  {
+    "id": "ip5sas1-63",
+    "q": "Asap rokok sebagai perokok pasif dapat menyebabkan ...",
+    "options": [
+      "Pencernaan lancar",
+      "Iritasi tenggorokan",
+      "Otot lebih kuat",
+      "Hidung lebih tajam"
+    ],
+    "answer": 1,
+    "explain": "Asap rokok mengandung zat iritan yang mengganggu saluran napas."
+  },
+  {
+    "id": "ip5sas1-64",
+    "q": "Enzim yang membantu memecah protein di usus halus adalah ...",
+    "options": [
+      "Tripsin",
+      "Amilase",
+      "Lipase",
+      "Pepsin"
+    ],
+    "answer": 0,
+    "explain": "Tripsin dari pankreas memecah protein di usus halus."
+  },
+  {
+    "id": "ip5sas1-65",
+    "q": "Gangguan sembelit disebabkan oleh ...",
+    "options": [
+      "Kekurangan serat dan air",
+      "Kelebihan olahraga",
+      "Kelebihan oksigen",
+      "Kekurangan lemak"
+    ],
+    "answer": 0,
+    "explain": "Serat dan air membantu feses lebih lunak dan mudah keluar."
+  },
+  {
+    "id": "ip5sas1-66",
+    "q": "Contoh perubahan fisik pubertas pada anak perempuan adalah ...",
+    "options": [
+      "Bahunya melebar",
+      "Pinggul melebar",
+      "Tinggi tidak bertambah",
+      "Suara sangat berat"
+    ],
+    "answer": 1,
+    "explain": "Pinggul melebar adalah salah satu ciri fisik pubertas pada perempuan."
+  },
+  {
+    "id": "ip5sas1-67",
+    "q": "Cara mengelola emosi saat pubertas adalah ...",
+    "options": [
+      "Marah ke semua orang",
+      "Menulis jurnal atau curhat",
+      "Menghindari olahraga",
+      "Tidur sangat larut setiap hari"
+    ],
+    "answer": 1,
+    "explain": "Menulis atau bercerita membantu menyalurkan emosi dengan sehat."
+  },
+  {
+    "id": "ip5sas1-68",
+    "q": "Asupan nutrisi seimbang berarti ...",
+    "options": [
+      "Hanya makan karbohidrat",
+      "Makanan mengandung karbohidrat, protein, lemak, vitamin, mineral, air",
+      "Tidak makan lemak sama sekali",
+      "Hanya makan buah"
+    ],
+    "answer": 1,
+    "explain": "Tubuh membutuhkan semua kelompok zat gizi dalam jumlah seimbang."
+  },
+  {
+    "id": "ip5sas1-69",
+    "q": "Ekosistem rawa termasuk ekosistem ...",
+    "options": [
+      "Air tawar",
+      "Laut",
+      "Gurun",
+      "Hutan kering"
+    ],
+    "answer": 0,
+    "explain": "Rawa adalah ekosistem perairan tawar dengan lahan basah."
+  },
+  {
+    "id": "ip5sas1-70",
+    "q": "Yang bukan komponen biotik adalah ...",
+    "options": [
+      "Bakteri",
+      "Jamur",
+      "Air",
+      "Rumput"
+    ],
+    "answer": 2,
+    "explain": "Air adalah komponen abiotik."
+  },
+  {
+    "id": "ip5sas1-71",
+    "q": "Simbiosis ketika satu pihak untung dan pihak lain rugi disebut ...",
+    "options": [
+      "Mutualisme",
+      "Parasitisme",
+      "Komensalisme",
+      "Netralisme"
+    ],
+    "answer": 1,
+    "explain": "Parasitisme menguntungkan parasit dan merugikan inang."
+  },
+  {
+    "id": "ip5sas1-72",
+    "q": "Contoh pemangsa dalam rantai makanan sawah adalah ...",
+    "options": [
+      "Padi",
+      "Tikus",
+      "Ular",
+      "Belalang"
+    ],
+    "answer": 2,
+    "explain": "Ular memangsa tikus di ekosistem sawah."
+  },
+  {
+    "id": "ip5sas1-73",
+    "q": "Energi yang masuk ke ekosistem berasal dari ...",
+    "options": [
+      "Batuan",
+      "Cahaya matahari",
+      "Tanah liat",
+      "Angin dingin"
+    ],
+    "answer": 1,
+    "explain": "Produsen memanfaatkan energi matahari untuk fotosintesis."
+  },
+  {
+    "id": "ip5sas1-74",
+    "q": "Perilaku manusia yang menjaga ekosistem sungai adalah ...",
+    "options": [
+      "Membuang oli ke sungai",
+      "Menangkap ikan dengan racun",
+      "Tidak membuang sampah dan menanam pohon di bantaran",
+      "Menebar plastik di air"
+    ],
+    "answer": 2,
+    "explain": "Menjaga kebersihan dan menanam pohon mempertahankan kualitas ekosistem sungai."
+  },
+  {
+    "id": "ip5sas1-75",
+    "q": "Tahap presipitasi dalam siklus air adalah ...",
+    "options": [
+      "Air berubah jadi uap",
+      "Uap air menjadi awan",
+      "Awan menjadi hujan atau salju",
+      "Air tanah mengalir ke laut"
+    ],
+    "answer": 2,
+    "explain": "Presipitasi adalah turunnya hujan/salju dari awan."
+  },
+  {
+    "id": "ip5sas1-76",
+    "q": "Dampak negatif penggundulan hutan terhadap siklus air adalah ...",
+    "options": [
+      "Infiltrasi air meningkat",
+      "Air larian permukaan meningkat",
+      "Air tanah bertambah",
+      "Hujan berhenti total"
+    ],
+    "answer": 1,
+    "explain": "Tanpa pohon, air lebih banyak lari di permukaan sehingga erosi dan banjir meningkat."
+  },
+  {
+    "id": "ip5sas1-77",
+    "q": "Cara menjaga ketersediaan air di sekolah adalah ...",
+    "options": [
+      "Menutup keran setelah dipakai",
+      "Membiarkan toilet bocor",
+      "Mencuci halaman dengan air berlebih",
+      "Membuang sampah ke selokan"
+    ],
+    "answer": 0,
+    "explain": "Menutup keran mencegah pemborosan air."
+  },
+  {
+    "id": "ip5sas1-78",
+    "q": "Langkah terakhir penjernihan air sederhana di rumah adalah ...",
+    "options": [
+      "Perebusan",
+      "Pengendapan",
+      "Penyaringan",
+      "Penggilingan"
+    ],
+    "answer": 0,
+    "explain": "Setelah disaring, air direbus untuk membunuh kuman."
+  },
+  {
+    "id": "ip5sas1-79",
+    "q": "Sifat bunyi yang membuat kita bisa membedakan suara tipis dan tebal disebut ...",
+    "options": [
+      "Frekuensi",
+      "Cepat rambat",
+      "Energi",
+      "Warna"
+    ],
+    "answer": 0,
+    "explain": "Frekuensi menentukan tinggi rendah nada."
+  },
+  {
+    "id": "ip5sas1-80",
+    "q": "Bunyi dapat dipantulkan pada ...",
+    "options": [
+      "Permukaan keras seperti dinding",
+      "Ruang hampa",
+      "Permukaan sangat lunak",
+      "Hanya pada kaca tipis"
+    ],
+    "answer": 0,
+    "explain": "Permukaan keras memantulkan bunyi sehingga muncul gema."
+  },
+  {
+    "id": "ip5sas1-81",
+    "q": "Bagian telinga yang mengubah getaran menjadi impuls saraf adalah ...",
+    "options": [
+      "Koklea",
+      "Daun telinga",
+      "Tulang sanggurdi",
+      "Saluran Eustachius"
+    ],
+    "answer": 0,
+    "explain": "Sel rambut di koklea mengubah getaran menjadi sinyal saraf."
+  },
+  {
+    "id": "ip5sas1-82",
+    "q": "Gendang telinga rusak dapat menyebabkan ...",
+    "options": [
+      "Pendengaran terganggu",
+      "Penciuman menurun",
+      "Penglihatan kabur",
+      "Kulit mengelupas"
+    ],
+    "answer": 0,
+    "explain": "Gendang telinga penting untuk menangkap getaran bunyi."
+  },
+  {
+    "id": "ip5sas1-83",
+    "q": "Pemanfaatan bunyi pantul dalam bidang kesehatan adalah ...",
+    "options": [
+      "USG",
+      "Thermometer",
+      "Mikroskop",
+      "Timbangan"
+    ],
+    "answer": 0,
+    "explain": "USG menggunakan gelombang ultrasonik dan pantulannya untuk melihat organ dalam."
+  },
+  {
+    "id": "ip5sas1-84",
+    "q": "Zat gizi yang menjadi sumber energi utama tubuh adalah ...",
+    "options": [
+      "Karbohidrat",
+      "Vitamin",
+      "Mineral",
+      "Air"
+    ],
+    "answer": 0,
+    "explain": "Karbohidrat mudah diubah menjadi energi."
+  },
+  {
+    "id": "ip5sas1-85",
+    "q": "Organ yang menyaring udara sebelum masuk paru-paru adalah ...",
+    "options": [
+      "Hidung",
+      "Jantung",
+      "Lambung",
+      "Ginjal"
+    ],
+    "answer": 0,
+    "explain": "Rambut halus dan lendir di hidung menyaring debu."
+  },
+  {
+    "id": "ip5sas1-86",
+    "q": "Protein dibutuhkan tubuh terutama untuk ...",
+    "options": [
+      "Sumber energi utama",
+      "Membangun dan memperbaiki jaringan",
+      "Membuat tulang jadi lembek",
+      "Menahan panas"
+    ],
+    "answer": 1,
+    "explain": "Protein adalah bahan pembentuk dan perbaikan jaringan tubuh."
+  },
+  {
+    "id": "ip5sas1-87",
+    "q": "Hubungan makhluk hidup saling memakan disebut ...",
+    "options": [
+      "Jaring makanan",
+      "Simbiotik",
+      "Erosi",
+      "Difusi"
+    ],
+    "answer": 0,
+    "explain": "Rantai makanan saling terhubung membentuk jaring makanan."
+  },
+  {
+    "id": "ip5sas1-88",
+    "q": "Kegiatan yang membantu mengurangi polusi udara di kota adalah ...",
+    "options": [
+      "Menggunakan kendaraan umum",
+      "Membakar sampah setiap hari",
+      "Menggunakan knalpot bising",
+      "Menebang pohon sembarangan"
+    ],
+    "answer": 0,
+    "explain": "Transportasi umum mengurangi jumlah kendaraan dan emisi polutan."
+  },
+  {
+    "id": "ip5sas1-89",
+    "q": "Peran diafragma saat kita menarik napas adalah ...",
+    "options": [
+      "Mengempis ke atas",
+      "Menegang lalu bergerak ke bawah",
+      "Menutup hidung",
+      "Memompa darah"
+    ],
+    "answer": 1,
+    "explain": "Diafragma bergerak turun memperbesar rongga dada sehingga udara masuk."
+  },
+  {
+    "id": "ip5sas1-90",
+    "q": "Bagian telinga tengah yang memperkuat getaran bunyi adalah ...",
+    "options": [
+      "Tiga tulang pendengaran",
+      "Saluran telinga",
+      "Koklea",
+      "Daun telinga"
+    ],
+    "answer": 0,
+    "explain": "Maleus, inkus, dan stapes memperkuat dan meneruskan getaran ke telinga dalam."
+  }
+]

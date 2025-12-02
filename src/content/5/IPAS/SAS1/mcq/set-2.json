@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ip5sas1-31",
+    "q": "Organ yang berfungsi mengatur naik turunnya rongga dada saat bernapas adalah ...",
+    "options": [
+      "Alveolus",
+      "Diafragma",
+      "Bronkus",
+      "Laring"
+    ],
+    "answer": 1,
+    "explain": "Diafragma berkontraksi dan relaksasi untuk mengubah volume rongga dada."
+  },
+  {
+    "id": "ip5sas1-32",
+    "q": "Kebiasaan yang membantu menjaga kesehatan paru-paru adalah ...",
+    "options": [
+      "Sering menghirup asap kendaraan",
+      "Olahraga teratur di udara bersih",
+      "Begadang sambil merokok",
+      "Membakar sampah plastik"
+    ],
+    "answer": 1,
+    "explain": "Olahraga di udara bersih meningkatkan kapasitas paru dan menjaga kebersihan udara yang dihirup."
+  },
+  {
+    "id": "ip5sas1-33",
+    "q": "Kerusakan hutan yang menyebabkan banyak debu dan asap dapat menimbulkan ...",
+    "options": [
+      "Paru-paru lebih kuat",
+      "Iritasi saluran napas",
+      "Oksigen bertambah",
+      "Hidung lebih wangi"
+    ],
+    "answer": 1,
+    "explain": "Debu dan asap dari kerusakan hutan mengiritasi saluran pernapasan."
+  },
+  {
+    "id": "ip5sas1-34",
+    "q": "Enzim lipase berfungsi memecah ...",
+    "options": [
+      "Protein menjadi asam amino",
+      "Lemak menjadi asam lemak dan gliserol",
+      "Pati menjadi glukosa",
+      "Vitamin menjadi energi"
+    ],
+    "answer": 1,
+    "explain": "Lipase adalah enzim pencernaan lemak."
+  },
+  {
+    "id": "ip5sas1-35",
+    "q": "Gangguan pencernaan maag terjadi karena ...",
+    "options": [
+      "Kekurangan air",
+      "Kelebihan asam lambung",
+      "Kelebihan oksigen",
+      "Kekurangan karbohidrat"
+    ],
+    "answer": 1,
+    "explain": "Maag disebabkan asam lambung berlebih yang mengiritasi dinding lambung."
+  },
+  {
+    "id": "ip5sas1-36",
+    "q": "Perubahan yang wajar pada masa pubertas adalah ...",
+    "options": [
+      "Tinggi badan tetap",
+      "Muncul jerawat",
+      "Tidak pernah berkeringat",
+      "Rambut rontok habis"
+    ],
+    "answer": 1,
+    "explain": "Perubahan hormon dapat memicu jerawat pada masa pubertas."
+  },
+  {
+    "id": "ip5sas1-37",
+    "q": "Cara menjaga kesehatan mental saat pubertas adalah ...",
+    "options": [
+      "Memendam semua perasaan sendiri",
+      "Berbagi cerita dengan orang tua atau teman",
+      "Menghindari tidur malam",
+      "Tidak mau bergaul"
+    ],
+    "answer": 1,
+    "explain": "Berbagi cerita membantu mengelola emosi dan mendapat dukungan."
+  },
+  {
+    "id": "ip5sas1-38",
+    "q": "Vitamin D penting untuk ...",
+    "options": [
+      "Membentuk sel darah putih",
+      "Membantu penyerapan kalsium",
+      "Menjaga tekanan darah",
+      "Membentuk hemoglobin"
+    ],
+    "answer": 1,
+    "explain": "Vitamin D membantu tubuh menyerap kalsium untuk tulang."
+  },
+  {
+    "id": "ip5sas1-39",
+    "q": "Contoh ekosistem buatan adalah ...",
+    "options": [
+      "Danau alami",
+      "Akuarium sekolah",
+      "Hutan bakau",
+      "Padang rumput"
+    ],
+    "answer": 1,
+    "explain": "Akuarium dibuat manusia untuk memelihara organisme air."
+  },
+  {
+    "id": "ip5sas1-40",
+    "q": "Yang termasuk komponen abiotik adalah ...",
+    "options": [
+      "Ikan",
+      "Pohon",
+      "Air",
+      "Serigala"
+    ],
+    "answer": 2,
+    "explain": "Abiotik adalah faktor tak hidup seperti air, cahaya, suhu."
+  },
+  {
+    "id": "ip5sas1-41",
+    "q": "Hubungan jamur pada akar tanaman yang saling menguntungkan disebut ...",
+    "options": [
+      "Mutualisme",
+      "Parasitisme",
+      "Kompetisi",
+      "Predasi"
+    ],
+    "answer": 0,
+    "explain": "Jamur membantu penyerapan air, tanaman memberi makanan sehingga saling untung."
+  },
+  {
+    "id": "ip5sas1-42",
+    "q": "Contoh simbiosis komensalisme adalah ...",
+    "options": [
+      "Kerbau dan burung jalak",
+      "Benalu dan mangga",
+      "Nyamuk dan manusia",
+      "Harimau dan kijang"
+    ],
+    "answer": 0,
+    "explain": "Burung jalak mendapat makan, kerbau tidak dirugikan maupun diuntungkan."
+  },
+  {
+    "id": "ip5sas1-43",
+    "q": "Produsen dalam rantai makanan adalah ...",
+    "options": [
+      "Rumput",
+      "Ayam",
+      "Ular",
+      "Elang"
+    ],
+    "answer": 0,
+    "explain": "Produsen membuat makanan sendiri, seperti tumbuhan berfotosintesis."
+  },
+  {
+    "id": "ip5sas1-44",
+    "q": "Penyebab utama energi mengecil di setiap tingkat trofik adalah ...",
+    "options": [
+      "Energi disimpan selamanya",
+      "Hilang sebagai panas saat makhluk hidup beraktivitas",
+      "Bertambah saat berpindah",
+      "Dihasilkan ulang oleh konsumen"
+    ],
+    "answer": 1,
+    "explain": "Energi dipakai untuk gerak, pertumbuhan, dan dilepas sebagai panas."
+  },
+  {
+    "id": "ip5sas1-45",
+    "q": "Faktor manusia yang merusak keseimbangan ekosistem laut adalah ...",
+    "options": [
+      "Menangkap ikan secukupnya",
+      "Membuang sampah plastik ke laut",
+      "Menanam terumbu buatan",
+      "Menjaga pantai tetap bersih"
+    ],
+    "answer": 1,
+    "explain": "Sampah plastik mencemari laut dan membahayakan biota."
+  },
+  {
+    "id": "ip5sas1-46",
+    "q": "Salah satu upaya menjaga keseimbangan ekosistem hutan adalah ...",
+    "options": [
+      "Berburu satwa langka",
+      "Melakukan tebang pilih",
+      "Membakar semak sembarangan",
+      "Membuang limbah ke sungai"
+    ],
+    "answer": 1,
+    "explain": "Tebang pilih menjaga regenerasi pohon dan kelestarian hutan."
+  },
+  {
+    "id": "ip5sas1-47",
+    "q": "Tahapan kondensasi pada siklus air berarti ...",
+    "options": [
+      "Air menguap karena panas",
+      "Uap air berubah menjadi titik-titik air",
+      "Air tanah bergerak ke laut",
+      "Air diserap tumbuhan"
+    ],
+    "answer": 1,
+    "explain": "Kondensasi adalah perubahan uap air menjadi awan berupa titik air kecil."
+  },
+  {
+    "id": "ip5sas1-48",
+    "q": "Dampak negatif siklus air jika hutan gundul adalah ...",
+    "options": [
+      "Hujan turun merata",
+      "Air tanah stabil",
+      "Risiko banjir meningkat",
+      "Ketersediaan air tetap"
+    ],
+    "answer": 2,
+    "explain": "Tanpa pohon, air hujan tidak terserap sehingga banjir lebih mudah terjadi."
+  },
+  {
+    "id": "ip5sas1-49",
+    "q": "Cara sederhana menghemat air di rumah adalah ...",
+    "options": [
+      "Mandi dengan shower singkat",
+      "Mencuci mobil setiap hari",
+      "Mengalirkan keran terus",
+      "Membuang air hujan"
+    ],
+    "answer": 0,
+    "explain": "Mandi dengan shower singkat mengurangi pemakaian air."
+  },
+  {
+    "id": "ip5sas1-50",
+    "q": "Tahap awal penjernihan air kotor adalah ...",
+    "options": [
+      "Perebusan",
+      "Pengendapan",
+      "Penggaraman",
+      "Pembekuan"
+    ],
+    "answer": 1,
+    "explain": "Air didiamkan agar kotoran berat mengendap sebelum disaring."
+  },
+  {
+    "id": "ip5sas1-51",
+    "q": "Bunyi disebut gaung jika ...",
+    "options": [
+      "Pantulannya jelas dan terlambat",
+      "Pantulannya tumpang tindih dengan bunyi asli",
+      "Tidak ada pantulan",
+      "Tidak terdengar sama sekali"
+    ],
+    "answer": 1,
+    "explain": "Gaung terjadi ketika pantulan datang hampir bersamaan dengan bunyi asli."
+  },
+  {
+    "id": "ip5sas1-52",
+    "q": "Gelombang bunyi termasuk gelombang ...",
+    "options": [
+      "Transversal tanpa medium",
+      "Longitudinal memerlukan medium",
+      "Elektromagnetik di ruang hampa",
+      "Cahaya tampak"
+    ],
+    "answer": 1,
+    "explain": "Bunyi merambat longitudinal dan butuh medium seperti udara atau air."
+  },
+  {
+    "id": "ip5sas1-53",
+    "q": "Bagian telinga dalam yang berisi cairan dan rambut getar adalah ...",
+    "options": [
+      "Daun telinga",
+      "Koklea",
+      "Gendang telinga",
+      "Maleus"
+    ],
+    "answer": 1,
+    "explain": "Koklea berisi cairan dan sel rambut yang menerjemahkan getaran menjadi sinyal saraf."
+  },
+  {
+    "id": "ip5sas1-54",
+    "q": "Fungsi saluran Eustachius adalah ...",
+    "options": [
+      "Meneruskan getaran ke otak",
+      "Menyeimbangkan tekanan udara pada telinga tengah",
+      "Menangkap gelombang bunyi",
+      "Menghasilkan keringat"
+    ],
+    "answer": 1,
+    "explain": "Saluran Eustachius menjaga tekanan telinga tengah sama dengan tekanan luar."
+  },
+  {
+    "id": "ip5sas1-55",
+    "q": "Bunyi sirene ambulans dimanfaatkan untuk ...",
+    "options": [
+      "Menghasilkan listrik",
+      "Memberi tanda kendaraan darurat",
+      "Menarik perhatian hewan",
+      "Mengukur suhu"
+    ],
+    "answer": 1,
+    "explain": "Sirene memberi peringatan agar pengguna jalan memberi jalan."
+  },
+  {
+    "id": "ip5sas1-56",
+    "q": "Agar enzim bekerja optimal, pencernaan memerlukan ...",
+    "options": [
+      "Suhu dan pH yang sesuai",
+      "Tekanan tinggi",
+      "Cahaya matahari langsung",
+      "Udara kering"
+    ],
+    "answer": 0,
+    "explain": "Enzim aktif pada rentang suhu dan pH tertentu, misalnya pepsin pada pH asam."
+  },
+  {
+    "id": "ip5sas1-57",
+    "q": "Kebiasaan makan terburu-buru dapat menyebabkan ...",
+    "options": [
+      "Pencernaan lebih baik",
+      "Perut terasa kembung",
+      "Energi bertambah",
+      "Nafsu makan turun drastis"
+    ],
+    "answer": 1,
+    "explain": "Menelan udara dan kurang mengunyah membuat perut kembung dan pencernaan kurang baik."
+  },
+  {
+    "id": "ip5sas1-58",
+    "q": "Perubahan sosial pada masa pubertas salah satunya adalah ...",
+    "options": [
+      "Tidak ingin berteman",
+      "Mulai peduli penampilan dan relasi",
+      "Tidak butuh keluarga",
+      "Enggan beraktivitas"
+    ],
+    "answer": 1,
+    "explain": "Remaja mulai peduli penampilan dan mencari dukungan teman sebaya."
+  },
+  {
+    "id": "ip5sas1-59",
+    "q": "Mineral yang penting untuk pembentukan tulang adalah ...",
+    "options": [
+      "Kalsium",
+      "Natrium",
+      "Klorida",
+      "Besi"
+    ],
+    "answer": 0,
+    "explain": "Kalsium bersama vitamin D penting untuk kekuatan tulang."
+  },
+  {
+    "id": "ip5sas1-60",
+    "q": "Ciri khas alveolus yang memudahkan pertukaran gas adalah ...",
+    "options": [
+      "Dinding tebal dan keras",
+      "Permukaan luas dan dinding tipis",
+      "Tidak memiliki pembuluh darah",
+      "Berisi enzim pencernaan"
+    ],
+    "answer": 1,
+    "explain": "Permukaan luas dan dinding tipis memudahkan difusi oksigen dan karbon dioksida."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ip5sas1-91",
+    "q": "Proses keluar masuk udara di paru-paru disebut ...",
+    "options": [
+      "Fotosintesis",
+      "Respirasi eksternal",
+      "Sirkulasi darah",
+      "Difusi air"
+    ],
+    "answer": 1,
+    "explain": "Respirasi eksternal adalah pertukaran udara antara lingkungan dan paru-paru."
+  },
+  {
+    "id": "ip5sas1-92",
+    "q": "Jika hidung tersumbat, udara dapat masuk melalui ...",
+    "options": [
+      "Mulut",
+      "Telinga",
+      "Mata",
+      "Kulit"
+    ],
+    "answer": 0,
+    "explain": "Mulut dapat menjadi jalur alternatif udara ke saluran pernapasan."
+  },
+  {
+    "id": "ip5sas1-93",
+    "q": "Kebiasaan menutup hidung saat berkendara di daerah berdebu bertujuan ...",
+    "options": [
+      "Menghirup lebih banyak debu",
+      "Mengurangi paparan partikel berbahaya",
+      "Memperkuat paru-paru",
+      "Menambah oksigen"
+    ],
+    "answer": 1,
+    "explain": "Menutup hidung mengurangi partikel debu masuk ke saluran napas."
+  },
+  {
+    "id": "ip5sas1-94",
+    "q": "Enzim yang bekerja di mulut untuk memecah karbohidrat adalah ...",
+    "options": [
+      "Pepsin",
+      "Tripsin",
+      "Amilase",
+      "Lipase"
+    ],
+    "answer": 2,
+    "explain": "Amilase ludah mengawali pemecahan pati di mulut."
+  },
+  {
+    "id": "ip5sas1-95",
+    "q": "Sakit perut disertai mual dan muntah bisa menandakan ...",
+    "options": [
+      "Pencernaan sangat lancar",
+      "Gangguan lambung",
+      "Kekurangan oksigen",
+      "Pendengaran terganggu"
+    ],
+    "answer": 1,
+    "explain": "Peradangan atau iritasi lambung dapat menyebabkan mual dan muntah."
+  },
+  {
+    "id": "ip5sas1-96",
+    "q": "Perubahan suara menjadi lebih berat pada laki-laki saat pubertas karena ...",
+    "options": [
+      "Pita suara memendek",
+      "Pita suara memanjang dan menebal",
+      "Hidung mengecil",
+      "Telinga membesar"
+    ],
+    "answer": 1,
+    "explain": "Pita suara memanjang dan menebal sehingga suara lebih berat."
+  },
+  {
+    "id": "ip5sas1-97",
+    "q": "Untuk mendukung pertumbuhan, anak usia pubertas sebaiknya ...",
+    "options": [
+      "Sarapan diabaikan",
+      "Konsumsi makanan bergizi seimbang",
+      "Menghindari sayur",
+      "Hanya makan mi instan"
+    ],
+    "answer": 1,
+    "explain": "Gizi seimbang memberi energi dan bahan pembangun bagi pertumbuhan."
+  },
+  {
+    "id": "ip5sas1-98",
+    "q": "Ekosistem padang rumput memiliki konsumen utama ...",
+      "options": [
+      "Kelinci dan rusa",
+      "Harimau dan elang",
+      "Padi dan jagung",
+      "Terumbu karang"
+    ],
+    "answer": 0,
+    "explain": "Herbivor seperti kelinci dan rusa memakan rumput sebagai konsumen pertama."
+  },
+  {
+    "id": "ip5sas1-99",
+    "q": "Komponen abiotik yang memengaruhi fotosintesis adalah ...",
+    "options": [
+      "Cahaya matahari",
+      "Hewan predator",
+      "Jamur",
+      "Bakteri"
+    ],
+    "answer": 0,
+    "explain": "Cahaya merupakan faktor abiotik penting untuk fotosintesis."
+  },
+  {
+    "id": "ip5sas1-100",
+    "q": "Simbiosis parasitisme yang merugikan hewan ternak adalah ...",
+    "options": [
+      "Lumut kerak di batu",
+      "Kutu pada kambing",
+      "Kupu-kupu di bunga",
+      "Ikan kecil di terumbu"
+    ],
+    "answer": 1,
+    "explain": "Kutu mengambil darah kambing dan menurunkan kesehatannya."
+  },
+  {
+    "id": "ip5sas1-101",
+    "q": "Contoh rantai makanan di laut yang benar adalah ...",
+    "options": [
+      "Fitoplankton - ikan kecil - ikan besar",
+      "Ikan besar - ikan kecil - fitoplankton",
+      "Rumput laut - kepiting - plankton",
+      "Pasir - ikan - alga"
+    ],
+    "answer": 0,
+    "explain": "Fitoplankton sebagai produsen dimakan ikan kecil lalu dimakan ikan besar."
+  },
+  {
+    "id": "ip5sas1-102",
+    "q": "Energi pada jaring-jaring makanan berpindah melalui ...",
+    "options": [
+      "Proses makan dan dimakan",
+      "Hujan deras",
+      "Gaya magnet",
+      "Gelombang radio"
+    ],
+    "answer": 0,
+    "explain": "Energi berpindah ketika satu organisme memakan organisme lain."
+  },
+  {
+    "id": "ip5sas1-103",
+    "q": "Kegiatan manusia yang membantu memulihkan ekosistem adalah ...",
+    "options": [
+      "Membuang limbah pabrik ke sungai",
+      "Reboisasi dan penghijauan",
+      "Penangkapan ikan dengan bom",
+      "Pembakaran hutan"
+    ],
+    "answer": 1,
+    "explain": "Reboisasi mengembalikan fungsi hutan dan menyeimbangkan ekosistem."
+  },
+  {
+    "id": "ip5sas1-104",
+    "q": "Tahap evaporasi pada siklus air terjadi saat ...",
+    "options": [
+      "Air hujan meresap ke tanah",
+      "Air berubah menjadi uap karena panas matahari",
+      "Uap air menjadi awan",
+      "Awan menjadi salju"
+    ],
+    "answer": 1,
+    "explain": "Panas matahari membuat air menguap ke atmosfer."
+  },
+  {
+    "id": "ip5sas1-105",
+    "q": "Dampak positif siklus air bagi pertanian adalah ...",
+    "options": [
+      "Mengurangi air tanah",
+      "Memberi pasokan hujan untuk tanaman",
+      "Menambah salinitas tanah",
+      "Mencairkan pupuk"
+    ],
+    "answer": 1,
+    "explain": "Hujan dari siklus air menyuplai air bagi tanaman pertanian."
+  },
+  {
+    "id": "ip5sas1-106",
+    "q": "Upaya menghemat air saat menyiram tanaman adalah ...",
+    "options": [
+      "Menyiram di siang terik",
+      "Menggunakan air bekas cucian yang bersih untuk tanaman non pangan",
+      "Mengalirkan selang terus menerus",
+      "Menyiram dengan air berlebihan"
+    ],
+    "answer": 1,
+    "explain": "Air bekas cucian yang tidak mengandung deterjen keras dapat dipakai ulang untuk tanaman hias."
+  },
+  {
+    "id": "ip5sas1-107",
+    "q": "Tahap awal penjernihan air di alam yang sering digunakan adalah ...",
+    "options": [
+      "Filtrasi alami lewat pasir",
+      "Penambahan asap",
+      "Pembakaran air",
+      "Pendinginan cepat"
+    ],
+    "answer": 0,
+    "explain": "Air meresap melalui pasir dan kerikil untuk menyaring kotoran."
+  },
+  {
+    "id": "ip5sas1-108",
+    "q": "Bunyi tidak dapat merambat melalui ...",
+    "options": [
+      "Air",
+      "Kayu",
+      "Ruang hampa",
+      "Udara"
+    ],
+    "answer": 2,
+    "explain": "Bunyi memerlukan medium, ruang hampa tidak memiliki partikel perambat."
+  },
+  {
+    "id": "ip5sas1-109",
+    "q": "Contoh pemanfaatan bunyi dalam teknologi transportasi laut adalah ...",
+    "options": [
+      "Gema di gua",
+      "Sirene mobil",
+      "Sonar kapal selam",
+      "Lampu lalu lintas"
+    ],
+    "answer": 2,
+    "explain": "Sonar menggunakan pantulan gelombang bunyi untuk mendeteksi benda di bawah air."
+  },
+  {
+    "id": "ip5sas1-110",
+    "q": "Bagian telinga yang menghubungkan telinga luar dan gendang telinga adalah ...",
+    "options": [
+      "Saluran telinga",
+      "Koklea",
+      "Tulang sanggurdi",
+      "Daun telinga"
+    ],
+    "answer": 0,
+    "explain": "Saluran telinga membawa gelombang bunyi ke gendang telinga."
+  },
+  {
+    "id": "ip5sas1-111",
+    "q": "Perlindungan terhadap gendang telinga dapat dilakukan dengan ...",
+    "options": [
+      "Mendengar musik sangat keras",
+      "Menggunakan earplug di tempat bising",
+      "Memasukkan benda tajam ke telinga",
+      "Menyemprotkan parfum ke telinga"
+    ],
+    "answer": 1,
+    "explain": "Earplug mengurangi intensitas bunyi bising yang bisa merusak gendang telinga."
+  },
+  {
+    "id": "ip5sas1-112",
+    "q": "Gelombang bunyi pada udara termasuk gelombang ...",
+    "options": [
+      "Elektromagnetik",
+      "Longitudinal",
+      "Transversal tanpa medium",
+      "Gamma"
+    ],
+    "answer": 1,
+    "explain": "Bunyi merambat sebagai rapatan dan renggangan partikel udara (longitudinal)."
+  },
+  {
+    "id": "ip5sas1-113",
+    "q": "Kebutuhan zat besi pada masa pubertas penting untuk ...",
+    "options": [
+      "Membentuk hemoglobin darah",
+      "Membuat suara berat",
+      "Menambah tinggi badan instan",
+      "Mengurangi nafsu makan"
+    ],
+    "answer": 0,
+    "explain": "Zat besi membantu pembentukan hemoglobin yang mengangkut oksigen."
+  },
+  {
+    "id": "ip5sas1-114",
+    "q": "Kebiasaan yang dapat menimbulkan karies gigi dan mengganggu pencernaan adalah ...",
+    "options": [
+      "Menyikat gigi sebelum tidur",
+      "Sering mengonsumsi makanan manis tanpa membersihkan gigi",
+      "Makan buah dan sayur",
+      "Minum air putih cukup"
+    ],
+    "answer": 1,
+    "explain": "Gula yang menempel di gigi memicu karies dan memengaruhi pencernaan awal di mulut."
+  },
+  {
+    "id": "ip5sas1-115",
+    "q": "Hewan predator puncak pada rantai makanan hutan dapat berupa ...",
+    "options": [
+      "Rumput",
+      "Kelinci",
+      "Harimau",
+      "Jamur"
+    ],
+    "answer": 2,
+    "explain": "Harimau berada di puncak rantai makanan sebagai predator utama."
+  },
+  {
+    "id": "ip5sas1-116",
+    "q": "Karena energi berkurang di tiap tingkat trofik, jumlah predator puncak biasanya ...",
+    "options": [
+      "Lebih banyak dari produsen",
+      "Lebih sedikit dari produsen",
+      "Sama banyak dengan produsen",
+      "Tidak terpengaruh energi"
+    ],
+    "answer": 1,
+    "explain": "Energi yang tersedia sedikit di puncak, sehingga jumlah predator puncak lebih sedikit."
+  },
+  {
+    "id": "ip5sas1-117",
+    "q": "Hujan asam akibat polusi dapat memengaruhi ekosistem dengan ...",
+    "options": [
+      "Menetralkan air sungai",
+      "Meningkatkan kesuburan tanah ekstrem",
+      "Merusak daun tumbuhan dan menurunkan pH tanah",
+      "Meningkatkan oksigen di udara"
+    ],
+    "answer": 2,
+    "explain": "Hujan asam merusak jaringan tumbuhan dan mengasamkan tanah serta perairan."
+  },
+  {
+    "id": "ip5sas1-118",
+    "q": "Contoh pemanfaatan bunyi untuk keamanan rumah adalah ...",
+    "options": [
+      "Alarm pintu berbunyi saat dibuka",
+      "Lampu taman",
+      "Kipas angin",
+      "Termometer"
+    ],
+    "answer": 0,
+    "explain": "Alarm berbunyi memberi peringatan jika pintu dibuka."
+  },
+  {
+    "id": "ip5sas1-119",
+    "q": "Serat makanan penting untuk ...",
+    "options": [
+      "Menyerap semua vitamin",
+      "Memperlancar gerak usus",
+      "Menambah asam lambung",
+      "Mengubah protein jadi lemak"
+    ],
+    "answer": 1,
+    "explain": "Serat membantu peristaltik usus dan mencegah sembelit."
+  },
+  {
+    "id": "ip5sas1-120",
+    "q": "Pada siklus air, air yang terserap tanaman dan dikeluarkan kembali ke udara disebut ...",
+    "options": [
+      "Evaporasi",
+      "Kondensasi",
+      "Transpirasi",
+      "Presipitasi"
+    ],
+    "answer": 2,
+    "explain": "Transpirasi adalah pelepasan uap air dari daun ke atmosfer."
+  }
+]

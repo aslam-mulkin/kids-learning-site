@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mtk2sas1-51",
+    "q": "Di meja ada 6 kue cokelat dan 5 kue stroberi. Banyak kue seluruhnya ...",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "13"
+    ],
+    "answer": 0,
+    "explain": "6 + 5 = 11 kue."
+  },
+  {
+    "id": "mtk2sas1-52",
+    "q": "Bilangan 39 memiliki angka puluhan ...",
+    "options": [
+      "9",
+      "3",
+      "30",
+      "90"
+    ],
+    "answer": 1,
+    "explain": "Digit puluhan pada 39 adalah 3."
+  },
+  {
+    "id": "mtk2sas1-53",
+    "q": "Nilai tempat satuan dari 71 adalah ...",
+    "options": [
+      "10",
+      "7",
+      "1",
+      "70"
+    ],
+    "answer": 2,
+    "explain": "Digit satuan di 71 adalah 1."
+  },
+  {
+    "id": "mtk2sas1-54",
+    "q": "Bandingkan 42 dan 24.",
+    "options": [
+      "42 dua kali 24",
+      "42 kurang dari 24",
+      "42 sama dengan 24",
+      "42 lebih dari 24"
+    ],
+    "answer": 3,
+    "explain": "42 > 24."
+  },
+  {
+    "id": "mtk2sas1-55",
+    "q": "Bangun datar yang memiliki 3 sisi datar adalah ...",
+    "options": [
+      "Segitiga",
+      "Persegi",
+      "Lingkaran",
+      "Jajar genjang"
+    ],
+    "answer": 0,
+    "explain": "Segitiga terdiri dari tiga sisi datar."
+  },
+  {
+    "id": "mtk2sas1-56",
+    "q": "Benda yang termasuk lingkaran dari gambar mainan adalah ...",
+    "options": [
+      "Balok kayu",
+      "Roda sepeda",
+      "Buku",
+      "Kotak tisu"
+    ],
+    "answer": 1,
+    "explain": "Roda berbentuk lingkaran."
+  },
+  {
+    "id": "mtk2sas1-57",
+    "q": "Bangun datar dengan sisi datar dan tidak memiliki sudut siku-siku adalah ...",
+    "options": [
+      "Trapesium siku-siku",
+      "Lingkaran",
+      "Belah ketupat",
+      "Kubus"
+    ],
+    "answer": 2,
+    "explain": "Belah ketupat bersisi datar tetapi sudutnya tidak harus siku-siku."
+  },
+  {
+    "id": "mtk2sas1-58",
+    "q": "Bangun datar sisi lengkung yang terkenal adalah ...",
+    "options": [
+      "Segi enam",
+      "Segitiga",
+      "Persegi panjang",
+      "Lingkaran"
+    ],
+    "answer": 3,
+    "explain": "Lingkaran memiliki sisi lengkung."
+  },
+  {
+    "id": "mtk2sas1-59",
+    "q": "Persegi panjang dapat diurai menjadi ...",
+    "options": [
+      "Dua segitiga sama besar",
+      "Dua lingkaran",
+      "Empat segitiga sembarang",
+      "Satu trapesium"
+    ],
+    "answer": 0,
+    "explain": "Potong diagonal menghasilkan dua segitiga kongruen."
+  },
+  {
+    "id": "mtk2sas1-60",
+    "q": "Nama benda bentuk tabung pada gambar dapur adalah ...",
+    "options": [
+      "Dadu",
+      "Kaleng susu",
+      "Kerucut es",
+      "Bola basket"
+    ],
+    "answer": 1,
+    "explain": "Kaleng susu berbentuk tabung."
+  },
+  {
+    "id": "mtk2sas1-61",
+    "q": "Benda bentuk balok sesuai petunjuk adalah ...",
+    "options": [
+      "Mangkok",
+      "Bola tenis",
+      "Lemari es",
+      "Topi kerucut"
+    ],
+    "answer": 2,
+    "explain": "Lemari es biasanya berbentuk balok."
+  },
+  {
+    "id": "mtk2sas1-62",
+    "q": "Pilih dua benda berbentuk tabung.",
+    "options": [
+      "Topi dan bantal",
+      "Bola dan dadu",
+      "Kotak sepatu dan buku",
+      "Kaleng dan gelas"
+    ],
+    "answer": 3,
+    "explain": "Kaleng dan gelas sama-sama tabung."
+  },
+  {
+    "id": "mtk2sas1-63",
+    "q": "Pada gambar rak buku, penggaris berada ... buku tulis.",
+    "options": [
+      "Di samping kanan",
+      "Di bawah",
+      "Di belakang",
+      "Di dalam"
+    ],
+    "answer": 0,
+    "explain": "Penggaris diletakkan di samping kanan buku."
+  },
+  {
+    "id": "mtk2sas1-64",
+    "q": "Pada peta tempat duduk, tas Edo ada di ... kursi.",
+    "options": [
+      "Di atas",
+      "Di bawah",
+      "Di kiri",
+      "Di depan"
+    ],
+    "answer": 1,
+    "explain": "Tas tergantung di bawah kursi."
+  },
+  {
+    "id": "mtk2sas1-65",
+    "q": "Cerita: \"Bola menggelinding ke depan kotak.\" Posisi bola sekarang ... kotak.",
+    "options": [
+      "Di belakang",
+      "Di atas",
+      "Di depan",
+      "Di bawah"
+    ],
+    "answer": 2,
+    "explain": "Disebutkan ke depan kotak."
+  },
+  {
+    "id": "mtk2sas1-66",
+    "q": "Puluhan = 1 dan satuan = 8. Bilangan yang tepat ...",
+    "options": [
+      "8",
+      "81",
+      "10",
+      "18"
+    ],
+    "answer": 3,
+    "explain": "Puluhan 1, satuan 8 membentuk 18."
+  },
+  {
+    "id": "mtk2sas1-67",
+    "q": "Bagan nilai: puluhan 0, satuan 9. Bilangan itu ...",
+    "options": [
+      "9",
+      "90",
+      "99",
+      "9 puluhan"
+    ],
+    "answer": 0,
+    "explain": "Tanpa puluhan berarti hanya 9 satuan."
+  },
+  {
+    "id": "mtk2sas1-68",
+    "q": "Jumlah 44 + 26 dengan bersusun panjang adalah ...",
+    "options": [
+      "60",
+      "70",
+      "68",
+      "80"
+    ],
+    "answer": 1,
+    "explain": "Satuan: 4+6=10 tulis 0 simpan 1; puluhan: 4+2+1=7 sehingga 70."
+  },
+  {
+    "id": "mtk2sas1-69",
+    "q": "Hasil 44 - 18 adalah ...",
+    "options": [
+      "30",
+      "28",
+      "26",
+      "32"
+    ],
+    "answer": 2,
+    "explain": "Pinjam: 14-8=6, 3-1=2, jadi 26."
+  },
+  {
+    "id": "mtk2sas1-70",
+    "q": "Benda berbentuk kerucut di taman bermain adalah ...",
+    "options": [
+      "Kotak pasir",
+      "Bola",
+      "Papan seluncur",
+      "Topi badut"
+    ],
+    "answer": 3,
+    "explain": "Topi badut berbentuk kerucut."
+  },
+  {
+    "id": "mtk2sas1-71",
+    "q": "Benda di rumah yang bentuknya bola adalah ...",
+    "options": [
+      "Bola lampu bulat",
+      "Panci",
+      "Kotak tisu",
+      "Buku kamus"
+    ],
+    "answer": 0,
+    "explain": "Lampu bulat menyerupai bola."
+  },
+  {
+    "id": "mtk2sas1-72",
+    "q": "Urutkan dari terbesar ke terkecil: 17, 34, 28.",
+    "options": [
+      "34,17,28",
+      "34,28,17",
+      "28,34,17",
+      "17,28,34"
+    ],
+    "answer": 1,
+    "explain": "34 paling besar, diikuti 28, lalu 17."
+  },
+  {
+    "id": "mtk2sas1-73",
+    "q": "Bangun ruang dengan 1 titik puncak dan alas lingkaran adalah ...",
+    "options": [
+      "Balok",
+      "Tabung",
+      "Kerucut",
+      "Kubus"
+    ],
+    "answer": 2,
+    "explain": "Kerucut memiliki satu puncak dan alas lingkaran."
+  },
+  {
+    "id": "mtk2sas1-74",
+    "q": "Jika kubus dipindah satu langkah ke belakang, posisinya berada ... dari awal.",
+    "options": [
+      "Di depan",
+      "Di atas",
+      "Di kiri",
+      "Di belakang"
+    ],
+    "answer": 3,
+    "explain": "Berpindah ke belakang berarti di belakang posisi awal."
+  },
+  {
+    "id": "mtk2sas1-75",
+    "q": "Hasil 29 + 11 adalah ...",
+    "options": [
+      "40",
+      "38",
+      "30",
+      "29"
+    ],
+    "answer": 0,
+    "explain": "29 + 11 = 40."
+  }
+]

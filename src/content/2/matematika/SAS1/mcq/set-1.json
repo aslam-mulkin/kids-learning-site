@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mtk2sas1-01",
+    "q": "Pada gambar ada 3 piring, 4 gelas, dan 2 sendok. Banyak benda semuanya adalah ...",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "explain": "3 + 4 + 2 = 9 benda."
+  },
+  {
+    "id": "mtk2sas1-02",
+    "q": "Lani menulis bilangan 47. Angka puluhannya adalah ...",
+    "options": [
+      "7",
+      "4",
+      "40",
+      "70"
+    ],
+    "answer": 1,
+    "explain": "Digit puluhan di 47 adalah 4."
+  },
+  {
+    "id": "mtk2sas1-03",
+    "q": "Bilangan 63 memiliki nilai tempat satuan ...",
+    "options": [
+      "6",
+      "60",
+      "3",
+      "30"
+    ],
+    "answer": 2,
+    "explain": "Digit satuan di 63 adalah 3."
+  },
+  {
+    "id": "mtk2sas1-04",
+    "q": "Perbandingan 58 dengan 65 menggunakan kata yang tepat adalah ...",
+    "options": [
+      "58 lebih dari 65",
+      "58 jauh lebih besar",
+      "58 sama dengan 65",
+      "58 kurang dari 65"
+    ],
+    "answer": 3,
+    "explain": "58 < 65 sehingga \"kurang dari\"."
+  },
+  {
+    "id": "mtk2sas1-05",
+    "q": "Gambar benda berbentuk persegi panjang termasuk bangun ...",
+    "options": [
+      "Persegi panjang",
+      "Lingkaran",
+      "Segitiga",
+      "Jajar genjang"
+    ],
+    "answer": 0,
+    "explain": "Bentuknya memiliki dua sisi panjang dan dua sisi pendek sama panjang."
+  },
+  {
+    "id": "mtk2sas1-06",
+    "q": "Dari gambar jam dinding, benda yang termasuk lingkaran adalah ...",
+    "options": [
+      "Kotak pensil",
+      "Jam dinding",
+      "Buku tulis",
+      "Papan tulis"
+    ],
+    "answer": 1,
+    "explain": "Jam dinding pada gambar berbentuk lingkaran."
+  },
+  {
+    "id": "mtk2sas1-07",
+    "q": "Bangun datar yang memiliki sisi datar semua adalah ...",
+    "options": [
+      "Lingkaran",
+      "Kerucut",
+      "Segitiga",
+      "Tabung"
+    ],
+    "answer": 2,
+    "explain": "Segitiga terdiri dari sisi-sisi datar."
+  },
+  {
+    "id": "mtk2sas1-08",
+    "q": "Bangun datar dengan sisi lengkung adalah ...",
+    "options": [
+      "Persegi",
+      "Belah ketupat",
+      "Persegi panjang",
+      "Lingkaran"
+    ],
+    "answer": 3,
+    "explain": "Lingkaran hanya memiliki sisi lengkung."
+  },
+  {
+    "id": "mtk2sas1-09",
+    "q": "Bentuk persegi dapat diurai menjadi ...",
+    "options": [
+      "2 segitiga sama besar",
+      "4 segitiga sama sisi",
+      "3 segitiga berbeda",
+      "2 lingkaran"
+    ],
+    "answer": 0,
+    "explain": "Persegi bisa dipotong diagonal menjadi 2 segitiga sama besar."
+  },
+  {
+    "id": "mtk2sas1-10",
+    "q": "Benda berbentuk bola dalam gambar adalah ...",
+    "options": [
+      "Kotak kado",
+      "Bola basket",
+      "Buku",
+      "Gelas"
+    ],
+    "answer": 1,
+    "explain": "Bola basket adalah bangun ruang berbentuk bola."
+  },
+  {
+    "id": "mtk2sas1-11",
+    "q": "Benda yang termasuk bentuk balok sesuai instruksi adalah ...",
+    "options": [
+      "Bola tenis",
+      "Topi bundar",
+      "Kardus sepatu",
+      "Kerucut es krim"
+    ],
+    "answer": 2,
+    "explain": "Kardus sepatu memiliki bentuk balok."
+  },
+  {
+    "id": "mtk2sas1-12",
+    "q": "Pilih dua benda yang berbentuk balok.",
+    "options": [
+      "Kerucut dan tabung",
+      "Bola dan piring",
+      "Topi dan ember",
+      "Bata dan lemari buku"
+    ],
+    "answer": 3,
+    "explain": "Bata dan lemari buku keduanya berwujud balok."
+  },
+  {
+    "id": "mtk2sas1-13",
+    "q": "Pada gambar, bola berada di ... kotak warna biru.",
+    "options": [
+      "Bawah",
+      "Atas",
+      "Kiri",
+      "Kanan"
+    ],
+    "answer": 0,
+    "explain": "Bola digambarkan di bawah kotak biru."
+  },
+  {
+    "id": "mtk2sas1-14",
+    "q": "Pada peta meja kelas, tas Rina berada di ... kursi.",
+    "options": [
+      "Di bawah",
+      "Di atas",
+      "Di samping",
+      "Di depan"
+    ],
+    "answer": 1,
+    "explain": "Tas digantung di atas kursi."
+  },
+  {
+    "id": "mtk2sas1-15",
+    "q": "Cerita: \"Kucing tidur di bawah meja.\" Posisi kucing adalah ... meja.",
+    "options": [
+      "Di atas",
+      "Di samping",
+      "Di bawah",
+      "Di depan"
+    ],
+    "answer": 2,
+    "explain": "Disebutkan tidur di bawah meja."
+  },
+  {
+    "id": "mtk2sas1-16",
+    "q": "Lengkapi bagan nilai: puluhan = 3, satuan = 5. Bilangan itu adalah ...",
+    "options": [
+      "5",
+      "53",
+      "30",
+      "35"
+    ],
+    "answer": 3,
+    "explain": "Puluhan 3 dan satuan 5 membentuk 35."
+  },
+  {
+    "id": "mtk2sas1-17",
+    "q": "Puluhan = 7 dan satuan = 0. Bilangan yang tepat adalah ...",
+    "options": [
+      "70",
+      "7",
+      "700",
+      "17"
+    ],
+    "answer": 0,
+    "explain": "Nilai puluhan 7 dan satuan 0 menyusun 70."
+  },
+  {
+    "id": "mtk2sas1-18",
+    "q": "Hitung 35 + 24 dengan cara bersusun panjang. Hasilnya ...",
+    "options": [
+      "49",
+      "59",
+      "50",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "Satuan: 5+4=9, puluhan: 3+2=5, jadi 59."
+  },
+  {
+    "id": "mtk2sas1-19",
+    "q": "Hasil 64 - 27 dengan bersusun panjang adalah ...",
+    "options": [
+      "57",
+      "47",
+      "37",
+      "67"
+    ],
+    "answer": 2,
+    "explain": "Pinjam satu puluhan: 14-7=7, 5-2=3, jadi 37."
+  },
+  {
+    "id": "mtk2sas1-20",
+    "q": "Benda di rumah yang berbentuk tabung adalah ...",
+    "options": [
+      "Bantal kotak",
+      "Piring",
+      "Kipas angin",
+      "Gelas minum"
+    ],
+    "answer": 3,
+    "explain": "Gelas minum umum berbentuk tabung."
+  },
+  {
+    "id": "mtk2sas1-21",
+    "q": "Benda di rumah yang berbentuk bola adalah ...",
+    "options": [
+      "Lampu bohlam bulat",
+      "Buku tulis",
+      "Karpet persegi",
+      "Lemari kayu"
+    ],
+    "answer": 0,
+    "explain": "Bohlam bulat menyerupai bola."
+  },
+  {
+    "id": "mtk2sas1-22",
+    "q": "Urutkan dari terbesar ke terkecil: 42, 24, 35.",
+    "options": [
+      "42,24,35",
+      "42,35,24",
+      "35,42,24",
+      "24,35,42"
+    ],
+    "answer": 1,
+    "explain": "42 paling besar diikuti 35 lalu 24."
+  },
+  {
+    "id": "mtk2sas1-23",
+    "q": "Bentuk ruang yang memiliki 6 sisi datar dan 8 titik sudut adalah ...",
+    "options": [
+      "Bola",
+      "Tabung",
+      "Balok",
+      "Kerucut"
+    ],
+    "answer": 2,
+    "explain": "Balok memiliki 6 sisi datar dan 8 titik sudut."
+  },
+  {
+    "id": "mtk2sas1-24",
+    "q": "Jika Riko menggeser kubus satu langkah ke kanan, posisi barunya berada ... dari posisi awal.",
+    "options": [
+      "Di kiri",
+      "Di bawah",
+      "Di atas",
+      "Di kanan"
+    ],
+    "answer": 3,
+    "explain": "Geser ke kanan berarti berada di kanan posisi awal."
+  },
+  {
+    "id": "mtk2sas1-25",
+    "q": "Hasil dari 28 + 10 adalah ...",
+    "options": [
+      "38",
+      "30",
+      "20",
+      "18"
+    ],
+    "answer": 0,
+    "explain": "Menambah 10 ke 28 menghasilkan 38."
+  }
+]

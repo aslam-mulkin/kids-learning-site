@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mtk2sas1-26",
+    "q": "Pada gambar terlihat 5 bola merah dan 3 bola biru. Jumlah bola seluruhnya adalah ...",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": 0,
+    "explain": "5 + 3 = 8 bola."
+  },
+  {
+    "id": "mtk2sas1-27",
+    "q": "Bilangan 72 memiliki angka puluhan ...",
+    "options": [
+      "2",
+      "7",
+      "20",
+      "70"
+    ],
+    "answer": 1,
+    "explain": "Digit puluhan di 72 adalah 7."
+  },
+  {
+    "id": "mtk2sas1-28",
+    "q": "Nilai tempat satuan dari 54 adalah ...",
+    "options": [
+      "5",
+      "50",
+      "4",
+      "40"
+    ],
+    "answer": 2,
+    "explain": "Angka satuan pada 54 adalah 4."
+  },
+  {
+    "id": "mtk2sas1-29",
+    "q": "48 dibandingkan 36 adalah ...",
+    "options": [
+      "48 jauh lebih kecil",
+      "48 kurang dari 36",
+      "48 sama dengan 36",
+      "48 lebih dari 36"
+    ],
+    "answer": 3,
+    "explain": "48 > 36 sehingga lebih dari."
+  },
+  {
+    "id": "mtk2sas1-30",
+    "q": "Bangun datar yang semua sisinya sama panjang dan semua sudutnya siku-siku adalah ...",
+    "options": [
+      "Persegi",
+      "Segitiga sama sisi",
+      "Persegi panjang",
+      "Belah ketupat"
+    ],
+    "answer": 0,
+    "explain": "Persegi memiliki 4 sisi sama dan 4 sudut siku-siku."
+  },
+  {
+    "id": "mtk2sas1-31",
+    "q": "Dari gambar benda, yang termasuk lingkaran adalah ...",
+    "options": [
+      "Penggaris",
+      "Piring bundar",
+      "Buku",
+      "Kotak makan"
+    ],
+    "answer": 1,
+    "explain": "Piring bundar berbentuk lingkaran."
+  },
+  {
+    "id": "mtk2sas1-32",
+    "q": "Bangun datar yang hanya memiliki sisi lengkung tanpa sudut disebut ...",
+    "options": [
+      "Persegi",
+      "Trapesium",
+      "Lingkaran",
+      "Segi lima"
+    ],
+    "answer": 2,
+    "explain": "Lingkaran memiliki satu sisi lengkung."
+  },
+  {
+    "id": "mtk2sas1-33",
+    "q": "Gambar jajar genjang dapat diuraikan menjadi ...",
+    "options": [
+      "Empat persegi",
+      "Tiga segitiga berbeda",
+      "Dua lingkaran kecil",
+      "Dua segitiga sama besar"
+    ],
+    "answer": 3,
+    "explain": "Memotong jajar genjang secara diagonal menghasilkan dua segitiga sama luas."
+  },
+  {
+    "id": "mtk2sas1-34",
+    "q": "Benda yang termasuk bangun ruang kubus adalah ...",
+    "options": [
+      "Dadu",
+      "Kaleng",
+      "Kerucut es krim",
+      "Bola lampu"
+    ],
+    "answer": 0,
+    "explain": "Dadu memiliki bentuk kubus."
+  },
+  {
+    "id": "mtk2sas1-35",
+    "q": "Benda berbentuk balok sesuai instruksi adalah ...",
+    "options": [
+      "Bola tenis",
+      "Kotak susu",
+      "Topi kerucut",
+      "Bohlam bulat"
+    ],
+    "answer": 1,
+    "explain": "Kotak susu berbentuk balok."
+  },
+  {
+    "id": "mtk2sas1-36",
+    "q": "Pilih dua benda berbentuk kubus atau balok.",
+    "options": [
+      "Topi dan kacamata",
+      "Piring dan mangkuk",
+      "Dadu dan kardus buku",
+      "Gelas dan kaleng"
+    ],
+    "answer": 2,
+    "explain": "Dadu (kubus) dan kardus buku (balok)."
+  },
+  {
+    "id": "mtk2sas1-37",
+    "q": "Pada gambar, pensil berada di ... buku.",
+    "options": [
+      "Di belakang",
+      "Di bawah",
+      "Di kiri",
+      "Di atas"
+    ],
+    "answer": 3,
+    "explain": "Pensil diletakkan di atas buku."
+  },
+  {
+    "id": "mtk2sas1-38",
+    "q": "Pada denah meja, penghapus ada di ... kotak alat tulis.",
+    "options": [
+      "Di atas",
+      "Di luar",
+      "Di samping kiri",
+      "Dalam"
+    ],
+    "answer": 0,
+    "explain": "Penghapus digambar terletak di atas kotak alat tulis."
+  },
+  {
+    "id": "mtk2sas1-39",
+    "q": "Cerita: \"Burung bertengger di atas cabang.\" Posisi burung adalah ... cabang.",
+    "options": [
+      "Di bawah",
+      "Di atas",
+      "Di samping",
+      "Di depan"
+    ],
+    "answer": 1,
+    "explain": "Bertengger berarti di atas cabang."
+  },
+  {
+    "id": "mtk2sas1-40",
+    "q": "Puluhan = 4 dan satuan = 6. Bilangan yang terbentuk adalah ...",
+    "options": [
+      "40",
+      "64",
+      "46",
+      "6"
+    ],
+    "answer": 2,
+    "explain": "Puluhan 4 dan satuan 6 membentuk 46."
+  },
+  {
+    "id": "mtk2sas1-41",
+    "q": "Bagan nilai menunjukkan puluhan = 9, satuan = 2. Bilangan itu adalah ...",
+    "options": [
+      "29",
+      "9",
+      "90",
+      "92"
+    ],
+    "answer": 3,
+    "explain": "Digit puluhan 9 dan satuan 2 membentuk 92."
+  },
+  {
+    "id": "mtk2sas1-42",
+    "q": "Hitung 27 + 18 dengan bersusun panjang.",
+    "options": [
+      "45",
+      "40",
+      "35",
+      "46"
+    ],
+    "answer": 0,
+    "explain": "Satuan: 7+8=15 tulis 5 simpan 1; puluhan: 2+1+1=4 sehingga 45."
+  },
+  {
+    "id": "mtk2sas1-43",
+    "q": "Hasil 53 - 25 adalah ...",
+    "options": [
+      "18",
+      "28",
+      "30",
+      "35"
+    ],
+    "answer": 1,
+    "explain": "Pinjam: 13-5=8, 4-2=2, jadi 28."
+  },
+  {
+    "id": "mtk2sas1-44",
+    "q": "Benda di rumah yang berbentuk kubus adalah ...",
+    "options": [
+      "Piring bulat",
+      "Tabung gas",
+      "Kotak cincin kecil",
+      "Bola plastik"
+    ],
+    "answer": 2,
+    "explain": "Kotak cincin kecil biasanya berbentuk kubus."
+  },
+  {
+    "id": "mtk2sas1-45",
+    "q": "Benda berbentuk kerucut di rumah adalah ...",
+    "options": [
+      "Bola lampu",
+      "Gelas",
+      "Kotak sepatu",
+      "Topi ulang tahun"
+    ],
+    "answer": 3,
+    "explain": "Topi ulang tahun biasanya berbentuk kerucut."
+  },
+  {
+    "id": "mtk2sas1-46",
+    "q": "Urutkan dari kecil ke besar: 18, 15, 24.",
+    "options": [
+      "15,18,24",
+      "15,24,18",
+      "18,15,24",
+      "24,18,15"
+    ],
+    "answer": 0,
+    "explain": "15 < 18 < 24."
+  },
+  {
+    "id": "mtk2sas1-47",
+    "q": "Bangun ruang yang memiliki 1 sisi lengkung dan 2 sisi datar adalah ...",
+    "options": [
+      "Bola",
+      "Tabung",
+      "Balok",
+      "Kubus"
+    ],
+    "answer": 1,
+    "explain": "Tabung punya sisi lengkung dan dua lingkaran datar."
+  },
+  {
+    "id": "mtk2sas1-48",
+    "q": "Jika sebuah balok digeser satu langkah ke kiri, posisinya menjadi ... dari semula.",
+    "options": [
+      "Di kanan",
+      "Di atas",
+      "Di kiri",
+      "Di bawah"
+    ],
+    "answer": 2,
+    "explain": "Geser ke kiri membuat posisinya di kiri awal."
+  },
+  {
+    "id": "mtk2sas1-49",
+    "q": "Hasil dari 36 + 7 adalah ...",
+    "options": [
+      "42",
+      "45",
+      "44",
+      "43"
+    ],
+    "answer": 3,
+    "explain": "36 + 7 = 43."
+  },
+  {
+    "id": "mtk2sas1-50",
+    "q": "Pernyataan yang benar tentang 58 dan 58 adalah ...",
+    "options": [
+      "58 sama dengan 58",
+      "58 kurang dari 58",
+      "58 lebih dari 58",
+      "58 dua kali 58"
+    ],
+    "answer": 0,
+    "explain": "Bilangan yang sama berarti \"sama dengan\"."
+  }
+]

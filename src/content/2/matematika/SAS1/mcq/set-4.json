@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mtk2sas1-76",
+    "q": "Di taman ada 4 burung di pohon pertama dan 7 burung di pohon kedua. Banyak burung seluruhnya ...",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answer": 0,
+    "explain": "4 + 7 = 11 burung."
+  },
+  {
+    "id": "mtk2sas1-77",
+    "q": "Angka puluhan pada 86 adalah ...",
+    "options": [
+      "6",
+      "8",
+      "60",
+      "80"
+    ],
+    "answer": 1,
+    "explain": "Digit puluhan di 86 adalah 8."
+  },
+  {
+    "id": "mtk2sas1-78",
+    "q": "Nilai satuan bilangan 93 adalah ...",
+    "options": [
+      "9",
+      "90",
+      "3",
+      "30"
+    ],
+    "answer": 2,
+    "explain": "Angka satuan pada 93 adalah 3."
+  },
+  {
+    "id": "mtk2sas1-79",
+    "q": "Bandingkan 55 dan 59.",
+    "options": [
+      "55 lebih dari 59",
+      "55 dua kali 59",
+      "55 sama dengan 59",
+      "55 kurang dari 59"
+    ],
+    "answer": 3,
+    "explain": "55 < 59."
+  },
+  {
+    "id": "mtk2sas1-80",
+    "q": "Bangun datar bersudut siku-siku dan sisi berhadapan sama panjang adalah ...",
+    "options": [
+      "Persegi panjang",
+      "Segitiga sama sisi",
+      "Belah ketupat",
+      "Lingkaran"
+    ],
+    "answer": 0,
+    "explain": "Persegi panjang memiliki sudut siku-siku dan sisi berhadapan sama panjang."
+  },
+  {
+    "id": "mtk2sas1-81",
+    "q": "Dari gambar, benda yang merupakan lingkaran adalah ...",
+    "options": [
+      "Kotak kado",
+      "Jam dinding",
+      "Buku",
+      "Penggaris"
+    ],
+    "answer": 1,
+    "explain": "Jam dinding digambar berbentuk lingkaran."
+  },
+  {
+    "id": "mtk2sas1-82",
+    "q": "Bangun datar sisi datar yang memiliki empat sudut sama besar adalah ...",
+    "options": [
+      "Segi lima",
+      "Trapesium",
+      "Persegi",
+      "Lingkaran"
+    ],
+    "answer": 2,
+    "explain": "Persegi memiliki empat sudut siku-siku dan sisi datar."
+  },
+  {
+    "id": "mtk2sas1-83",
+    "q": "Bangun sisi lengkung yang tidak memiliki titik sudut adalah ...",
+    "options": [
+      "Segitiga",
+      "Trapesium",
+      "Persegi",
+      "Lingkaran"
+    ],
+    "answer": 3,
+    "explain": "Lingkaran tidak memiliki sudut."
+  },
+  {
+    "id": "mtk2sas1-84",
+    "q": "Trapesium siku-siku dapat dipotong menjadi ...",
+    "options": [
+      "Dua segitiga",
+      "Satu persegi",
+      "Tiga lingkaran",
+      "Dua belah ketupat"
+    ],
+    "answer": 0,
+    "explain": "Memotong diagonal trapesium menghasilkan dua segitiga."
+  },
+  {
+    "id": "mtk2sas1-85",
+    "q": "Nama bangun ruang berbentuk bola pada gambar olahraga adalah ...",
+    "options": [
+      "Kotak sepatu",
+      "Bola sepak",
+      "Topi kerucut",
+      "Gelas tabung"
+    ],
+    "answer": 1,
+    "explain": "Bola sepak adalah bangun ruang bola."
+  },
+  {
+    "id": "mtk2sas1-86",
+    "q": "Benda berbentuk balok sesuai instruksi adalah ...",
+    "options": [
+      "Bola tenis",
+      "Topi pesta",
+      "Akuarium",
+      "Kaleng minuman"
+    ],
+    "answer": 2,
+    "explain": "Akuarium biasanya berbentuk balok."
+  },
+  {
+    "id": "mtk2sas1-87",
+    "q": "Pilih dua benda yang berbentuk tabung atau balok.",
+    "options": [
+      "Gelang dan bros",
+      "Bola dan topi",
+      "Piring dan sendok",
+      "Kaleng dan kotak sepatu"
+    ],
+    "answer": 3,
+    "explain": "Kaleng (tabung) dan kotak sepatu (balok)."
+  },
+  {
+    "id": "mtk2sas1-88",
+    "q": "Pada gambar lemari, tas berada ... lemari.",
+    "options": [
+      "Di atas",
+      "Di dalam",
+      "Di depan",
+      "Di belakang"
+    ],
+    "answer": 0,
+    "explain": "Tas digambar terletak di atas lemari."
+  },
+  {
+    "id": "mtk2sas1-89",
+    "q": "Pada denah meja, penggaris ada di ... kotak pensil.",
+    "options": [
+      "Di dalam",
+      "Di samping kanan",
+      "Di bawah",
+      "Di belakang"
+    ],
+    "answer": 1,
+    "explain": "Penggaris berada di sisi kanan kotak pensil."
+  },
+  {
+    "id": "mtk2sas1-90",
+    "q": "Cerita: \"Kelinci bersembunyi di belakang pohon.\" Posisi kelinci adalah ... pohon.",
+    "options": [
+      "Di depan",
+      "Di atas",
+      "Di belakang",
+      "Di bawah"
+    ],
+    "answer": 2,
+    "explain": "Disebutkan di belakang pohon."
+  },
+  {
+    "id": "mtk2sas1-91",
+    "q": "Puluhan = 5 dan satuan = 8. Bilangannya ...",
+    "options": [
+      "8",
+      "85",
+      "50",
+      "58"
+    ],
+    "answer": 3,
+    "explain": "Puluhan 5 dan satuan 8 membentuk 58."
+  },
+  {
+    "id": "mtk2sas1-92",
+    "q": "Bagan nilai menunjukkan puluhan 2, satuan 0. Bilangannya adalah ...",
+    "options": [
+      "20",
+      "2",
+      "200",
+      "12"
+    ],
+    "answer": 0,
+    "explain": "Puluhan 2 dan satuan 0 berarti 20."
+  },
+  {
+    "id": "mtk2sas1-93",
+    "q": "Hasil 38 + 23 dengan bersusun panjang adalah ...",
+    "options": [
+      "51",
+      "61",
+      "60",
+      "65"
+    ],
+    "answer": 1,
+    "explain": "Satuan: 8+3=11 tulis 1 simpan 1; puluhan: 3+2+1=6 sehingga 61."
+  },
+  {
+    "id": "mtk2sas1-94",
+    "q": "Selisih 72 - 45 adalah ...",
+    "options": [
+      "17",
+      "28",
+      "27",
+      "29"
+    ],
+    "answer": 2,
+    "explain": "Pinjam: 12-5=7, 6-4=2, jadi 27."
+  },
+  {
+    "id": "mtk2sas1-95",
+    "q": "Benda berbentuk kubus di rumah adalah ...",
+    "options": [
+      "Topi kerucut",
+      "Gelas",
+      "Piring",
+      "Rubik"
+    ],
+    "answer": 3,
+    "explain": "Rubik berbentuk kubus."
+  },
+  {
+    "id": "mtk2sas1-96",
+    "q": "Benda berbentuk tabung di kamar adalah ...",
+    "options": [
+      "Botol minum",
+      "Kotak tisu persegi",
+      "Bantal kotak",
+      "Bola plastik"
+    ],
+    "answer": 0,
+    "explain": "Botol minum umumnya tabung."
+  },
+  {
+    "id": "mtk2sas1-97",
+    "q": "Urutkan dari kecil ke besar: 63, 36, 45.",
+    "options": [
+      "36,63,45",
+      "36,45,63",
+      "45,36,63",
+      "63,45,36"
+    ],
+    "answer": 1,
+    "explain": "36 < 45 < 63."
+  },
+  {
+    "id": "mtk2sas1-98",
+    "q": "Bangun ruang dengan 2 alas lingkaran dan satu selimut lengkung disebut ...",
+    "options": [
+      "Kubus",
+      "Kerucut",
+      "Tabung",
+      "Balok"
+    ],
+    "answer": 2,
+    "explain": "Tabung memiliki dua alas lingkaran dan selimut lengkung."
+  },
+  {
+    "id": "mtk2sas1-99",
+    "q": "Jika kerucut digeser satu langkah ke atas, posisinya berada ... dari posisi awal.",
+    "options": [
+      "Di bawah",
+      "Di kiri",
+      "Di depan",
+      "Di atas"
+    ],
+    "answer": 3,
+    "explain": "Geser ke atas berarti di atas posisi awal."
+  },
+  {
+    "id": "mtk2sas1-100",
+    "q": "Hasil 50 + 16 adalah ...",
+    "options": [
+      "66",
+      "60",
+      "56",
+      "70"
+    ],
+    "answer": 0,
+    "explain": "50 + 16 = 66."
+  }
+]

@@ -121,7 +121,7 @@
   },
   {
     "id": "mtk2sas1-86",
-    "q": "Benda berbentuk balok sesuai instruksi adalah ...",
+    "q": "Benda berbentuk balok di bawah ini adalah ...",
     "options": [
       "Bola tenis",
       "Topi pesta",
@@ -142,30 +142,6 @@
     ],
     "answer": 3,
     "explain": "Kaleng (tabung) dan kotak sepatu (balok)."
-  },
-  {
-    "id": "mtk2sas1-88",
-    "q": "Pada gambar lemari, tas berada ... lemari.",
-    "options": [
-      "Di atas",
-      "Di dalam",
-      "Di depan",
-      "Di belakang"
-    ],
-    "answer": 0,
-    "explain": "Tas digambar terletak di atas lemari."
-  },
-  {
-    "id": "mtk2sas1-89",
-    "q": "Pada denah meja, penggaris ada di ... kotak pensil.",
-    "options": [
-      "Di dalam",
-      "Di samping kanan",
-      "Di bawah",
-      "Di belakang"
-    ],
-    "answer": 1,
-    "explain": "Penggaris berada di sisi kanan kotak pensil."
   },
   {
     "id": "mtk2sas1-90",
@@ -241,7 +217,7 @@
   },
   {
     "id": "mtk2sas1-96",
-    "q": "Benda berbentuk tabung di kamar adalah ...",
+    "q": "Benda berbentuk tabung yang biasanya ada di kamar adalah ...",
     "options": [
       "Botol minum",
       "Kotak tisu persegi",

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pjok2-401",
+    "q": "Gerakan lokomotor berikut adalah ...",
+    "options": [
+      "Membungkuk",
+      "Mengayun tangan",
+      "Memutar badan",
+      "Berjalan maju"
+    ],
+    "answer": 3,
+    "explain": "Lokomotor memindahkan tempat."
+  },
+  {
+    "id": "pjok2-402",
+    "q": "Contoh variasi lokomotor ...",
+    "options": [
+      "Memutar lengan",
+      "Lari zig-zag",
+      "Mendekap dada",
+      "Membungkuk"
+    ],
+    "answer": 1,
+    "explain": "Variasi mengubah arah lari."
+  },
+  {
+    "id": "pjok2-403",
+    "q": "Gerakan nonlokomotor dilakukan ...",
+    "options": [
+      "Tetap di tempat",
+      "Berpindah tempat",
+      "Sambil melompat",
+      "Sambil berlari"
+    ],
+    "answer": 0,
+    "explain": "Tidak berpindah."
+  },
+  {
+    "id": "pjok2-404",
+    "q": "Gambar anak berguling menunjukkan ...",
+    "options": [
+      "Roll depan",
+      "Lompat jauh",
+      "Jongkok",
+      "Push-up"
+    ],
+    "answer": 0,
+    "explain": "Itu gerakan guling depan."
+  },
+  {
+    "id": "pjok2-405",
+    "q": "Yang termasuk gerak manipulatif adalah ...",
+    "options": [
+      "Menggaruk",
+      "Membungkuk",
+      "Memukul bola",
+      "Meloncat"
+    ],
+    "answer": 2,
+    "explain": "Mengontrol benda."
+  },
+  {
+    "id": "pjok2-406",
+    "q": "Posisi tangan sebelum melempar bola adalah ...",
+    "options": [
+      "Turun ke bawah",
+      "Diluruskan depan",
+      "Diluruskan samping",
+      "Ditarik belakang"
+    ],
+    "answer": 3,
+    "explain": "Untuk menambah tenaga."
+  },
+  {
+    "id": "pjok2-407",
+    "q": "Tumpuan gerobak-dorong adalah ...",
+    "options": [
+      "Paha",
+      "Perut",
+      "Tangan",
+      "Kepala"
+    ],
+    "answer": 2,
+    "explain": "Tangan menahan tubuh."
+  },
+  {
+    "id": "pjok2-408",
+    "q": "Variasi gerak mendarat yang aman adalah ...",
+    "options": [
+      "Lutut lurus",
+      "Jatuh bebas",
+      "Lutut ditekuk",
+      "Berlari lagi"
+    ],
+    "answer": 2,
+    "explain": "Ditekuk meredam benturan."
+  },
+  {
+    "id": "pjok2-409",
+    "q": "Sarana utama senam lantai yaitu ...",
+    "options": [
+      "Tali",
+      "Bola",
+      "Kerucut",
+      "Matras"
+    ],
+    "answer": 3,
+    "explain": "Senam lantai di matras."
+  },
+  {
+    "id": "pjok2-410",
+    "q": "Langkah awal sebelum senam lantai adalah ...",
+    "options": [
+      "Pemanasan",
+      "Makan",
+      "Tidur",
+      "Berlari"
+    ],
+    "answer": 0,
+    "explain": "Agar otot siap."
+  },
+  {
+    "id": "pjok2-411",
+    "q": "Bagian tubuh yang menyentuh lantai saat mulai roll depan adalah ...",
+    "options": [
+      "Pinggul",
+      "Tengkuk",
+      "Kaki",
+      "Dada"
+    ],
+    "answer": 1,
+    "explain": "Roll mulai dari tengkuk."
+  },
+  {
+    "id": "pjok2-412",
+    "q": "Gerakan paling mudah dilakukan anak adalah ...",
+    "options": [
+      "Memukul bola keras",
+      "Sprint",
+      "Roll depan",
+      "Lompat jauh"
+    ],
+    "answer": 2,
+    "explain": "Roll depan sederhana."
+  },
+  {
+    "id": "pjok2-413",
+    "q": "Tolong menolong ditunjukkan dengan ...",
+    "options": [
+      "Membantu teman bangun",
+      "Menertawakan kesalahan",
+      "Mendorong teman",
+      "Merebut bola"
+    ],
+    "answer": 0,
+    "explain": "Membantu adalah sikap baik."
+  },
+  {
+    "id": "pjok2-414",
+    "q": "Gerak mengayuh lengan dapat dilakukan ke ...",
+    "options": [
+      "Samping",
+      "Belakang",
+      "Dalam air",
+      "Atas permanen"
+    ],
+    "answer": 0,
+    "explain": "Variasi ke samping."
+  },
+  {
+    "id": "pjok2-415",
+    "q": "Tangan pada gerakan menekuk biasanya ...",
+    "options": [
+      "Memegang lutut",
+      "Lurus ke samping",
+      "Di pinggang",
+      "Di atas kepala"
+    ],
+    "answer": 0,
+    "explain": "Untuk memudahkan menekuk."
+  },
+  {
+    "id": "pjok2-416",
+    "q": "Lari zig-zag dilakukan dengan ...",
+    "options": [
+      "Mengubah arah",
+      "Berjalan mundur",
+      "Meloncat tinggi",
+      "Duduk lalu berdiri"
+    ],
+    "answer": 0,
+    "explain": "Belok berulang."
+  },
+  {
+    "id": "pjok2-417",
+    "q": "Gerak nonlokomotor berarti ...",
+    "options": [
+      "Diam di tempat",
+      "Berjalan cepat",
+      "Berpindah tempat",
+      "Meloncat jauh"
+    ],
+    "answer": 0,
+    "explain": "Tidak bergerak pindah."
+  },
+  {
+    "id": "pjok2-418",
+    "q": "Mencium lutut bermanfaat untuk ...",
+    "options": [
+      "Kekuatan kaki",
+      "Kelenturan",
+      "Kecepatan",
+      "Meloncat tinggi"
+    ],
+    "answer": 1,
+    "explain": "Meningkatkan fleksibilitas."
+  },
+  {
+    "id": "pjok2-419",
+    "q": "Variasi gerak manipulatif adalah ...",
+    "options": [
+      "Meloncat",
+      "Memutar tangan",
+      "Berjalan santai",
+      "Menangkap bola"
+    ],
+    "answer": 3,
+    "explain": "Gerak memakai objek."
+  },
+  {
+    "id": "pjok2-420",
+    "q": "Saat melayang, posisi badan ...",
+    "options": [
+      "Duduk",
+      "Berbaring",
+      "Dibuka",
+      "Kaku"
+    ],
+    "answer": 2,
+    "explain": "Untuk keseimbangan."
+  },
+  {
+    "id": "pjok2-421",
+    "q": "Contoh gerak manipulatif adalah ...",
+    "options": [
+      "Memutar badan",
+      "Melempar bola",
+      "Membungkuk",
+      "Berdiam"
+    ],
+    "answer": 1,
+    "explain": "Mengontrol bola."
+  },
+  {
+    "id": "pjok2-422",
+    "q": "Pada lompat katak, tangan ...",
+    "options": [
+      "Diam di samping",
+      "Mengangkat tubuh",
+      "Dilipat",
+      "Menyentuh lantai"
+    ],
+    "answer": 3,
+    "explain": "Sebagai tumpuan."
+  },
+  {
+    "id": "pjok2-423",
+    "q": "Untuk mendorong bola digunakan ...",
+    "options": [
+      "Telapak tangan",
+      "Dada",
+      "Kepala",
+      "Pundak"
+    ],
+    "answer": 0,
+    "explain": "Telapak memberi dorongan."
+  },
+  {
+    "id": "pjok2-424",
+    "q": "Yang termasuk nonlokomotor adalah ...",
+    "options": [
+      "Lompat harimau",
+      "Berlari cepat",
+      "Menggiring bola",
+      "Memutar lengan"
+    ],
+    "answer": 3,
+    "explain": "Tidak berpindah."
+  },
+  {
+    "id": "pjok2-425",
+    "q": "Langkah awal roll depan adalah ...",
+    "options": [
+      "Melompat tinggi dulu",
+      "Mendorong kuat dulu",
+      "Tengkuk ditempel ke matras",
+      "Berlari cepat"
+    ],
+    "answer": 2,
+    "explain": "Roll dimulai tengkuk."
+  }
+]

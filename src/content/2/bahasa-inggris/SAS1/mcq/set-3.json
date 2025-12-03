@@ -1,0 +1,157 @@
+[
+  {
+    "id": "eng2-3-1",
+    "q": "They ___ excited.",
+    "options": ["am", "is", "are", "be"],
+    "answer": 2,
+    "explain": "They uses are"
+  },
+  {
+    "id": "eng2-3-2",
+    "q": "He ___ tired.",
+    "options": ["are", "is", "be", "am"],
+    "answer": 1,
+    "explain": "He uses is"
+  },
+  {
+    "id": "eng2-3-3",
+    "q": "___ is my friend. (near)",
+    "options": ["This", "Those", "That", "These"],
+    "answer": 0,
+    "explain": "Near singular uses this"
+  },
+  {
+    "id": "eng2-3-4",
+    "q": "___ are my gloves. (far)",
+    "options": ["These", "This", "Those", "That"],
+    "answer": 2,
+    "explain": "Far plural uses those"
+  },
+  {
+    "id": "eng2-3-5",
+    "q": "The girl is shaking. She feels ___",
+    "options": ["scared", "happy", "angry", "sleepy"],
+    "answer": 0,
+    "explain": "Shaking shows scared"
+  },
+  {
+    "id": "eng2-3-6",
+    "q": "Food for breakfast is ___",
+    "options": ["sandwich", "ice cream", "fried chicken", "pizza"],
+    "answer": 0,
+    "explain": "Sandwich fits breakfast"
+  },
+  {
+    "id": "eng2-3-7",
+    "q": "Is it a drink? — No, it isn’t.",
+    "options": ["Water", "Juice", "Tea", "Bread"],
+    "answer": 3,
+    "explain": "Bread isn’t a drink"
+  },
+  {
+    "id": "eng2-3-8",
+    "q": "What clothing is worn on feet?",
+    "options": ["Shirt", "Shoes", "Hat", "Skirt"],
+    "answer": 1,
+    "explain": "Shoes are for feet"
+  },
+  {
+    "id": "eng2-3-9",
+    "q": "This is Maya. This is ___ dress.",
+    "options": ["her", "his", "their", "your"],
+    "answer": 0,
+    "explain": "Maya uses her"
+  },
+  {
+    "id": "eng2-3-10",
+    "q": "We drive a ___",
+    "options": ["bike", "plane", "car", "boat"],
+    "answer": 2,
+    "explain": "We drive cars"
+  },
+  {
+    "id": "eng2-3-11",
+    "q": "We ride a ___",
+    "options": ["ship", "bicycle", "car", "plane"],
+    "answer": 1,
+    "explain": "We ride bicycles"
+  },
+  {
+    "id": "eng2-3-12",
+    "q": "We sail a ___",
+    "options": ["boat", "bus", "car", "plane"],
+    "answer": 0,
+    "explain": "Boats sail"
+  },
+  {
+    "id": "eng2-3-13",
+    "q": "Which sentence is wrong?",
+    "options": [
+      "A plane can fly",
+      "A car can drive",
+      "A boat can ride",
+      "A bike can ride"
+    ],
+    "answer": 2,
+    "explain": "Boats sail not ride"
+  },
+  {
+    "id": "eng2-3-14",
+    "q": "There is ___ bread on the plate.",
+    "options": ["some", "any", "no", "that"],
+    "answer": 0,
+    "explain": "Positive uses some"
+  },
+  {
+    "id": "eng2-3-15",
+    "q": "There isn’t ___ milk left.",
+    "options": ["any", "some", "a", "this"],
+    "answer": 0,
+    "explain": "Negative uses any"
+  },
+  {
+    "id": "eng2-3-16",
+    "q": "There are ___ toys in the box.",
+    "options": ["an", "some", "a", "that"],
+    "answer": 1,
+    "explain": "Plural uses some"
+  },
+  {
+    "id": "eng2-3-17",
+    "q": "Arrange: angry – he – is",
+    "options": [
+      "He angry is",
+      "Is he angry",
+      "He is angry",
+      "Angry he is"
+    ],
+    "answer": 2,
+    "explain": "Correct sentence"
+  },
+  {
+    "id": "eng2-3-18",
+    "q": "Arrange: is – her – this – skirt",
+    "options": [
+      "This is her skirt",
+      "Skirt her this is",
+      "Her skirt this is",
+      "Is skirt her this"
+    ],
+    "answer": 0,
+    "explain": "Correct order"
+  },
+  {
+    "id": "eng2-3-19",
+    "q": "You can see ___ in a garden.",
+    "options": ["flowers", "television", "couch", "computer"],
+    "answer": 0,
+    "explain": "Gardens have flowers"
+  },
+  {
+    "id": "eng2-3-20",
+    "q": "People can ___ trees in the garden.",
+    "options": ["ride", "fly", "water", "sail"],
+    "answer": 2,
+    "explain": "We water trees"
+  }
+]

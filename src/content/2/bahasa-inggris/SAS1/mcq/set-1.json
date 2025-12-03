@@ -1,0 +1,152 @@
+[
+  {
+    "id": "eng2-1",
+    "q": "My mother ___ happy.",
+    "options": ["am", "is", "are", "be"],
+    "answer": 1,
+    "explain": "Mother uses is"
+  },
+  {
+    "id": "eng2-2",
+    "q": "I ___ sad today.",
+    "options": ["am", "is", "are", "be"],
+    "answer": 0,
+    "explain": "I uses am"
+  },
+  {
+    "id": "eng2-3",
+    "q": "___ is an apple. (close to you)",
+    "options": ["That", "These", "This", "Those"],
+    "answer": 2,
+    "explain": "Close and singular uses this"
+  },
+  {
+    "id": "eng2-4",
+    "q": "___ are shoes. (far away)",
+    "options": ["These", "This", "That", "Those"],
+    "answer": 3,
+    "explain": "Far and plural uses those"
+  },
+  {
+    "id": "eng2-5",
+    "q": "He is crying. He feels ___",
+    "options": ["happy", "angry", "sad", "scared"],
+    "answer": 2,
+    "explain": "Crying means sad"
+  },
+  {
+    "id": "eng2-6",
+    "q": "Which food is for breakfast?",
+    "options": ["Pizza", "Bread and milk", "Ice cream", "Noodles"],
+    "answer": 1,
+    "explain": "Bread and milk are breakfast"
+  },
+  {
+    "id": "eng2-7",
+    "q": "Is it a drink? Yes, it is.",
+    "options": ["Banana", "Bread", "Water", "Egg"],
+    "answer": 2,
+    "explain": "Water is a drink"
+  },
+  {
+    "id": "eng2-8",
+    "q": "Clothes for legs are called ___",
+    "options": ["Hat", "Dress", "Skirt", "Pants"],
+    "answer": 3,
+    "explain": "Pants cover the legs"
+  },
+  {
+    "id": "eng2-9",
+    "q": "This is Rina. This is ___ bag.",
+    "options": ["his", "her", "their", "your"],
+    "answer": 1,
+    "explain": "Rina uses her"
+  },
+  {
+    "id": "eng2-10",
+    "q": "We use 'drive' for a ___",
+    "options": ["car", "bike", "ship", "plane"],
+    "answer": 0,
+    "explain": "We drive a car"
+  },
+  {
+    "id": "eng2-11",
+    "q": "We use 'ride' for a ___",
+    "options": ["boat", "bicycle", "car", "ship"],
+    "answer": 1,
+    "explain": "We ride a bicycle"
+  },
+  {
+    "id": "eng2-12",
+    "q": "We use 'fly' for a ___",
+    "options": ["plane", "car", "bike", "ship"],
+    "answer": 0,
+    "explain": "Planes are flown"
+  },
+  {
+    "id": "eng2-13",
+    "q": "Which sentence is NOT correct?",
+    "options": [
+      "A car can fly",
+      "A boat can sail",
+      "A bike can ride",
+      "A plane can fly"
+    ],
+    "answer": 0,
+    "explain": "Cars cannot fly"
+  },
+  {
+    "id": "eng2-14",
+    "q": "There is ___ milk in the glass.",
+    "options": ["some", "any", "no", "that"],
+    "answer": 0,
+    "explain": "Positive uses some"
+  },
+  {
+    "id": "eng2-15",
+    "q": "There isn’t ___ bread left.",
+    "options": ["some", "any", "much", "those"],
+    "answer": 1,
+    "explain": "Negative uses any"
+  },
+  {
+    "id": "eng2-16",
+    "q": "There are ___ apples on the table.",
+    "options": ["a", "an", "some", "any"],
+    "answer": 2,
+    "explain": "Plural uses some"
+  },
+  {
+    "id": "eng2-17",
+    "q": "Arrange: happy – am – I",
+    "options": ["I am happy", "Happy I am", "Am happy I", "Happy am I"],
+    "answer": 0,
+    "explain": "Correct order is I am happy"
+  },
+  {
+    "id": "eng2-18",
+    "q": "Arrange: is – this – my – hat",
+    "options": [
+      "This my hat is",
+      "This is my hat",
+      "My hat this is",
+      "Is hat my this"
+    ],
+    "answer": 1,
+    "explain": "Correct sentence order"
+  },
+  {
+    "id": "eng2-19",
+    "q": "In a garden, you can see ___",
+    "options": ["flowers", "sofa", "television", "computer"],
+    "answer": 0,
+    "explain": "Gardens have flowers"
+  },
+  {
+    "id": "eng2-20",
+    "q": "People can ___ plants in the garden.",
+    "options": ["water", "drive", "fly", "sail"],
+    "answer": 0,
+    "explain": "We water plants"
+  }
+]

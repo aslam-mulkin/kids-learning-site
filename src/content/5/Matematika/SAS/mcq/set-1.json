@@ -1,0 +1,242 @@
+[
+  {
+    "id": "m5-s1-01",
+    "q": "Nilai tempat angka 7 pada bilangan 57.234 adalah …",
+    "options": [
+      "70.000",
+      "700",
+      "70",
+      "7.000"
+    ],
+    "answer": 3,
+    "explain": "Angka 7 berada pada tempat ribuan."
+  },
+  {
+    "id": "m5-s1-02",
+    "q": "Urutan yang benar dari yang terkecil adalah …",
+    "options": [
+      "12.540, 12.504, 12.450",
+      "12.450, 12.540, 12.504",
+      "12.450, 12.504, 12.540",
+      "12.504, 12.450, 12.540"
+    ],
+    "answer": 2,
+    "explain": "Urutkan berdasarkan nilai ribuan, ratusan, dan seterusnya."
+  },
+  {
+    "id": "m5-s1-03",
+    "q": "Hasil dari 45.600 − 12.375 adalah …",
+    "options": [
+      "32.225",
+      "34.225",
+      "33.225",
+      "33.235"
+    ],
+    "answer": 2,
+    "explain": "Kurangi per tempat nilai."
+  },
+  {
+    "id": "m5-s1-04",
+    "q": "Hasil dari 325 × 40 adalah …",
+    "options": [
+      "14.000",
+      "12.500",
+      "1.300",
+      "13.000"
+    ],
+    "answer": 3,
+    "explain": "325 × 4 × 10 = 13.000."
+  },
+  {
+    "id": "m5-s1-05",
+    "q": "Hasil dari 6.400 ÷ 80 adalah …",
+    "options": [
+      "80",
+      "90",
+      "70",
+      "60"
+    ],
+    "answer": 0,
+    "explain": "6400 ÷ 80 = 80."
+  },
+  {
+    "id": "m5-s1-06",
+    "q": "Hasil dari 300 + 45 × 2 adalah …",
+    "options": [
+      "390",
+      "600",
+      "345",
+      "420"
+    ],
+    "answer": 0,
+    "explain": "Kerjakan perkalian dulu: 45×2=90 lalu tambah 300."
+  },
+  {
+    "id": "m5-s1-07",
+    "q": "Pola bilangan: 12, 20, 28, 36, … Angka berikutnya adalah …",
+    "options": [
+      "40",
+      "48",
+      "44",
+      "46"
+    ],
+    "answer": 2,
+    "explain": "Selisih pola +8."
+  },
+  {
+    "id": "m5-s1-08",
+    "q": "Contoh cara mengumpulkan data adalah …",
+    "options": [
+      "Mengira-ngira",
+      "Membaca novel",
+      "Menebak jawaban",
+      "Wawancara"
+    ],
+    "answer": 3,
+    "explain": "Data dikumpulkan melalui observasi, wawancara, atau angket."
+  },
+  {
+    "id": "m5-s1-09",
+    "q": "Pada diagram gambar, setiap gambar apel bernilai 5 apel. Jika ada 6 gambar, jumlah apel adalah …",
+    "options": [
+      "30",
+      "35",
+      "25",
+      "20"
+    ],
+    "answer": 0,
+    "explain": "6 × 5 = 30."
+  },
+  {
+    "id": "m5-s1-10",
+    "q": "Bagian tertinggi pada diagram batang menunjukkan …",
+    "options": [
+      "Data terkecil",
+      "Data terbesar",
+      "Data rata-rata",
+      "Data acak"
+    ],
+    "answer": 1,
+    "explain": "Batang tertinggi mewakili nilai tertinggi."
+  },
+  {
+    "id": "m5-s1-11",
+    "q": "Langkah awal menyusun data tunggal adalah …",
+    "options": [
+      "Menggambar tabel",
+      "Mengurutkan batang",
+      "Mengumpulkan data",
+      "Membuat diagram"
+    ],
+    "answer": 2,
+    "explain": "Data harus dikumpulkan sebelum disajikan."
+  },
+  {
+    "id": "m5-s1-12",
+    "q": "KPK dari 12 dan 18 adalah …",
+    "options": [
+      "48",
+      "12",
+      "24",
+      "36"
+    ],
+    "answer": 3,
+    "explain": "Faktorisasi: 12=2²×3, 18=2×3² → KPK=36."
+  },
+  {
+    "id": "m5-s1-13",
+    "q": "Paman berkunjung setiap 6 hari, Kakek setiap 8 hari. Mereka datang bersamaan tiap …",
+    "options": [
+      "24 hari",
+      "16 hari",
+      "32 hari",
+      "12 hari"
+    ],
+    "answer": 0,
+    "explain": "KPK dari 6 dan 8 adalah 24."
+  },
+  {
+    "id": "m5-s1-14",
+    "q": "Ibu membeli 12 kue dan 18 donat. Banyak paket sama besar terbanyak adalah …",
+    "options": [
+      "6 paket",
+      "3 paket",
+      "12 paket",
+      "4 paket"
+    ],
+    "answer": 0,
+    "explain": "FPB 12 dan 18 adalah 6."
+  },
+  {
+    "id": "m5-s1-15",
+    "q": "Faktorisasi prima dari 90 adalah …",
+    "options": [
+      "2² × 3 × 5",
+      "3² × 5 × 7",
+      "2 × 5 × 7",
+      "2 × 3² × 5"
+    ],
+    "answer": 3,
+    "explain": "90 = 2 × 3 × 3 × 5."
+  },
+  {
+    "id": "m5-s1-16",
+    "q": "Pecahan 3/4 jika diubah menjadi desimal adalah …",
+    "options": [
+      "0.7",
+      "0.25",
+      "0.75",
+      "0.34"
+    ],
+    "answer": 2,
+    "explain": "3 ÷ 4 = 0.75."
+  },
+  {
+    "id": "m5-s1-17",
+    "q": "Manakah pecahan terbesar?",
+    "options": [
+      "5/6",
+      "4/6",
+      "3/4",
+      "2/3"
+    ],
+    "answer": 0,
+    "explain": "Ubah penyebut sama atau bandingkan nilai desimal."
+  },
+  {
+    "id": "m5-s1-18",
+    "q": "Urutan pecahan dari yang terkecil: 1/2, 3/4, 2/3",
+    "options": [
+      "2/3, 1/2, 3/4",
+      "1/2, 3/4, 2/3",
+      "1/2, 2/3, 3/4",
+      "3/4, 2/3, 1/2"
+    ],
+    "answer": 2,
+    "explain": "Nilai desimal: 0.5 < 0.66 < 0.75."
+  },
+  {
+    "id": "m5-s1-19",
+    "q": "Hasil dari 27.000 − 6.540 adalah …",
+    "options": [
+      "21.460",
+      "19.460",
+      "22.460",
+      "20.460"
+    ],
+    "answer": 3,
+    "explain": "Kurangi per tempat nilai."
+  },
+  {
+    "id": "m5-s1-20",
+    "q": "Pola: 100, 90, 80, 70, … Langkah selanjutnya adalah …",
+    "options": [
+      "75",
+      "65",
+      "60",
+      "85"
+    ],
+    "answer": 2,
+    "explain": "Pola turun 10."
+  }
+]

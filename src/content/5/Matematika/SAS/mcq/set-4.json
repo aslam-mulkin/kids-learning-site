@@ -1,0 +1,242 @@
+[
+  {
+    "id": "m5-s4-01",
+    "q": "Nilai tempat angka 9 pada 79.542 adalah …",
+    "options": [
+      "90.000",
+      "900",
+      "90",
+      "9.000"
+    ],
+    "answer": 3,
+    "explain": "Angka 9 ada di tempat ribuan."
+  },
+  {
+    "id": "m5-s4-02",
+    "q": "Urutan terkecil adalah …",
+    "options": [
+      "23.456, 23.465, 23.654",
+      "23.465, 23.456, 23.654",
+      "23.654, 23.465, 23.456",
+      "23.456, 23.654, 23.465"
+    ],
+    "answer": 0,
+    "explain": "Bandingkan dari ribuan."
+  },
+  {
+    "id": "m5-s4-03",
+    "q": "Hasil 50.000 − 17.280 adalah …",
+    "options": [
+      "32.720",
+      "33.720",
+      "34.720",
+      "31.720"
+    ],
+    "answer": 0,
+    "explain": "Kurangi per tempat nilai."
+  },
+  {
+    "id": "m5-s4-04",
+    "q": "Hasil 450 × 90 adalah …",
+    "options": [
+      "45.500",
+      "40.500",
+      "41.500",
+      "39.500"
+    ],
+    "answer": 1,
+    "explain": "45×9=405 lalu tambah dua nol."
+  },
+  {
+    "id": "m5-s4-05",
+    "q": "Hasil 18.000 ÷ 90 adalah …",
+    "options": [
+      "150",
+      "220",
+      "200",
+      "180"
+    ],
+    "answer": 2,
+    "explain": "18000 ÷ 90 = 200."
+  },
+  {
+    "id": "m5-s4-06",
+    "q": "Hasil dari 300 ÷ 5 × 4 adalah …",
+    "options": [
+      "260",
+      "240",
+      "200",
+      "280"
+    ],
+    "answer": 1,
+    "explain": "300 ÷ 5 = 60 lalu ×4."
+  },
+  {
+    "id": "m5-s4-07",
+    "q": "Pola: 9, 18, 36, 72, … berikutnya …",
+    "options": [
+      "120",
+      "108",
+      "90",
+      "144"
+    ],
+    "answer": 3,
+    "explain": "Pola ×2."
+  },
+  {
+    "id": "m5-s4-08",
+    "q": "Contoh teknik pengumpulan data yang tepat adalah …",
+    "options": [
+      "Membaca puisi",
+      "Observasi",
+      "Berimajinasi",
+      "Menebak"
+    ],
+    "answer": 1,
+    "explain": "Observasi adalah cara pengumpulan data."
+  },
+  {
+    "id": "m5-s4-09",
+    "q": "Jika 1 gambar sepeda = 3 sepeda, maka 11 gambar = …",
+    "options": [
+      "31",
+      "33",
+      "36",
+      "30"
+    ],
+    "answer": 1,
+    "explain": "11 × 3 = 33."
+  },
+  {
+    "id": "m5-s4-10",
+    "q": "Diagram batang paling tinggi menunjukkan …",
+    "options": [
+      "Data terbesar",
+      "Data acak",
+      "Data median",
+      "Data terkecil"
+    ],
+    "answer": 0,
+    "explain": "Batang tertinggi = nilai terbesar."
+  },
+  {
+    "id": "m5-s4-11",
+    "q": "Langkah menyusun data tunggal: setelah mengumpulkan data, langkah berikutnya …",
+    "options": [
+      "Mengurutkan data",
+      "Menebak nilai",
+      "Mewarnai grafik",
+      "Menggambar diagram"
+    ],
+    "answer": 0,
+    "explain": "Data disusun dari kecil ke besar."
+  },
+  {
+    "id": "m5-s4-12",
+    "q": "KPK dari 16 dan 20 adalah …",
+    "options": [
+      "40",
+      "32",
+      "80",
+      "60"
+    ],
+    "answer": 2,
+    "explain": "Faktorisasi menghasilkan KPK 80."
+  },
+  {
+    "id": "m5-s4-13",
+    "q": "Siti jogging tiap 4 hari, Ani tiap 6 hari. Mereka jogging bersama tiap …",
+    "options": [
+      "12 hari",
+      "8 hari",
+      "10 hari",
+      "6 hari"
+    ],
+    "answer": 0,
+    "explain": "KPK 4 dan 6 = 12."
+  },
+  {
+    "id": "m5-s4-14",
+    "q": "FPB dari 36 dan 48 adalah …",
+    "options": [
+      "12",
+      "24",
+      "16",
+      "18"
+    ],
+    "answer": 0,
+    "explain": "FPB 36 dan 48 adalah 12."
+  },
+  {
+    "id": "m5-s4-15",
+    "q": "Faktorisasi prima dari 72 adalah …",
+    "options": [
+      "2² × 3³",
+      "2 × 3²",
+      "2³ × 3²",
+      "2³ × 7"
+    ],
+    "answer": 2,
+    "explain": "72 = 2×2×2×3×3."
+  },
+  {
+    "id": "m5-s4-16",
+    "q": "2/5 dalam bentuk desimal adalah …",
+    "options": [
+      "0.45",
+      "0.25",
+      "0.5",
+      "0.4"
+    ],
+    "answer": 3,
+    "explain": "2 ÷ 5 = 0.4."
+  },
+  {
+    "id": "m5-s4-17",
+    "q": "Pecahan terkecil adalah …",
+    "options": [
+      "1/2",
+      "4/8",
+      "5/8",
+      "3/8"
+    ],
+    "answer": 3,
+    "explain": "3/8 = 0.375 paling kecil."
+  },
+  {
+    "id": "m5-s4-18",
+    "q": "Urutan pecahan: 0.2, 0.9, 0.45 dari terkecil adalah …",
+    "options": [
+      "0.2, 0.45, 0.9",
+      "0.45, 0.9, 0.2",
+      "0.45, 0.2, 0.9",
+      "0.2, 0.9, 0.45"
+    ],
+    "answer": 0,
+    "explain": "Urutkan berdasarkan nilai."
+  },
+  {
+    "id": "m5-s4-19",
+    "q": "Hasil 44.000 − 8.750 adalah …",
+    "options": [
+      "35.250",
+      "37.250",
+      "34.250",
+      "36.250"
+    ],
+    "answer": 0,
+    "explain": "Kurangkan per nilai tempat."
+  },
+  {
+    "id": "m5-s4-20",
+    "q": "Pola: 300, 330, 360, … berikutnya …",
+    "options": [
+      "370",
+      "380",
+      "390",
+      "400"
+    ],
+    "answer": 2,
+    "explain": "Pola +30."
+  }
+]

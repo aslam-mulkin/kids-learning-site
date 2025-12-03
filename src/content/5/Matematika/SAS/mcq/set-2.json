@@ -1,0 +1,242 @@
+[
+  {
+    "id": "m5-s2-01",
+    "q": "Nilai tempat angka 4 pada bilangan 84.219 adalah …",
+    "options": [
+      "40",
+      "40.000",
+      "400",
+      "4.000"
+    ],
+    "answer": 3,
+    "explain": "Angka 4 ada di tempat ribuan."
+  },
+  {
+    "id": "m5-s2-02",
+    "q": "Urutan dari terbesar adalah …",
+    "options": [
+      "75.999, 76.205, 76.520",
+      "76.205, 76.520, 75.999",
+      "76.520, 75.999, 76.205",
+      "76.520, 76.205, 75.999"
+    ],
+    "answer": 3,
+    "explain": "Bandingkan mulai dari puluhan ribu."
+  },
+  {
+    "id": "m5-s2-03",
+    "q": "Hasil 92.000 − 15.450 adalah …",
+    "options": [
+      "78.550",
+      "75.550",
+      "77.550",
+      "76.550"
+    ],
+    "answer": 2,
+    "explain": "Kurangkan per nilai tempat."
+  },
+  {
+    "id": "m5-s2-04",
+    "q": "Hasil 240 × 320 adalah …",
+    "options": [
+      "68.800",
+      "72.800",
+      "80.800",
+      "76.800"
+    ],
+    "answer": 3,
+    "explain": "24×32=768 lalu beri dua nol."
+  },
+  {
+    "id": "m5-s2-05",
+    "q": "Hasil 9.600 ÷ 12 adalah …",
+    "options": [
+      "900",
+      "750",
+      "700",
+      "800"
+    ],
+    "answer": 3,
+    "explain": "9600 ÷ 12 = 800."
+  },
+  {
+    "id": "m5-s2-06",
+    "q": "Hasil dari 200 − 36 × 3 adalah …",
+    "options": [
+      "164",
+      "92",
+      "128",
+      "102"
+    ],
+    "answer": 1,
+    "explain": "Kerjakan perkalian dahulu."
+  },
+  {
+    "id": "m5-s2-07",
+    "q": "Pola: 5, 12, 19, 26, … Angka berikutnya …",
+    "options": [
+      "32",
+      "35",
+      "33",
+      "30"
+    ],
+    "answer": 2,
+    "explain": "Pola bertambah 7."
+  },
+  {
+    "id": "m5-s2-08",
+    "q": "Contoh pengumpulan data adalah …",
+    "options": [
+      "Angket",
+      "Membaca komik",
+      "Menerka",
+      "Menebak"
+    ],
+    "answer": 0,
+    "explain": "Angket digunakan untuk mengumpulkan data."
+  },
+  {
+    "id": "m5-s2-09",
+    "q": "Setiap gambar bunga bernilai 4 bunga. Jika ada 9 gambar, jumlahnya …",
+    "options": [
+      "36",
+      "45",
+      "40",
+      "30"
+    ],
+    "answer": 0,
+    "explain": "9 × 4 = 36."
+  },
+  {
+    "id": "m5-s2-10",
+    "q": "Pada diagram batang, batang terendah menunjukkan …",
+    "options": [
+      "Data acak",
+      "Data terkecil",
+      "Data terbesar",
+      "Data rata-rata"
+    ],
+    "answer": 1,
+    "explain": "Batang terendah berarti nilai paling kecil."
+  },
+  {
+    "id": "m5-s2-11",
+    "q": "Langkah terakhir menyusun data tunggal adalah …",
+    "options": [
+      "Wawancara",
+      "Memberi warna",
+      "Menggambar tabel",
+      "Mengurutkan data"
+    ],
+    "answer": 3,
+    "explain": "Data disusun dari kecil ke besar."
+  },
+  {
+    "id": "m5-s2-12",
+    "q": "KPK dari 14 dan 21 adalah …",
+    "options": [
+      "21",
+      "28",
+      "42",
+      "84"
+    ],
+    "answer": 2,
+    "explain": "KPK 14 dan 21 adalah 42."
+  },
+  {
+    "id": "m5-s2-13",
+    "q": "Lani les tiap 5 hari, Sita tiap 10 hari. Mereka bertemu lagi setelah …",
+    "options": [
+      "5 hari",
+      "20 hari",
+      "15 hari",
+      "10 hari"
+    ],
+    "answer": 1,
+    "explain": "KPK 5 dan 10 adalah 20."
+  },
+  {
+    "id": "m5-s2-14",
+    "q": "Udin memiliki 18 pensil dan 27 pulpen. Paket sama besar terbanyak …",
+    "options": [
+      "9 paket",
+      "3 paket",
+      "12 paket",
+      "6 paket"
+    ],
+    "answer": 0,
+    "explain": "FPB 18 dan 27 adalah 9."
+  },
+  {
+    "id": "m5-s2-15",
+    "q": "Faktorisasi prima 84 adalah …",
+    "options": [
+      "2 × 3² × 7",
+      "2 × 3 × 7",
+      "2² × 7",
+      "2² × 3 × 7"
+    ],
+    "answer": 3,
+    "explain": "84 = 2×2×3×7."
+  },
+  {
+    "id": "m5-s2-16",
+    "q": "3/5 dalam bentuk desimal adalah …",
+    "options": [
+      "0.3",
+      "0.5",
+      "0.6",
+      "0.75"
+    ],
+    "answer": 2,
+    "explain": "3 ÷ 5 = 0.6."
+  },
+  {
+    "id": "m5-s2-17",
+    "q": "Pecahan terbesar adalah …",
+    "options": [
+      "2/3",
+      "3/4",
+      "7/8",
+      "5/6"
+    ],
+    "answer": 2,
+    "explain": "7/8 mendekati 1."
+  },
+  {
+    "id": "m5-s2-18",
+    "q": "Urutan dari yang terbesar: 0.5, 0.8, 0.65",
+    "options": [
+      "0.5, 0.65, 0.8",
+      "0.8, 0.65, 0.5",
+      "0.65, 0.8, 0.5",
+      "0.8, 0.5, 0.65"
+    ],
+    "answer": 1,
+    "explain": "Bandingkan nilai desimal."
+  },
+  {
+    "id": "m5-s2-19",
+    "q": "Hasil 72.500 − 9.990 adalah …",
+    "options": [
+      "62.510",
+      "60.510",
+      "61.510",
+      "63.510"
+    ],
+    "answer": 3,
+    "explain": "Kurangi per nilai tempat."
+  },
+  {
+    "id": "m5-s2-20",
+    "q": "Pola: 200, 150, 100, … Angka berikutnya …",
+    "options": [
+      "70",
+      "60",
+      "50",
+      "80"
+    ],
+    "answer": 2,
+    "explain": "Pola turun 50."
+  }
+]

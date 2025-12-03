@@ -1,0 +1,277 @@
+[
+  {
+    "id": "sr2-s1-01",
+    "q": "Garis pada penggaris terlihat lurus dan rapi. Itu adalah contoh garis apa?",
+    "options": [
+      "Garis zig-zag",
+      "Garis lengkung",
+      "Garis lurus",
+      "Garis patah-patah"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "sr2-s1-02",
+    "q": "Segitiga, persegi, dan lingkaran adalah contoh dari apa?",
+    "options": [
+      "Benda cair",
+      "Bentuk hewan",
+      "Pewarna alami",
+      "Bangun datar"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-03",
+    "q": "Kolase adalah karya seni yang dibuat dengan cara apa?",
+    "options": [
+      "Dijahit",
+      "Dilipat",
+      "Ditempel",
+      "Dipahat"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "sr2-s1-04",
+    "q": "Bahan alam untuk membuat kolase adalah...",
+    "options": [
+      "Penghapus",
+      "Spidol",
+      "Kertas HVS",
+      "Kacang hijau"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-05",
+    "q": "Alat yang digunakan untuk membuat kolase adalah...",
+    "options": [
+      "Kuas",
+      "Krayon",
+      "Pensil warna",
+      "Lem"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-06",
+    "q": "Krayon termasuk pewarna teknik apa?",
+    "options": [
+      "Basah",
+      "Kering",
+      "Cair",
+      "Tetes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "sr2-s1-07",
+    "q": "Cat air digunakan dengan teknik...",
+    "options": [
+      "Kering",
+      "Tekan",
+      "Tempel",
+      "Basah"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-08",
+    "q": "Media gambar yang cocok untuk mengarsir adalah...",
+    "options": [
+      "Pensil",
+      "Plastisin",
+      "Kertas minyak",
+      "Cat air"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "sr2-s1-09",
+    "q": "Warna dasar disebut juga warna...",
+    "options": [
+      "Hangat",
+      "Utama",
+      "Netral",
+      "Gelap"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "sr2-s1-10",
+    "q": "Campuran dua warna disebut...",
+    "options": [
+      "Warna panas",
+      "Warna gelap",
+      "Warna sekunder",
+      "Warna terang"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "sr2-s1-11",
+    "q": "Jika biru dicampur kuning, maka menghasilkan warna...",
+    "options": [
+      "Hijau",
+      "Abu-abu",
+      "Ungu",
+      "Cokelat"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "sr2-s1-12",
+    "q": "Warna biru biasanya memberi perasaan...",
+    "options": [
+      "Marah",
+      "Panas",
+      "Takut",
+      "Sejuk"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-13",
+    "q": "Warna yang bisa memberi rasa sejuk adalah...",
+    "options": [
+      "Oranye",
+      "Merah",
+      "Hijau",
+      "Kuning"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "sr2-s1-14",
+    "q": "Berikut ini warna netral adalah...",
+    "options": [
+      "Merah",
+      "Abu-abu",
+      "Kuning",
+      "Hijau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "sr2-s1-15",
+    "q": "Dalam teks disebut ‘benda itu berwarna hitam’. Hitam termasuk warna apa?",
+    "options": [
+      "Primer",
+      "Hangat",
+      "Netral",
+      "Sekunder"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "sr2-s1-16",
+    "q": "Warna yang dihasilkan dari tumbuhan sayur-sayuran biasanya berwarna...",
+    "options": [
+      "Merah",
+      "Emas",
+      "Ungu",
+      "Hijau"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-17",
+    "q": "Gambar anak sedang senyum menunjukkan tema...",
+    "options": [
+      "Ketakutan",
+      "Kegembiraan",
+      "Kesedihan",
+      "Kemarahan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "sr2-s1-18",
+    "q": "Gradasi warna berarti...",
+    "options": [
+      "Mencampur tanah",
+      "Perubahan warna bertahap",
+      "Menempel kertas",
+      "Menggambar garis hitam"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "sr2-s1-19",
+    "q": "Kuas digunakan untuk membuat karya seni rupa dengan teknik...",
+    "options": [
+      "Anyam",
+      "Coret",
+      "Pahat",
+      "Basah"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-20",
+    "q": "Daun bisa digunakan sebagai...",
+    "options": [
+      "Penghapus",
+      "Lem",
+      "Pewarna alam",
+      "Benang"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "sr2-s1-21",
+    "q": "Krayon termasuk pewarna teknik...",
+    "options": [
+      "Tetes",
+      "Air",
+      "Basah dan cair",
+      "Kering"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-22",
+    "q": "Dua bahan alam untuk kolase adalah...",
+    "options": [
+      "Krayon dan kuas",
+      "Spidol dan pensil",
+      "Kertas dan lem",
+      "Pasir dan daun"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "sr2-s1-23",
+    "q": "Garis pada tali biasanya berbentuk...",
+    "options": [
+      "Lurus",
+      "Kotak",
+      "Lengkung",
+      "Zig-zag"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "sr2-s1-24",
+    "q": "Bangun datar beraturan adalah...",
+    "options": [
+      "Bentuk bebas",
+      "Lingkaran",
+      "Bentuk awan",
+      "Cap tangan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "sr2-s1-25",
+    "q": "Bangun tidak beraturan adalah...",
+    "options": [
+      "Persegi",
+      "Lingkaran",
+      "Bentuk awan",
+      "Segitiga"
+    ],
+    "answer": 2
+  }
+]

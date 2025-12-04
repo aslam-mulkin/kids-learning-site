@@ -1,0 +1,302 @@
+[
+  {
+    "id": "sr5-s3-01",
+    "q": "Gambar ombak yang berlapis-lapis menunjukkan unsur rupa...",
+    "options": [
+      "Aroma",
+      "Udara",
+      "Bunyi",
+      "Ruang"
+    ],
+    "answer": 3,
+    "explain": "Ombak berlapis memberi kesan ruang."
+  },
+  {
+    "id": "sr5-s3-02",
+    "q": "Yang termasuk unsur seni rupa adalah...",
+    "options": [
+      "Angin",
+      "Warna",
+      "Aroma",
+      "Rasa"
+    ],
+    "answer": 1,
+    "explain": "Warna adalah unsur visual."
+  },
+  {
+    "id": "sr5-s3-03",
+    "q": "Motif berulang pada kain menunjukkan adanya...",
+    "options": [
+      "Gelap terang",
+      "Aroma",
+      "Hawa panas",
+      "Ritme"
+    ],
+    "answer": 3,
+    "explain": "Pengulangan menciptakan ritme."
+  },
+  {
+    "id": "sr5-s3-04",
+    "q": "Contoh ritme dalam lingkungan sekitar adalah...",
+    "options": [
+      "Jendela tunggal",
+      "Batu besar",
+      "Meja polos",
+      "Pagar kayu berulang"
+    ],
+    "answer": 3,
+    "explain": "Pagar membentuk pola ritme."
+  },
+  {
+    "id": "sr5-s3-05",
+    "q": "Pengertian prinsip seni rupa adalah...",
+    "options": [
+      "Cara membuat musik",
+      "Cara membuat makanan",
+      "Cara mengatur unsur rupa",
+      "Teknik memotong kayu"
+    ],
+    "answer": 2,
+    "explain": "Prinsip mengatur unsur rupa."
+  },
+  {
+    "id": "sr5-s3-06",
+    "q": "Objek yang mudah digambar adalah...",
+    "options": [
+      "Gunung sangat detail",
+      "Bunga di halaman",
+      "Robot teknis rumit",
+      "Gedung pencakar langit"
+    ],
+    "answer": 1,
+    "explain": "Bunga mudah diamati siswa."
+  },
+  {
+    "id": "sr5-s3-07",
+    "q": "Karya seni yang memakai ritme adalah...",
+    "options": [
+      "Vas kaca polos",
+      "Patung besar",
+      "Foto hitam putih",
+      "Anyaman bambu"
+    ],
+    "answer": 3,
+    "explain": "Anyaman memakai pola berulang."
+  },
+  {
+    "id": "sr5-s3-08",
+    "q": "Ragam hias batik memiliki pola...",
+    "options": [
+      "Acak",
+      "Berulang",
+      "Tidak teratur",
+      "Tanpa arah"
+    ],
+    "answer": 1,
+    "explain": "Batik memiliki pola berulang."
+  },
+  {
+    "id": "sr5-s3-09",
+    "q": "Teknik modifikasi pada gambar adalah...",
+    "options": [
+      "Menghapus garis",
+      "Mengubah bentuk asli",
+      "Menjiplak sama",
+      "Mewarnai hitam-putih"
+    ],
+    "answer": 1,
+    "explain": "Modifikasi berarti mengubah."
+  },
+  {
+    "id": "sr5-s3-10",
+    "q": "Ritme transisi terjadi saat...",
+    "options": [
+      "Satu warna saja",
+      "Tanpa variasi",
+      "Bentuk tetap sama",
+      "Ukuran berubah bertahap"
+    ],
+    "answer": 3,
+    "explain": "Transisi adalah perubahan bertahap."
+  },
+  {
+    "id": "sr5-s3-11",
+    "q": "Motif mega mendung pada batik memiliki pola...",
+    "options": [
+      "Garis acak",
+      "Lingkaran tak beraturan",
+      "Tanpa bentuk",
+      "Gelombang berulang"
+    ],
+    "answer": 3,
+    "explain": "Mega mendung berulang seperti awan."
+  },
+  {
+    "id": "sr5-s3-12",
+    "q": "Ritme terbentuk dari...",
+    "options": [
+      "Pengulangan bentuk atau garis",
+      "Aroma makanan",
+      "Suara musik",
+      "Gerak hewan"
+    ],
+    "answer": 0,
+    "explain": "Ritme muncul dari pengulangan visual."
+  },
+  {
+    "id": "sr5-s3-13",
+    "q": "Pada zaman dulu tali digunakan untuk...",
+    "options": [
+      "Menanak nasi",
+      "Mengikat barang",
+      "Menangkap ikan",
+      "Mengecat rumah"
+    ],
+    "answer": 1,
+    "explain": "Fungsi utama tali adalah mengikat."
+  },
+  {
+    "id": "sr5-s3-14",
+    "q": "Simpul mati biasanya digunakan untuk...",
+    "options": [
+      "Membuat suara",
+      "Mengukir kayu",
+      "Menyambung kabel",
+      "Mengikat kuat"
+    ],
+    "answer": 3,
+    "explain": "Simpul mati kuat dan stabil."
+  },
+  {
+    "id": "sr5-s3-15",
+    "q": "Bahan pembuat tali alam adalah...",
+    "options": [
+      "Karet keras",
+      "Serat rotan",
+      "Kaca",
+      "Besi"
+    ],
+    "answer": 1,
+    "explain": "Serat alam seperti rotan."
+  },
+  {
+    "id": "sr5-s3-16",
+    "q": "Material tali sintetis adalah...",
+    "options": [
+      "Tanah liat",
+      "Batu",
+      "Bambu",
+      "Polyester"
+    ],
+    "answer": 3,
+    "explain": "Polyester termasuk sintetis."
+  },
+  {
+    "id": "sr5-s3-17",
+    "q": "Contoh jenis tali berdasarkan bahan adalah...",
+    "options": [
+      "Tali nilon",
+      "Tali batu",
+      "Tali tanah",
+      "Tali kaca"
+    ],
+    "answer": 0,
+    "explain": "Nilon adalah bahan tali."
+  },
+  {
+    "id": "sr5-s3-18",
+    "q": "Makrame merupakan seni...",
+    "options": [
+      "Membatik",
+      "Membuat gerabah",
+      "Melukis",
+      "Simpul tali"
+    ],
+    "answer": 3,
+    "explain": "Makrame berbasis simpul."
+  },
+  {
+    "id": "sr5-s3-19",
+    "q": "Salah satu karya makrame adalah...",
+    "options": [
+      "Lukisan cat",
+      "Patung",
+      "Gantungan pot",
+      "Topeng"
+    ],
+    "answer": 2,
+    "explain": "Makrame populer sebagai gantungan pot."
+  },
+  {
+    "id": "sr5-s3-20",
+    "q": "Fungsi gantungan pot makrame adalah...",
+    "options": [
+      "Mengikat hewan",
+      "Mengeringkan pakaian",
+      "Menghias dan menahan pot",
+      "Memasak sayur"
+    ],
+    "answer": 2,
+    "explain": "Digunakan untuk menahan pot."
+  },
+  {
+    "id": "sr5-s3-21",
+    "q": "Bahan dasar makrame adalah...",
+    "options": [
+      "Tali katun",
+      "Kayu balok",
+      "Besi",
+      "Batu bata"
+    ],
+    "answer": 0,
+    "explain": "Makrame memakai tali."
+  },
+  {
+    "id": "sr5-s3-22",
+    "q": "Bahan pendukung makrame adalah...",
+    "options": [
+      "Lilin",
+      "Kaca kecil",
+      "Cincin kayu",
+      "Paku beton"
+    ],
+    "answer": 2,
+    "explain": "Cincin kayu sebagai pengait."
+  },
+  {
+    "id": "sr5-s3-23",
+    "q": "Bahan pembuat anyaman adalah...",
+    "options": [
+      "Logam",
+      "Daun pandan",
+      "Besi",
+      "Kaca"
+    ],
+    "answer": 1,
+    "explain": "Pandan banyak dipakai menganyam."
+  },
+  {
+    "id": "sr5-s3-24",
+    "q": "Anyaman pada gambar menunjukkan jenis...",
+    "options": [
+      "Anyaman acak",
+      "Anyaman besi",
+      "Anyaman kepang",
+      "Anyaman kaca"
+    ],
+    "answer": 2,
+    "explain": "Motif kepang terlihat berjalin."
+  },
+  {
+    "id": "sr5-s3-25",
+    "q": "Suvenir adalah...",
+    "options": [
+      "Barang kenangan",
+      "Barang industri",
+      "Seni patung besar",
+      "Bahan bangunan"
+    ],
+    "answer": 0,
+    "explain": "Suvenir = kenang-kenangan."
+  }
+]
